@@ -26,11 +26,8 @@ public class WikipediaSAXParser extends DefaultHandler {
 
   public void startElement(String uri, String localName, String qName,
       Attributes attributes) throws SAXException {
-    switch (qName) {
-      case "page":
-        //pagina = new PaginaWikipedia();
-        pagina = new HashMap<String, String>();
-        break;
+    if (qName.equals("page")) {
+      pagina = new HashMap<String, String>();
     }
   }
 
@@ -40,36 +37,26 @@ public class WikipediaSAXParser extends DefaultHandler {
 
   public void endElement(String uri, String localName, String qName)
       throws SAXException {
-    switch (qName) {
-      case "page":
-        //paginas.add(pagina);
-        indexador.indexar(pagina);
-        paginasIndexadas++;
-        pagina = null;
-        break;
-      case "title":
-        pagina.put("title", content);
-        break;
-      case "timestamp":
-        pagina.put("timestamp", content);
-        break;
-      case "username":
-        pagina.put("username", content);
-        break;
-      case "minor":
-        pagina.put("minor", content);
-        break;
-      case "text":
-        pagina.put("text", content);
-        break;
-      case "model":
-        pagina.put("model", content);
-        break;
-      case "format":
-        pagina.put("format", content);
-        break;
-      case "comment":
-        pagina.put("comment", content);
+    if (qName.equals("page")) {
+      indexador.indexar(pagina);
+      paginasIndexadas++;
+      pagina = null;
+    } else if (qName.equals("title")) {
+      pagina.put("title", content);
+    } else if (qName.equals("timestamp")) {
+      pagina.put("timestamp", content);
+    } else if (qName.equals("username")) {
+      pagina.put("username", content);
+    } else if (qName.equals("minor")) {
+      pagina.put("minor", content);
+    } else if (qName.equals("text")) {
+      pagina.put("text", content);
+    } else if (qName.equals("model")) {
+      pagina.put("model", content);
+    } else if (qName.equals("format")) {
+      pagina.put("format", content);
+    } else if (qName.equals("comment")) {
+      pagina.put("comment", content);
     }
     //
     if (paginasIndexadas % 10000 == 0) {
