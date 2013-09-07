@@ -35,5 +35,19 @@
 			<artifactId>lucene-queryparser</artifactId>
 			<version>4.4.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
 	</dependencies>
+	
+	<properties>
+		<version.compiler.plugin>2.3.1</version.compiler.plugin>
+		<version.surefire.plugin>2.10</version.surefire.plugin>
+		<maven.compiler.target>1.7</maven.compiler.target>
+		<maven.compiler.source>1.7</maven.compiler.source>
+	</properties>
 </project>
