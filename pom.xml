@@ -47,7 +47,6 @@
 			<artifactId>tika-app</artifactId>
 			<version>1.4</version>
 		</dependency>
-
 	</dependencies>
 
 	<properties>
