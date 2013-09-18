@@ -40,6 +40,7 @@ public class BuscadorArquivosLocais {
       Query query = parser.parse(consulta);
       TopDocs docs = buscador.search(query, 100);
       Explanation explicacao = buscador.explain(query, 100);
+      explicacao.getDescription();
       //
       for (ScoreDoc sd : docs.scoreDocs) {
         Document doc = buscador.doc(sd.doc);
