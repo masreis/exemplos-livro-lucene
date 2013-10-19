@@ -120,6 +120,7 @@ public class IndexadorWikipedia {
     while ((linha = bufferedReader.readLine()) != null) {
       System.out.println(Normalizer.normalize(linha, Normalizer.Form.NFD));
     }
+    bufferedReader.close();
   }
 
   public int getQuantidadeArquivosIndexados() {

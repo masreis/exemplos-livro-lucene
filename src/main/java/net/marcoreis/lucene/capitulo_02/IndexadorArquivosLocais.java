@@ -53,7 +53,7 @@ public class IndexadorArquivosLocais {
           tipo.setTokenized(true);
           //
           Date dataAtualizacao = new Date(arquivo.lastModified());
-          SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+          SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
           String dataFormatada = sdf.format(dataAtualizacao);
           String textoArquivo = extrator.parseToString(new FileInputStream(
               arquivo));

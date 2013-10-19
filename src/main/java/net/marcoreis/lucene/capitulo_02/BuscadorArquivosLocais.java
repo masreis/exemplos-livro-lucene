@@ -8,7 +8,6 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.Explanation;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -25,7 +24,8 @@ public class BuscadorArquivosLocais {
 
   public static void main(String[] args) {
     BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-    String consulta = "conteudo:rafael~";
+    //String consulta = "conteudo:java AND dataAtualizacao:\"2013-05-06\"";
+    String consulta = "dataAtualizacao:[20130531 TO 20130627}";
     buscador.buscar(consulta);
   }
 
@@ -39,8 +39,6 @@ public class BuscadorArquivosLocais {
           new StandardAnalyzer(Version.LUCENE_44));
       Query query = parser.parse(consulta);
       TopDocs docs = buscador.search(query, 100);
-      Explanation explicacao = buscador.explain(query, 100);
-      explicacao.getDescription();
       //
       for (ScoreDoc sd : docs.scoreDocs) {
         Document doc = buscador.doc(sd.doc);
@@ -48,8 +46,8 @@ public class BuscadorArquivosLocais {
             + doc.get("caminho"));
       }
       //
-      reader.close();
       diretorio.close();
+      reader.close();
     } catch (Exception e) {
       logger.error(e);
     }
