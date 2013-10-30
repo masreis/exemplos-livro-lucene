@@ -12,10 +12,10 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-public class WikipediaSAXParser extends DefaultHandler {
+public class WikipediaSAXParserToLucene extends DefaultHandler {
     private static String nomeArquivo = System.getProperty("user.home")
 	    + "/dados/ptwiki-20130817-pages-articles-multistream.xml";
-    private static Logger logger = Logger.getLogger(WikipediaSAXParser.class);
+    private static Logger logger = Logger.getLogger(WikipediaSAXParserToLucene.class);
     private Map<String, String> pagina;
     private StringBuilder content = new StringBuilder();
     private IndexadorWikipedia indexador = new IndexadorWikipedia(
@@ -86,7 +86,7 @@ public class WikipediaSAXParser extends DefaultHandler {
     }
 
     public static void main(String[] args) {
-	new WikipediaSAXParser().parse();
+	new WikipediaSAXParserToLucene().parse();
     }
 
     public void parse() {
