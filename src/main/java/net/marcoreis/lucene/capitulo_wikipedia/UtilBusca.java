@@ -6,12 +6,12 @@ import java.io.IOException;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.SearcherManager;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -25,18 +25,18 @@ public class UtilBusca {
     private long duracaoBusca;
     private Integer quantidadeLimiteRegistros = 5000;
     private String diretorioIndice;
-    private SearcherManager sm;
+
+    // private SearcherManager sm;
 
     public void reopen() {
 	try {
 	    diretorio = FSDirectory.open(new File(diretorioIndice));
-	    sm = new SearcherManager(diretorio, null);
-	    // reader = DirectoryReader.open(diretorio);
+	    // sm = new SearcherManager(diretorio, null);
 	    // reader=sm.acquire();
-	    // buscador = new IndexSearcher(reader);
-	    buscador = sm.acquire();
-	} catch (IOException e) {
-	    logger.error(e);
+	    // buscador = sm.acquire();
+	    reader = DirectoryReader.open(diretorio);
+	    buscador = new IndexSearcher(reader);
+	} catch (Exception e) {
 	    throw new RuntimeException(e);
 	}
     }
