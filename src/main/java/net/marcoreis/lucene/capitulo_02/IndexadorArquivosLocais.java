@@ -34,8 +34,8 @@ public class IndexadorArquivosLocais {
   public void processar() {
     try {
       Directory diretorio = FSDirectory.open(new File(diretorioIndice));
-      Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_44);
-      IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_44,
+      Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
+      IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_46,
           analyzer);
       conf.setOpenMode(OpenMode.CREATE_OR_APPEND);
       IndexWriter writer = new IndexWriter(diretorio, conf);
@@ -66,12 +66,12 @@ public class IndexadorArquivosLocais {
           writer.addDocument(doc);
           logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
         } catch (Exception e) {
-          logger.error("Não foi possível indexar o arquivo " + arquivo, e);
+          logger.error("Nao foi possivel indexar o arquivo " + arquivo, e);
         }
       }
       writer.close();
       diretorio.close();
-      logger.info("Índice gerado com sucesso");
+      logger.info("Indice gerado com sucesso");
     } catch (Exception e) {
       logger.error(e);
     }

@@ -7,11 +7,10 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause.Occur;
-import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.FuzzyQuery;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -32,12 +31,10 @@ public class BuscadorComAPIArquivosLocais {
 	    IndexReader reader = DirectoryReader.open(diretorio);
 	    IndexSearcher buscador = new IndexSearcher(reader);
 	    //
-	    BooleanQuery query = new BooleanQuery();
-	    query.add(new TermQuery(new Term("conteudo", "java")), Occur.MUST);
-	    query.add(new TermQuery(new Term("dataAtualizacao", "2013")),
-		    Occur.MUST);
-	    TopDocs docs = buscador.search(query, 100);
+	    // Query
+	    Query query = new FuzzyQuery(new Term("conteudo", "jose"));
 	    //
+	    TopDocs docs = buscador.search(query, 100);
 	    for (ScoreDoc sd : docs.scoreDocs) {
 		Document doc = buscador.doc(sd.doc);
 		System.out.println("Arquivo: " + doc.get("dataAtualizacao")

@@ -8,6 +8,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.queryparser.classic.QueryParser.Operator;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -24,8 +25,9 @@ public class BuscadorArquivosLocais {
 
   public static void main(String[] args) {
     BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-    //String consulta = "conteudo:java AND dataAtualizacao:\"2013-05-06\"";
-    String consulta = "dataAtualizacao:[20130531 TO 20130627}";
+    String consulta = "conteudo:rafael~1";
+    //String consulta = "dataAtualizacao:[20130531 TO 20130627]";
+    consulta = "conteudo:indexwriter";
     buscador.buscar(consulta);
   }
 
@@ -35,11 +37,13 @@ public class BuscadorArquivosLocais {
       IndexReader reader = DirectoryReader.open(diretorio);
       IndexSearcher buscador = new IndexSearcher(reader);
       //
-      QueryParser parser = new QueryParser(Version.LUCENE_44, "",
-          new StandardAnalyzer(Version.LUCENE_44));
+      //Query
+      QueryParser parser = new QueryParser(Version.LUCENE_46, "",
+          new StandardAnalyzer(Version.LUCENE_46));
+      parser.setDefaultOperator(Operator.AND);
       Query query = parser.parse(consulta);
-      TopDocs docs = buscador.search(query, 100);
       //
+      TopDocs docs = buscador.search(query, 100);
       for (ScoreDoc sd : docs.scoreDocs) {
         Document doc = buscador.doc(sd.doc);
         System.out.println("Arquivo: " + doc.get("dataAtualizacao") + " - "
