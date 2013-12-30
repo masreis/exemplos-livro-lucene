@@ -95,7 +95,7 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
 	    factory.setNamespaceAware(true);
 	    SAXParser parser = factory.newSAXParser();
 	    parser.parse(new File(nomeArquivo), this);
-	    indexador.commit();
+	    indexador.fechar();
 	} catch (Exception e) {
 	    logger.error(e);
 	}

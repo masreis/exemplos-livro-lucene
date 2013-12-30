@@ -65,7 +65,7 @@ public class IndexadorWikipedia {
 	return buscador;
     }
 
-    public void fecha() throws CorruptIndexException, IOException {
+    public void fechar() throws CorruptIndexException, IOException {
 	writer.close();
     }
 
