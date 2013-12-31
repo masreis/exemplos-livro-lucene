@@ -76,8 +76,8 @@ public class UtilBusca {
 	TopDocs hits = null;
 	try {
 	    long time = System.currentTimeMillis();
-	    QueryParser parser = new QueryParser(Version.LUCENE_44, "",
-		    new StandardAnalyzer(Version.LUCENE_44));
+	    QueryParser parser = new QueryParser(Version.LUCENE_46, "",
+		    new StandardAnalyzer(Version.LUCENE_46));
 	    Query query = parser.parse(consulta);
 	    hits = getBuscador().search(query, quantidadeLimiteRegistros);
 	    duracaoBusca = System.currentTimeMillis() - time;

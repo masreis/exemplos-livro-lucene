@@ -38,10 +38,15 @@ public class IndexadorWikipedia {
 	    }
 	    Directory d = FSDirectory.open(file);
 	    logger.info("Diretorio do indice: " + diretorioIndice);
-	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_44);
-	    IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_44,
+	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
+	    IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_46,
 		    analyzer);
 	    config.setOpenMode(OpenMode.CREATE_OR_APPEND);
+	    //
+	    // config.setUseCompoundFile(false);
+	    // config.setRAMBufferSizeMB(320);
+	    config.setMaxThreadStates(80);
+	    //
 	    writer = new IndexWriter(d, config);
 	} catch (Exception e) {
 	    logger.error(e);
@@ -90,8 +95,12 @@ public class IndexadorWikipedia {
 	}
     }
 
-    public void commit() throws IOException {
-	writer.commit();
+    public void commit() {
+	try {
+	    writer.commit();
+	} catch (IOException e) {
+	    throw new RuntimeException(e);
+	}
     }
 
     public static void main(String[] args) throws IOException {
