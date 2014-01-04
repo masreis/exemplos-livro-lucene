@@ -16,7 +16,6 @@ import org.apache.lucene.document.FieldType;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -41,7 +40,7 @@ public class IndexadorWikipedia {
 	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
 	    IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_46,
 		    analyzer);
-	    config.setOpenMode(OpenMode.CREATE_OR_APPEND);
+	    //config.setOpenMode(OpenMode.CREATE_OR_APPEND);
 	    //
 	    // config.setUseCompoundFile(false);
 	    // config.setRAMBufferSizeMB(320);
