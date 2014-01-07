@@ -13,7 +13,6 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.FieldType;
-import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.TopDocs;
@@ -40,11 +39,11 @@ public class IndexadorWikipedia {
 	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
 	    IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_46,
 		    analyzer);
-	    //config.setOpenMode(OpenMode.CREATE_OR_APPEND);
 	    //
+	    // config.setOpenMode(OpenMode.CREATE_OR_APPEND);
 	    // config.setUseCompoundFile(false);
 	    // config.setRAMBufferSizeMB(320);
-	    config.setMaxThreadStates(80);
+	    // config.setMaxThreadStates(80);
 	    //
 	    writer = new IndexWriter(d, config);
 	} catch (Exception e) {
@@ -69,8 +68,12 @@ public class IndexadorWikipedia {
 	return buscador;
     }
 
-    public void fechar() throws CorruptIndexException, IOException {
-	writer.close();
+    public void fechar() {
+	try {
+	    writer.close();
+	} catch (IOException e) {
+	    throw new RuntimeException(e);
+	}
     }
 
     public boolean indexar(Map<String, String> valores) {

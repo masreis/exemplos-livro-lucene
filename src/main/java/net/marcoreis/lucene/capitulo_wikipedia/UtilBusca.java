@@ -31,6 +31,8 @@ public class UtilBusca {
     public void reopen() {
 	try {
 	    diretorio = FSDirectory.open(new File(diretorioIndice));
+	    // diretorio = new RAMDirectory(FSDirectory.open(new
+	    // File(diretorioIndice)), IOContext.DEFAULT);
 	    // sm = new SearcherManager(diretorio, null);
 	    // reader=sm.acquire();
 	    // buscador = sm.acquire();
@@ -90,11 +92,11 @@ public class UtilBusca {
     public static void main(String[] args) {
 	try {
 	    UtilBusca buscador = new UtilBusca(System.getProperty("user.home")
-		    + "/dados/indice-wikipedia");
-	    TopDocs topDocs = buscador.busca("text:(jose antonio)");
+		    + "/livro-lucene/indice-wikipedia");
+	    TopDocs topDocs = buscador.busca("text:a*");
 	    for (ScoreDoc sd : topDocs.scoreDocs) {
 		Document doc = buscador.doc(sd.doc);
-		System.out.println(doc);
+		System.out.println(doc.get("id"));
 	    }
 	} catch (IOException e) {
 	    e.printStackTrace();

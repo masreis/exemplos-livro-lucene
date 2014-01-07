@@ -13,6 +13,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class WikipediaSAXParserToLucene extends DefaultHandler {
+    public static final String DIRETORIO_INDICE_WIKIPEDIA = System.getProperty("user.home") + "/livro-lucene/indice-wikipedia";
     private static final int BUFFER_DOCUMENTOS = 50000;
     private static String nomeArquivo = System.getProperty("user.home")
 	    + "/dados/ptwiki-20130817-pages-articles-multistream.xml";
@@ -21,7 +22,7 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
     private Map<String, String> pagina;
     private StringBuilder content = new StringBuilder();
     private IndexadorWikipedia indexador = new IndexadorWikipedia(
-	    System.getProperty("user.home") + "/livro-lucene/indice-wikipedia");
+	    DIRETORIO_INDICE_WIKIPEDIA);
     private int paginasIndexadas;
 
     public void startElement(String uri, String localName, String qName,
@@ -66,8 +67,8 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
 	    if (paginasIndexadas > 0
 		    && paginasIndexadas % BUFFER_DOCUMENTOS == 0) {
 		logger.info("Parcial: " + paginasIndexadas);
-		// indexador.commit();
 	    }
+	    indexador.fechar();
 	} else if (qName.equals("title")) {
 	    pagina.put("title", content.toString());
 	} else if (qName.equals("timestamp")) {
