@@ -20,60 +20,66 @@ import org.apache.lucene.util.Version;
 import org.apache.tika.Tika;
 
 public class IndexadorArquivosLocais {
-  private static String diretorioDocumentosLocais = System
-      .getProperty("user.home") + "/Dropbox/entrada";
-  private static String diretorioIndice = System.getProperty("user.home")
-      + "/livro-lucene/indice-capitulo-02";
-  private static final Logger logger = Logger
-      .getLogger(IndexadorArquivosLocais.class);
+    private static String diretorioDocumentosLocais = "/home/marco/Software/solr";// System.getProperty("user.home")
+										  // +
+										  // "/Dropbox/entrada";
+    private static String diretorioIndice = System.getProperty("user.home")
+	    + "/livro-lucene/indice-capitulo-02";
+    private static final Logger logger = Logger
+	    .getLogger(IndexadorArquivosLocais.class);
 
-  public static void main(String[] args) {
-    new IndexadorArquivosLocais().processar();
-  }
-
-  public void processar() {
-    try {
-      Directory diretorio = FSDirectory.open(new File(diretorioIndice));
-      Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
-      IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_46,
-          analyzer);
-      conf.setOpenMode(OpenMode.CREATE_OR_APPEND);
-      IndexWriter writer = new IndexWriter(diretorio, conf);
-      //
-      Tika extrator = new Tika();
-      File[] arquivosParaIndexar = new File(diretorioDocumentosLocais)
-          .listFiles();
-      for (File arquivo : arquivosParaIndexar) {
-        if (!arquivo.isFile()) continue;
-        try {
-          Document doc = new Document();
-          FieldType tipo = new FieldType();
-          tipo.setIndexed(true);
-          tipo.setStored(true);
-          tipo.setTokenized(true);
-          //
-          Date dataAtualizacao = new Date(arquivo.lastModified());
-          SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
-          String dataFormatada = sdf.format(dataAtualizacao);
-          String textoArquivo = extrator.parseToString(new FileInputStream(
-              arquivo));
-          //
-          doc.add(new Field("conteudo", textoArquivo, tipo));
-          doc.add(new Field("tamanho", String.valueOf(arquivo.length()), tipo));
-          doc.add(new Field("dataAtualizacao", dataFormatada, tipo));
-          doc.add(new Field("caminho", arquivo.getAbsolutePath(), tipo));
-          doc.add(new Field("nome", arquivo.getName(), tipo));
-          writer.addDocument(doc);
-          logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
-        } catch (Exception e) {
-          logger.error("Nao foi possivel indexar o arquivo " + arquivo, e);
-        }
-      }
-      writer.close();
-      diretorio.close();
-      logger.info("Indice gerado com sucesso");
-    } catch (Exception e) {
-      logger.error(e);
+    public static void main(String[] args) {
+	new IndexadorArquivosLocais().processar();
     }
-  }
+
+    public void processar() {
+	try {
+	    Directory diretorio = FSDirectory.open(new File(diretorioIndice));
+	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
+	    IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_46,
+		    analyzer);
+	    conf.setOpenMode(OpenMode.CREATE_OR_APPEND);
+	    IndexWriter writer = new IndexWriter(diretorio, conf);
+	    //
+	    Tika extrator = new Tika();
+	    File[] arquivosParaIndexar = new File(diretorioDocumentosLocais)
+		    .listFiles();
+	    for (File arquivo : arquivosParaIndexar) {
+		if (!arquivo.isFile())
+		    continue;
+		try {
+		    Document doc = new Document();
+		    FieldType tipo = new FieldType();
+		    tipo.setIndexed(true);
+		    tipo.setStored(true);
+		    tipo.setTokenized(true);
+		    //
+		    Date dataAtualizacao = new Date(arquivo.lastModified());
+		    SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+		    String dataFormatada = sdf.format(dataAtualizacao);
+		    String textoArquivo = extrator
+			    .parseToString(new FileInputStream(arquivo));
+		    //
+		    doc.add(new Field("conteudo", textoArquivo, tipo));
+		    doc.add(new Field("tamanho", String.valueOf(arquivo
+			    .length()), tipo));
+		    doc.add(new Field("dataAtualizacao", dataFormatada, tipo));
+		    doc.add(new Field("caminho", arquivo.getAbsolutePath(),
+			    tipo));
+		    doc.add(new Field("nome", arquivo.getName(), tipo));
+		    writer.addDocument(doc);
+		    logger.info("Arquivo indexado: "
+			    + arquivo.getAbsolutePath());
+		} catch (Exception e) {
+		    logger.error("Nao foi possivel indexar o arquivo "
+			    + arquivo, e);
+		}
+	    }
+	    writer.close();
+	    diretorio.close();
+	    logger.info("Indice gerado com sucesso");
+	} catch (Exception e) {
+	    logger.error(e);
+	}
+    }
 }
