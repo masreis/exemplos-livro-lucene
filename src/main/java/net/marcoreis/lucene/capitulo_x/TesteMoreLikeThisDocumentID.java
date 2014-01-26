@@ -1,7 +1,6 @@
 package net.marcoreis.lucene.capitulo_x;
 
 import java.io.File;
-import java.io.StringReader;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -9,6 +8,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queries.mlt.MoreLikeThis;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -17,8 +17,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class TesteMoreLikeThis {
-
+public class TesteMoreLikeThisDocumentID {
     public static void main(String[] args) {
 	try {
 	    String diretorioIndice = "/home/marco/livro-lucene/indice-wikipedia";
@@ -33,11 +32,21 @@ public class TesteMoreLikeThis {
 	    mlt.setBoost(true);
 	    mlt.setAnalyzer(analyzer);
 	    mlt.setFieldNames(new String[] { "conteudo" });
-	    String textoBase = "brasil";
-	    StringReader sr = new StringReader(textoBase);
-	    Query query = mlt.like(sr, null);
+	    //
+	    int documentoID = 0;
+	    QueryParser parser = new QueryParser(Version.LUCENE_46, "",
+		    analyzer);
+	    String titulo = "conteudo:(brasil)";
+	    Query queryOrigem = parser.parse(titulo);
+	    TopDocs topdocsOrigem = is.search(queryOrigem, 1);
+	    for (ScoreDoc sd : topdocsOrigem.scoreDocs) {
+		Document doc = is.doc(sd.doc);
+		System.out.println("Artigo base: " + doc.get("caminho"));
+		documentoID = sd.doc;
+	    }
+	    //
+	    Query query = mlt.like(documentoID);
 	    TopDocs topdocs = is.search(query, 10);
-	    System.out.println("Texto base: " + textoBase);
 	    System.out.println("Artigos similares:");
 	    for (ScoreDoc sd : topdocs.scoreDocs) {
 		Document doc = is.doc(sd.doc);
