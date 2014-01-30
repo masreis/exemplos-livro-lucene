@@ -33,7 +33,7 @@ public class TesteMoreLikeThis {
 	    mlt.setBoost(true);
 	    mlt.setAnalyzer(analyzer);
 	    mlt.setFieldNames(new String[] { "conteudo" });
-	    String textoBase = "brasil";
+	    String textoBase = "educação";
 	    StringReader sr = new StringReader(textoBase);
 	    Query query = mlt.like(sr, null);
 	    TopDocs topdocs = is.search(query, 10);
