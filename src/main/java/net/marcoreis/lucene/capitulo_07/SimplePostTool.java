@@ -71,7 +71,7 @@ import org.xml.sax.SAXException;
  * jar dependencies.
  */
 public class SimplePostTool {
-  private static final String DEFAULT_POST_URL = "http://localhost:8983/solr/update";
+  private static final String DEFAULT_POST_URL = "http://localhost:8983/solr/arquivos-locais-core/update";
   private static final String VERSION_OF_THIS_TOOL = "1.5";
 
   private static final String DEFAULT_COMMIT = "yes";

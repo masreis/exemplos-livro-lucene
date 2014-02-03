@@ -1,12 +1,16 @@
 package net.marcoreis.lucene.capitulo_07;
 
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import org.apache.commons.io.IOUtils;
 import org.apache.log4j.Logger;
 import org.apache.tika.Tika;
 
@@ -33,7 +37,8 @@ public class IndexadorSolr {
 		try {
 		    //
 		    Date dataAtualizacao = new Date(arquivo.lastModified());
-		    SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
+		    String formatoUTC = "yyyy-MM-dd'T'hh:mm:ss'Z'";
+		    SimpleDateFormat sdf = new SimpleDateFormat(formatoUTC);
 		    String dataFormatada = sdf.format(dataAtualizacao);
 		    String textoArquivo = extrator
 			    .parseToString(new FileInputStream(arquivo));
@@ -46,8 +51,26 @@ public class IndexadorSolr {
 		    json.addProperty("caminho", arquivo.getAbsolutePath());
 		    json.addProperty("nome", arquivo.getName());
 		    //
-		    URL url = new URL("http://localhost:8983/solr/update ");
-		    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+		    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
+		    URL url = new URL(sUrl);
+		    HttpURLConnection urlc = (HttpURLConnection) url
+			    .openConnection();
+		    urlc.setRequestMethod("POST");
+		    urlc.setDoOutput(true);
+		    urlc.setDoInput(true);
+		    urlc.setUseCaches(false);
+		    urlc.setAllowUserInteraction(false);
+		    urlc.setRequestProperty("Content-type", "application/json");
+		    String doc = "[" + json.toString() + "]";
+		    InputStream input = new ByteArrayInputStream(doc.getBytes());
+		    OutputStream output = urlc.getOutputStream();
+		    IOUtils.copy(input, output);
+		    output.close();
+		    logger.info(urlc.getResponseMessage());
+		    //
+		    InputStream in = urlc.getInputStream();
+		    IOUtils.copy(in, output);
+		    urlc.disconnect();
 		    //
 		    logger.info("Arquivo indexado: "
 			    + arquivo.getAbsolutePath());
@@ -56,6 +79,10 @@ public class IndexadorSolr {
 			    + arquivo, e);
 		}
 	    }
+	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update?commit=true";
+	    URL url = new URL(sUrl);
+	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+	    urlc.disconnect();
 	    logger.info("Indice gerado com sucesso");
 	} catch (Exception e) {
 	    logger.error(e);

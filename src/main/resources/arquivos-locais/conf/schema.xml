@@ -4,13 +4,14 @@
  <fields>
 
    <field name="conteudo" type="text_general" indexed="true" stored="true"/>
+   <field name="text" type="text_general" indexed="true" stored="true"/>
    <field name="tamanho" type="long" indexed="true" stored="true"/>
    <field name="dataAtualizacao" type="date" indexed="true" stored="true"/>
    <field name="caminho" type="string" indexed="true" stored="true" 
 	multiValued="false"/>
    <field name="nome" type="string" indexed="true" stored="true"/>
-   <!--field name="_version_" type="long" indexed="true" stored="true" 
-	multiValued="false"/-->
+   <field name="_version_" type="long" indexed="true" stored="true" 
+	multiValued="false"/>
  
  </fields>
 
