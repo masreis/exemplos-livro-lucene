@@ -21,7 +21,7 @@ import org.apache.tika.Tika;
 
 public class IndexadorArquivosLocais {
     private static String diretorioDocumentosLocais = System
-	    .getProperty("user.home") + "/Dropbox";
+	    .getProperty("user.home") + "/Dropbox/entrada";
     private static String diretorioIndice = System.getProperty("user.home")
 	    + "/livro-lucene/indice-capitulo-02";
     private static final Logger logger = Logger
@@ -50,6 +50,13 @@ public class IndexadorArquivosLocais {
 	}
     }
 
+    /**
+     * Indexa os arquivos de um diretório raíz e seus subdiretórios.
+     * 
+     * @param diretorio
+     *            - diretório raíz que será indexado.
+     * 
+     */
     private void processarDiretorio(File diretorio) {
 	File[] arquivosParaIndexar = diretorio.listFiles();
 	for (File arquivo : arquivosParaIndexar) {
@@ -61,6 +68,13 @@ public class IndexadorArquivosLocais {
 	}
     }
 
+    /**
+     * Indexa o arquivo informado no parâmetro. Utiliza o Apache Tika para fazer
+     * a extração dos dados.
+     * 
+     * @param arquivo
+     *            Arquivo binário que será indexado
+     */
     private void indexarArquivo(File arquivo) {
 	try {
 	    logger.info("Arquivo indexado(" + (arquivo.length() / 1024)

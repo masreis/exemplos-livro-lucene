@@ -20,72 +20,85 @@ public class IndexadorSolr {
     private static String diretorioDocumentosLocais = System
 	    .getProperty("user.home") + "/Dropbox/entrada";
     private static final Logger logger = Logger.getLogger(IndexadorSolr.class);
+    private Tika extrator = new Tika();
 
     public static void main(String[] args) {
-	new IndexadorSolr().processar();
+	logger.info("Iniciando processamento dos arquivos");
+	IndexadorSolr indexadorSolr = new IndexadorSolr();
+	indexadorSolr.processarDiretorio(new File(diretorioDocumentosLocais));
+	logger.info("Indice gerado com sucesso");
+	indexadorSolr.commit();
     }
 
-    public void processar() {
-	try {
-	    //
-	    Tika extrator = new Tika();
-	    File[] arquivosParaIndexar = new File(diretorioDocumentosLocais)
-		    .listFiles();
-	    for (File arquivo : arquivosParaIndexar) {
-		if (!arquivo.isFile())
-		    continue;
-		try {
-		    //
-		    Date dataAtualizacao = new Date(arquivo.lastModified());
-		    String formatoUTC = "yyyy-MM-dd'T'hh:mm:ss'Z'";
-		    SimpleDateFormat sdf = new SimpleDateFormat(formatoUTC);
-		    String dataFormatada = sdf.format(dataAtualizacao);
-		    String textoArquivo = extrator
-			    .parseToString(new FileInputStream(arquivo));
-		    //
-		    JsonObject json = new JsonObject();
-		    json.addProperty("conteudo", textoArquivo);
-		    json.addProperty("tamanho",
-			    String.valueOf(arquivo.length()));
-		    json.addProperty("dataAtualizacao", dataFormatada);
-		    json.addProperty("caminho", arquivo.getAbsolutePath());
-		    json.addProperty("nome", arquivo.getName());
-		    //
-		    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
-		    URL url = new URL(sUrl);
-		    HttpURLConnection urlc = (HttpURLConnection) url
-			    .openConnection();
-		    urlc.setRequestMethod("POST");
-		    urlc.setDoOutput(true);
-		    urlc.setDoInput(true);
-		    urlc.setUseCaches(false);
-		    urlc.setAllowUserInteraction(false);
-		    urlc.setRequestProperty("Content-type", "application/json");
-		    String doc = "[" + json.toString() + "]";
-		    InputStream input = new ByteArrayInputStream(doc.getBytes());
-		    OutputStream output = urlc.getOutputStream();
-		    IOUtils.copy(input, output);
-		    output.close();
-		    logger.info(urlc.getResponseMessage());
-		    //
-		    InputStream in = urlc.getInputStream();
-		    IOUtils.copy(in, output);
-		    urlc.disconnect();
-		    //
-		    logger.info("Arquivo indexado: "
-			    + arquivo.getAbsolutePath());
-		} catch (Exception e) {
-		    logger.error("Nao foi possivel indexar o arquivo "
-			    + arquivo, e);
-		}
+    /**
+     * Indexa os arquivos de um diretório raíz e seus subdiretórios.
+     * 
+     * @param diretorio
+     *            - diretório raíz que será indexado.
+     * 
+     */
+    private void processarDiretorio(File diretorio) {
+	File[] arquivosParaIndexar = diretorio.listFiles();
+	for (File arquivo : arquivosParaIndexar) {
+	    if (arquivo.isDirectory()) {
+		processarDiretorio(arquivo);
+	    } else if (arquivo.isFile()) {
+		indexarArquivo(arquivo);
 	    }
+	}
+    }
+
+    private void commit() {
+	try {
 	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update?commit=true";
 	    URL url = new URL(sUrl);
 	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
 	    urlc.disconnect();
-	    logger.info("Indice gerado com sucesso");
 	} catch (Exception e) {
-	    logger.error(e);
+	    e.printStackTrace();
 	}
+    }
+
+    public void indexarArquivo(File arquivo) {
+	try {
+	    Date dataAtualizacao = new Date(arquivo.lastModified());
+	    String formatoUTC = "yyyy-MM-dd'T'hh:mm:ss'Z'";
+	    SimpleDateFormat sdf = new SimpleDateFormat(formatoUTC);
+	    String dataFormatada = sdf.format(dataAtualizacao);
+	    String textoArquivo = extrator.parseToString(new FileInputStream(
+		    arquivo));
+	    //
+	    JsonObject json = new JsonObject();
+	    json.addProperty("conteudo", textoArquivo);
+	    json.addProperty("tamanho", String.valueOf(arquivo.length()));
+	    json.addProperty("dataAtualizacao", dataFormatada);
+	    json.addProperty("caminho", arquivo.getAbsolutePath());
+	    json.addProperty("nome", arquivo.getName());
+	    //
+	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
+	    URL url = new URL(sUrl);
+	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+	    urlc.setRequestMethod("POST");
+	    urlc.setDoOutput(true);
+	    urlc.setDoInput(true);
+	    urlc.setUseCaches(false);
+	    urlc.setAllowUserInteraction(false);
+	    urlc.setRequestProperty("Content-type", "application/json");
+	    String doc = "[" + json.toString() + "]";
+	    InputStream input = new ByteArrayInputStream(doc.getBytes());
+	    OutputStream output = urlc.getOutputStream();
+	    IOUtils.copy(input, output);
+	    output.close();
+	    logger.info(urlc.getResponseMessage());
+	    //
+	    // InputStream in = urlc.getInputStream();
+	    // IOUtils.copy(in, output);
+	    urlc.disconnect();
+	    //
+	    // logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+
     }
 }
