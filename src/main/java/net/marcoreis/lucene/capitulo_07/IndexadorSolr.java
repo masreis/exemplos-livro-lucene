@@ -26,8 +26,8 @@ public class IndexadorSolr {
 	logger.info("Iniciando processamento dos arquivos");
 	IndexadorSolr indexadorSolr = new IndexadorSolr();
 	indexadorSolr.processarDiretorio(new File(diretorioDocumentosLocais));
-	logger.info("Indice gerado com sucesso");
 	indexadorSolr.commit();
+	logger.info("Indice gerado com sucesso");
     }
 
     /**
@@ -50,10 +50,11 @@ public class IndexadorSolr {
 
     private void commit() {
 	try {
-	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update?commit=true";
+	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update?commit=true&optimize=true";
 	    URL url = new URL(sUrl);
 	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
 	    urlc.disconnect();
+	    logger.info("Commit no indice");
 	} catch (Exception e) {
 	    e.printStackTrace();
 	}
@@ -85,14 +86,15 @@ public class IndexadorSolr {
 	    urlc.setAllowUserInteraction(false);
 	    urlc.setRequestProperty("Content-type", "application/json");
 	    String doc = "[" + json.toString() + "]";
+	    //
 	    InputStream input = new ByteArrayInputStream(doc.getBytes());
 	    OutputStream output = urlc.getOutputStream();
 	    IOUtils.copy(input, output);
 	    output.close();
-	    logger.info(urlc.getResponseMessage());
+	    // logger.info(urlc.getResponseMessage());
 	    //
-	    // InputStream in = urlc.getInputStream();
-	    // IOUtils.copy(in, output);
+	    InputStream in = urlc.getInputStream();
+	    IOUtils.copy(in, output);
 	    urlc.disconnect();
 	    //
 	    // logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
