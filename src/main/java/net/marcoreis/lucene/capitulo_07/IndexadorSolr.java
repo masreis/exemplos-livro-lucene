@@ -50,9 +50,20 @@ public class IndexadorSolr {
 
     private void commit() {
 	try {
-	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update?commit=true&optimize=true";
+	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
+	    String s = "<commit/><optimize/>";
 	    URL url = new URL(sUrl);
 	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+	    urlc.setRequestMethod("GET");
+	    urlc.setRequestProperty("Content-type", "application/xml");
+	    urlc.setDoOutput(true);
+	    InputStream input = new ByteArrayInputStream(s.getBytes());
+	    OutputStream saidaSolr = urlc.getOutputStream();
+	    IOUtils.copy(input , saidaSolr);
+	    String mensagemRetorno = urlc.getResponseMessage();
+	    String mensagemSolr = IOUtils.toString(urlc.getInputStream());
+	    System.out.println(mensagemRetorno);
+	    System.out.println(mensagemSolr);
 	    urlc.disconnect();
 	    logger.info("Commit no indice");
 	} catch (Exception e) {
@@ -87,17 +98,21 @@ public class IndexadorSolr {
 	    urlc.setRequestProperty("Content-type", "application/json");
 	    String doc = "[" + json.toString() + "]";
 	    //
-	    InputStream input = new ByteArrayInputStream(doc.getBytes());
-	    OutputStream output = urlc.getOutputStream();
-	    IOUtils.copy(input, output);
-	    output.close();
+	    // Escreve os dados no servidor
+	    InputStream dados = new ByteArrayInputStream(doc.getBytes());
+	    OutputStream saidaServidor = urlc.getOutputStream();
+	    IOUtils.copy(dados, saidaServidor);
+	    saidaServidor.flush();
 	    // logger.info(urlc.getResponseMessage());
 	    //
+	    //
 	    InputStream in = urlc.getInputStream();
-	    IOUtils.copy(in, output);
+	    IOUtils.copy(in, saidaServidor);
+	    saidaServidor.close();
 	    urlc.disconnect();
 	    //
 	    // logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
+	    commit();
 	} catch (Exception e) {
 	    e.printStackTrace();
 	}
