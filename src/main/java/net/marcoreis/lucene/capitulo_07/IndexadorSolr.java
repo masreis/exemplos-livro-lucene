@@ -3,9 +3,12 @@ package net.marcoreis.lucene.capitulo_07;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -17,8 +20,10 @@ import org.apache.tika.Tika;
 import com.google.gson.JsonObject;
 
 public class IndexadorSolr {
+    private static final String APPLICATION_JSON = "application/json";
+    private static final String APPLICATION_XML = "application/XML";
     private static String diretorioDocumentosLocais = System
-	    .getProperty("user.home") + "/Dropbox/entrada";
+	    .getProperty("user.home") + "/Dropbox/";
     private static final Logger logger = Logger.getLogger(IndexadorSolr.class);
     private Tika extrator = new Tika();
 
@@ -50,22 +55,8 @@ public class IndexadorSolr {
 
     private void commit() {
 	try {
-	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
-	    String s = "<commit/><optimize/>";
-	    URL url = new URL(sUrl);
-	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
-	    urlc.setRequestMethod("GET");
-	    urlc.setRequestProperty("Content-type", "application/xml");
-	    urlc.setDoOutput(true);
-	    InputStream input = new ByteArrayInputStream(s.getBytes());
-	    OutputStream saidaSolr = urlc.getOutputStream();
-	    IOUtils.copy(input , saidaSolr);
-	    String mensagemRetorno = urlc.getResponseMessage();
-	    String mensagemSolr = IOUtils.toString(urlc.getInputStream());
-	    System.out.println(mensagemRetorno);
-	    System.out.println(mensagemSolr);
-	    urlc.disconnect();
-	    logger.info("Commit no indice");
+	    String comando = "<commit/>";
+	    enviarDadosServidorSolr(comando, APPLICATION_XML);
 	} catch (Exception e) {
 	    e.printStackTrace();
 	}
@@ -86,36 +77,40 @@ public class IndexadorSolr {
 	    json.addProperty("dataAtualizacao", dataFormatada);
 	    json.addProperty("caminho", arquivo.getAbsolutePath());
 	    json.addProperty("nome", arquivo.getName());
-	    //
-	    String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
-	    URL url = new URL(sUrl);
-	    HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
-	    urlc.setRequestMethod("POST");
-	    urlc.setDoOutput(true);
-	    urlc.setDoInput(true);
-	    urlc.setUseCaches(false);
-	    urlc.setAllowUserInteraction(false);
-	    urlc.setRequestProperty("Content-type", "application/json");
 	    String doc = "[" + json.toString() + "]";
 	    //
-	    // Escreve os dados no servidor
-	    InputStream dados = new ByteArrayInputStream(doc.getBytes());
-	    OutputStream saidaServidor = urlc.getOutputStream();
-	    IOUtils.copy(dados, saidaServidor);
-	    saidaServidor.flush();
-	    // logger.info(urlc.getResponseMessage());
-	    //
-	    //
-	    InputStream in = urlc.getInputStream();
-	    IOUtils.copy(in, saidaServidor);
-	    saidaServidor.close();
-	    urlc.disconnect();
+	    enviarDadosServidorSolr(doc, APPLICATION_JSON);
 	    //
 	    // logger.info("Arquivo indexado: " + arquivo.getAbsolutePath());
-	    commit();
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    logger.error(e);
 	}
 
+    }
+
+    private void enviarDadosServidorSolr(String doc, String contentType)
+	    throws MalformedURLException, IOException, ProtocolException {
+	String sUrl = "http://localhost:8983/solr/arquivos-locais-core/update";
+	URL url = new URL(sUrl);
+	HttpURLConnection urlc = (HttpURLConnection) url.openConnection();
+	urlc.setRequestMethod("POST");
+	urlc.setDoOutput(true);
+	urlc.setDoInput(true);
+	urlc.setUseCaches(false);
+	urlc.setAllowUserInteraction(false);
+	urlc.setRequestProperty("Content-type", contentType);
+	//
+	// Escreve os dados no servidor
+	InputStream dados = new ByteArrayInputStream(doc.getBytes());
+	OutputStream saidaServidor = urlc.getOutputStream();
+	IOUtils.copy(dados, saidaServidor);
+	saidaServidor.flush();
+	// logger.info(urlc.getResponseMessage());
+	//
+	//
+	InputStream in = urlc.getInputStream();
+	IOUtils.copy(in, saidaServidor);
+	saidaServidor.close();
+	urlc.disconnect();
     }
 }

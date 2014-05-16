@@ -20,31 +20,31 @@ import org.apache.lucene.util.Version;
 public class TesteMoreLikeThis {
 
     public static void main(String[] args) {
-	try {
-	    String diretorioIndice = "/home/marco/livro-lucene/indice-wikipedia";
-	    diretorioIndice = "/home/marco/livro-lucene/indice-capitulo-02";
-	    Directory directory = FSDirectory.open(new File(diretorioIndice));
-	    IndexReader ir = DirectoryReader.open(directory);
-	    IndexSearcher is = new IndexSearcher(ir);
-	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
-	    MoreLikeThis mlt = new MoreLikeThis(ir);
-	    mlt.setMinDocFreq(0);
-	    mlt.setMinTermFreq(0);
-	    mlt.setBoost(true);
-	    mlt.setAnalyzer(analyzer);
-	    mlt.setFieldNames(new String[] { "conteudo" });
-	    String textoBase = "educação";
-	    StringReader sr = new StringReader(textoBase);
-	    Query query = mlt.like(sr, null);
-	    TopDocs topdocs = is.search(query, 10);
-	    System.out.println("Texto base: " + textoBase);
-	    System.out.println("Artigos similares:");
-	    for (ScoreDoc sd : topdocs.scoreDocs) {
-		Document doc = is.doc(sd.doc);
-		System.out.println(doc.get("caminho"));
-	    }
-	} catch (Exception e) {
-	    e.printStackTrace();
-	}
+        try {
+            String diretorioIndice = "/home/marco/livro-lucene/indice-wikipedia";
+            diretorioIndice = "/home/marco/livro-lucene/indice-capitulo-02";
+            Directory directory = FSDirectory.open(new File(diretorioIndice));
+            IndexReader ir = DirectoryReader.open(directory);
+            IndexSearcher is = new IndexSearcher(ir);
+            Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
+            MoreLikeThis mlt = new MoreLikeThis(ir);
+            mlt.setMinDocFreq(0);
+            mlt.setMinTermFreq(0);
+            mlt.setBoost(true);
+            mlt.setAnalyzer(analyzer);
+            mlt.setFieldNames(new String[] { "conteudo" });
+            String textoBase = "educação";
+            StringReader sr = new StringReader(textoBase);
+            Query query = mlt.like(sr, null);
+            TopDocs topdocs = is.search(query, 10);
+            System.out.println("Texto base: " + textoBase);
+            System.out.println("Artigos similares:");
+            for (ScoreDoc sd : topdocs.scoreDocs) {
+                Document doc = is.doc(sd.doc);
+                System.out.println(doc.get("caminho"));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }

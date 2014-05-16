@@ -1,8 +1,6 @@
 package net.marcoreis.lucene.capitulo_02;
 
 import java.io.File;
-import java.security.Provider;
-import java.security.Security;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -26,15 +24,10 @@ public class BuscadorArquivosLocais {
 	    .getLogger(BuscadorArquivosLocais.class);
 
     public static void main(String[] args) {
-	for (Provider provider: Security.getProviders()) {
-	    System.out.println(provider.getName());
-	    for (String key: provider.stringPropertyNames())
-	      System.out.println("\t" + key + "\t" + provider.getProperty(key));
-	  }
 	BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-	String consulta = "conteudo:rafael~1";
+	String consulta = "conteudo:miotti";
 	// String consulta = "dataAtualizacao:[20130531 TO 20130627]";
-	consulta = "conteudo:indexwriter";
+	consulta = "conteudo:miotti";
 	buscador.buscar(consulta);
     }
 

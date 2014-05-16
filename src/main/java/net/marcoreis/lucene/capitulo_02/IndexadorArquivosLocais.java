@@ -21,7 +21,7 @@ import org.apache.tika.Tika;
 
 public class IndexadorArquivosLocais {
     private static String diretorioDocumentosLocais = System
-	    .getProperty("user.home") + "/Dropbox/entrada";
+	    .getProperty("user.home") + "/Dropbox/";
     private static String diretorioIndice = System.getProperty("user.home")
 	    + "/livro-lucene/indice-capitulo-02";
     private static final Logger logger = Logger
