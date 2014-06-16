@@ -8,7 +8,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.queryparser.classic.QueryParser.Operator;
+import org.apache.lucene.search.Explanation;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -17,18 +17,17 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class BuscadorArquivosLocais {
+public class ExplicacaoQuery {
     private static String diretorioIndice = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02";
     private static final Logger logger = Logger
             .getLogger(BuscadorArquivosLocais.class);
 
     public static void main(String[] args) {
-        BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+        ExplicacaoQuery e = new ExplicacaoQuery();
         String consulta = "";
-        consulta = "dataAtualizacao:[2013-01-31 TO 2013-08-27]";
-        consulta = "conteudo:java";
-        buscador.buscar(consulta);
+        consulta = "conteudo:(\"web service\")";
+        e.buscar(consulta);
     }
 
     public void buscar(String consulta) {
@@ -40,21 +39,21 @@ public class BuscadorArquivosLocais {
             // Query
             QueryParser parser = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
-            parser.setDefaultOperator(Operator.AND);
             Query query = parser.parse(consulta);
             //
-            TopDocs docs = buscador.search(query, 100);
-            for (ScoreDoc sd : docs.scoreDocs) {
+            TopDocs topDocs = buscador.search(query, 100);
+            for (ScoreDoc sd : topDocs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                logger.info("Arquivo: " + doc.get("dataAtualizacao") + " - "
-                        + doc.get("caminho"));
+                Explanation explicacao = buscador.explain(query, sd.doc);
+                logger.info("Arquivo: " + doc.get("caminho"));
+                logger.info(explicacao.toString());
             }
             //
-            logger.info("Quantidade de itens: " + docs.totalHits);
             diretorio.close();
             reader.close();
         } catch (Exception e) {
             logger.error(e);
         }
     }
+
 }
