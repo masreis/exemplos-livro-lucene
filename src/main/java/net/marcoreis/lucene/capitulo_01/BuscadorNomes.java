@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.capitulo_01;
 
 import java.io.File;
 
@@ -17,17 +17,15 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class ExplicacaoQuery {
+public class BuscadorNomes {
     private static String diretorioIndice = System.getProperty("user.home")
-            + "/livro-lucene/indice-capitulo-02";
-    private static final Logger logger = Logger
-            .getLogger(ExplicacaoQuery.class);
+            + "/livro-lucene/indice-capitulo-01";
+    private static final Logger logger = Logger.getLogger(BuscadorNomes.class);
 
     public static void main(String[] args) {
-        ExplicacaoQuery e = new ExplicacaoQuery();
-        String consulta = "";
-        consulta = "conteudo:(\"service\")";
-        e.buscar(consulta);
+        BuscadorNomes buscador = new BuscadorNomes();
+        String consulta = "nome:(marco)";
+        buscador.buscar(consulta);
     }
 
     public void buscar(String consulta) {
@@ -35,27 +33,25 @@ public class ExplicacaoQuery {
             Directory diretorio = FSDirectory.open(new File(diretorioIndice));
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
-            System.out.println(reader.numDocs());
             //
             // Query
             QueryParser parser = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
             Query query = parser.parse(consulta);
             //
-            TopDocs topDocs = buscador.search(query, 100);
-            for (ScoreDoc sd : topDocs.scoreDocs) {
+            TopDocs docs = buscador.search(query, 100);
+            for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
                 Explanation explicacao = buscador.explain(query, sd.doc);
-                // logger.info("Arquivo: " + doc.get("caminho"));
+                logger.info(doc.get("nome"));
                 logger.info(explicacao.toString());
             }
-            System.out.println(topDocs.totalHits);
             //
+            logger.info("Quantidade de itens: " + docs.totalHits);
             diretorio.close();
             reader.close();
         } catch (Exception e) {
             logger.error(e);
         }
     }
-
 }

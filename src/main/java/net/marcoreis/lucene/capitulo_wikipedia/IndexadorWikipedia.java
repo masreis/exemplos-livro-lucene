@@ -24,100 +24,100 @@ public class IndexadorWikipedia {
     private static Logger logger = Logger.getLogger(IndexadorWikipedia.class);
     private IndexWriter writer;
     private String diretorioIndice;
-    private int quantidadeArquivosIndexados = 0;
+    private int quantidadePaginasIndexadas = 0;
     private UtilBusca buscador;
 
     public IndexadorWikipedia(String diretorioIndice) {
-	try {
-	    this.diretorioIndice = diretorioIndice;
-	    File file = new File(diretorioIndice);
-	    if (!file.exists()) {
-		file.mkdirs();
-	    }
-	    Directory d = FSDirectory.open(file);
-	    logger.info("Diretorio do indice: " + diretorioIndice);
-	    Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_46);
-	    IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_46,
-		    analyzer);
-	    //
-	    // config.setOpenMode(OpenMode.CREATE_OR_APPEND);
-	    // config.setUseCompoundFile(false);
-	    // config.setRAMBufferSizeMB(320);
-	    // config.setMaxThreadStates(80);
-	    //
-	    writer = new IndexWriter(d, config);
-	} catch (Exception e) {
-	    logger.error(e);
-	}
+        try {
+            this.diretorioIndice = diretorioIndice;
+            File file = new File(diretorioIndice);
+            if (!file.exists()) {
+                file.mkdirs();
+            }
+            Directory d = FSDirectory.open(file);
+            logger.info("Diretorio do indice: " + diretorioIndice);
+            Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
+            IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_48,
+                    analyzer);
+            //
+            // config.setOpenMode(OpenMode.CREATE_OR_APPEND);
+            // config.setUseCompoundFile(false);
+            // config.setRAMBufferSizeMB(320);
+            // config.setMaxThreadStates(80);
+            //
+            writer = new IndexWriter(d, config);
+        } catch (Exception e) {
+            logger.error(e);
+        }
     }
 
     private boolean jahIndexado(String id) {
-	try {
-	    TopDocs hits = getBuscador().busca("id:" + id);
-	    int qtd = hits.totalHits;
-	    return qtd > 0;
-	} catch (Exception e) {
-	    return false;
-	}
+        try {
+            TopDocs hits = getBuscador().busca("id:" + id);
+            int qtd = hits.totalHits;
+            return qtd > 0;
+        } catch (Exception e) {
+            return false;
+        }
     }
 
     private UtilBusca getBuscador() throws IOException {
-	if (buscador == null) {
-	    buscador = new UtilBusca(diretorioIndice);
-	}
-	return buscador;
+        if (buscador == null) {
+            buscador = new UtilBusca(diretorioIndice);
+        }
+        return buscador;
     }
 
     public void fechar() {
-	try {
-	    writer.close();
-	} catch (IOException e) {
-	    throw new RuntimeException(e);
-	}
+        try {
+            writer.close();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public boolean indexar(Map<String, String> valores) {
-	Document documento = new Document();
-	if (jahIndexado(valores.get("id")))
-	    return false;
-	try {
-	    for (String coluna : valores.keySet()) {
-		String valor = valores.get(coluna);
-		valor = Normalizer.normalize(valor, Normalizer.Form.NFD);
-		FieldType tipo = new FieldType();
-		tipo.setIndexed(true);
-		tipo.setStored(true);
-		tipo.setTokenized(true);
-		documento.add(new Field(coluna, valor, tipo));
-	    }
-	    writer.addDocument(documento);
-	    return true;
-	} catch (Exception e) {
-	    throw new RuntimeException(e);
-	}
+        Document documento = new Document();
+        if (jahIndexado(valores.get("id")))
+            return false;
+        try {
+            for (String coluna : valores.keySet()) {
+                String valor = valores.get(coluna);
+                valor = Normalizer.normalize(valor, Normalizer.Form.NFD);
+                FieldType tipo = new FieldType();
+                tipo.setIndexed(true);
+                tipo.setStored(true);
+                tipo.setTokenized(true);
+                documento.add(new Field(coluna, valor, tipo));
+            }
+            writer.addDocument(documento);
+            return true;
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public void commit() {
-	try {
-	    writer.commit();
-	} catch (IOException e) {
-	    throw new RuntimeException(e);
-	}
+        try {
+            writer.commit();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public static void main(String[] args) throws IOException {
-	String arquivo = "/Users/marcoreis/Documents/teste.txt";
-	FileReader fileReader = new FileReader(arquivo);
-	BufferedReader bufferedReader = new BufferedReader(fileReader);
-	String linha;
-	while ((linha = bufferedReader.readLine()) != null) {
-	    String texto = Normalizer.normalize(linha, Normalizer.Form.NFD);
-	    System.out.println(texto);
-	}
-	bufferedReader.close();
+        String arquivo = "/Users/marcoreis/Docuwments/teste.txt";
+        FileReader fileReader = new FileReader(arquivo);
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        String linha;
+        while ((linha = bufferedReader.readLine()) != null) {
+            String texto = Normalizer.normalize(linha, Normalizer.Form.NFD);
+            System.out.println(texto);
+        }
+        bufferedReader.close();
     }
 
     public int getQuantidadeArquivosIndexados() {
-	return quantidadeArquivosIndexados;
+        return quantidadePaginasIndexadas;
     }
 }

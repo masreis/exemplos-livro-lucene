@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.TimeZone;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
@@ -40,7 +39,6 @@ public class IndexadorArquivosLocais {
             Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
             IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
                     analyzer);
-            conf.setOpenMode(OpenMode.CREATE_OR_APPEND);
             writer = new IndexWriter(diretorio, conf);
             //
             processarDiretorio(new File(diretorioDocumentosLocais));

@@ -8,7 +8,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.Explanation;
+import org.apache.lucene.queryparser.classic.QueryParser.Operator;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -17,17 +17,18 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class ExplicacaoQuery {
+public class BuscadorDadosLegislativo {
     private static String diretorioIndice = System.getProperty("user.home")
-            + "/livro-lucene/indice-capitulo-02";
+            + "/livro-lucene/indice-capitulo-02-02";
     private static final Logger logger = Logger
-            .getLogger(ExplicacaoQuery.class);
+            .getLogger(BuscadorDadosLegislativo.class);
 
     public static void main(String[] args) {
-        ExplicacaoQuery e = new ExplicacaoQuery();
+        BuscadorDadosLegislativo buscador = new BuscadorDadosLegislativo();
         String consulta = "";
-        consulta = "conteudo:(\"service\")";
-        e.buscar(consulta);
+        consulta = "comissao:(\"distrito federal\")";
+        consulta = "uf:rj";
+        buscador.buscar(consulta);
     }
 
     public void buscar(String consulta) {
@@ -35,27 +36,30 @@ public class ExplicacaoQuery {
             Directory diretorio = FSDirectory.open(new File(diretorioIndice));
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
-            System.out.println(reader.numDocs());
+            logger.info("Total de deputados indexados: " + reader.maxDoc());
             //
             // Query
             QueryParser parser = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
+            parser.setDefaultOperator(Operator.AND);
             Query query = parser.parse(consulta);
             //
-            TopDocs topDocs = buscador.search(query, 100);
-            for (ScoreDoc sd : topDocs.scoreDocs) {
+            TopDocs docs = buscador.search(query, 100);
+            for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                Explanation explicacao = buscador.explain(query, sd.doc);
-                // logger.info("Arquivo: " + doc.get("caminho"));
-                logger.info(explicacao.toString());
+                logger.info("==================");
+                logger.info(doc.get("nome"));
+                String[] comissoes = doc.getValues("comissao");
+                for (String comissao : comissoes) {
+                    // logger.info(comissao);
+                }
             }
-            System.out.println(topDocs.totalHits);
             //
+            logger.info("Quantidade de itens: " + docs.totalHits);
             diretorio.close();
             reader.close();
         } catch (Exception e) {
             logger.error(e);
         }
     }
-
 }

@@ -9,28 +9,30 @@ import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
+@Deprecated
 public class WikipediaDOMParser {
-  private static String nomeArquivo = System.getProperty("user.home")
-      + "/dados/ptwiki-20130417-stub-articles.xml";
-  private static final String PAGE = "page";
-  private static final String TITLE = "title";
-  private static int paginas = 0;
-  private static Logger logger = Logger.getLogger(WikipediaDOMParser.class);
+    private static String nomeArquivo = System.getProperty("user.home")
+            + "/dados/ptwiki-20130417-stub-articles.xml";
+    private static final String PAGE = "page";
+    private static final String TITLE = "title";
+    private static int paginas = 0;
+    private static Logger logger = Logger.getLogger(WikipediaDOMParser.class);
 
-  public void parse() {
-    try {
-      DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-      DocumentBuilder builder = factory.newDocumentBuilder();
-      Document doc = builder.parse(new File(nomeArquivo));
-      doc.getDocumentElement().normalize();
-      //
-      NodeList nodes = doc.getElementsByTagName("page");
-    } catch (Exception e) {
-      logger.error(e);
+    public void parse() {
+        try {
+            DocumentBuilderFactory factory = DocumentBuilderFactory
+                    .newInstance();
+            DocumentBuilder builder = factory.newDocumentBuilder();
+            Document doc = builder.parse(new File(nomeArquivo));
+            doc.getDocumentElement().normalize();
+            //
+            NodeList nodes = doc.getElementsByTagName("page");
+        } catch (Exception e) {
+            logger.error(e);
+        }
     }
-  }
 
-  public static void main(String[] args) {
-    new WikipediaDOMParser().parse();
-  }
+    public static void main(String[] args) {
+        new WikipediaDOMParser().parse();
+    }
 }
