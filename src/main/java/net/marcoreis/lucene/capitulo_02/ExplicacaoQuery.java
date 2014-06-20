@@ -24,10 +24,10 @@ public class ExplicacaoQuery {
             .getLogger(ExplicacaoQuery.class);
 
     public static void main(String[] args) {
-        ExplicacaoQuery e = new ExplicacaoQuery();
+        ExplicacaoQuery explicacao = new ExplicacaoQuery();
         String consulta = "";
         consulta = "conteudo:(\"service\")";
-        e.buscar(consulta);
+        explicacao.buscar(consulta);
     }
 
     public void buscar(String consulta) {
@@ -49,9 +49,7 @@ public class ExplicacaoQuery {
                 // logger.info("Arquivo: " + doc.get("caminho"));
                 logger.info(explicacao.toString());
             }
-            System.out.println(topDocs.totalHits);
             //
-            diretorio.close();
             reader.close();
         } catch (Exception e) {
             logger.error(e);
