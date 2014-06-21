@@ -34,7 +34,6 @@ public class BuscadorNomes {
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
             //
-            // Query
             QueryParser parser = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
             Query query = parser.parse(consulta);
@@ -44,7 +43,7 @@ public class BuscadorNomes {
                 Document doc = buscador.doc(sd.doc);
                 Explanation explicacao = buscador.explain(query, sd.doc);
                 logger.info(doc.get("nome"));
-                logger.info(explicacao.toString());
+                //logger.info(explicacao.toString());
             }
             //
             logger.info("Quantidade de itens: " + docs.totalHits);

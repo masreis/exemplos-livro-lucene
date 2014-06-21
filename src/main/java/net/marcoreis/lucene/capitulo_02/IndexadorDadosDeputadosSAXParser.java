@@ -2,6 +2,7 @@ package net.marcoreis.lucene.capitulo_02;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
@@ -12,6 +13,7 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.IntField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
@@ -27,13 +29,14 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-public class IndexadorDadosDeputadosSAXParserToLucene extends DefaultHandler {
+public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
     public static final String DIRETORIO_INDICE_LEGISLATIVO = System
-            .getProperty("user.home") + "/livro-lucene/capitulo-02-exemplo-03";
-    private static String NOME_ARQUIVO_DADOS = System.getProperty("user.home")
-            + "/Dropbox/Autoria/book-lucene/ObterDeputados.xml";
+            .getProperty("user.home")
+            + "/livro-lucene/indice-capitulo-02-exemplo-03";
+    private static InputStream ARQUIVO_DADOS = IndexadorDadosDeputadosSAXParser.class
+            .getClassLoader().getResourceAsStream("dados/ObterDeputados.xml");
     private static Logger logger = Logger
-            .getLogger(IndexadorDadosDeputadosSAXParserToLucene.class);
+            .getLogger(IndexadorDadosDeputadosSAXParser.class);
     private StringBuilder content = new StringBuilder();
     private IndexWriter writer;
     private Document parlamentar;
@@ -103,17 +106,17 @@ public class IndexadorDadosDeputadosSAXParserToLucene extends DefaultHandler {
             //
             parlamentar = null;
         } else if (qName.equals("ideCadastro")) {
-            parlamentar.add(new StringField("ideCadastro", content.toString(),
-                    Store.YES));
+            parlamentar.add(new IntField("ideCadastro", Integer
+                    .parseInt(content.toString()), Store.YES));
         } else if (qName.equals("condicao")) {
             parlamentar.add(new StringField("condicao", content.toString(),
                     Store.YES));
         } else if (qName.equals("matricula")) {
-            parlamentar.add(new StringField("matricula", content.toString(),
-                    Store.YES));
+            parlamentar.add(new IntField("matricula", Integer.parseInt(content
+                    .toString()), Store.YES));
         } else if (qName.equals("idParlamentar")) {
-            parlamentar.add(new StringField("idParlamentar",
-                    content.toString(), Store.YES));
+            parlamentar.add(new IntField("idParlamentar", Integer
+                    .parseInt(content.toString()), Store.YES));
         } else if (qName.equals("nome")) {
             parlamentar
                     .add(new TextField("nome", content.toString(), Store.YES));
@@ -144,7 +147,7 @@ public class IndexadorDadosDeputadosSAXParserToLucene extends DefaultHandler {
         SAXParserFactory factory = SAXParserFactory.newInstance();
         factory.setNamespaceAware(true);
         SAXParser parser = factory.newSAXParser();
-        parser.parse(new File(NOME_ARQUIVO_DADOS), this);
+        parser.parse(ARQUIVO_DADOS, this);
         Assert.assertTrue(writer.numDocs() > 0);
     }
 }

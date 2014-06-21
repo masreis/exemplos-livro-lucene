@@ -30,7 +30,7 @@ public class IndexadorArquivosLocais {
     private static String DIRETORIO_DOCUMENTOS = System
             .getProperty("user.home") + "/Dropbox/Autoria/posts";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
-            + "/livro-lucene/capitulo-02-exemplo-01";
+            + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
             .getLogger(IndexadorArquivosLocais.class);
     private IndexWriter writer;
@@ -52,7 +52,7 @@ public class IndexadorArquivosLocais {
 
     @Test
     public void indexar() throws IOException, TikaException {
-        processarDiretorio(new File(DIRETORIO_DOCUMENTOS));
+        indexarDiretorio(new File(DIRETORIO_DOCUMENTOS));
         Assert.assertTrue(writer.numDocs() > 0);
     }
 
@@ -65,12 +65,12 @@ public class IndexadorArquivosLocais {
      * @throws IOException
      * 
      */
-    private void processarDiretorio(File diretorio) throws IOException,
+    private void indexarDiretorio(File diretorio) throws IOException,
             TikaException {
         File[] arquivosParaIndexar = diretorio.listFiles();
         for (File arquivo : arquivosParaIndexar) {
             if (arquivo.isDirectory()) {
-                processarDiretorio(arquivo);
+                indexarDiretorio(arquivo);
             } else if (arquivo.isFile()) {
                 indexarArquivo(arquivo);
             }

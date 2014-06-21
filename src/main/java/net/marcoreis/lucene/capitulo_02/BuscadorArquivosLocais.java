@@ -19,7 +19,7 @@ import org.apache.lucene.util.Version;
 
 public class BuscadorArquivosLocais {
     private static String diretorioIndice = System.getProperty("user.home")
-            + "/livro-lucene/indice-capitulo-02";
+            + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
             .getLogger(BuscadorArquivosLocais.class);
 
@@ -27,7 +27,7 @@ public class BuscadorArquivosLocais {
         BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
         String consulta = "";
         consulta = "dataAtualizacao:[2013-01-31 TO 2013-08-27]";
-        consulta = "conteudo:java";
+        consulta = "nome:Bom*";
         buscador.buscar(consulta);
     }
 
@@ -40,18 +40,15 @@ public class BuscadorArquivosLocais {
             // Query
             QueryParser parser = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
-            parser.setDefaultOperator(Operator.AND);
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);
+            logger.info("Quantidade de itens: " + docs.totalHits);
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                logger.info("Arquivo: " + doc.get("dataAtualizacao") + " - "
-                        + doc.get("caminho"));
+                logger.info("Arquivo: " + doc.get("nome"));
             }
             //
-            logger.info("Quantidade de itens: " + docs.totalHits);
-            diretorio.close();
             reader.close();
         } catch (Exception e) {
             logger.error(e);
