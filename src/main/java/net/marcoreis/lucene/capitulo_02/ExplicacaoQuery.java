@@ -18,7 +18,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 public class ExplicacaoQuery {
-    private static String diretorioIndice = System.getProperty("user.home")
+    private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02";
     private static final Logger logger = Logger
             .getLogger(ExplicacaoQuery.class);
@@ -32,7 +32,7 @@ public class ExplicacaoQuery {
 
     public void buscar(String consulta) {
         try {
-            Directory diretorio = FSDirectory.open(new File(diretorioIndice));
+            Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
             System.out.println(reader.numDocs());

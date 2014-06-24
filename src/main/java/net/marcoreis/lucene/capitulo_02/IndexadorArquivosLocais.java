@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -38,6 +39,7 @@ public class IndexadorArquivosLocais {
 
     @Before
     public void inicializar() throws IOException {
+        FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
         Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
         Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
         IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
@@ -92,7 +94,7 @@ public class IndexadorArquivosLocais {
         Document doc = new Document();
         //
         Date dataAtualizacao = new Date(arquivo.lastModified());
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         String dataArquivoFormatada = sdf.format(dataAtualizacao);
         String textoArquivo = extrator.parseToString(new FileInputStream(
                 arquivo));

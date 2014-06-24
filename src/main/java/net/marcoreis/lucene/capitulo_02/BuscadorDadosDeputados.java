@@ -8,6 +8,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.Explanation;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -17,8 +18,8 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 public class BuscadorDadosDeputados {
-    private static String diretorioIndice = System.getProperty("user.home")
-            + "/livro-lucene/indice-capitulo-02-exemplo-03";
+    private static String DIRETORIO_INDICE = System.getProperty("user.home")
+            + "/livro-lucene/indice-capitulo-02-exemplo-02";
     private static final Logger logger = Logger
             .getLogger(BuscadorDadosDeputados.class);
 
@@ -26,13 +27,22 @@ public class BuscadorDadosDeputados {
         BuscadorDadosDeputados buscador = new BuscadorDadosDeputados();
         String consulta = "";
         consulta = "comissao:(\"rio de janeiro\")";
-        // consulta = "uf:rj";
+        consulta = "nome:alves";
+        consulta = "fone:(3215?5202)";
+        consulta = "gabinete:543";
+        consulta = "comissao:pais~1";
+        consulta = "nome:lucio~1";
+        consulta = "nome:wellington~";
+        consulta = "nome:rafael~";
+        consulta = "nome:artur~0";
+        consulta = "nome:luis~1";
+        consulta = "comissao:\"reforma proposta\"~10";
         buscador.buscar(consulta);
     }
 
     public void buscar(String consulta) {
         try {
-            Directory diretorio = FSDirectory.open(new File(diretorioIndice));
+            Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
             logger.info("Total de deputados indexados: " + reader.maxDoc());
@@ -42,14 +52,15 @@ public class BuscadorDadosDeputados {
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);
-            logger.info("Quantidade de itens: " + docs.totalHits);
+            logger.info("Quantidade de itens encontrados: " + docs.totalHits);
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                logger.info("==================");
+                Explanation explicacao = buscador.explain(query, sd.doc);
+                // logger.info(explicacao.toString());
                 logger.info(doc.get("nome"));
                 String[] comissoes = doc.getValues("comissao");
                 for (String comissao : comissoes) {
-                    // logger.info(comissao);
+                     logger.info(comissao);
                 }
             }
             //

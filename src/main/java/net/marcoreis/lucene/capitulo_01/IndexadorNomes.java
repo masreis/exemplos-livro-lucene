@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -22,15 +23,16 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class IndexadorNomes {
-    private static InputStream caminhoArquivo = IndexadorNomes.class
+    private static InputStream ARQUIVO_DADOS = IndexadorNomes.class
             .getClassLoader().getResourceAsStream("dados/nomes-teste.csv");
-    private static String diretorioIndice = System.getProperty("user.home")
+    private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-01";
     private IndexWriter writer;
 
     @Before
     public void inicializar() throws IOException {
-        Directory diretorio = FSDirectory.open(new File(diretorioIndice));
+        FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
+        Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
         Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
         IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
                 analyzer);
@@ -45,7 +47,7 @@ public class IndexadorNomes {
     @Test
     public void indexar() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(
-                caminhoArquivo));
+                ARQUIVO_DADOS));
         String linha = null;
         while ((linha = br.readLine()) != null) {
             Document doc = new Document();
@@ -53,7 +55,7 @@ public class IndexadorNomes {
             writer.addDocument(doc);
         }
         br.close();
-        Assert.assertTrue(writer.numDocs() > 0);
+        Assert.assertTrue(writer.numDocs() == 10);
     }
 
 }
