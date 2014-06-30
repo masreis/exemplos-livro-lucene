@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicoes>
+  <proposicao>
+    <id>614584</id>
+    <nome>SBR 1/2014 CCJC =&gt; SBT 4 CFT =&gt; PLP 23/2007</nome>
+    <tipoProposicao>
+      <id>709</id>
+      <sigla>SBR</sigla>
+      <nome>Subemenda de Relator</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2014 19:58:00</datApresentacao>
+    <txtEmenta>SUBEMENDA DE REDAÇÃO No
+Dê-se à ementa do projeto a seguinte redação:
+Acrescenta parágrafos ao artigo 195, da Lei nº 5.172, de 25 de outubro de 1966, Código Tributário Nacional, fixando prazo para mínimo para conservação de documento nos arquivos dos órgãos da Fazenda Pública, e dá outras providências.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gladson Cameli</txtNomeAutor>
+      <idecadastro>141446</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>936</id>
+      <descricao>Aguardando Providências Internas</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614585</id>
+    <nome>SBR 2/2014 CCJC =&gt; SBT 4 CFT =&gt; PLP 23/2007</nome>
+    <tipoProposicao>
+      <id>709</id>
+      <sigla>SBR</sigla>
+      <nome>Subemenda de Relator</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2014 19:58:00</datApresentacao>
+    <txtEmenta>SUBEMENDA DE REDAÇÃO No
+Acrescente-se ao final do art. 195 da Lei nº 5.172, de 25 de outubro de 1966, Código Tributário Nacional, na redação dada pelo Substitutivo, a expressão "(NR)".
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gladson Cameli</txtNomeAutor>
+      <idecadastro>141446</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>936</id>
+      <descricao>Aguardando Providências Internas</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

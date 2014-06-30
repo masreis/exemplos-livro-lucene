@@ -14,9 +14,7 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.Field.Index;
 import org.apache.lucene.document.Field.Store;
-import org.apache.lucene.document.Field.TermVector;
 import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.IntField;
 import org.apache.lucene.document.StringField;
@@ -119,7 +117,6 @@ public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
             } catch (IOException e) {
                 logger.error(e);
             }
-            //
             parlamentar = null;
         } else if (qName.equals("ideCadastro")) {
             // O valor da tag está guardado em content depois de passar pelo
@@ -168,7 +165,8 @@ public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
         } else if (qName.equals("comissao")) {
             TextField comissao = new TextField("comissao", content.toString(),
                     Store.YES);
-            //
+            parlamentar.add(comissao);
+            // Para habilitar o highlight temos que armazenar o term vector
             FieldType ft = new FieldType();
             ft.setIndexed(true);
             ft.setStored(true);
@@ -176,7 +174,7 @@ public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
             ft.setStoreTermVectors(true);
             ft.setStoreTermVectorOffsets(true);
             ft.setStoreTermVectorPositions(true);
-            Field f = new Field("comissao", content.toString(), ft);
+            Field f = new Field("comissaoHL", content.toString(), ft);
             //
             parlamentar.add(f);
         }

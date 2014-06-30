@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicoes>
+  <proposicao>
+    <id>618651</id>
+    <nome>REP 29/2014</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2014 10:23:00</datApresentacao>
+    <txtEmenta>Representação em face do Conselho Federal de Contabilidade.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Edson dos Santos Marques</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2014 11:39:00</datDespacho>
+      <txtDespacho>Numere-se, publique-se e, após, devolva-se à Comissão de Educação.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2009</codOrgaoEstado>
+        <siglaOrgaoEstado>CE        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616685</id>
+    <nome>REP 28/2014</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 10:09:00</datApresentacao>
+    <txtEmenta>REPRESENTAÇÃO com Fundamentação nos arts. 21 e 73, XIII, do Regimento Interno da Câmara dos Deputados; e art. 116, incisos II e XI, da Lei 8.112/90.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>615609</id>
+    <nome>REP 27/2014</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2014 21:14:00</datApresentacao>
+    <txtEmenta>Representa em face do Senhor Deputado LUIZ ARGÔLO, em razão de procedimento incompatível com o decoro parlamentar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014 14:51:00</datDespacho>
+      <txtDespacho>Despacho exarado no Ofício n. 32/14, do Senhor Deputado RICARDO IZAR, Presidente do Conselho de Ética e Decoro Parlamentar, conforme o seguinte teor: “Defiro. Publique-se. Oficie-se”.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>614631</codProposicaoPrincipal>
+        <proposicaoPrincipal>REP 26/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614631</id>
+    <nome>REP 26/2014</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2014 10:21:00</datApresentacao>
+    <txtEmenta>Representação formulada pelo Partido Socialismo e Liberdade - PSOL em desfavor Deputado LUIZ ARGÔLO (SD/BA) em razão de suposto conduta incompatível com o decoro parlamentar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Partido Socialismo e Liberdade</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014</datDespacho>
+      <txtDespacho>Despacho exarado no Ofício n. 32/14, do Senhor Deputado RICARDO IZAR, Presidente do Conselho de Ética e Decoro Parlamentar, conforme o seguinte teor: “Defiro. Publique-se. Oficie-se”.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611593</id>
+    <nome>REP 25/2014</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/4/2014 18:57:00</datApresentacao>
+    <txtEmenta>Apresenta, com base no art. 55, inciso II e § 2º da Constituição Federal e art. 4º, incisos II e VI, do Código de Ética e Decoro Parlamentar da Câmara dos Deputados - Resolução nº 25, de 2001, e em matérias jornalísticas relativas a investigações da Policia Federal que culminaram com a deflagração da operação "Lava Jato", representação em desfavor do Deputado Federal ANDRÉ VARGAS, do Partido dos Trabalhadores.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Partido da Social Democracia Brasileira</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2014 17:30:00</datDespacho>
+      <txtDespacho>Numere-se, publique-se e encaminhe-se ao Conselho de Ética e Decoro Parlamentar.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

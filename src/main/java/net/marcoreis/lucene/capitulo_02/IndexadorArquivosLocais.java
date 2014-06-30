@@ -29,7 +29,7 @@ import org.junit.Test;
 
 public class IndexadorArquivosLocais {
     private static String DIRETORIO_DOCUMENTOS = System
-            .getProperty("user.home") + "/Dropbox/Autoria/posts";
+            .getProperty("user.home") + "/Dropbox/Autoria/artigos-tech";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger

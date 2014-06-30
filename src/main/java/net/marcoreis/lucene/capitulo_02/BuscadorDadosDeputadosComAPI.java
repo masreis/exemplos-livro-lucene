@@ -9,6 +9,7 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
@@ -29,7 +30,7 @@ public class BuscadorDadosDeputadosComAPI {
     //
     public static void main(String[] args) throws IOException {
         BuscadorDadosDeputadosComAPI buscador = new BuscadorDadosDeputadosComAPI();
-        buscador.buscarPorUF();
+        buscador.buscarTermQueryUF();
     }
 
     public BuscadorDadosDeputadosComAPI() throws IOException {
@@ -38,7 +39,7 @@ public class BuscadorDadosDeputadosComAPI {
         buscador = new IndexSearcher(reader);
     }
 
-    public void buscarPorUF() {
+    public void buscarTermQueryUF() {
         try {
             Term termo = new Term("uf", "DF");
             TermQuery query = new TermQuery(termo);
@@ -55,4 +56,22 @@ public class BuscadorDadosDeputadosComAPI {
         }
     }
 
+    public void buscarPhraseQuery() {
+        try {
+            Term termo = new Term("comissao", "saúde");
+            
+            PhraseQuery query = new PhraseQuery();
+            query.add(termo);
+            TopDocs docs = buscador.search(query, 100);
+            logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+            for (ScoreDoc sd : docs.scoreDocs) {
+                Document doc = buscador.doc(sd.doc);
+                logger.info(doc.get("nome"));
+            }
+            //
+            reader.close();
+        } catch (Exception e) {
+            logger.error(e);
+        }
+    }
 }

@@ -28,7 +28,7 @@ public class BuscadorArquivosLocais {
         consulta = "dataAtualizacao:[2012 TO 2013]";
         consulta = "conteudo:rafael~2";
         consulta = "dataAtualizacao:[2014-05-01 TO 2014-05-30]";
-        consulta = "conteudo:java";
+        consulta = "conteudo:(rede social)";
         buscador.buscar(consulta);
     }
 

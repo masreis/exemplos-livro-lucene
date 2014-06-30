@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicoes>
+  <proposicao>
+    <id>618708</id>
+    <nome>PRC 254/2014</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>254</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2014 15:54:00</datApresentacao>
+    <txtEmenta>Regulamenta o uso da palavra pelos Líderes durante as sessões ordinárias e extraordinárias, alterando o §1º do art. 66 do Regimento Interno.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onofre Santo Agostini</txtNomeAutor>
+      <idecadastro>160563</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2014 15:20:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-25/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>107939</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 25/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617959</id>
+    <nome>PRC 253/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>253</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/6/2014 16:57:20</datApresentacao>
+    <txtEmenta>Dispõe sobre a indicação dos membros do Conselho Nacional de Direitos Humanos pelo Presidente da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/6/2014 22:44:00</datDespacho>
+      <txtDespacho>Às Comissões de Mesa Diretora da Câmara dos Deputados e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614180</id>
+    <nome>PRC 252/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>252</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/5/2014 20:20:00</datApresentacao>
+    <txtEmenta>Institui o Selo "Jorge Amado" de Empresa Amiga da Cultura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alice Portugal</txtNomeAutor>
+      <idecadastro>74057</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014 11:01:00</datDespacho>
+      <txtDespacho>Às Comissões de Mesa Diretora da Câmara dos Deputados e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613948</id>
+    <nome>PRC 251/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>251</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/4/2014 17:54:27</datApresentacao>
+    <txtEmenta>Altera o art. 41 do Regimento Interno, instituindo prazos para a designação de relatores nas comissões. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irajá Abreu</txtNomeAutor>
+      <idecadastro>81232</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2014 10:20:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-23/2007.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>343769</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 23/2007</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613806</id>
+    <nome>PRC 250/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>250</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/4/2014 09:09:51</datApresentacao>
+    <txtEmenta>Modifica a denominação da Biblioteca Pedro Aleixo para Paulo Freire.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Newton Lima</txtNomeAutor>
+      <idecadastro>160657</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2014 10:20:00</datDespacho>
+      <txtDespacho>À Comissão de Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613369</id>
+    <nome>PRC 249/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>249</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2014 09:00:00</datApresentacao>
+    <txtEmenta>Altera o inciso III do art. 32 do Regimento Interno da Câmara dos Deputados. </txtEmenta>
+    <txtExplicacaoEmenta>Altera a denominação da Comissão de Ciência e Tecnologia, Comunicação e Informática, bem como amplia  sua competência. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Newton Lima</txtNomeAutor>
+      <idecadastro>160657</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/5/2014 16:28:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-142/2004.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>250132</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 142/2004</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613123</id>
+    <nome>PRC 248/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>248</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2014 14:08:00</datApresentacao>
+    <txtEmenta>Altera o inciso III do art. 154 do Regimento Interno da Câmara dos Deputados, conferindo às comissões competência para requerer urgência em relação à tramitação de proposições sobre as quais já tenham emitido parecer quanto ao mérito. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandra Rosado</txtNomeAutor>
+      <idecadastro>74039</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611455</id>
+    <nome>PRC 247/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>247</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2014 16:07:17</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo ao art. 187 do Regimento Interno para fixar em sessenta minutos o prazo para proclamação do resultado das votações nominais.</txtEmenta>
+    <txtExplicacaoEmenta>Resolução nº 17, de 1989.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Augusto Coutinho</txtNomeAutor>
+      <idecadastro>160665</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/4/2014 14:29:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-17/2007.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>343270</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 17/2007</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611197</id>
+    <nome>PRC 246/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>246</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2014 20:18:00</datApresentacao>
+    <txtEmenta>Declara a ilegitimidade das eleições indiretas para Presidente da República no Colégio Eleitoral do Congresso Nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>14</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 11:40:00</datDespacho>
+      <txtDespacho>Designação do Relator.Ao Senhor Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>610732</id>
+    <nome>PRC 245/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>245</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/4/2014 17:38:24</datApresentacao>
+    <txtEmenta>Institui o Prêmio Troféu Mulher Negra Claudia Silva Ferreira.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Janete Rocha Pietá</txtNomeAutor>
+      <idecadastro>141455</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 11:40:00</datDespacho>
+      <txtDespacho>Designação do Relator.Ao Senhor Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>610518</id>
+    <nome>PRC 244/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>244</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/3/2014 17:02:16</datApresentacao>
+    <txtEmenta>Institui o Grupo Parlamentar Brasil-Cazaquistão e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alfredo Sirkis</txtNomeAutor>
+      <idecadastro>116663</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/4/2014 10:54:00</datDespacho>
+      <txtDespacho>À Comissão de Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609606</id>
+    <nome>PRC 243/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>243</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2014 14:50:00</datApresentacao>
+    <txtEmenta>Institui o Prêmio Câmara Cascudo para a Promoção do Folclore Brasileiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Francisco Chagas</txtNomeAutor>
+      <idecadastro>172029</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>5</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2014 09:40:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados e à Comissão deConstituição e Justiça e de Cidadania (Art. 54 RICD).Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609351</id>
+    <nome>PRC 242/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>242</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/3/2014 16:12:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 39, do Regimento Interno da Câmara dos Deputados, para definir o funcionamento das Comissões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2014 09:40:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados. Proposição Sujeita à Apreciação do Plenário Regime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608521</id>
+    <nome>PRC 241/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>241</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2014 15:53:49</datApresentacao>
+    <txtEmenta>Altera o inciso VI, do art. 32, do Regimento Interno da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a denominação  da Comissão de Desenvolvimento Econômico, Indústria e Comércio para Comissão de Desenvolvimento Econômico, Indústria e Comércio e Serviços.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Laercio Oliveira</txtNomeAutor>
+      <idecadastro>151208</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2014 10:46:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608368</id>
+    <nome>PRC 240/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>240</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2014 13:49:59</datApresentacao>
+    <txtEmenta>Altera o art. 105 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nª 17, de 1989, para incluir as proposições de autoria das Comissões entre aquelas que não serão arquivadas ao final da legislatura. </txtEmenta>
+    <txtExplicacaoEmenta>Altera a Resolução nº 17, de 1989.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandra Rosado</txtNomeAutor>
+      <idecadastro>74039</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/3/2014 16:30:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-5/2007.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>340552</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 5/2007</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607678</id>
+    <nome>PRC 239/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>239</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/3/2014 18:08:00</datApresentacao>
+    <txtEmenta>Denomina Luiz Gushiken o Plenário da Comissão de Trabalho e Serviço Público da Câmara dos Deputados de Deputados.
+
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Teixeira</txtNomeAutor>
+      <idecadastro>141488</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/3/2014 14:35:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606717</id>
+    <nome>PRC 238/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>238</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/2/2014 11:11:52</datApresentacao>
+    <txtEmenta>Altera o inciso IX e revoga o inciso XXI do artigo 32 do Regimento Interno da Câmara dos Deputados, para promover a unificação da Comissão de Educação e da Comissão de Cultura da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcelo Almeida</txtNomeAutor>
+      <idecadastro>146613</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2014 15:32:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e deCidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606503</id>
+    <nome>PRC 237/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>237</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/2/2014 13:37:00</datApresentacao>
+    <txtEmenta>Altera o inciso XIX e acrescenta inciso XXII ao art. 32 do Regimento Interno da Câmara dos Deputados, para desmembrar as competências da atual Comissão de Turismo e Desporto, e dá outras providências.
+
+NOVA EMENTA: Altera o inciso XIX e acrescenta o inciso XXII ao art. 32 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para desmembrar as competências da atual Comissão de Turismo e Desporto, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera também o art. 21-G do Regimento Interno, para uniformizar o desempenho do mandato dos membros da Corregedoria Parlamentar com os demais órgãos auxiliares da Mesa Diretora.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/2/2014 18:13:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Prioridade.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>605723</id>
+    <nome>PRC 236/2014</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>236</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/2/2014 09:56:00</datApresentacao>
+    <txtEmenta>Institui a Medalha de Honra ao Mérito Hélio Beltrão a ser concedida a pessoas que se destacarem no combate à burocracia do Estado e simplificação dos procedimentos administrativos no âmbito do setor público e privado e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Márcio França</txtNomeAutor>
+      <idecadastro>141497</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/2/2014</datDespacho>
+      <txtDespacho>Designação de Relator. Ao Senhor Deputado André Vargas, Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

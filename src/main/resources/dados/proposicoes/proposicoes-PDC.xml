@@ -1,0 +1,3280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proposicoes>
+  <proposicao>
+    <id>619195</id>
+    <nome>PDC 1498/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1498</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/6/2014 15:51:52</datApresentacao>
+    <txtEmenta>Susta a Resolução nº 3, de 20 de junho de 2014, que Institui Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Colbert Martins</txtNomeAutor>
+      <idecadastro>74230</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100001</codOrgaoEstado>
+        <siglaOrgaoEstado>SECAP(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>619015</id>
+    <nome>PDC 1497/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1497</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/6/2014 16:52:54</datApresentacao>
+    <txtEmenta>Susta a aplicação do art 1º da instrução normativa nº 14 de 22 de abril de 2013, do Ministro de Estado da Agricultura, Pecuaria e Abastecimento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bruno Araújo</txtNomeAutor>
+      <idecadastro>141394</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2014 15:20:00</datDespacho>
+      <txtDespacho>Às Comissões de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618931</id>
+    <nome>PDC 1496/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1496</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/6/2014 14:39:00</datApresentacao>
+    <txtEmenta>Susta a aplicação das Resoluções nº 493, de 05 de junho de 2014; n° 473, de 11 de fevereiro de 2014; n° 444, de 25 de junho de 2013, do Conselho Nacional de Trânsito - CONTRAN.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Osmar Serraglio</txtNomeAutor>
+      <idecadastro>73463</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2014 15:20:00</datDespacho>
+      <txtDespacho>Apense-se ao PDC-1263/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Urgência art. 155 RICD</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>591120</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1263/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618686</id>
+    <nome>PDC 1495/2014</nome>
+    <tipoProposicao>
+      <id>408</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo.</nome>
+    </tipoProposicao>
+    <numero>1495</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2014 14:44:00</datApresentacao>
+    <txtEmenta>Susta a aplicação do disposto no Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bernardo Santana de Vasconcellos</txtNomeAutor>
+      <idecadastro>109152</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2014 11:38:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1491/2014. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>617737</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1491/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618517</id>
+    <nome>PDC 1494/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1494</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/6/2014 14:23:10</datApresentacao>
+    <txtEmenta>Susta os efeitos do Decreto federal nº 8.243, de 23 de maio de 2014, que "institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências". </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alfredo Kaefer</txtNomeAutor>
+      <idecadastro>141454</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2014 11:38:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1491/2014. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>617737</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1491/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618502</id>
+    <nome>PDC 1493/2014</nome>
+    <tipoProposicao>
+      <id>408</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo.</nome>
+    </tipoProposicao>
+    <numero>1493</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/6/2014 12:48:00</datApresentacao>
+    <txtEmenta>Susta os efeitos do § 1º do art. 73 da Resolução Normativa nº 414, de 9 de setembro de 2010, da Agência Nacional de Energia Elétrica (Aneel).</txtEmenta>
+    <txtExplicacaoEmenta>Sobre aquisição e instalação de medidores de energia elétrica.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal - Magno Malta</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2014 11:38:00</datDespacho>
+      <txtDespacho>Às Comissões de Minas e Energia e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD). Apense-se a este o PDC-411/2007. Esclareço, por oportuno, que a matéria seguirá direto para o Plenário, posto que o PDC 411/07 já foi apreciado pelas Comissões de Minas e Energia e de Constituição e Justiça e de Cidadania.. Regime de tramitação: PrioridadeProposição Sujeita à Apreciação do Plenário</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617824</id>
+    <nome>PDC 1492/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1492</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/6/2014 18:43:12</datApresentacao>
+    <txtEmenta>Susta o Decreto nº 8.243, de 23 de maio de 2014, que "Institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/6/2014 16:36:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1491/2014. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2015</codOrgaoEstado>
+        <siglaOrgaoEstado>CTASP     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>617737</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1491/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617737</id>
+    <nome>PDC 1491/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1491</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/5/2014 14:57:00</datApresentacao>
+    <txtEmenta>Susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/6/2014 16:36:00</datDespacho>
+      <txtDespacho>Às Comissões de Trabalho, de Administração e Serviço Público e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2015</codOrgaoEstado>
+        <siglaOrgaoEstado>CTASP     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617448</id>
+    <nome>PDC 1490/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1490</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/5/2014 19:11:46</datApresentacao>
+    <txtEmenta>Susta a Portaria 415, de 21 de maio de 2014, "que inclui o procedimento interrupção da gestação/antecipação terapêutica do parto previstas em lei e todos os seus atributos na Tabela de Procedimentos, Medicamentos, Órteses/Próteses e Materiais Especiais do SUS, por exorbitar o exercício do poder regulamentar, nos termos do art. 49, V, da Constituição Federal"</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Andre Moura</txtNomeAutor>
+      <idecadastro>160543</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2014 17:14:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1487/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>617025</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1487/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617396</id>
+    <nome>PDC 1489/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1489</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/5/2014 17:31:29</datApresentacao>
+    <txtEmenta>Convoca plebiscito sobre a redução da maioridade penal para dezesseis anos de idade, mediante alteração do art. 228 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Rodrigues</txtNomeAutor>
+      <idecadastro>160571</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2014 17:16:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1002/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>143578</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1002/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617032</id>
+    <nome>PDC 1488/2014</nome>
+    <tipoProposicao>
+      <id>408</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo.</nome>
+    </tipoProposicao>
+    <numero>1488</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2014 15:05:00</datApresentacao>
+    <txtEmenta>Susta os efeitos da Nota Técnica nº 30/2012/CGNOR/DENOP/SEGEP/MP.</txtEmenta>
+    <txtExplicacaoEmenta>Sobre contagem de tempo para efeito de estágio probatório.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Rubem Santiago</txtNomeAutor>
+      <idecadastro>74047</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/5/2014 15:23:00</datDespacho>
+      <txtDespacho>Às Comissões de Trabalho, de Administração e Serviço Público e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2015</codOrgaoEstado>
+        <siglaOrgaoEstado>CTASP     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617025</id>
+    <nome>PDC 1487/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1487</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2014 14:41:00</datApresentacao>
+    <txtEmenta>Susta a eficácia da Portaria nº 415, de 21 de maio de 2014 do Secretário de Atenção à Saúde do Ministério da Saúde, que inclui o procedimento interrupção da gestação/ antecipação terapêutica do parto previstas em lei e todos os seus atributos na Tabela de Procedimentos, Medicamentos, Órteses e Materiais Especiais do SUS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/5/2014 15:23:00</datDespacho>
+      <txtDespacho>Às Comissões de Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616763</id>
+    <nome>PDC 1486/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1486</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:57:26</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Televisão Brasil Limitada para explorar serviço de radiodifusão de sons e imagens, no Município de São José dos Campos, Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616762</id>
+    <nome>PDC 1485/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1485</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:56:32</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à TV Oeste Paulista Ltda. para explorar serviço de radiodifusão de sons e imagens, no Município de Marília, Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616760</id>
+    <nome>PDC 1484/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1484</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:55:02</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Capra-Publicidade e Promoções Ltda para explorar serviço de radiodifusão de sons e imagens, no Município de Bento Gonçalves, Estado do Rio Grande do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616759</id>
+    <nome>PDC 1483/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1483</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:54:24</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga autorização ao Estado do Amazonas, por intermédio da Assembleia Legislativa do Estado do Amazonas, a executar serviço de radiodifusão de sons e imagens, com fins exclusivamente educativos, no Município de Manaus, Estado do Amazonas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616758</id>
+    <nome>PDC 1482/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1482</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:53:52</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Fundação Vila Jaguary para executar serviço de radiodifusão de sons e imagens, com fins exclusivamente educativos, no Município de Jaguariúna, Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616756</id>
+    <nome>PDC 1481/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1481</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:53:12</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Martins Fayad Radiodifusão Ltda para explorar serviço de radiodifusão de sons e imagens, no Município de Nova Esperança, Estado do Paraná.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616755</id>
+    <nome>PDC 1480/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1480</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:52:37</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à TV Topázio Comunicações Ltda. para explorar serviço de radiodifusão de sons e imagens, no Município de Passos, Estado de Minas Gerais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616754</id>
+    <nome>PDC 1479/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1479</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:51:58</datApresentacao>
+    <txtEmenta>Aprova o ato que autoriza a Associação Comunitária Para o Desenvolvimento Social de Itapuca a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Itapuca, Estado do Rio Grande do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616752</id>
+    <nome>PDC 1478/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1478</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:51:02</datApresentacao>
+    <txtEmenta>Aprova o ato que renova a concessão outorgada à Rádio Cultura de Poços de Caldas Ltda. para explorar serviço de radiodifusão sonora em onda média, no Município de Poços de Caldas, Estado de Minas Gerais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616751</id>
+    <nome>PDC 1477/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1477</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 14:50:04</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga permissão à KRTV - Comunicações Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de Iconha, Estado do Espírito Santo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR). Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>615037</id>
+    <nome>PDC 1476/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1476</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2014 17:43:26</datApresentacao>
+    <txtEmenta>Susta os efeitos da Resolução nº 34/89 do Conselho Nacional de Defesa do Consumidor, que proíbe ao comerciante estabelecer diferença de preço de venda quando o pagamento ocorrer por meio de cartão de crédito.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Guilherme Campos</txtNomeAutor>
+      <idecadastro>141447</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/5/2014 15:21:00</datDespacho>
+      <txtDespacho>Às Comissões de Defesa do Consumidor e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614639</id>
+    <nome>PDC 1475/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1475</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/5/2014 10:39:08</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga permissão à Inhandava Promoções Ltda. para explorar serviço de radiodifusão sonora em frequência modulada, no Município de São José do Ouro, Estado do Rio Grande do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2014 10:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614637</id>
+    <nome>PDC 1474/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1474</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/5/2014 10:38:21</datApresentacao>
+    <txtEmenta>Aprova o ato que autoriza a Associação Comunitária Desenvolver Sagradense - ASSCOM SAGRADENSE a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Sagrada Família, Estado do Rio Grande do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2014 10:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614481</id>
+    <nome>PDC 1473/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1473</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2014 16:59:06</datApresentacao>
+    <txtEmenta>Susta a eficácia da Instrução Normativa RFB n.º 1.453, de 24 de fevereiro de 2014, que altera a Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e as destinadas a outras entidades ou fundos, administradas pela Secretaria da Receita Federal do Brasil e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014 11:01:00</datDespacho>
+      <txtDespacho>Às Comissões de Finanças e Tributação (Mérito e Art. 54, RICD) e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613950</id>
+    <nome>PDC 1472/2014</nome>
+    <tipoProposicao>
+      <id>514</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Ministro do TCU</nome>
+    </tipoProposicao>
+    <numero>1472</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/4/2014 17:56:00</datApresentacao>
+    <txtEmenta>Escolhe o Senhor Bruno Dantas Nascimento para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, § 2º, inciso II, da Constituição Federal, e art. 105, inciso II, da Lei nº 8.443, de 1992.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613753</id>
+    <nome>PDC 1471/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1471</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2014 18:44:46</datApresentacao>
+    <txtEmenta>Susta a aplicação do Decreto nº 5.051, de 19 de abril de 2004, como objetivo de revogar a subscrição do Brasil à Convenção 169 da Organização Internacional do Trabalho (OIT).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Cesar Quartiero</txtNomeAutor>
+      <idecadastro>160668</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/5/2014 15:37:00</datDespacho>
+      <txtDespacho>Devolva-se a proposição, por contrariar o disposto no artigo 84, IV da Constituição Federal, c/c art. 137, § 1º, inciso II, alíneas "a" e "b", do RICD. Oficie-se ao Autor, sugerindo-lhe a forma de Indicação. Publique-se.Proposição Sujeita à Apreciação do Plenário</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613679</id>
+    <nome>PDC 1470/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1470</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2014 15:54:29</datApresentacao>
+    <txtEmenta>Susta o parágrafo único do art. 2º da Portaria nº 1.253, de 12 de novembro de 2013, do Ministério da  Saúde, que altera atributos de procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde. </txtEmenta>
+    <txtExplicacaoEmenta>Susta o dispositivo que prioriza o custeio de mamografias bilaterais de rastreamento para pacientes na faixa etária de cinquenta a sessenta e nove anos. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Renato Molling</txtNomeAutor>
+      <idecadastro>141527</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2014 10:20:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613463</id>
+    <nome>PDC 1469/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1469</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2014 15:32:38</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Televisão Altamar Ltda para explorar serviço de radiodifusão de sons e imagens, no Município de Rio do Sul, Estado de Santa Catarina.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613462</id>
+    <nome>PDC 1468/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1468</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2014 15:32:06</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Rede Brasíl de Radiodifusão Limitada para explorar serviço de radiodifusão de sons e imagens, no Município de São João da Barra, Estado do Rio de Janeiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613461</id>
+    <nome>PDC 1467/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1467</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2014 15:31:38</datApresentacao>
+    <txtEmenta>Aprova o ato que autoriza a Associação Comunitária dos Radioperadores Grupo Mercosul de Comunicação e Rádio Emissão a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Rio Negro, Estado do Paraná.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613291</id>
+    <nome>PDC 1466/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1466</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2014 19:36:37</datApresentacao>
+    <txtEmenta>Susta a aplicação da Resolução ANP nº 21, de 10 de abril de 2014, que estabelece os requisitos a serem cumpridos pelos detentores de direitos de Exploração e Produção de Petróleo e Gás Natural que executarão a técnica de Fraturamento Hidráulico em Reservatório Não Convencional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo Maia</txtNomeAutor>
+      <idecadastro>74693</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2014 17:33:00</datDespacho>
+      <txtDespacho>Às Comissões de Minas e Energia e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613009</id>
+    <nome>PDC 1465/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1465</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/4/2014 18:48:04</datApresentacao>
+    <txtEmenta>Susta a aplicação da Portaria Interministerial nº 419/2011 dos Ministérios do Meio Ambiente, da Justiça, da Cultura e da Saúde, publicada no Diário Oficial da União de 28 de outubro de 2011,  que versa sobre a atuação dos órgãos e entidades da Administração Pública Federal, envolvidos no licenciamento ambiental, tendo em vista a extrapolação de competência.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nilson Leitão</txtNomeAutor>
+      <idecadastro>166401</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2014 17:33:00</datDespacho>
+      <txtDespacho>Às Comissões de Direitos Humanos e Minorias; Meio Ambiente e Desenvolvimento Sustentável e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612605</id>
+    <nome>PDC 1464/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1464</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2014 17:22:00</datApresentacao>
+    <txtEmenta>Aprova a Programação Monetária para o 4º trimestre de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio; Finanças e Tributação (Mérito e Art. 54, RICD) e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>903</id>
+      <descricao>Aguardando Deliberação</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEIC     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612305</id>
+    <nome>PDC 1463/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1463</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2014 15:39:00</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à MMA Comunicações Ltda para explorar serviço de radiodifusão de sons e imagens, no Município de Sobradinho, Estado do Rio Grande do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014 10:41:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612304</id>
+    <nome>PDC 1462/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1462</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2014 15:37:00</datApresentacao>
+    <txtEmenta>Aprova o ato que renova a permissão outorgada à Rádio FM 104 Ltda. para executar serviço de radiodifusão sonora em frequência modulada, no Município de Cornélio Procópio, Estado do Paraná.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014 10:41:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612303</id>
+    <nome>PDC 1461/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1461</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2014 15:29:00</datApresentacao>
+    <txtEmenta>Aprova o ato que autoriza a Associação de Radiodifusão e Proteção Ambiental de Rio Azul a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Rio Azul, Estado do Paraná.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014 10:41:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612104</id>
+    <nome>PDC 1460/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1460</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2014 17:39:06</datApresentacao>
+    <txtEmenta>Susta os efeitos da Resolução nº 163 de 13 de março de 2014, do CONANDA - Conselho Nacional dos Direitos da Criança e do Adolescente</txtEmenta>
+    <txtExplicacaoEmenta>Susta os efeitos da resolução que dispõe sobre a abusividade do direcionamento de publicidade e de comunicação mercadológica à criança e ao adolescente. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Milton Monti</txtNomeAutor>
+      <idecadastro>74787</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014 10:41:00</datDespacho>
+      <txtDespacho>Às Comissões de Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611419</id>
+    <nome>PDC 1459/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1459</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2014 09:59:00</datApresentacao>
+    <txtEmenta>Aprova o ato que autoriza a Associação Ambientalista de Preservação da Reserva de Poços das Antas a executar, pelo prazo de dez anos, sem direito de exclusividade, serviço de radiodifusão comunitária no Município de Silva Jardim, Estado do Rio de Janeiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/4/2014 16:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611202</id>
+    <nome>PDC 1458/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1458</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2014 20:26:12</datApresentacao>
+    <txtEmenta>Susta os efeitos da Portaria Normativa nº 1, de 2010, do Ministério da Educação, publicada em 22 de janeiro de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>Portaria que veda, em qualquer hipótese, a concessão de financiamento por meio do FIES a cursos superiores ministrados na modalidade de ensino a distância (EaD).</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ângelo Agnolin</txtNomeAutor>
+      <idecadastro>160638</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/4/2014 10:17:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-534/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2009</codOrgaoEstado>
+        <siglaOrgaoEstado>CE        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>530469</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 534/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611176</id>
+    <nome>PDC 1457/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1457</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2014 19:39:02</datApresentacao>
+    <txtEmenta>Susta os efeitos da Resolução nº 01, de 22 de março de 1999, editada pelo Conselho Federal de Psicologia - CFP. </txtEmenta>
+    <txtExplicacaoEmenta>Resolução que estabelece normas de atuação para os psicólogos em relação à questão da orientação sexual.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pastor Eurico</txtNomeAutor>
+      <idecadastro>160642</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/4/2014 10:17:00</datDespacho>
+      <txtDespacho>Às Comissões de Direitos Humanos e Minorias; Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>950</id>
+      <descricao>Retirado pelo Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609522</id>
+    <nome>PDC 1456/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1456</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2014 09:48:41</datApresentacao>
+    <txtEmenta>Susta a Instrução Normativa nº 3, de 20 de março de 2014, publicada no Diário Oficial da União de 21 de março de 2014, que estabelece os requisitos fitossanitários para a importação de frutos de banana (Musa acuminata) (Categoria 3, classe 4)  produzidos no Equador.</txtEmenta>
+    <txtExplicacaoEmenta>Sustação, Instrução Normativa, Ministério da Agricultura Pecuária e Abastecimento, requisitos, importação, banana,  Equador.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marquezelli</txtNomeAutor>
+      <idecadastro>73553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2014 09:40:00</datDespacho>
+      <txtDespacho>Às Comissões de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609350</id>
+    <nome>PDC 1455/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1455</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/3/2014 16:11:00</datApresentacao>
+    <txtEmenta>Altera o Decreto nº 8.175, de 27 de dezembro de 2013, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF</txtEmenta>
+    <txtExplicacaoEmenta>Isenta os gastos com educação no exterior do aumento da alíquota do IOF. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/4/2014 10:30:00</datDespacho>
+      <txtDespacho>Devolva-se a proposição, por contrariar o disposto no artigo 84, IV da Constituição Federal, c/c art. 137, § 1º, inciso II, alíneas "a" e "b", do RICD. Oficie-se ao Autor, sugerindo-lhe a forma de Indicação. Publique-se.Proposição Sujeita à Apreciação do Plenário</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609077</id>
+    <nome>PDC 1454/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1454</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/3/2014 09:42:00</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à Fundação Raphael Montoro para executar serviço de radiodifusão de sons e imagens, com fins exclusivamente educativos, no Município de Araraquara, Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2014 10:46:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608138</id>
+    <nome>PDC 1453/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1453</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/3/2014 11:13:43</datApresentacao>
+    <txtEmenta>Aprova o ato que outorga concessão à SM Radiodifusão Ltda para explorar serviço de radiodifusão de sons e imagens, no Município de Cambuí, Estado de Minas Gerais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/3/2014 15:38:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608137</id>
+    <nome>PDC 1452/2014</nome>
+    <tipoProposicao>
+      <id>396</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo de Concessão, Renovação e Permissão de Radio/TV</nome>
+    </tipoProposicao>
+    <numero>1452</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/3/2014 11:12:44</datApresentacao>
+    <txtEmenta>Aprova o ato que renova a permissão outorgada à Rádio Ativa Comunicação Ltda. para executar  serviço de radiodifusão sonora em frequência modulada, no Município de Anápolis, Estado de Goiás.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>24</codRegime>
+      <txtRegime>Art. 223 - CF</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>7</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/3/2014 15:38:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação Conclusiva (Parecer 09/90 - CCJR)Regime de Tramitação: Art. 223 - CF</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607962</id>
+    <nome>PDC 1451/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1451</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 17:51:00</datApresentacao>
+    <txtEmenta>Susta a aplicação da Resolução nº 460, de 12 de novembro de 2013, do Conselho Nacional de Trânsito - CONTRAN, que altera a Resolução nº 425, de 27 de novembro de 2012, a qual dispõe sobre o exame de aptidão física e mental, a avaliação psicológica e o credenciamento das entidades públicas e privadas de que tratam o art. 147, I e §§ 1º a 4º, e o art. 148 do Código de Trânsito Brasileiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcelo Almeida</txtNomeAutor>
+      <idecadastro>146613</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/3/2014 14:35:00</datDespacho>
+      <txtDespacho>Às Comissões de Viação e Transportes e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607754</id>
+    <nome>PDC 1450/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1450</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/3/2014 20:49:00</datApresentacao>
+    <txtEmenta>Susta os efeitos da Portaria 1.253/13 do Ministério da Saúde, publicada em 12 de novembro de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ângelo Agnolin</txtNomeAutor>
+      <idecadastro>160638</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/3/2014 14:35:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607521</id>
+    <nome>PDC 1449/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1449</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/3/2014 11:14:20</datApresentacao>
+    <txtEmenta>Susta a aplicação da Portaria nº 1.253, de 12 de novembro de 2013, da Secretaria de Atenção à Saúde do Ministério da Saúde, que estabelece que mulheres entre 50 e 69 anos terão prioridade para fazer o procedimento de mamografia bilateral de rastreamento. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luis Carlos Heinze</txtNomeAutor>
+      <idecadastro>73483</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/3/2014 14:35:00</datDespacho>
+      <txtDespacho>Apense-se ao PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607485</id>
+    <nome>PDC 1448/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1448</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/2/2014 15:29:00</datApresentacao>
+    <txtEmenta>Declara a regularidade e adequação das Contas do Tribunal de Contas da União referentes ao exercício de 2009.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/3/2014 10:16:00</datDespacho>
+      <txtDespacho>Submeta-se ao Plenário nos termos dos art. 142 e 143 do Regimento Comum.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>910</id>
+      <descricao>Aguardando Encaminhamento</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606934</id>
+    <nome>PDC 1447/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1447</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/2/2014 12:32:14</datApresentacao>
+    <txtEmenta>Susta o item "Procedimento: 03.01.01.022-66 - Aconselhamento Genético", do Anexo III, da Portaria Nº 199, de 30 de janeiro de 2014, do Ministério da Saúde, que institui a Política Nacional de Atenção Integral às Pessoas com Doenças Raras, aprova as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde (SUS) e institui incentivos financeiros de custeio.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mara Gabrilli</txtNomeAutor>
+      <idecadastro>160565</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/3/2014 15:41:00</datDespacho>
+      <txtDespacho>Às Comissões de Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606608</id>
+    <nome>PDC 1446/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1446</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/2/2014 20:27:18</datApresentacao>
+    <txtEmenta>Susta a Resolução nº 1, de 12 de fevereiro de 2014, do Ministério da Saúde, que dispõe sobre a aplicação de penalidades no caso de ausência injustificada das atividades do Projeto Mais Médicos para o Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Imbassahy</txtNomeAutor>
+      <idecadastro>160530</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2014 15:10:00</datDespacho>
+      <txtDespacho>Às Comissões de Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606590</id>
+    <nome>PDC 1445/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1445</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/2/2014 18:48:57</datApresentacao>
+    <txtEmenta>Susta a Portaria do Ministério da Saúde nº 1.253, de 12 de novembro de 2013, que altera atributos de procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mandetta</txtNomeAutor>
+      <idecadastro>160633</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>MS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/2/2014 11:14:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606196</id>
+    <nome>PDC 1444/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1444</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/2/2014 22:00:14</datApresentacao>
+    <txtEmenta>Susta a aplicação da Portaria nº 1.253, de 12 de novembro de 2013, da Secretaria de Atenção à Saúde do Ministério da Saúde, que estabelece que mulheres entre 50 e 69 anos terão prioridade para fazer o procedimento de mamografia bilateral de rastreamento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2014 10:02:00</datDespacho>
+      <txtDespacho>Apense-se ao PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606008</id>
+    <nome>PDC 1443/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1443</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/2/2014 17:20:00</datApresentacao>
+    <txtEmenta>Susta a Portaria nº 1.253, de 12 de novembro de 2013, do Ministério da Saúde - Secretaria de Atenção à Saúde, que "Altera atributos de procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde".</txtEmenta>
+    <txtExplicacaoEmenta>Portaria que limita a realização de mamografia bilateral para mulheres entre 40 e 49 anos de idade.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cesar Colnago</txtNomeAutor>
+      <idecadastro>160664</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2014 10:02:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PDC-1442/2014.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>605781</codProposicaoPrincipal>
+        <proposicaoPrincipal>PDC 1442/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>605781</id>
+    <nome>PDC 1442/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1442</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/2/2014 16:39:22</datApresentacao>
+    <txtEmenta>Susta a aplicação do art. 2º da Portaria do Ministério da Saúde nº 1.253, de 12 de novembro de 2013, que "Altera atributos de procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do Sistema Único de Saúde".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carmen Zanotto</txtNomeAutor>
+      <idecadastro>164360</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2014 10:21:00</datDespacho>
+      <txtDespacho>Às Comissões de Seguridade Social e Família e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>605473</id>
+    <nome>PDC 1441/2014</nome>
+    <tipoProposicao>
+      <id>135</id>
+      <sigla>PDC</sigla>
+      <nome>Projeto de Decreto Legislativo</nome>
+    </tipoProposicao>
+    <numero>1441</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/2/2014 18:52:00</datApresentacao>
+    <txtEmenta>Susta a Portaria normativa nº 186/MD (MD33-M-10), e seus anexos, do Ministro da Defesa, Exmo. Sr. Celso Amorim, que dispõe sobre a atuação das Forças Armadas em Operações de "Garantia da Lei e da Ordem".</txtEmenta>
+    <txtExplicacaoEmenta>Portaria nº 186, de 2014, do Ministério da Defesa. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Chico Alencar</txtNomeAutor>
+      <idecadastro>74171</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/2/2014 15:47:00</datDespacho>
+      <txtDespacho>Às Comissões de Relações Exteriores e de Defesa Nacional e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>
