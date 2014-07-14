@@ -26,11 +26,11 @@ import org.apache.lucene.search.spans.SpanQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class BuscadorArquivosLocaisComAPI {
+public class BuscadorArquivosLocaisComFiltro {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
-            .getLogger(BuscadorArquivosLocaisComAPI.class);
+            .getLogger(BuscadorArquivosLocaisComFiltro.class);
     private static final Long UM_MEGA = 1000 * 1000L;
     private static final Long DOIS_MEGAS = 1000 * 1000 * 2L;
 
@@ -41,7 +41,7 @@ public class BuscadorArquivosLocaisComAPI {
 
     //
     public static void main(String[] args) throws IOException {
-        BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
+        BuscadorArquivosLocaisComFiltro buscador = new BuscadorArquivosLocaisComFiltro();
         buscador.buscarBooleanQuery();
     }
 
@@ -91,7 +91,7 @@ public class BuscadorArquivosLocaisComAPI {
         }
     }
 
-    public BuscadorArquivosLocaisComAPI() throws IOException {
+    public BuscadorArquivosLocaisComFiltro() throws IOException {
         diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
         reader = DirectoryReader.open(diretorio);
         buscador = new IndexSearcher(reader);

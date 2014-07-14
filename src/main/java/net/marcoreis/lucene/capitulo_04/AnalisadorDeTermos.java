@@ -1,17 +1,23 @@
 package net.marcoreis.lucene.capitulo_04;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.Iterator;
 
+import org.apache.commons.io.IOUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.br.BrazilianAnalyzer;
+import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.util.AttributeImpl;
 import org.apache.lucene.util.Version;
+import org.apache.tika.Tika;
+import org.apache.tika.exception.TikaException;
 import org.junit.Test;
 
 public class AnalisadorDeTermos {
@@ -40,13 +46,22 @@ public class AnalisadorDeTermos {
     }
 
     @Test
-    public void analisar() {
+    public void analisar() throws IOException, TikaException {
         String frase = "De origem humilde até a riqueza: veja 11 bilionários que eram pobres na infância";
+        //        frase = new Tika().parseToString(new File("/home/marco/Dropbox/Autoria/artigos-tech/post-primefaces-graphicimage.txt"));
+        // frase = new Tika().parseToString(new
+        // File("/home/marco/Dropbox/Autoria/artigos-tech/post-primefaces-graphicimage.txt"));
+        frase = new Tika().parseToString(new File("/home/marco/Dropbox/Autoria/artigos-tech/angular-js.txt"));
         Analyzer standardAnalyzer = new StandardAnalyzer(Version.LUCENE_48);
         analisarFrase(standardAnalyzer, frase);
         Analyzer simpleAnalyzer = new SimpleAnalyzer(Version.LUCENE_48);
         analisarFrase(simpleAnalyzer, frase);
         Analyzer brazilianAnalyzer = new BrazilianAnalyzer(Version.LUCENE_48);
         analisarFrase(brazilianAnalyzer, frase);
+        Analyzer whiteSpaceAnalyzer = new WhitespaceAnalyzer(Version.LUCENE_48);
+        analisarFrase(whiteSpaceAnalyzer, frase);
+        Analyzer keyWordAnalyzer = new KeywordAnalyzer();
+        analisarFrase(keyWordAnalyzer, frase);
+
     }
 }
