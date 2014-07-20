@@ -10,6 +10,7 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.FuzzyQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.MultiPhraseQuery;
@@ -42,7 +43,7 @@ public class BuscadorArquivosLocaisComAPI {
     //
     public static void main(String[] args) throws IOException {
         BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
-        buscador.buscarBooleanQuery();
+        buscador.buscarFuzzyQuery();
     }
 
     private void buscarRegexQuery() {
@@ -54,9 +55,9 @@ public class BuscadorArquivosLocaisComAPI {
             regex = ".*\\d{4}.\\d{2}.\\d{2}.*";
             regex = ".*[0-9]{4}.*";
             Term termo = new Term("conteudo", regex);
-//            RegexQuery rq = new RegexQuery(termo);
+            // RegexQuery rq = new RegexQuery(termo);
             RegexpQuery rq = new RegexpQuery(termo);
-//            rq.setRegexImplementation(new JakartaRegexpCapabilities());
+            // rq.setRegexImplementation(new JakartaRegexpCapabilities());
             TopDocs docs = buscador.search(rq, 100);
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
             for (ScoreDoc sd : docs.scoreDocs) {
@@ -264,6 +265,27 @@ public class BuscadorArquivosLocaisComAPI {
             WildcardQuery wq = new WildcardQuery(termo);
             //
             TopDocs docs = buscador.search(wq, 100);
+            logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+            for (ScoreDoc sd : docs.scoreDocs) {
+                Document doc = buscador.doc(sd.doc);
+                logger.info("Arquivo: " + doc.get("nome"));
+                logger.info("Tamanho: " + doc.get("tamanho"));
+                logger.info("Atualização: " + doc.get("dataAtualizacao"));
+            }
+            //
+            reader.close();
+        } catch (Exception e) {
+            logger.error(e);
+        }
+    }
+
+    public void buscarFuzzyQuery() {
+        try {
+            Term termo = new Term("conteudo", "seção");
+            FuzzyQuery fq = new FuzzyQuery(termo, 2);
+            logger.info("Query: " + fq);
+            //
+            TopDocs docs = buscador.search(fq, 100);
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);

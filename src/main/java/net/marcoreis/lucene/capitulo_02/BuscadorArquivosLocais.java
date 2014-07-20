@@ -29,6 +29,7 @@ public class BuscadorArquivosLocais {
         consulta = "conteudo:rafael~2";
         consulta = "dataAtualizacao:[2014-05-01 TO 2014-05-30]";
         consulta = "conteudo:(rede social)";
+        consulta = "conteudo:a*";
         buscador.buscar(consulta);
     }
 
@@ -47,6 +48,7 @@ public class BuscadorArquivosLocais {
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
+                logger.info(doc.get("conteudoStored"));
                 logger.info("Arquivo: " + doc.get("nome"));
                 logger.info("Tamanho: " + doc.get("tamanho"));
                 logger.info("Atualização: " + doc.get("dataAtualizacao"));

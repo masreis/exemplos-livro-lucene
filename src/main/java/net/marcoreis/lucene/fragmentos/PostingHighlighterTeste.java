@@ -18,19 +18,20 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.search.highlight.Highlighter;
 import org.apache.lucene.search.highlight.QueryScorer;
 import org.apache.lucene.search.highlight.Scorer;
+import org.apache.lucene.search.postingshighlight.PostingsHighlighter;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class HighlighterTeste {
+public class PostingHighlighterTeste {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
-            .getLogger(HighlighterTeste.class);
+            .getLogger(PostingHighlighterTeste.class);
 
     public static void main(String[] args) {
-        HighlighterTeste buscador = new HighlighterTeste();
-        buscador.highlightFuzzyQuery();
+        PostingHighlighterTeste buscador = new PostingHighlighterTeste();
+        buscador.highlightQueryParser();
     }
 
     public void highlight(Query query, String campo) {
@@ -42,23 +43,21 @@ public class HighlighterTeste {
             TopDocs docs = buscador.search(query, 100);
             logger.info("Query: " + query);
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
-            Scorer scorer = new QueryScorer(query);
-            Highlighter hl = new Highlighter(scorer);
+            PostingsHighlighter phl = new PostingsHighlighter();
             //
-            for (ScoreDoc sd : docs.scoreDocs) {
-                Document doc = buscador.doc(sd.doc);
-                String fragmentos = hl.getBestFragment(new StandardAnalyzer(
-                        Version.LUCENE_48), campo, doc.get("conteudo"));
-                logger.info(fragmentos);
-                // Explanation explicacao = buscador.explain(query, sd.doc);
-                // logger.info(explicacao.toString());
-                logger.info(doc.get("nome"));
-                logger.info(doc.get("dataAtualizacao"));
-                // String[] comissoes = doc.getValues("comissao");
-                // for (String comissao : comissoes) {
-                // logger.info(comissao);
-                // }
+//            Document doc = buscador.doc(sd.doc);
+            String[] fragmentos = phl.highlight(campo, query, buscador, docs);
+            for (String fragmento : fragmentos) {
+                logger.info(fragmento);
             }
+            // Explanation explicacao = buscador.explain(query, sd.doc);
+            // logger.info(explicacao.toString());
+//            logger.info(doc.get("nome"));
+//            logger.info(doc.get("dataAtualizacao"));
+            // String[] comissoes = doc.getValues("comissao");
+            // for (String comissao : comissoes) {
+            // logger.info(comissao);
+            // }
             //
             reader.close();
         } catch (Exception e) {
@@ -76,8 +75,8 @@ public class HighlighterTeste {
             consulta = "conteudo:idioma AND conteudo:java ";
             consulta = "conteudo:(+java +cdi) AND dataAtualizacao:[2013-01-01 TO 2014-12-31]";
             consulta = "conteudo:/[vc]alor/";
-            consulta = "conteudo:manuel~1";
             consulta = "conteudo:aplicação";
+            consulta = "conteudo:seção~";
             QueryParser qp = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
             Query query = qp.parse(consulta);
@@ -135,8 +134,8 @@ public class HighlighterTeste {
     public void highlightFuzzyQuery() {
         try {
             //
-            Term termo = new Term("conteudo", "seção");
-            FuzzyQuery fq = new FuzzyQuery(termo, 2, 2);
+            Term termo = new Term("conteudo", "manuel");
+            FuzzyQuery fq = new FuzzyQuery(termo, 1, 1);
             //
             highlight(fq, "conteudo");
         } catch (Exception e) {

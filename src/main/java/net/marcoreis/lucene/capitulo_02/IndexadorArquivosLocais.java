@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -16,6 +15,7 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongField;
+import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
@@ -32,7 +32,7 @@ import org.junit.Test;
 
 public class IndexadorArquivosLocais {
     private static String DIRETORIO_DOCUMENTOS = System
-            .getProperty("user.home") + "/Dropbox/entrada";
+            .getProperty("user.home") + "/Dropbox/entrada/";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
@@ -114,7 +114,8 @@ public class IndexadorArquivosLocais {
         ft.setStoreTermVectorPayloads(true);
         doc.add(new Field("conteudoComVetores", textoArquivo, ft));
         //
-//        doc.add(new StringField("conteudoNaoAnalisado", StringUtils.left(textoArquivo, 32000), Store.YES));
+        // doc.add(new StringField("conteudoNaoAnalisado",
+        // StringUtils.left(textoArquivo, 32000), Store.YES));
         //
         doc.add(new TextField("conteudo", textoArquivo, Store.YES));
         doc.add(new LongField("tamanho", Long.valueOf(arquivo.length()),

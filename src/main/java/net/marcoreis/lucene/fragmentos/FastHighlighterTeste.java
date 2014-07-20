@@ -15,25 +15,25 @@ import org.apache.lucene.search.MultiPhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.highlight.Highlighter;
-import org.apache.lucene.search.highlight.QueryScorer;
-import org.apache.lucene.search.highlight.Scorer;
+import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
+import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
-public class HighlighterTeste {
+public class FastHighlighterTeste {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
             + "/livro-lucene/indice-capitulo-02-exemplo-01";
     private static final Logger logger = Logger
-            .getLogger(HighlighterTeste.class);
+            .getLogger(FastHighlighterTeste.class);
+    private static final String CAMPO_COM_VETORES = "conteudoComVetores";
 
     public static void main(String[] args) {
-        HighlighterTeste buscador = new HighlighterTeste();
+        FastHighlighterTeste buscador = new FastHighlighterTeste();
         buscador.highlightFuzzyQuery();
     }
 
-    public void highlight(Query query, String campo) {
+    public void highlight(Query query) {
         try {
             Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
             IndexReader reader = DirectoryReader.open(diretorio);
@@ -42,13 +42,12 @@ public class HighlighterTeste {
             TopDocs docs = buscador.search(query, 100);
             logger.info("Query: " + query);
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
-            Scorer scorer = new QueryScorer(query);
-            Highlighter hl = new Highlighter(scorer);
-            //
+            FastVectorHighlighter fhl = new FastVectorHighlighter();
+            FieldQuery fq = fhl.getFieldQuery(query);
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                String fragmentos = hl.getBestFragment(new StandardAnalyzer(
-                        Version.LUCENE_48), campo, doc.get("conteudo"));
+                String fragmentos = fhl.getBestFragment(fq, reader, sd.doc,
+                        CAMPO_COM_VETORES, 30);
                 logger.info(fragmentos);
                 // Explanation explicacao = buscador.explain(query, sd.doc);
                 // logger.info(explicacao.toString());
@@ -76,12 +75,12 @@ public class HighlighterTeste {
             consulta = "conteudo:idioma AND conteudo:java ";
             consulta = "conteudo:(+java +cdi) AND dataAtualizacao:[2013-01-01 TO 2014-12-31]";
             consulta = "conteudo:/[vc]alor/";
-            consulta = "conteudo:manuel~1";
-            consulta = "conteudo:aplicação";
+            consulta = "conteudoComVetores:manuel~1";
+            consulta = "conteudoComVetores:aplicação";
             QueryParser qp = new QueryParser(Version.LUCENE_48, "",
                     new StandardAnalyzer(Version.LUCENE_48));
             Query query = qp.parse(consulta);
-            highlight(query, "conteudo");
+            highlight(query);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -91,18 +90,18 @@ public class HighlighterTeste {
         try {
             //
             Term[] termosAplicacaoExemplo = new Term[] {
-                    new Term("conteudo", "aplicação"),
-                    new Term("conteudo", "exemplo") };
+                    new Term("conteudoComVetores", "aplicação"),
+                    new Term("conteudoComVetores", "exemplo") };
             Term[] termosBancoDados = new Term[] {
-                    new Term("conteudo", "banco"),
-                    new Term("conteudo", "dados") };
+                    new Term("conteudoComVetores", "banco"),
+                    new Term("conteudoComVetores", "dados") };
             //
             MultiPhraseQuery mpq = new MultiPhraseQuery();
             mpq.add(termosAplicacaoExemplo);
             mpq.add(termosBancoDados);
             mpq.setSlop(2);
             //
-            highlight(mpq, "conteudo");
+            highlight(mpq);
             //
         } catch (Exception e) {
             logger.error(e);
@@ -126,7 +125,7 @@ public class HighlighterTeste {
                     Version.LUCENE_48)).parse(sQuery);
             // rq = new RegexpQuery(termo);
             // RegexQuery rq = new RegexQuery(termo);
-            highlight(rq, "conteudo");
+            highlight(rq);
         } catch (Exception e) {
             logger.error(e);
         }
@@ -135,10 +134,10 @@ public class HighlighterTeste {
     public void highlightFuzzyQuery() {
         try {
             //
-            Term termo = new Term("conteudo", "seção");
-            FuzzyQuery fq = new FuzzyQuery(termo, 2, 2);
+            Term termo = new Term("conteudoComVetores", "seção");
+            FuzzyQuery fq = new FuzzyQuery(termo, 1, 1);
             //
-            highlight(fq, "conteudo");
+            highlight(fq);
         } catch (Exception e) {
             logger.error(e);
         }
