@@ -100,7 +100,6 @@
 
 	<properties>
 		<version.compiler.plugin>2.3.1</version.compiler.plugin>
-		<version.surefire.plugin>2.10</version.surefire.plugin>
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<lucene.version>4.8.0</lucene.version>

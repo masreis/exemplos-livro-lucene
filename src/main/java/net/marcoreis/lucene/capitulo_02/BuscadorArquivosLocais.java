@@ -30,6 +30,9 @@ public class BuscadorArquivosLocais {
         consulta = "dataAtualizacao:[2014-05-01 TO 2014-05-30]";
         consulta = "conteudo:(rede social)";
         consulta = "conteudo:a*";
+        consulta = "conteudo:itext";
+        consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
+        consulta = "conteudo:storeTermVectorPositions";
         buscador.buscar(consulta);
     }
 

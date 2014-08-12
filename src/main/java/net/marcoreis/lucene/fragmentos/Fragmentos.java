@@ -14,14 +14,6 @@ public class Fragmentos {
         System.out.println();
     }
 
-    public void criarDocumentoTextField() {
-        Document doc = new Document();
-        TextField campoNome = new TextField("nome", "marco antonio", Store.YES);
-        doc.add(campoNome);
-        TextField campoEndereco = new TextField("endereco", "rua 37 sul",
-                Store.YES);
-        doc.add(campoEndereco);
-    }
 
     public void recuperarDadosDocumento() {
         Document doc = new Document();
