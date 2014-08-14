@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.text.Normalizer;
 import java.util.Map;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -30,18 +31,14 @@ public class IndexadorWikipedia {
     public IndexadorWikipedia(String diretorioIndice) {
         try {
             this.diretorioIndice = diretorioIndice;
-            File file = new File(diretorioIndice);
-            if (!file.exists()) {
-                file.mkdirs();
-            }
-            Directory d = FSDirectory.open(file);
+            FileUtils.deleteDirectory(new File(diretorioIndice));
+            Directory d = FSDirectory.open(new File(diretorioIndice));
             logger.info("Diretorio do indice: " + diretorioIndice);
             Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
             IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_48,
                     analyzer);
             //
-            // config.setOpenMode(OpenMode.CREATE_OR_APPEND);
-            // config.setUseCompoundFile(false);
+//            config.setUseCompoundFile(false);
             // config.setRAMBufferSizeMB(320);
             // config.setMaxThreadStates(80);
             //
@@ -83,7 +80,7 @@ public class IndexadorWikipedia {
         try {
             for (String coluna : valores.keySet()) {
                 String valor = valores.get(coluna);
-                valor = Normalizer.normalize(valor, Normalizer.Form.NFD);
+                // valor = Normalizer.normalize(valor, Normalizer.Form.NFD);
                 FieldType tipo = new FieldType();
                 tipo.setIndexed(true);
                 tipo.setStored(true);

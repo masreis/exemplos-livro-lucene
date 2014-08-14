@@ -15,7 +15,7 @@ import org.xml.sax.helpers.DefaultHandler;
 public class WikipediaSAXParserToLucene extends DefaultHandler {
     public static final String DIRETORIO_INDICE_WIKIPEDIA = System
             .getProperty("user.home") + "/livro-lucene/indice-wikipedia";
-    private static final int BUFFER_DOCUMENTOS = 50000;
+    private static final int BUFFER_DOCUMENTOS = 100000;
     private static String NOME_ARQUIVO_DUMP_WIKIPEDIA = System
             .getProperty("user.home")
             + "/dados/ptwiki-20140606-pages-articles-multistream.xml";

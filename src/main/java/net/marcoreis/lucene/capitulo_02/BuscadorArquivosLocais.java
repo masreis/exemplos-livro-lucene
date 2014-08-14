@@ -32,7 +32,8 @@ public class BuscadorArquivosLocais {
         consulta = "conteudo:a*";
         consulta = "conteudo:itext";
         consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
-        consulta = "conteudo:storeTermVectorPositions";
+        consulta = "conteudo:(ssh AND integrator)";
+        consulta = "conteudo:(orientação a objetos)";
         buscador.buscar(consulta);
     }
 

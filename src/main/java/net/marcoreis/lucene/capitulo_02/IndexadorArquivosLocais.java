@@ -7,18 +7,14 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
-import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.FieldInfo.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -77,7 +73,7 @@ public class IndexadorArquivosLocais {
         for (File arquivo : arquivosParaIndexar) {
             if (arquivo.isDirectory()) {
                 indexarDiretorio(arquivo);
-            } else if (arquivo.isFile()) {
+            } else {
                 indexarArquivo(arquivo);
             }
         }
@@ -92,7 +88,7 @@ public class IndexadorArquivosLocais {
      * @throws TikaException
      * @throws IOException
      */
-    private void indexarArquivo(File arquivo) throws IOException, TikaException {
+    private void indexarArquivo(File arquivo) {
         logger.info("Arquivo indexado(" + (arquivo.length() / 1024) + " kb): "
                 + arquivo.getAbsolutePath());
         Document doc = new Document();
@@ -100,34 +96,45 @@ public class IndexadorArquivosLocais {
         Date dataAtualizacao = new Date(arquivo.lastModified());
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         String dataArquivoFormatada = sdf.format(dataAtualizacao);
-        String textoArquivo = extrator.parseToString(new FileInputStream(
-                arquivo));
-        String dataIndexacaoFormatada = sdf.format(new Date(System
-                .currentTimeMillis()));
+        try {
+            String textoArquivo = extrator.parseToString(new FileInputStream(
+                    arquivo));
+            String dataIndexacaoFormatada = sdf.format(new Date(System
+                    .currentTimeMillis()));
+            //
+            doc.add(new TextField("conteudo", textoArquivo, Store.YES));
+            doc.add(new LongField("tamanho", Long.valueOf(arquivo.length()),
+                    Store.YES));
+            doc.add(new StringField("dataAtualizacao", dataArquivoFormatada,
+                    Store.YES));
+            doc.add(new StringField("dataIndexacao", dataIndexacaoFormatada,
+                    Store.YES));
+            doc.add(new StringField("caminho", arquivo.getAbsolutePath(),
+                    Store.YES));
+            doc.add(new StringField("nome", arquivo.getName(), Store.YES));
+            writer.addDocument(doc);
+        } catch (Exception e) {
+            logger.error("Não foi possível processar o arquivo "
+                    + arquivo.getAbsolutePath());
+            logger.error(e);
+        }
+    }
+
+    public void indexarVetores() {
+        // FieldType ft = new FieldType();
+        // ft.setIndexed(true);
+        // ft.setStored(true);
+        // ft.setTokenized(true);
+        // ft.setStoreTermVectors(true);
+        // ft.setStoreTermVectorOffsets(true);
+        // ft.setStoreTermVectorPositions(true);
+        // ft.setStoreTermVectorPayloads(true);
+        // ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS);
+        // doc.add(new Field("conteudoComVetores", textoArquivo, ft));
         //
-        FieldType ft = new FieldType();
-        ft.setIndexed(true);
-        ft.setStored(true);
-        ft.setTokenized(true);
-        ft.setStoreTermVectors(true);
-        ft.setStoreTermVectorOffsets(true);
-        ft.setStoreTermVectorPositions(true);
-        ft.setStoreTermVectorPayloads(true);
-        ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS);
-        doc.add(new Field("conteudoComVetores", textoArquivo, ft));
+        // doc.add(new StringField("conteudoNaoAnalisado", StringUtils.left(
+        // textoArquivo, 32000), Store.YES));
         //
-        doc.add(new StringField("conteudoNaoAnalisado", StringUtils.left(
-                textoArquivo, 32000), Store.YES));
-        //
-        doc.add(new TextField("conteudo", textoArquivo, Store.YES));
-        doc.add(new LongField("tamanho", Long.valueOf(arquivo.length()),
-                Store.YES));
-        doc.add(new StringField("dataAtualizacao", dataArquivoFormatada,
-                Store.YES));
-        doc.add(new StringField("dataIndexacao", dataIndexacaoFormatada,
-                Store.YES));
-        doc.add(new StringField("caminho", arquivo.getAbsolutePath(), Store.YES));
-        doc.add(new StringField("nome", arquivo.getName(), Store.YES));
-        writer.addDocument(doc);
+
     }
 }
