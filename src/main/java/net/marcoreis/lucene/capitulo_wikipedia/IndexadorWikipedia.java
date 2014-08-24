@@ -16,6 +16,7 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.FieldType;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.LogByteSizeMergePolicy;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -38,10 +39,15 @@ public class IndexadorWikipedia {
             IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_48,
                     analyzer);
             //
-//            config.setUseCompoundFile(false);
-            // config.setRAMBufferSizeMB(320);
+            // config.setUseCompoundFile(false);
+            config.setRAMBufferSizeMB(1024);
+            // TieredMergePolicy mergePolicy = new TieredMergePolicy();
+            // LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
+            LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
+//            config.setMergePolicy(mergePolicy);
             // config.setMaxThreadStates(80);
             //
+            // System.out.println(config);
             writer = new IndexWriter(d, config);
         } catch (Exception e) {
             logger.error(e);
