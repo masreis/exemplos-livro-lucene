@@ -44,6 +44,7 @@ public class IndexadorArquivosLocais {
         Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
         IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
                 analyzer);
+        logger.info(conf.toString());
         writer = new IndexWriter(diretorio, conf);
     }
 

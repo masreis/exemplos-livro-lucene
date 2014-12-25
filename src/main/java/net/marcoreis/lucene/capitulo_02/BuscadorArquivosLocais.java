@@ -34,6 +34,7 @@ public class BuscadorArquivosLocais {
         consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
         consulta = "conteudo:(ssh AND integrator)";
         consulta = "conteudo:(orientação a objetos)";
+        consulta = "conteudo:(hibernate search)";
         buscador.buscar(consulta);
     }
 
@@ -54,6 +55,7 @@ public class BuscadorArquivosLocais {
                 Document doc = buscador.doc(sd.doc);
                 logger.info(doc.get("conteudoStored"));
                 logger.info("Arquivo: " + doc.get("nome"));
+                logger.info("Caminho: " + doc.get("caminho"));
                 logger.info("Tamanho: " + doc.get("tamanho"));
                 logger.info("Atualização: " + doc.get("dataAtualizacao"));
             }

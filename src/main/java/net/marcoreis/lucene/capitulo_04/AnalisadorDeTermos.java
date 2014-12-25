@@ -2,6 +2,8 @@ package net.marcoreis.lucene.capitulo_04;
 
 import java.io.IOException;
 import java.io.StringReader;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
 
 import org.apache.log4j.Logger;
@@ -12,10 +14,9 @@ import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.util.CharArraySet;
 import org.apache.lucene.util.AttributeImpl;
 import org.apache.lucene.util.Version;
-import org.apache.tika.exception.TikaException;
-import org.junit.Test;
 
 public class AnalisadorDeTermos {
     private static final Logger logger = Logger
@@ -38,22 +39,34 @@ public class AnalisadorDeTermos {
             }
             logger.info(termos);
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.error(e);
         }
     }
 
-    @Test
-    public void analisar() throws IOException, TikaException {
+    public void analisarComStopWords() throws IOException {
         String frase = "De origem humilde até a riqueza: veja 11 bilionários que eram pobres na infância.\n"
                 + "Trabalho duro e resiliência é a característica comum a todos.";
-        // frase =
-        // "/home/marco/Dropbox/material-de-estudo/EJB/javaeetutorial6.pdf";
-        // frase = new Tika().parseToString(new
-        // File("/home/marco/Dropbox/Autoria/artigos-tech/post-primefaces-graphicimage.txt"));
-        // frase = new Tika().parseToString(new
-        // File("/home/marco/Dropbox/Autoria/artigos-tech/post-primefaces-graphicimage.txt"));
-        // frase = new Tika().parseToString(new
-        // File("/home/marco/Dropbox/Autoria/artigos-tech/angular-js.txt"));
+        //
+        Collection<String> listaDeStopWords = new ArrayList<String>();
+        listaDeStopWords.add("de");
+        listaDeStopWords.add("até");
+        listaDeStopWords.add("que");
+        listaDeStopWords.add("e");
+        listaDeStopWords.add("a");
+        CharArraySet stopWords = new CharArraySet(Version.LUCENE_48,
+                listaDeStopWords, true);
+        // Analisandor padrão
+        Analyzer standardAnalyzer = new StandardAnalyzer(Version.LUCENE_48);
+        analisarFrase(standardAnalyzer, frase);
+        // Analisador padrão com as stop words indicadas
+        Analyzer standardAnalyzerComStopWords = new StandardAnalyzer(
+                Version.LUCENE_48, stopWords);
+        analisarFrase(standardAnalyzerComStopWords, frase);
+    }
+
+    public void analisar() throws IOException {
+        String frase = "De origem humilde até a riqueza: veja 11 bilionários que eram pobres na infância.\n"
+                + "Trabalho duro e resiliência é a característica comum a todos.";
         Analyzer standardAnalyzer = new StandardAnalyzer(Version.LUCENE_48);
         analisarFrase(standardAnalyzer, frase);
         Analyzer simpleAnalyzer = new SimpleAnalyzer(Version.LUCENE_48);
@@ -64,6 +77,16 @@ public class AnalisadorDeTermos {
         analisarFrase(whiteSpaceAnalyzer, frase);
         Analyzer keyWordAnalyzer = new KeywordAnalyzer();
         analisarFrase(keyWordAnalyzer, frase);
+    }
 
+    public static void main(String[] args) {
+        try {
+            logger.info("Analisadores");
+            new AnalisadorDeTermos().analisar();
+            logger.info("Analisadores com stop words");
+            new AnalisadorDeTermos().analisarComStopWords();
+        } catch (IOException e) {
+            logger.error(e);
+        }
     }
 }

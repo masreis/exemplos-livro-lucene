@@ -18,7 +18,7 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
     private static final int BUFFER_DOCUMENTOS = 100000;
     private static String NOME_ARQUIVO_DUMP_WIKIPEDIA = System
             .getProperty("user.home")
-            + "/dados/ptwiki-20140606-pages-articles-multistream.xml";
+            + "/dados/ptwiki-latest-pages-articles-multistream.xml";
     private static Logger logger = Logger
             .getLogger(WikipediaSAXParserToLucene.class);
     private Map<String, String> pagina;
