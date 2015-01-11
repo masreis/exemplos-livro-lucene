@@ -15,7 +15,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class UtilBusca {
     private static Logger logger = Logger.getLogger(UtilBusca.class);
@@ -29,77 +28,76 @@ public class UtilBusca {
     // private SearcherManager sm;
 
     public void reopen() {
-	try {
-	    diretorio = FSDirectory.open(new File(diretorioIndice));
-	    // diretorio = new RAMDirectory(FSDirectory.open(new
-	    // File(diretorioIndice)), IOContext.DEFAULT);
-	    // sm = new SearcherManager(diretorio, null);
-	    // reader=sm.acquire();
-	    // buscador = sm.acquire();
-	    reader = DirectoryReader.open(diretorio);
-	    buscador = new IndexSearcher(reader);
-	} catch (Exception e) {
-	    throw new RuntimeException(e);
-	}
+        try {
+            diretorio = FSDirectory.open(new File(diretorioIndice));
+            // diretorio = new RAMDirectory(FSDirectory.open(new
+            // File(diretorioIndice)), IOContext.DEFAULT);
+            // sm = new SearcherManager(diretorio, null);
+            // reader=sm.acquire();
+            // buscador = sm.acquire();
+            reader = DirectoryReader.open(diretorio);
+            buscador = new IndexSearcher(reader);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public UtilBusca(String diretorioIndice) throws IOException {
-	this.diretorioIndice = diretorioIndice;
-	reopen();
+        this.diretorioIndice = diretorioIndice;
+        reopen();
     }
 
     public void fecha() {
-	try {
-	    diretorio.close();
-	} catch (Exception e) {
-	    logger.error(e);
-	}
-	try {
-	    reader.close();
-	} catch (Exception e) {
-	    logger.error(e);
-	}
+        try {
+            diretorio.close();
+        } catch (Exception e) {
+            logger.error(e);
+        }
+        try {
+            reader.close();
+        } catch (Exception e) {
+            logger.error(e);
+        }
     }
 
     private IndexSearcher getBuscador() throws IOException {
-	return buscador;
+        return buscador;
     }
 
     public Document doc(int docID) throws IOException {
-	Document doc = getBuscador().doc(docID);
-	return doc;
+        Document doc = getBuscador().doc(docID);
+        return doc;
     }
 
     public long getDuracaoBusca() {
-	return duracaoBusca;
+        return duracaoBusca;
     }
 
     public TopDocs busca(String consulta) {
-	TopDocs hits = null;
-	try {
-	    long time = System.currentTimeMillis();
-	    QueryParser parser = new QueryParser(Version.LUCENE_46, "",
-		    new StandardAnalyzer(Version.LUCENE_46));
-	    Query query = parser.parse(consulta);
-	    hits = getBuscador().search(query, quantidadeLimiteRegistros);
-	    duracaoBusca = System.currentTimeMillis() - time;
-	} catch (Exception e) {
-	    logger.error(e);
-	}
-	return hits;
+        TopDocs hits = null;
+        try {
+            long time = System.currentTimeMillis();
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
+            Query query = parser.parse(consulta);
+            hits = getBuscador().search(query, quantidadeLimiteRegistros);
+            duracaoBusca = System.currentTimeMillis() - time;
+        } catch (Exception e) {
+            logger.error(e);
+        }
+        return hits;
     }
 
     public static void main(String[] args) {
-	try {
-	    UtilBusca buscador = new UtilBusca(System.getProperty("user.home")
-		    + "/livro-lucene/indice-wikipedia");
-	    TopDocs topDocs = buscador.busca("text:a*");
-	    for (ScoreDoc sd : topDocs.scoreDocs) {
-		Document doc = buscador.doc(sd.doc);
-		System.out.println(doc.get("id"));
-	    }
-	} catch (IOException e) {
-	    e.printStackTrace();
-	}
+        try {
+            UtilBusca buscador = new UtilBusca(System.getProperty("user.home")
+                    + "/livro-lucene/indice-wikipedia");
+            TopDocs topDocs = buscador.busca("text:a*");
+            for (ScoreDoc sd : topDocs.scoreDocs) {
+                Document doc = buscador.doc(sd.doc);
+                System.out.println(doc.get("id"));
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

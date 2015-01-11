@@ -13,11 +13,10 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.SortField;
-import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.search.SortField.Type;
+import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorArquivosLocaisOrdenado {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -39,8 +38,7 @@ public class BuscadorArquivosLocaisOrdenado {
             IndexSearcher buscador = new IndexSearcher(reader);
             //
             // Query
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             Query query = parser.parse(consulta);
             //
             Sort ordenacao = new Sort();

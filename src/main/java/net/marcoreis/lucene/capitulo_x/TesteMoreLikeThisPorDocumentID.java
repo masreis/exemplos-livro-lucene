@@ -16,7 +16,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class TesteMoreLikeThisPorDocumentID {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -33,15 +32,14 @@ public class TesteMoreLikeThisPorDocumentID {
             Directory directory = FSDirectory.open(new File(DIRETORIO_INDICE));
             IndexReader ir = DirectoryReader.open(directory);
             IndexSearcher is = new IndexSearcher(ir);
-            Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
+            Analyzer analyzer = new StandardAnalyzer();
             //
             MoreLikeThis mlt = new MoreLikeThis(ir);
             mlt.setAnalyzer(analyzer);
             mlt.setFieldNames(new String[] { "conteudo" });
             //
             int documentoID = 0;
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    analyzer);
+            QueryParser parser = new QueryParser("", analyzer);
             String nomeArquivo = "conteudo:(java ee 6 tutorial)";
             Query queryOrigem = parser.parse(nomeArquivo);
             TopDocs topdocsOrigem = is.search(queryOrigem, 1);

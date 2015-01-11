@@ -15,7 +15,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorNomes {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -34,8 +33,7 @@ public class BuscadorNomes {
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
             //
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);

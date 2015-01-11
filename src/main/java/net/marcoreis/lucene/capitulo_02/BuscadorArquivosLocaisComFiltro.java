@@ -18,7 +18,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorArquivosLocaisComFiltro {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -46,8 +45,7 @@ public class BuscadorArquivosLocaisComFiltro {
     public void buscarTermQuery() {
         try {
             logger.info("Filtro");
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             String consulta = "conteudo:(rede social)";
             Query query = parser.parse(consulta);
             Filter filtro = new TermFilter(new Term("conteudo", "java"));

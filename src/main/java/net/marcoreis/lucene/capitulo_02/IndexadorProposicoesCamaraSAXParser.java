@@ -48,8 +48,8 @@ public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
     public void inicializar() throws IOException {
         FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
         Directory dir = FSDirectory.open(new File(DIRETORIO_INDICE));
-        Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
-        IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
+        Analyzer analyzer = new StandardAnalyzer();
+        IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_4_10_3,
                 analyzer);
         writer = new IndexWriter(dir, conf);
     }

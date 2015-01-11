@@ -17,7 +17,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class TesteMoreLikeThis {
 
@@ -31,7 +30,7 @@ public class TesteMoreLikeThis {
             Directory directory = FSDirectory.open(new File(DIRETORIO_INDICE));
             IndexReader ir = DirectoryReader.open(directory);
             IndexSearcher is = new IndexSearcher(ir);
-            Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
+            Analyzer analyzer = new StandardAnalyzer();
             //
             MoreLikeThis mlt = new MoreLikeThis(ir);
             mlt.setMinDocFreq(0);

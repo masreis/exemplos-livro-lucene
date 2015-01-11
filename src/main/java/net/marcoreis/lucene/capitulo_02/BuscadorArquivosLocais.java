@@ -14,7 +14,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorArquivosLocais {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -45,8 +44,7 @@ public class BuscadorArquivosLocais {
             IndexSearcher buscador = new IndexSearcher(reader);
             //
             // Query
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);

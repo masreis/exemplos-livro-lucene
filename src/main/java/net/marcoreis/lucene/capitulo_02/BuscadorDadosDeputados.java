@@ -15,7 +15,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorDadosDeputados {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -47,8 +46,7 @@ public class BuscadorDadosDeputados {
             IndexSearcher buscador = new IndexSearcher(reader);
             logger.info("Total de deputados indexados: " + reader.maxDoc());
             //
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);
@@ -60,7 +58,7 @@ public class BuscadorDadosDeputados {
                 logger.info(doc.get("nome"));
                 String[] comissoes = doc.getValues("comissao");
                 for (String comissao : comissoes) {
-                     logger.info(comissao);
+                    logger.info(comissao);
                 }
             }
             //

@@ -36,8 +36,8 @@ public class IndexadorNomes {
     public void inicializar() throws IOException {
         FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
         Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
-        Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
-        IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_48,
+        Analyzer analyzer = new StandardAnalyzer();
+        IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_4_10_3,
                 analyzer);
         writer = new IndexWriter(diretorio, conf);
     }

@@ -16,7 +16,6 @@ import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.analysis.util.CharArraySet;
 import org.apache.lucene.util.AttributeImpl;
-import org.apache.lucene.util.Version;
 
 public class AnalisadorDeTermos {
     private static final Logger logger = Logger
@@ -53,27 +52,25 @@ public class AnalisadorDeTermos {
         listaDeStopWords.add("que");
         listaDeStopWords.add("e");
         listaDeStopWords.add("a");
-        CharArraySet stopWords = new CharArraySet(Version.LUCENE_48,
-                listaDeStopWords, true);
+        CharArraySet stopWords = new CharArraySet(listaDeStopWords, true);
         // Analisandor padrão
-        Analyzer standardAnalyzer = new StandardAnalyzer(Version.LUCENE_48);
+        Analyzer standardAnalyzer = new StandardAnalyzer();
         analisarFrase(standardAnalyzer, frase);
         // Analisador padrão com as stop words indicadas
-        Analyzer standardAnalyzerComStopWords = new StandardAnalyzer(
-                Version.LUCENE_48, stopWords);
+        Analyzer standardAnalyzerComStopWords = new StandardAnalyzer(stopWords);
         analisarFrase(standardAnalyzerComStopWords, frase);
     }
 
     public void analisar() throws IOException {
         String frase = "De origem humilde até a riqueza: veja 11 bilionários que eram pobres na infância.\n"
                 + "Trabalho duro e resiliência é a característica comum a todos.";
-        Analyzer standardAnalyzer = new StandardAnalyzer(Version.LUCENE_48);
+        Analyzer standardAnalyzer = new StandardAnalyzer();
         analisarFrase(standardAnalyzer, frase);
-        Analyzer simpleAnalyzer = new SimpleAnalyzer(Version.LUCENE_48);
+        Analyzer simpleAnalyzer = new SimpleAnalyzer();
         analisarFrase(simpleAnalyzer, frase);
-        Analyzer brazilianAnalyzer = new BrazilianAnalyzer(Version.LUCENE_48);
+        Analyzer brazilianAnalyzer = new BrazilianAnalyzer();
         analisarFrase(brazilianAnalyzer, frase);
-        Analyzer whiteSpaceAnalyzer = new WhitespaceAnalyzer(Version.LUCENE_48);
+        Analyzer whiteSpaceAnalyzer = new WhitespaceAnalyzer();
         analisarFrase(whiteSpaceAnalyzer, frase);
         Analyzer keyWordAnalyzer = new KeywordAnalyzer();
         analisarFrase(keyWordAnalyzer, frase);

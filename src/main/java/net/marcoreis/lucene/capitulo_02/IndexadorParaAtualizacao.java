@@ -29,8 +29,8 @@ public class IndexadorParaAtualizacao {
 
     @Before
     public void inicializar() throws IOException {
-        Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
-        IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_48,
+        Analyzer analyzer = new StandardAnalyzer();
+        IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_4_10_3,
                 analyzer);
         Directory dir = FSDirectory.open(new File(DIRETORIO_INDICE));
         writer = new IndexWriter(dir, config);

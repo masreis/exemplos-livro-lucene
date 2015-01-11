@@ -4,7 +4,6 @@ import java.io.File;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
-import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
@@ -13,15 +12,10 @@ import org.apache.lucene.search.FuzzyQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.MultiPhraseQuery;
 import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.highlight.Highlighter;
-import org.apache.lucene.search.highlight.QueryScorer;
-import org.apache.lucene.search.highlight.Scorer;
 import org.apache.lucene.search.postingshighlight.PostingsHighlighter;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class PostingHighlighterTeste {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -45,15 +39,15 @@ public class PostingHighlighterTeste {
             logger.info("Quantidade de itens encontrados: " + docs.totalHits);
             PostingsHighlighter phl = new PostingsHighlighter();
             //
-//            Document doc = buscador.doc(sd.doc);
+            // Document doc = buscador.doc(sd.doc);
             String[] fragmentos = phl.highlight(campo, query, buscador, docs);
             for (String fragmento : fragmentos) {
                 logger.info(fragmento);
             }
             // Explanation explicacao = buscador.explain(query, sd.doc);
             // logger.info(explicacao.toString());
-//            logger.info(doc.get("nome"));
-//            logger.info(doc.get("dataAtualizacao"));
+            // logger.info(doc.get("nome"));
+            // logger.info(doc.get("dataAtualizacao"));
             // String[] comissoes = doc.getValues("comissao");
             // for (String comissao : comissoes) {
             // logger.info(comissao);
@@ -77,8 +71,7 @@ public class PostingHighlighterTeste {
             consulta = "conteudo:/[vc]alor/";
             consulta = "conteudo:aplicação";
             consulta = "conteudo:seção~";
-            QueryParser qp = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser qp = new QueryParser("", new StandardAnalyzer());
             Query query = qp.parse(consulta);
             highlight(query, "conteudo");
         } catch (Exception e) {
@@ -121,8 +114,7 @@ public class PostingHighlighterTeste {
             String sQuery = "conteudo:/[0-9]{4}/";
             sQuery = "conteudo:/8.../";
             Query rq = null;
-            rq = new QueryParser(Version.LUCENE_48, "", new StandardAnalyzer(
-                    Version.LUCENE_48)).parse(sQuery);
+            rq = new QueryParser("", new StandardAnalyzer()).parse(sQuery);
             // rq = new RegexpQuery(termo);
             // RegexQuery rq = new RegexQuery(termo);
             highlight(rq, "conteudo");

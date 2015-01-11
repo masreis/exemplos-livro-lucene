@@ -21,8 +21,7 @@ public class FrequenciaDosTermos3 {
         FSDirectory directory = FSDirectory.open(new File("/tmp/moo"));
         /*
          * IndexWriter writer = new IndexWriter(directory, new
-         * IndexWriterConfig(Version.LUCENE_44, new
-         * StandardAnalyzer(Version.LUCENE_44))); Document document = new
+         * IndexWriterConfig( new StandardAnalyzer())); Document document = new
          * Document(); document.add(new TextField("foo", "abc", Store.YES));
          * document.add(new TextField("foo", "abc", Store.YES));
          * document.add(new TextField("foo", "aaa", Store.YES));

@@ -35,16 +35,16 @@ public class IndexadorWikipedia {
             FileUtils.deleteDirectory(new File(diretorioIndice));
             Directory d = FSDirectory.open(new File(diretorioIndice));
             logger.info("Diretorio do indice: " + diretorioIndice);
-            Analyzer analyzer = new StandardAnalyzer(Version.LUCENE_48);
-            IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_48,
-                    analyzer);
+            Analyzer analyzer = new StandardAnalyzer();
+            IndexWriterConfig config = new IndexWriterConfig(
+                    Version.LUCENE_4_10_3, analyzer);
             //
             // config.setUseCompoundFile(false);
             config.setRAMBufferSizeMB(1024);
             // TieredMergePolicy mergePolicy = new TieredMergePolicy();
             // LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
             LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
-//            config.setMergePolicy(mergePolicy);
+            // config.setMergePolicy(mergePolicy);
             // config.setMaxThreadStates(80);
             //
             // System.out.println(config);

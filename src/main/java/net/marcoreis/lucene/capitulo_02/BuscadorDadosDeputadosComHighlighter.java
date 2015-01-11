@@ -17,7 +17,6 @@ import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class BuscadorDadosDeputadosComHighlighter {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -41,8 +40,7 @@ public class BuscadorDadosDeputadosComHighlighter {
             IndexSearcher buscador = new IndexSearcher(reader);
             logger.info("Total de deputados indexados: " + reader.maxDoc());
             //
-            QueryParser parser = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser parser = new QueryParser("", new StandardAnalyzer());
             Query query = parser.parse(consulta);
             //
             TopDocs docs = buscador.search(query, 100);

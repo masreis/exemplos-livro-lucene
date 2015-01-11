@@ -19,7 +19,6 @@ import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
 import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class FastHighlighterTeste {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -77,8 +76,7 @@ public class FastHighlighterTeste {
             consulta = "conteudo:/[vc]alor/";
             consulta = "conteudoComVetores:manuel~1";
             consulta = "conteudoComVetores:aplicação";
-            QueryParser qp = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser qp = new QueryParser("", new StandardAnalyzer());
             Query query = qp.parse(consulta);
             highlight(query);
         } catch (Exception e) {
@@ -121,8 +119,7 @@ public class FastHighlighterTeste {
             String sQuery = "conteudo:/[0-9]{4}/";
             sQuery = "conteudo:/8.../";
             Query rq = null;
-            rq = new QueryParser(Version.LUCENE_48, "", new StandardAnalyzer(
-                    Version.LUCENE_48)).parse(sQuery);
+            rq = new QueryParser("", new StandardAnalyzer()).parse(sQuery);
             // rq = new RegexpQuery(termo);
             // RegexQuery rq = new RegexQuery(termo);
             highlight(rq);

@@ -20,7 +20,6 @@ import org.apache.lucene.search.highlight.QueryScorer;
 import org.apache.lucene.search.highlight.Scorer;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class HighlighterTeste {
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
@@ -47,8 +46,8 @@ public class HighlighterTeste {
             //
             for (ScoreDoc sd : docs.scoreDocs) {
                 Document doc = buscador.doc(sd.doc);
-                String fragmentos = hl.getBestFragment(new StandardAnalyzer(
-                        Version.LUCENE_48), campo, doc.get("conteudo"));
+                String fragmentos = hl.getBestFragment(new StandardAnalyzer(),
+                        campo, doc.get("conteudo"));
                 logger.info(fragmentos);
                 // Explanation explicacao = buscador.explain(query, sd.doc);
                 // logger.info(explicacao.toString());
@@ -78,8 +77,7 @@ public class HighlighterTeste {
             consulta = "conteudo:/[vc]alor/";
             consulta = "conteudo:manuel~1";
             consulta = "conteudo:aplicação";
-            QueryParser qp = new QueryParser(Version.LUCENE_48, "",
-                    new StandardAnalyzer(Version.LUCENE_48));
+            QueryParser qp = new QueryParser("", new StandardAnalyzer());
             Query query = qp.parse(consulta);
             highlight(query, "conteudo");
         } catch (Exception e) {
@@ -122,8 +120,7 @@ public class HighlighterTeste {
             String sQuery = "conteudo:/[0-9]{4}/";
             sQuery = "conteudo:/8.../";
             Query rq = null;
-            rq = new QueryParser(Version.LUCENE_48, "", new StandardAnalyzer(
-                    Version.LUCENE_48)).parse(sQuery);
+            rq = new QueryParser("", new StandardAnalyzer()).parse(sQuery);
             // rq = new RegexpQuery(termo);
             // RegexQuery rq = new RegexQuery(termo);
             highlight(rq, "conteudo");
