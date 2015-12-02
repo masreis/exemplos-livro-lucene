@@ -16,8 +16,10 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class BuscadorArquivosLocais {
+    // private static String DIRETORIO_INDICE = System.getProperty("user.home")
+    // + "/livro-lucene/cursos";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
-            + "/livro-lucene/indice-capitulo-02-exemplo-01";
+            + "/livro-lucene/aulas-concursos";
     private static final Logger logger = Logger
             .getLogger(BuscadorArquivosLocais.class);
 
@@ -33,7 +35,11 @@ public class BuscadorArquivosLocais {
         consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
         consulta = "conteudo:(ssh AND integrator)";
         consulta = "conteudo:(orientação a objetos)";
-        consulta = "conteudo:(hibernate search)";
+        consulta = "conteudo:(\"integração contínua\")";
+        // consulta = "conteudo:(\"instituto quadrix\")";
+        // consulta = "conteudo:zope";
+        consulta = "conteudo:(+forms +apex)";
+//        consulta = "nome:plano";
         buscador.buscar(consulta);
     }
 
