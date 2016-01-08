@@ -1,6 +1,6 @@
 package net.marcoreis.lucene.capitulo_02;
 
-import java.io.File;
+import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -19,7 +19,7 @@ public class BuscadorArquivosLocais {
     // private static String DIRETORIO_INDICE = System.getProperty("user.home")
     // + "/livro-lucene/cursos";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
-            + "/livro-lucene/aulas-concursos";
+            + "/livro-lucene/material-de-estudo/big-data";
     private static final Logger logger = Logger
             .getLogger(BuscadorArquivosLocais.class);
 
@@ -35,7 +35,7 @@ public class BuscadorArquivosLocais {
         consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
         consulta = "conteudo:(ssh AND integrator)";
         consulta = "conteudo:(orientação a objetos)";
-        consulta = "conteudo:(\"integração contínua\")";
+        consulta = "conteudo:(dfs.name.dir)";
         // consulta = "conteudo:(\"instituto quadrix\")";
         // consulta = "conteudo:zope";
         consulta = "conteudo:(+forms +apex)";
@@ -45,7 +45,7 @@ public class BuscadorArquivosLocais {
 
     public void buscar(String consulta) {
         try {
-            Directory diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
+            Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
             IndexReader reader = DirectoryReader.open(diretorio);
             IndexSearcher buscador = new IndexSearcher(reader);
             //
