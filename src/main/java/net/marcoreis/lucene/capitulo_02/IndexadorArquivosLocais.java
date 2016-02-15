@@ -29,9 +29,9 @@ import org.junit.Test;
 
 public class IndexadorArquivosLocais {
 	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home")
-			+ "/Dropbox/material-de-estudo/big-data";
+			+ "/Dropbox/treinamento/aulas-concursos";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home")
-			+ "/livro-lucene/material-de-estudo/big-data";
+			+ "/livro-lucene/treinamento/aulas-concursos";
 	private static final Logger logger = Logger.getLogger(IndexadorArquivosLocais.class);
 	private IndexWriter writer;
 	private Tika extrator = new Tika();

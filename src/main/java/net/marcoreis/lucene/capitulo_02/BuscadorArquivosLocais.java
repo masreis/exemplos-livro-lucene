@@ -19,7 +19,7 @@ public class BuscadorArquivosLocais {
     // private static String DIRETORIO_INDICE = System.getProperty("user.home")
     // + "/livro-lucene/cursos";
     private static String DIRETORIO_INDICE = System.getProperty("user.home")
-            + "/livro-lucene/material-de-estudo/big-data";
+            + "/livro-lucene/treinamento/aulas-concursos";
     private static final Logger logger = Logger
             .getLogger(BuscadorArquivosLocais.class);
 
@@ -35,10 +35,10 @@ public class BuscadorArquivosLocais {
         consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
         consulta = "conteudo:(ssh AND integrator)";
         consulta = "conteudo:(orientação a objetos)";
-        consulta = "conteudo:(dfs.name.dir)";
+        consulta = "conteudo:\"soapui\"";
         // consulta = "conteudo:(\"instituto quadrix\")";
         // consulta = "conteudo:zope";
-        consulta = "conteudo:(+forms +apex)";
+//        consulta = "conteudo:(+forms +apex)";
 //        consulta = "nome:plano";
         buscador.buscar(consulta);
     }
