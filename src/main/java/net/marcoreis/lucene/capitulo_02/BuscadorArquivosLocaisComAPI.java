@@ -1,7 +1,7 @@
 package net.marcoreis.lucene.capitulo_02;
 
-import java.io.File;
 import java.io.IOException;
+import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.document.Document;
@@ -93,7 +93,7 @@ public class BuscadorArquivosLocaisComAPI {
     }
 
     public BuscadorArquivosLocaisComAPI() throws IOException {
-        diretorio = FSDirectory.open(new File(DIRETORIO_INDICE));
+        diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
         reader = DirectoryReader.open(diretorio);
         buscador = new IndexSearcher(reader);
     }

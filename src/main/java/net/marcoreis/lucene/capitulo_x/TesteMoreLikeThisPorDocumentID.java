@@ -1,6 +1,6 @@
 package net.marcoreis.lucene.capitulo_x;
 
-import java.io.File;
+import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
@@ -29,7 +29,7 @@ public class TesteMoreLikeThisPorDocumentID {
 
     public void buscarDocumentosSimilares() {
         try {
-            Directory directory = FSDirectory.open(new File(DIRETORIO_INDICE));
+            Directory directory = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
             IndexReader ir = DirectoryReader.open(directory);
             IndexSearcher is = new IndexSearcher(ir);
             Analyzer analyzer = new StandardAnalyzer();
