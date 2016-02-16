@@ -39,6 +39,7 @@ public class BuscadorArquivosLocais {
         // consulta = "conteudo:(\"instituto quadrix\")";
         // consulta = "conteudo:zope";
         consulta = "conteudo:(+forms +apex)";
+        consulta = "conteudo:responsivo";
 //        consulta = "nome:plano";
         buscador.buscar(consulta);
     }
