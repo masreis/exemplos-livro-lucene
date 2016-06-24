@@ -85,10 +85,10 @@ public class PostingHighlighterTeste {
 					new Term("conteudo", "exemplo") };
 			Term[] termosBancoDados = new Term[] { new Term("conteudo", "banco"), new Term("conteudo", "dados") };
 			//
-			MultiPhraseQuery mpq = new MultiPhraseQuery();
-			mpq.add(termosAplicacaoExemplo);
-			mpq.add(termosBancoDados);
-			mpq.setSlop(2);
+			MultiPhraseQuery mpq = null;// new MultiPhraseQuery();
+			// mpq.add(termosAplicacaoExemplo);
+			// mpq.add(termosBancoDados);
+			// mpq.setSlop(2);
 			//
 			highlight(mpq, "conteudo");
 			//

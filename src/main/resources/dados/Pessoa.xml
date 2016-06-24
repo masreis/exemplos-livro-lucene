@@ -1,0 +1,16 @@
+<Pessoas>
+	<Pessoa>
+		<id>2</id>
+		<nome>Marco Reis</nome>
+		<endereco>Rua 37, BRASILIA</endereco>
+		<telefone>81194620</telefone>
+	</Pessoa>
+
+	<Pessoa>
+		<id>3</id>
+		<nome>Diego Lucas</nome>
+		<endereco>Rua 38, GOIANIA</endereco>
+		<telefone>98798097</telefone>
+		<cpf>8328676789</cpf>
+	</Pessoa>
+</Pessoas>

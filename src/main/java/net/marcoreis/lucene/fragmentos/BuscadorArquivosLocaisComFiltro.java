@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -8,10 +8,7 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
-import org.apache.lucene.index.Term;
-import org.apache.lucene.queries.TermFilter;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.Filter;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -47,8 +44,8 @@ public class BuscadorArquivosLocaisComFiltro {
 			QueryParser parser = new QueryParser("", new StandardAnalyzer());
 			String consulta = "conteudo:(rede social)";
 			Query query = parser.parse(consulta);
-			Filter filtro = new TermFilter(new Term("conteudo", "java"));
-			TopDocs docs = buscador.search(query, filtro, 100);
+			// Filter filtro = new TermFilter(new Term("conteudo", "java"));
+			TopDocs docs = buscador.search(query, 100);
 			logger.info(query);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {

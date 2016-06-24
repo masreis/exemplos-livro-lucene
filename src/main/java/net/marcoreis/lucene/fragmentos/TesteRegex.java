@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.util.regex.Pattern;
 

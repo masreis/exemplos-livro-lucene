@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,7 +17,6 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.FieldType;
-import org.apache.lucene.document.IntField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
@@ -32,12 +31,12 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
+public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
 	public static final String DIRETORIO_INDICE = System.getProperty("user.home")
 			+ "/livro-lucene/indice-capitulo-02-exemplo-02";
-	private static InputStream ARQUIVO_DADOS = IndexadorProposicoesCamaraSAXParser.class.getClassLoader()
+	private static InputStream ARQUIVO_DADOS = IndexadorDadosDeputadosSAXParser.class.getClassLoader()
 			.getResourceAsStream("dados/ObterDeputados.xml");
-	private static Logger logger = Logger.getLogger(IndexadorProposicoesCamaraSAXParser.class);
+	private static Logger logger = Logger.getLogger(IndexadorDadosDeputadosSAXParser.class);
 	private StringBuilder content = new StringBuilder();
 	private IndexWriter writer;
 	private Document parlamentar;
@@ -45,8 +44,8 @@ public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
 	@Before
 	public void inicializar() throws IOException {
 		FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
-		Analyzer analyzer = new StandardAnalyzer();
 		Directory dir = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
+		Analyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		writer = new IndexWriter(dir, conf);
 	}
@@ -115,11 +114,11 @@ public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
 		} else if (qName.equals("ideCadastro")) {
 			// O valor da tag está guardado em content depois de passar pelo
 			// método characters()
-			parlamentar.add(new IntField("ideCadastro", Integer.parseInt(content.toString()), Store.YES));
+			parlamentar.add(new StringField("ideCadastro", content.toString(), Store.YES));
 		} else if (qName.equals("condicao")) {
 			parlamentar.add(new StringField("condicao", content.toString(), Store.YES));
 		} else if (qName.equals("matricula")) {
-			parlamentar.add(new IntField("matricula", Integer.parseInt(content.toString()), Store.YES));
+			parlamentar.add(new StringField("matricula", content.toString(), Store.YES));
 		} else if (qName.equals("idParlamentar")) {
 			parlamentar.add(new StringField("idParlamentar", content.toString(), Store.YES));
 		} else if (qName.equals("nome")) {
@@ -147,6 +146,7 @@ public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
 			parlamentar.add(comissao);
 			// Para habilitar o highlight temos que armazenar o term vector
 			FieldType ft = new FieldType();
+			// FIXME
 			// ft.setIndexed(true);
 			ft.setStored(true);
 			ft.setTokenized(true);

@@ -1,7 +1,7 @@
 package net.marcoreis.lucene.capitulo_04;
 
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.DoubleField;
+import org.apache.lucene.document.DoublePoint;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.FieldType;
@@ -34,7 +34,7 @@ public class ExemploFieldType {
 		Document doc = new Document();
 		TextField campoNome = new TextField("nome", "marco antonio", Store.YES);
 		doc.add(campoNome);
-		DoubleField campoSalario = new DoubleField("salario", 8000.01, Store.YES);
+		DoublePoint campoSalario = new DoublePoint("salario", 8000.01);
 		doc.add(campoSalario);
 	}
 

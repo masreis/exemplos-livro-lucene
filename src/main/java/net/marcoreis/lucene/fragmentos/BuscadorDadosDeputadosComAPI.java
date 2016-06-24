@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -59,9 +59,9 @@ public class BuscadorDadosDeputadosComAPI {
 		try {
 			Term termo = new Term("comissao", "saúde");
 
-			PhraseQuery query = new PhraseQuery();
-			query.add(termo);
-			TopDocs docs = buscador.search(query, 100);
+			// PhraseQuery query = new PhraseQuery();
+			// query.add(termo);
+			TopDocs docs = buscador.search(null, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = buscador.doc(sd.doc);

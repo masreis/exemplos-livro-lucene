@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.DocsEnum;
 import org.apache.lucene.index.Fields;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.MultiFields;
@@ -40,14 +39,16 @@ public class FrequenciaDosTermos3 {
 			while ((bytesRef = termEnum.next()) != null) {
 				if (termEnum.seekExact(bytesRef)) {
 
-					DocsEnum docsEnum = termEnum.docs(liveDocs, null);
+					// DocsEnum docsEnum = termEnum.docs(liveDocs, null);
 
-					if (docsEnum != null) {
-						int doc;
-						while ((doc = docsEnum.nextDoc()) != DocIdSetIterator.NO_MORE_DOCS) {
-							System.out.println(bytesRef.utf8ToString() + " in doc " + doc + ": " + docsEnum.freq());
-						}
-					}
+					// if (docsEnum != null) {
+					// int doc;
+					// while ((doc = docsEnum.nextDoc()) !=
+					// DocIdSetIterator.NO_MORE_DOCS) {
+					// System.out.println(bytesRef.utf8ToString() + " in doc " +
+					// doc + ": " + docsEnum.freq());
+					// }
+					// }
 				}
 			}
 		}

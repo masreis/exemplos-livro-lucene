@@ -3,12 +3,8 @@ package net.marcoreis.lucene.capitulo_10;
 import java.nio.file.Paths;
 
 import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.DocsEnum;
-import org.apache.lucene.index.MultiFields;
-import org.apache.lucene.index.PostingsEnum;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.BytesRef;
 import org.junit.Test;
 
 public class FrequenciaTermos {

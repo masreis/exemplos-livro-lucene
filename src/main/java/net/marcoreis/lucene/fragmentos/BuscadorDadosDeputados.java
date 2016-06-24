@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.nio.file.Paths;
 
@@ -16,15 +16,26 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class ExplicacaoQuery {
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice-capitulo-02";
-	private static final Logger logger = Logger.getLogger(ExplicacaoQuery.class);
+public class BuscadorDadosDeputados {
+	private static String DIRETORIO_INDICE = System.getProperty("user.home")
+			+ "/livro-lucene/indice-capitulo-02-exemplo-02";
+	private static final Logger logger = Logger.getLogger(BuscadorDadosDeputados.class);
 
 	public static void main(String[] args) {
-		ExplicacaoQuery explicacao = new ExplicacaoQuery();
+		BuscadorDadosDeputados buscador = new BuscadorDadosDeputados();
 		String consulta = "";
-		consulta = "conteudo:(\"service\")";
-		explicacao.buscar(consulta);
+		consulta = "comissao:(\"rio de janeiro\")";
+		consulta = "nome:alves";
+		consulta = "fone:(3215?5202)";
+		consulta = "gabinete:543";
+		consulta = "comissao:pais~1";
+		consulta = "nome:lucio~1";
+		consulta = "nome:wellington~";
+		consulta = "nome:rafael~";
+		consulta = "nome:artur~0";
+		consulta = "nome:luis~1";
+		consulta = "comissao:\"reforma proposta\"~10";
+		buscador.buscar(consulta);
 	}
 
 	public void buscar(String consulta) {
@@ -32,18 +43,22 @@ public class ExplicacaoQuery {
 			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
 			IndexSearcher buscador = new IndexSearcher(reader);
-			System.out.println(reader.numDocs());
+			logger.info("Total de deputados indexados: " + reader.maxDoc());
 			//
-			// Query
 			QueryParser parser = new QueryParser("", new StandardAnalyzer());
 			Query query = parser.parse(consulta);
 			//
-			TopDocs topDocs = buscador.search(query, 100);
-			for (ScoreDoc sd : topDocs.scoreDocs) {
+			TopDocs docs = buscador.search(query, 100);
+			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = buscador.doc(sd.doc);
 				Explanation explicacao = buscador.explain(query, sd.doc);
-				// logger.info("Arquivo: " + doc.get("caminho"));
-				logger.info(explicacao.toString());
+				// logger.info(explicacao.toString());
+				logger.info(doc.get("nome"));
+				String[] comissoes = doc.getValues("comissao");
+				for (String comissao : comissoes) {
+					logger.info(comissao);
+				}
 			}
 			//
 			reader.close();
@@ -51,5 +66,4 @@ public class ExplicacaoQuery {
 			logger.error(e);
 		}
 	}
-
 }

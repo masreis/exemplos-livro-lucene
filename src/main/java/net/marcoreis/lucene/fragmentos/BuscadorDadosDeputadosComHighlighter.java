@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.fragmentos;
 
 import java.nio.file.Paths;
 
@@ -13,27 +13,21 @@ import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
+import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class BuscadorDadosDeputados {
+public class BuscadorDadosDeputadosComHighlighter {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home")
 			+ "/livro-lucene/indice-capitulo-02-exemplo-02";
-	private static final Logger logger = Logger.getLogger(BuscadorDadosDeputados.class);
+	private static final Logger logger = Logger.getLogger(BuscadorDadosDeputadosComHighlighter.class);
 
 	public static void main(String[] args) {
-		BuscadorDadosDeputados buscador = new BuscadorDadosDeputados();
+		BuscadorDadosDeputadosComHighlighter buscador = new BuscadorDadosDeputadosComHighlighter();
 		String consulta = "";
-		consulta = "comissao:(\"rio de janeiro\")";
-		consulta = "nome:alves";
-		consulta = "fone:(3215?5202)";
-		consulta = "gabinete:543";
-		consulta = "comissao:pais~1";
-		consulta = "nome:lucio~1";
-		consulta = "nome:wellington~";
-		consulta = "nome:rafael~";
-		consulta = "nome:artur~0";
-		consulta = "nome:luis~1";
+		consulta = "nome:josé";
+		consulta = "comissao:(comissão AND lei)";
 		consulta = "comissao:\"reforma proposta\"~10";
 		buscador.buscar(consulta);
 	}
@@ -50,14 +44,18 @@ public class BuscadorDadosDeputados {
 			//
 			TopDocs docs = buscador.search(query, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+			FastVectorHighlighter fhl = new FastVectorHighlighter();
+			FieldQuery fq = fhl.getFieldQuery(query);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = buscador.doc(sd.doc);
+				String fragmentos = fhl.getBestFragment(fq, reader, sd.doc, "comissao", 100000);
+				System.out.println(fragmentos);
 				Explanation explicacao = buscador.explain(query, sd.doc);
 				// logger.info(explicacao.toString());
 				logger.info(doc.get("nome"));
 				String[] comissoes = doc.getValues("comissao");
 				for (String comissao : comissoes) {
-					logger.info(comissao);
+					// logger.info(comissao);
 				}
 			}
 			//
