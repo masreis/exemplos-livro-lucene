@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_02;
+package net.marcoreis.lucene.capitulo_03;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -97,15 +97,14 @@ public class IndexadorArquivosLocais {
 	private void indexarArquivo(File arquivo) {
 		try {
 			Document doc = new Document();
-			Date dataAtual = new Date(System.currentTimeMillis());
-			String dataParaIndexacao = DateTools.dateToString(dataAtual, Resolution.DAY);
+			Date dataModificacao = new Date(arquivo.lastModified());
+			String dataParaIndexacao = DateTools.dateToString(dataModificacao, Resolution.DAY);
 			String extensao = consultarExtensaoArquivo(arquivo.getName());
 			String textoArquivo = extrator.parseToString(new FileInputStream(arquivo));
 			//
 			doc.add(new TextField("conteudo", textoArquivo, Store.YES));
 			doc.add(new TextField("tamanho", String.valueOf(arquivo.length()), Store.YES));
 			doc.add(new StringField("data", dataParaIndexacao, Store.YES));
-			doc.add(new LongPoint("dataPoint", dataAtual.getTime()));
 			doc.add(new TextField("caminho", arquivo.getAbsolutePath(), Store.YES));
 			doc.add(new StringField("extensao", extensao, Store.YES));
 			writer.addDocument(doc);
