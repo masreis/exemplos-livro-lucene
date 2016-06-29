@@ -1,0 +1,3646 @@
+<proposicoes>
+  <proposicao>
+    <id>490360</id>
+    <nome>SUG 253/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>253</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/12/2010 11:25:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que define o crime de prática de racismo, nos termos do artigo 5º, inciso XLII da Constituição Federal, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Eduardo Banks</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490359</id>
+    <nome>SUG 252/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>252</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/12/2010 11:23:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para alterar a redação dos artigos 10, 13, 20, 21, 22, 25, 27, 28, 39, 47, 60, 62, 63 e 64, revogar os artigos 9º, 14 e 19 do Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais) e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Eduardo Banks</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488736</id>
+    <nome>SUG 248/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>248</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2010 09:58:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Direitos das Vítimas de Crime, dos Usuários de Entorpecentes e das Pessoas com Problemas Mentais'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488737</id>
+    <nome>SUG 249/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>249</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2010 09:58:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Novas Agências Reguladoras nas Áreas do SUS, Prisional, Direitos da Infância, Social e Outras'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488738</id>
+    <nome>SUG 250/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>250</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2010 09:58:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Controle de Constitucionalidade Difuso e Concentrado: Reflexões e Soluções. É Possível Aperfeiçoar?'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488739</id>
+    <nome>SUG 251/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>251</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2010 09:58:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'A Implantação de Piso Salarial para o Curso de Direito e dá Outras Providências'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488735</id>
+    <nome>SUG 247/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>247</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2010 09:56:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Criação de Procons'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488570</id>
+    <nome>SUG 246/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>246</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/12/2010 20:15:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Uso Religioso da Ayahuasca: Soluções Responsáveis para uma Legislação Federal'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Federação Goiana de Ayahuasca</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487533</id>
+    <nome>SUG 244/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>244</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:31:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Critérios Diferenciadores por Sexo na Previdência  Privada e nos Seguros  são Constitucionais? E o Direito de Partilha em Caso de Divórcio? Pensão por Morte apenas para Filhas Solteiras é Constitucional?".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487535</id>
+    <nome>SUG 245/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>245</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:31:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Critérios Objetivos para Seleção de Professores nas Universidades Públicas e para Cursos de Pós-Graduação e Carga Horária de professores na Sala de Aula'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487513</id>
+    <nome>SUG 235/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>235</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema 'Conselho Tutelar e Comissários da Infância e Adolescência, Discutindo o Modelo e as Atribuições'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487516</id>
+    <nome>SUG 236/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>236</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema 'Municípios com menos de cinco mil habitantes'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487519</id>
+    <nome>SUG 237/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>237</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Medidas Preventivas para se Combater a Corrupção'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487520</id>
+    <nome>SUG 238/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>238</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: "Taxas, Custas, Despesas e Emolumentos no Sistema Judicial".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487522</id>
+    <nome>SUG 239/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>239</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Empregados Domésticos, Direito ao Abono do PIS e Curso Técnico'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487523</id>
+    <nome>SUG 240/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>240</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'A Implantação dos Paralegais e Outras Funções no Meio Jurídico como o Juiz Leigo, Juiz de Paz, Conciliador, Mediador, Arbitragem, as quais ainda não foram amplamente efetivadas'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487524</id>
+    <nome>SUG 241/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>241</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Novas Modalidades de Seguro em benefício do Consumidor'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487525</id>
+    <nome>SUG 242/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>242</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Ressarcimento ao SUS por Acidentes de Trânsito, bem como Pagamento de Tributo para Compensar Aumento de Acidentes de Trânsito e Crimes em Razão do Uso de Bebidas Alcoólicas'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487528</id>
+    <nome>SUG 243/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>243</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:08:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema: 'Exigência de Pagamento Prévio do ITCD  e Outros Tributos como Condição  para Inventário'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487511</id>
+    <nome>SUG 234/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>234</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:05:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir 'O Modelo de Assistência Jurídica no Brasil e o Acesso à  Justiça, Estatizar ou Descentralizar?".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487509</id>
+    <nome>SUG 233/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>233</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 14:02:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema 'Despachantes de Trânsito e Imobiliários, reflexões'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487506</id>
+    <nome>SUG 232/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>232</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 13:55:00</datApresentacao>
+    <txtEmenta>Sugere a realização de reunião de audiência pública para discutir o tema implantação dos Juizados Especiais da Família.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486966</id>
+    <nome>SUG 231/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>231</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 16:21:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que altera a redação dos artigos 103 e 107, inciso IV, do Decreto-Lei n. 2.848, de 7 de dezembro de 1940, e do artigo 38 do Decreto-Lei n. 3.689, de 3 de outubro de 1941, para abolir a decadência do direito de queixa ou de representação, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Eduardo Banks</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485709</id>
+    <nome>SUG 230/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>230</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/11/2010 14:28:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que altera a redação do artigo 13, parágrafo 2º, inciso III, alínea "c", da Lei n. 9.249, de 26 de dezembro de 1995, que dispõe sobre a alteração da legislação do imposto de renda das pessoas jurídicas, bem como da contribuição social sobre o lucro líquido, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Amigos Moradores do Jardim Aloha</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485609</id>
+    <nome>SUG 229/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>229</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/11/2010 16:30:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que visa disciplinar a constituição de associações comunitárias de moradores, bem como delimitar a competência e a atuação dessas associações.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Amigos Moradores do Jardim Aloha</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>484882</id>
+    <nome>SUG 228/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>228</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/8/2010 20:15:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para alterar a redação dos Artigos 1562, 1571 a 1578, 1580, 1583 e 1584 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), o § 6º do Artigo 7º do Decreto-Lei nº 4.657, de 4  setembro de 1942 (Lei de Introdução ao Código Civil), o Artigo 155 da Lei 5.869, de 11 de janeiro de 1973 (Código de Processo Civil) e o item 14 do Inciso II do Artigo 167 da Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos) e dá outras providências</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Eduardo Banks</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>484624</id>
+    <nome>SUG 227/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>227</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/8/2010 11:40:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Reunião de Audiência Pública para discutir o tema 'Escola sem Homofobia'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis e Transexuais</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483655</id>
+    <nome>SUG 208/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>208</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que visa coibir sindicatos irregulares.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483657</id>
+    <nome>SUG 209/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>209</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que visa coibir pagamentos ilícitos por parte de órgãos públicos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483658</id>
+    <nome>SUG 210/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>210</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre medidas protetivas ao jovem Advogado.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483660</id>
+    <nome>SUG 211/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>211</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que obriga os órgãos, membros e servidores do Poder Judiciário, bem como do Ministério Público, a enviarem dados ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, quando solicitados por aqueles Órgãos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483662</id>
+    <nome>SUG 212/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>212</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 100 à Lei n. 8.212, de 1991, criando a possibilidade de o cidadão optar pelo pagamento da contribuição ao INSS ou à Previdência Privada.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483663</id>
+    <nome>SUG 213/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>213</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 37 - A à Lei de Licitações e Contratos da Administração Pública, Lei n. 8.666, de 1993.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483665</id>
+    <nome>SUG 214/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>214</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que altera o disposto no art. 299 do Código Eleitoral.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483667</id>
+    <nome>SUG 215/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>215</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 201 - A e 201 - B ao Código de Processo Penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483670</id>
+    <nome>SUG 216/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>216</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 310 - A  ao Código de Processo Penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483672</id>
+    <nome>SUG 217/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>217</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 257 - A  ao Código de Processo Penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483673</id>
+    <nome>SUG 218/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>218</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 155 - A  ao Código Penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483678</id>
+    <nome>SUG 219/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>219</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que objetiva o aperfeiçoamento da "Lei de Improbidade Administrativa" (Lei n. 8.429, de 1992), acrescentando o art. 10 à referida Lei.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483679</id>
+    <nome>SUG 220/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>220</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que estabelece a obrigação de manter relação atualizada de presos e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483682</id>
+    <nome>SUG 221/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>221</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que objetiva facilitar a concessão de liberdade provisória, acrescentando os artigos 322-A e 322-B ao Código de Processo Penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483687</id>
+    <nome>SUG 222/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>222</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 284-A ao Código Penal, estabelecendo que, nos delitos de exercício ilegal de profissão, a comprovação do perigo concreto se faz necessária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483695</id>
+    <nome>SUG 223/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>223</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre a possibilidade de a pessoa jurídica ser processada judicialmente, estabelecendo as penas cabíveis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483697</id>
+    <nome>SUG 224/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>224</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre a ampliação das atribuições dos cartórios e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483699</id>
+    <nome>SUG 225/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>225</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o art. 1565-A e 1565-B ao Novo Código Civil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483701</id>
+    <nome>SUG 226/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>226</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:13:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre a criação do serviço comunitário compulsório para formandos em Direito, Serviço Social e Psicologia em universidades públicas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483643</id>
+    <nome>SUG 204/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>204</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:02:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que estimula práticas ambientais de reciclagem.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483644</id>
+    <nome>SUG 205/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>205</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:02:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que aperfeiçoa o "Programa Luz para Todos".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483645</id>
+    <nome>SUG 206/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>206</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:02:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que institui, para os Estados, Distrito Federal e Municípios, compensação financeira pela exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica, de recursos minerais em seus respectivos territórios, plataformas continental, mar territorial ou zona econômica exclusiva, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483646</id>
+    <nome>SUG 207/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>207</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:02:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre a obrigatoriedade de inserção de profissionais nas equipes da Estratégia Saúde da Família.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483642</id>
+    <nome>SUG 203/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>203</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2010 14:00:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que acrescenta o inciso III ao art. 6º- B da Lei nº 10.260, de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481850</id>
+    <nome>SUG 202/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>202</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/6/2010 16:43:00</datApresentacao>
+    <txtEmenta>Sugere projeto de lei que dispõe sobre a regulamentação da profissão de Assessor Parlamentar e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Federação do Elo Social SP</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481846</id>
+    <nome>SUG 201/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>201</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/6/2010 16:38:00</datApresentacao>
+    <txtEmenta>Sugere a realização de audiência pública para analisar e debater a criação do Adicional para Atividade de Risco dos Vigilantes de Instituições Federais de Ensino Superior e de Pesquisa Científica e Tecnológica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sindicato dos Servidores da Universidade Federal de Pelotas</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481845</id>
+    <nome>SUG 200/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>200</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/6/2010 16:35:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para alterar a redação dos Artigos 54, incisos I, IV e VII; 56; 208, incisos I, III e V e 245 da Lei 8.069/90 (Estatuto da Criança e do Adolescente), objetivando tornar obrigatória a educação básica para crianças e adolescentes de 4 a 17 anos de idade, bem como o atendimento, em creche, às crianças de 0 a 3 anos de idade e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>Altera a Lei nº 8.069, de 13 de julho de 1990.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Paulista do Ministério Público</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Ordinária</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479850</id>
+    <nome>SUG 199/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>199</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/6/2010 15:22:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Reunião de Audiência Pública para debater acerca das emendas oferecidas pela Comissão de Direitos Humanos e Minorias da Câmara dos Deputados ao Orçamento da União exercício de 2010 e aprovadas pelo Congresso Nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Movimento Nacional de Direitos Humanos / Sociedade de Apoio Aos Direitos Humanos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479352</id>
+    <nome>SUG 198/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>198</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:29:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para dispor sobre a concessão de meia-passagem a estudantes e professores em sistemas ferroviários administrados por operadoras vinculadas à União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Artecultura para Paz Isaura Maia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479351</id>
+    <nome>SUG 197/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>197</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:18:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para criar o Conselho Nacional dos Direitos Indígenas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Pankararu Fonte da Serra</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>476397</id>
+    <nome>SUG 196/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>196</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/5/2010 10:58:00</datApresentacao>
+    <txtEmenta>sugere a realização de Seminário para debater a Subrepresentação da Sociedade no Parlamento Brasileiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>475902</id>
+    <nome>SUG 195/2010 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>195</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/5/2010 11:13:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que dispõe sobre "promoção de cabos estabilizados e Taifeiros-Mor e a promoção de Sargentos do Quadro Especial do Exército Brasileiro".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Beneficente Antônio Mendes Filho dos Cabos e Soldados da Brigada Militar</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

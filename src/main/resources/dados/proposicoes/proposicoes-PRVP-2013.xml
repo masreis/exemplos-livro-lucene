@@ -1,0 +1,117 @@
+<proposicoes>
+  <proposicao>
+    <id>583785</id>
+    <nome>PRVP 1/2013 PEC20712 =&gt; PEC 207/2012</nome>
+    <tipoProposicao>
+      <id>622</id>
+      <sigla>PRVP</sigla>
+      <nome>Proposta de Redação do Vencido em Primeiro Turno</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>536963</id>
+      <sigla>PEC20712  </sigla>
+      <nome>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 207-A de 2012, do Senado Federal, que "altera o art. 134 da Constituição Federal" (garante às Defensorias Públicas da União e do Distrito Federal autonomia funcional e administrativa e a iniciativa de sua proposta orçamentária).</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/7/2013 08:30:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mauro Benevides</txtNomeAutor>
+      <idecadastro>73588</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>536963</codOrgaoEstado>
+        <siglaOrgaoEstado>PEC20712  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567196</id>
+    <nome>PRVP 1/2013 PEC11111 =&gt; PEC 111/2011</nome>
+    <tipoProposicao>
+      <id>622</id>
+      <sigla>PRVP</sigla>
+      <nome>Proposta de Redação do Vencido em Primeiro Turno</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9148</id>
+      <sigla>PEC11111  </sigla>
+      <nome>Comissão Especial destinada a apreciar e  proferir parecer à Proposta de Emenda à Constituição nº 111-A, de 2011, da Sra. Dalva Figueiredo, que "altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, e dá outras providências".</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2013 19:32:00</datApresentacao>
+    <txtEmenta>Proposta de Redação para o Segundo Turno de Discussão da Proposta de Emenda à Constituição nº 111-B/2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luciano Castro</txtNomeAutor>
+      <idecadastro>73982</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9148</codOrgaoEstado>
+        <siglaOrgaoEstado>PEC11111  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

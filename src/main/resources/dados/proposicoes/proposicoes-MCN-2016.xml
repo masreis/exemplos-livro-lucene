@@ -1,0 +1,547 @@
+<proposicoes>
+  <proposicao>
+    <id>2086088</id>
+    <nome>MCN 9/2016 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/5/2016 17:59:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.242, art. 55, § 5º, o Relatório de Avaliação de Receitas e Despesas Primárias de maio de 2016 - Extemporâneo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidência da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2078506</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 2/2016 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085464</id>
+    <nome>MCN 8/2016 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/5/2016 19:53:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.242/2015, art. 55, o Relatório de Avaliação de Receitas e Despesas, referente ao 2º bimestre de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidência da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2078506</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 2/2016 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084757</id>
+    <nome>MCN 7/2016 CN =&gt; PLN 7/2015 CN</nome>
+    <tipoProposicao>
+      <id>643</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN)</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/5/2016 18:36:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 65, inciso I, da Lei nº 13.242, de 30 de dezembro de 2015, a relação de impedimentos de ordem técnica à execução das emendas orçamentárias individuais, referente ao exercício de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidência da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084479</id>
+    <nome>MCN 6/2016 CN</nome>
+    <tipoProposicao>
+      <id>648</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do PPA, MCN</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/5/2016 18:23:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 15 da Lei nº 12.593, de 18 de janeiro de 2012, o Relatório Anual de Avaliação do Plano Plurianual 2012-2015, referente ao ano-base 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086622</id>
+    <nome>MCN 10/2016 CN</nome>
+    <tipoProposicao>
+      <id>645</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/5/2016 13:30:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 128 da Lei nº 13.080, de 2 de janeiro de 2015, o Relatório de Avaliação do Cumprimento das Metas Fiscais referente ao 1º quadrimestre de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidência da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081987</id>
+    <nome>MCN 4/2016 CN</nome>
+    <tipoProposicao>
+      <id>643</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN)</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/4/2016 18:12:00</datApresentacao>
+    <txtEmenta>Informa, em cumprimento ao parágrafo único do art. 3º da Lei nº 13.249, de 13 de janeiro de 2016 (PPA 2016-2019), o montante de recursos a ser destinado ao Programa de Aceleração do Crescimento - PAC e ao Programa de Investimentos em Logística - PIL. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080370</id>
+    <nome>MCN 3/2016 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/3/2016 17:10:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.242/2015, art. 55, o Relatório de Avaliação de Receitas e Despesas, referente ao 1º bimestre de 2016. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2078506</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 2/2016 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078507</id>
+    <nome>MCN 1/2016 CN</nome>
+    <tipoProposicao>
+      <id>645</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/3/2016 10:40:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.080/2015, art. 128, o Relatório de Avaliação do Cumprimento das Metas Fiscais referente ao Terceiro Quadrimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidência da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1302027</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 7/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078506</id>
+    <nome>MCN 2/2016 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/3/2016 10:01:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.242, art. 55, § 5º, o Relatório de Avaliação de Receitas e Despesas Primárias de fevereiro de 2016 - Extemporâneo. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,2346 @@
+<proposicoes>
+  <proposicao>
+    <id>480585</id>
+    <nome>SLD 1/2010 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 16:42:00</datApresentacao>
+    <txtEmenta>Requer que se dê- à alínea "e" do Inciso IV do Art. 89 a seguinte redação: "Art. 89, IV - e) financiamento para investimentos na área de geração e transmissão de energia elétrica, transporte de gás natural por meio de gasodutos, bem como para programas relativos à eficiência no uso das fontes de energia, inclusive fontes alternativas, com ênfase em projetos voltados à substituição de lâmpadas comuns nos sistemas de iluminação pública por lâmpadas eficientes."</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480586</id>
+    <nome>SLD 2/2010 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 16:42:00</datApresentacao>
+    <txtEmenta>Requer atendimento das demandas de energia elétrica em localidades isoladas não-supridas pela rede elétrica convencional - nacional - Programa: 0273-luz para todos - Ação: 1379-atendimento das demandas por energia elétrica em localidades isoladas não-supridas pela rede elétrica convencional. meta: 81.254 domicílios georreferenciados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480588</id>
+    <nome>SLD 3/2010 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 16:42:00</datApresentacao>
+    <txtEmenta>Requer apoio a centros de referência e de demonstração tecnológica em energia alternativa renovável - Programa: 1044-energia alternativa renovável - Ação: 7050-implantação de plantas demonstrativas de fontes de energia alternativa renovável. meta: 30 projetos-pilotos implantados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480589</id>
+    <nome>SLD 4/2010 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 16:42:00</datApresentacao>
+    <txtEmenta>Requer oferta de energia elétrica a domicílios rurais de baixa renda - Programa: 0273-luz para todos - Ação: 7054-oferta de energia elétrica a domicílios rurais de baixa renda. meta: 600.000 domicílios atendidos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480514</id>
+    <nome>SLD 19/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:15:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências" para que seja incluída como meta o apoio à implantação do Trem de Alta Velocidade - TAV (Rio de Janeiro - São Paulo - Campinas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Guilherme Campos</txtNomeAutor>
+      <idecadastro>141447</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480516</id>
+    <nome>SLD 20/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:15:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências"  para que seja incluída como meta a Reforma e Ampliação de Aeroportos e Aeródromos de Interesse Nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Guilherme Campos</txtNomeAutor>
+      <idecadastro>141447</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480512</id>
+    <nome>SLD 18/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:14:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências" para que seja modificada a alínea c, do inciso VI, do § 1º do art. 20.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Guimarães</txtNomeAutor>
+      <idecadastro>141470</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480509</id>
+    <nome>SLD 17/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:12:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências" para que seja modificado o item 3 do inciso II.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Guimarães</txtNomeAutor>
+      <idecadastro>141470</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480504</id>
+    <nome>SLD 16/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:11:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências".para que seja incluída como meta a construção de navios-patrulha oceânicos</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Guimarães</txtNomeAutor>
+      <idecadastro>141470</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480498</id>
+    <nome>SLD 14/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:05:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências",  para que seja suprimido o inciso II do art. 33.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480503</id>
+    <nome>SLD 15/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:05:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências" para que seja incluído como meta a construção.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Guimarães</txtNomeAutor>
+      <idecadastro>141470</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480495</id>
+    <nome>SLD 13/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 15:01:00</datApresentacao>
+    <txtEmenta>para que seja modificado o art. 123.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480330</id>
+    <nome>SLD 11/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 10:02:00</datApresentacao>
+    <txtEmenta>Art. 087 - Transparência nos Contratos de Serviços de Terceiros</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480332</id>
+    <nome>SLD 12/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 10:02:00</datApresentacao>
+    <txtEmenta>Art. 088-A - BENEFICIOS ASSISTENCIAIS E INDENIZATÓRIOS COMO DESPESAS COM PESSOAL</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480324</id>
+    <nome>SLD 8/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:58:00</datApresentacao>
+    <txtEmenta>Art. 013 - Incluir Reserva na LDO 2011 para Renúncia de Receita ou Despesas Obrigatórias Continuadas
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480325</id>
+    <nome>SLD 9/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:58:00</datApresentacao>
+    <txtEmenta>Art. 080 - Irretroatividade dos Aumentos com Pessoal
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480327</id>
+    <nome>SLD 10/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:58:00</datApresentacao>
+    <txtEmenta>Art. 081 - Aperfeiçoamento na Área de Controle de Gastos de Pessoal (fundado no art. 169 da Constituição).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480319</id>
+    <nome>SLD 6/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:54:00</datApresentacao>
+    <txtEmenta>ANEXO III.12 - INCLUSÃO DO PDC 2600/2010 NO DEMONSTRATIVO DA MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480320</id>
+    <nome>SLD 7/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:54:00</datApresentacao>
+    <txtEmenta>Art. 002, §3 - Submeter as Proposições Legislativas que Afetem o Plano de Dispêndios Globais das Estatais ao Controle do Equilíbrio Fiscal
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480279</id>
+    <nome>SLD 3/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:31:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pepe Vargas</txtNomeAutor>
+      <idecadastro>141445</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480281</id>
+    <nome>SLD 4/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:31:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pepe Vargas</txtNomeAutor>
+      <idecadastro>141445</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480282</id>
+    <nome>SLD 5/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:31:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pepe Vargas</txtNomeAutor>
+      <idecadastro>141445</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480278</id>
+    <nome>SLD 2/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei Nº 04, de 2010-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2011 e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pepe Vargas</txtNomeAutor>
+      <idecadastro>141445</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480109</id>
+    <nome>SLD 4/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 14:30:00</datApresentacao>
+    <txtEmenta>dispões sobre Infra -estrutura para Distritos Industriais, PROGRAMA 0419 Desenvolvimento de Microempresa e Empresas de Pequeno e Médio Porte, AÇÃO 2374 Fomento à Instalação de Micro, Pequenas e Médias Empresas, ACRÉSCIMO DE META 100.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480106</id>
+    <nome>SLD 3/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 14:27:00</datApresentacao>
+    <txtEmenta>dispõe sobre Implantação de Barracões Industriais, PROGRAMA 0419 Desenvolvimento de Microempreas e Empresas de Pequeno e Médio Porte, AÇÃO 2374 Fomento à Instalação de Micro, Pequenas e Médias Empresas, ACRÉSCIMO DE META 100.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480103</id>
+    <nome>SLD 2/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 14:24:00</datApresentacao>
+    <txtEmenta>dispõe sobre Desenvolvimento para Pequenas e Microempresas, PROGRAMA 0419 Desenvolvimento para Pequenas e Microempresas, AÇÃO 2374 Fomento à Instalação de Micro, Pequenas e Médias Empresas, ACRÉSCIMO DE META 100</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480080</id>
+    <nome>SLD 1/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 11:53:00</datApresentacao>
+    <txtEmenta>dispõe sobre Desenvolvimento e Infra-estrutura para o Agronegócio, PROGRAMA 6003 Apoio ao Desenvolvimento do Setor Agropecuário, PROGRAMA 6003 Apoio ao Desenvolvimento do Setor Agropecuário, AÇÃO 7H17 Apoio a Projetos de Desenvolvimento do Setor Agropecuário, ACRÉSCIMO DE META 1000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480079</id>
+    <nome>SLD 5/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 11:35:00</datApresentacao>
+    <txtEmenta>dispões sobre Missões Comerciais e Feiras Setoriais e Multissetoriais, PROGRAMA 0355 Promoção das Exportações, AÇÃO 2538 Missões Comerciais e Feiras Setoriais e Multissetoriais, ACRÉSCIMO DE META 100.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479558</id>
+    <nome>SLD 1/2010 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 17:16:00</datApresentacao>
+    <txtEmenta>Apresenta sugestão de emenda ao Projeto de Lei de Diretrizes Orçamentárias para 2011, extinguindo-se o superávit primário.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luciana Genro</txtNomeAutor>
+      <idecadastro>74397</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479851</id>
+    <nome>SLD 9/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:59:00</datApresentacao>
+    <txtEmenta>inclui, no texto da lei,  parágrafo  no artigo 13 - as dotações propostas no projeto de lei orçamentária para 2011, à conta de recursos a que se refere a alínea "c" do inciso II do art. 49 da Lei nº 9.478, de 06 de agosto de 1997, e do art. 27 da Lei 2.004, de 03 de outubro de 1953, com redação dada pela Lei nº 7.990, de 28 de dezembro de 1989, com o propósito de fiscalização e proteção das áreas produtoras de petróleo e gás natural, corresponderão, pelo menos, ao montante autorizado na lei orçamentária de 2010, podendo o excedente constituir reserva de contingência a que se refere este artigo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479847</id>
+    <nome>SLD 8/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:58:00</datApresentacao>
+    <txtEmenta>inclui, no texto da lei,  item no inciso II do Anexo IV - despesas com as ações vinculadas às fontes de recursos a que se referem à alínea "c" do inciso II do art. 49 da Lei nº 9.478, de 6 de agosto de 1997, e do art. 27 da Lei nº 2.004, de 3 de outubro de 1953, com redação dada pela Lei nº 7.990, de 28 de dezembro de 1989, referentes às parcelas dos recursos arrecadados à conta das compensações financeiras pela exploração de petróleo e gás natural para tender aos encargos de fiscalização e proteção das áreas produtoras situadas na plataforma continental.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479849</id>
+    <nome>SLD 7/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:56:00</datApresentacao>
+    <txtEmenta>inclui, no texto da lei,  item no inciso II do anexo IV - despesas relacionadas com o desenvolvimento do ciclo do combustível e do protótipo do reator nuclear, no âmbito da Marinha. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479841</id>
+    <nome>SLD 6/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:54:00</datApresentacao>
+    <txtEmenta>inclui, no texto da lei,  item no inciso II do anexo IV - despesas com as ações orçamentárias vinculadas ao Programa de Desenvolvimento de Submarinos da Marinha.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479837</id>
+    <nome>SLD 5/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:50:00</datApresentacao>
+    <txtEmenta>inclui a ação 2B08 - Realização de Olimpíadas em Ciências. Meta 6.000.000. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479834</id>
+    <nome>SLD 4/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:22:00</datApresentacao>
+    <txtEmenta>inclui a ação 6432 - Promoção do desenvolvimento da indústria de projeto e fabricação de componentes semicondutores. Meta 4.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479832</id>
+    <nome>SLD 3/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:20:00</datApresentacao>
+    <txtEmenta>inclui a ação 7F40 - Implantação do Complexo Espacial de Alcântara - CEA. Meta 10.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479830</id>
+    <nome>SLD 2/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:10:00</datApresentacao>
+    <txtEmenta>inclui a ação 123H - Construção de Submarino de Propulsão Nuclear. Meta 1.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479826</id>
+    <nome>SLD 1/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:05:00</datApresentacao>
+    <txtEmenta>inclui a ação 8978 - Apoio à pesquisa e desenvolvimento em áreas temáticas da biodiversidade. Meta 8.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479476</id>
+    <nome>SLD 1/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de meta para execução de 100% do Sistema Integrado de Registro de Identidade Civil - RIC (Programa 1127, Ação 2E16).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>William Woo</txtNomeAutor>
+      <idecadastro>141563</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479479</id>
+    <nome>SLD 2/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de meta para a ação "apoio ao reaparelhamento das instituições de segurança pública", com a finalidade de reaparelhar 582 unidades (Programa 1127, Ação 8988).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Laerte Bessa</txtNomeAutor>
+      <idecadastro>141478</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

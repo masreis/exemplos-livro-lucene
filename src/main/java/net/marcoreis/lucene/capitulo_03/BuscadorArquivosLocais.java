@@ -5,6 +5,7 @@ import java.nio.file.Paths;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.br.BrazilianAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
@@ -35,20 +36,20 @@ public class BuscadorArquivosLocais {
 		// consulta = "conteudo:itext";
 		// consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
 		// consulta = "conteudo:(ssh AND integrator)";
-		// consulta = "conteudo:(orientação a objetos)";
+		consulta = "conteudo:(ciência informação)";
 		// consulta = "conteudo:MunicipiosBeneficiados";
 		// consulta = "conteudo:(didáticas)";
-		// consulta = "extensao:DOC";
+		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
-		// consulta = "conteudo:zope";
-		// consulta = "nome:plano";
+		 consulta = "tamanho:[0 TO 400]";
+		 LongPoint.newRangeQuery("tamanhoLong", 50000, 100000);
 		buscador.buscar(consulta);
 	}
 
 	public void buscar(String consulta) {
 		try {
 			//
-			// Abrir o índice
+			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
 			IndexSearcher buscador = new IndexSearcher(reader);

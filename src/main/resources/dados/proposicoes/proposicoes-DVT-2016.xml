@@ -1,0 +1,125 @@
+<proposicoes>
+  <proposicao>
+    <id>2082206</id>
+    <nome>DVT 2/2016 =&gt; DCR 1/2015</nome>
+    <tipoProposicao>
+      <id>270</id>
+      <sigla>DVT</sigla>
+      <nome>Declaração de Voto</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/4/2016 10:13:00</datApresentacao>
+    <txtEmenta>Denúncia por Crime de Responsabilidade em desfavor da Presidente da República Sra. DILMA VANA ROUSSEFF.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luciana Santos</txtNomeAutor>
+      <idecadastro>160628</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>10</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082204</id>
+    <nome>DVT 1/2016 =&gt; DCR 1/2015</nome>
+    <tipoProposicao>
+      <id>270</id>
+      <sigla>DVT</sigla>
+      <nome>Declaração de Voto</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/4/2016 00:23:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Valtenir Pereira</txtNomeAutor>
+      <idecadastro>141552</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,479 @@
+<proposicoes>
+  <proposicao>
+    <id>562209</id>
+    <nome>REM 7/2012 =&gt; PL 7672/2010</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/12/2012 09:57:00</datApresentacao>
+    <txtEmenta>Reclamação contra a apreciação conclusiva do PL 7.672, de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcos Rogério</txtNomeAutor>
+      <idecadastro>167722</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/12/2012 15:43:00</datDespacho>
+      <txtDespacho>Deixo de conhecer, por intempestiva, a Reclamação n. 7, de 2012, tendo em vista que com a retirada dos recursos contra apreciação conclusiva esgotou-se a fase deliberativa da apreciação da matéria pela Câmara dos Deputados. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>561682</id>
+    <nome>REM 6/2012 =&gt; PL 89/2011</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/11/2012 13:08:00</datApresentacao>
+    <txtEmenta>Solicita que seja corrigido o erro na tramitação do PL 89, de 2011, quando da apreciação na CTASP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Campos</txtNomeAutor>
+      <idecadastro>74366</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2012 15:41:00</datDespacho>
+      <txtDespacho>Ao Senhor Presidente da Comissão de Trabalho, de Administração e Serviço Público, para se manifestar no prazo de 3 (três) sessões. Publique-se..</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558356</id>
+    <nome>REM 1/2012 CDC =&gt; PL 3998/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2004</id>
+      <sigla>CDC       </sigla>
+      <nome>Comissão de Defesa do Consumidor</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/10/2012 15:30:00</datApresentacao>
+    <txtEmenta>Nos termos do art. 96, § 2º, do Regimento Interno, em concomitância com o art. 119, inciso II, apresentamos a presente Reclamação em torno do Projeto de Lei nº 3.998, de 2012, sob análise desta Comissão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Silvio Costa</txtNomeAutor>
+      <idecadastro>4930</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552424</id>
+    <nome>REM 5/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/8/2012 18:17:30</datApresentacao>
+    <txtEmenta>Solicita que seja apurada a responsabilidade pela cobertura do Jornal da Câmara dos Deputados na edição de 02 de agosto de 2012, nos termos em que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/8/2012 18:37:00</datDespacho>
+      <txtDespacho>Encaminhe-se ao Senhor Primeiro-Secretário. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547816</id>
+    <nome>REM 4/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2012 20:27:14</datApresentacao>
+    <txtEmenta>Reclama contra parecer dado ao PL 6.521, de 2009, pela Comissão de Educação e Cultura.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2012</datDespacho>
+      <txtDespacho>Ao Senhor Presidente da Comissão de Educação e Cultura, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547815</id>
+    <nome>REM 3/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2012 20:26:09</datApresentacao>
+    <txtEmenta>Reclama contra parecer dado ao PL 6.210, de 2009, pela Comissão de Educação e Cultura.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2012</datDespacho>
+      <txtDespacho>Ao Senhor Presidente da Comissão de Educação e Cultura, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>544508</id>
+    <nome>REM 2/2012 =&gt; PL 7521/2010</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2012 14:37:00</datApresentacao>
+    <txtEmenta>Reclama contra parecer dado ao PL 7.521, de 2010, pela Comissão de Finanças e Tributação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcos Rogério</txtNomeAutor>
+      <idecadastro>167722</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/5/2012 11:35:00</datDespacho>
+      <txtDespacho>O Senhor Presidente da Comissão de Finanças e Tributação, para se manifestar no prazo de 3 (três) sessões. Publique-se.
+.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>542267</id>
+    <nome>REM 1/2012 =&gt; RIC 1616/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2012 16:28:00</datApresentacao>
+    <txtEmenta>Reclama o descumprimento do prazo regimental em relação ao Requerimento de Informação nº 1616/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

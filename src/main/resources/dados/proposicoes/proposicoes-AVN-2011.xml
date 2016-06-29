@@ -1,0 +1,1389 @@
+<proposicoes>
+  <proposicao>
+    <id>622013</id>
+    <nome>AVN 3/2011 CN</nome>
+    <tipoProposicao>
+      <id>642</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Operações de Redesconto e Empréstimo realizadas pelo Banco Central</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/8/2014 18:29:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 1º, § 6º, da Lei nº 11.882, de 23 de dezembro de 2008, relatório sobre as operações de redesconto e empréstimo realizadas pelo Banco Central do Brasil, referente ao quarto trimestre de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Central do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621990</id>
+    <nome>AVN 14/2011 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/8/2014 14:29:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do disposto no § 4º do artigo 71 da Constituição Federal, o RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União referente ao 1º trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>535631</id>
+    <nome>AVN 20/2011 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/8/2012 20:31:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 71 da Constituição Federal, o RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União referente ao 2º trimestre do exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/9/2011</datDespacho>
+      <txtDespacho>05/09/2011 - Recebido na CMO, nesta data, às 10h.
+13/09/2011 - Designado relator o Deputado VAZ DE LIMA, conforme Of. Pres. n. 302/2011/CMO, de 08/09/2011. Anexado à folha de nº 70.
+07/12/2011 - Recebido do Relator, Deputado VAZ DE LIMA (PSDB/SP), nesta data, relatório com voto no sentido de que a Comissão tome conhecimento da Matéria e determine o seu ARQUIVAMENTO. Anexado às folhas nºs. 71 a 75.
+27/03/2012 - Em virtude do estabelecido no art. 10 da Resolução nº 01/2006-CN, alterada pela de nº 3, de 2008, ambas do Congresso Nacional, deixa, nesta data, o Deputado VAZ DE LIMA, de ser o relator da matéria.
+28/03/2012 - Designado relator o Deputado Osmar Serraglio, conforme Of. Pres. n. 115/2012/CMO, de 28.03.2012, em substituição ao Deputado Vaz de Lima. Anexado à folha de nº 76.
+26/03/2013 - Em virtude do estabelecido no art. 10 da Resolução nº 01/2006-CN, deixa, nesta data, o Deputado Osmar Serraglio, de ser o relator da matéria.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558781</id>
+    <nome>AVN 25/2011 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/12/2011 16:31:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao terceiro trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministro de Estado da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 16:31:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>535957</id>
+    <nome>AVN 24/2011 CN =&gt; AVN 20/2011 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/12/2011 12:15:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no § 4º do artigo 71 da Constituição Federal, o  RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União referente ao 3º trimestre do exercício de 2011</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/12/2011</datDespacho>
+      <txtDespacho>07/12/2011 - Designado relator o Deputado VAZ DE LIMA, conforme Of. Pres. n. 385/2011/CMO, nesta data. Anexado à folha de nº 65.
+08/02/2012 - Recebido do Relator, Deputado VAZ DE LIMA (PSDB/SP), nesta data, relatório com voto no sentido de que a Comissão tome conhecimento da Matéria e determine o seu ARQUIVAMENTO. Anexado às folhas nºs. 66 a 71.
+24/02/2012 - Em virtude do estabelecido no art. 10 da Resolução nº 01/2006-CN, alterada pela de nº 3, de 2008, ambas do Congresso Nacional, deixa, nesta data, o Deputado VAZ DE LIMA, de ser o relator da matéria.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547030</id>
+    <nome>AVN 23/2011 CN =&gt; AVN 21/2011 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/11/2011 17:16:00</datApresentacao>
+    <txtEmenta>Encaminha, conforme determina o art. 114 da Lei nº 12.309, de 9 de agosto de 2010 (Lei de Diretrizes Orçamentárias para 2011), as Demonstrações Financeiras do Banco Central do Brasil referentes ao 3º trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/11/2011 17:16:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558594</id>
+    <nome>AVN 22/2011 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/9/2011 11:44:00</datApresentacao>
+    <txtEmenta>Encaminha Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao segundo trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>MINISTÉRIO DA FAZENDA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/10/2011 11:44:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547028</id>
+    <nome>AVN 21/2011 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/8/2011 17:06:00</datApresentacao>
+    <txtEmenta>Encaminha as Demonstrações Financeiras do Banco Central do Brasil referentes ao 1º semestre de 2011, conforme determina o art. 114 da Lei nº 12.309, de 09 de agosto de 2010 (Lei de Diretrizes Orçamentárias para 2011).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/8/2011 17:06:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554450</id>
+    <nome>AVN 19/2011 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/8/2011 18:48:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 2097, de 2011 - TCU - Plenário, referente aos Relatórios de Gestão Fiscal, relativos ao 1º quadrimestre de 2011, dos Poderes e órgãos federais, nos termos dos arts. 54 e 55 da Lei Complementar nº 101, de 2000  - Lei de Responsabilidade Fiscal - TC 015.497/2011-9.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/8/2011 18:48:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558590</id>
+    <nome>AVN 18/2011 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2011 11:09:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 10 da Lei nº 11.887, de 24 de dezembro de 2008, e do art. 11 do Decreto nº 7.055, de 28 de dezembro de 2009, o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao primeiro trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>MINISTÉRIO DA FAZENDA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/6/2011 11:09:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554345</id>
+    <nome>AVN 17/2011 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2011 16:28:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 3º do art. 122 da Lei nº 12.017, de 12 de agosto de 2009 (Lei de Diretrizes Orçamentárias para 2010), cópia do Acórdão nº 283, de 2011 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente aos Relatórios de Gestão Fiscal - RGF apresentados pelos Poderes e órgãos da esfera federal correspondentes ao 2º quadrimestre de 2010 (TC 028.002/2010-5).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/6/2011</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>535958</id>
+    <nome>AVN 16/2011 CN</nome>
+    <tipoProposicao>
+      <id>639</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2011 12:19:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, conforme dispõe o art. 71, inciso I, da Constituição Federal, o Relatório e sua síntese, sobre as Contas do Presidente da República, acompanhados de Votos e do Parecer Prévio Conclusivo, referentes ao exercício de 2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2011</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555621</id>
+    <nome>AVN 13/2011 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2011 15:16:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 121 da Lei nº 12.309, de 9 de agosto 2010, combinado com o art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União, referente ao 1º quadrimestre do exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/6/2011 15:16:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621937</id>
+    <nome>AVN 15/2011 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2011 14:47:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 114 da Lei nº 12.309 (Lei de Diretrizes Orçamentárias para 2011), de 9 de agosto de 2010, as Demonstrações Financeiras do Banco Central do Brasil referentes ao 1º trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Central do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554401</id>
+    <nome>AVN 10/2011 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/5/2011 17:18:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 1142, de 2011 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, relativo aos Relatórios de Gestão Fiscal - RGF referentes ao 3º Quadrimestre de 2010, publicados por órgãos e entidades dos Poderes da União (TC 002.764/2011-3).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/5/2011 17:18:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>544344</id>
+    <nome>AVN 11/2011 CN =&gt; COI 1/2012 CMO</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/5/2011 17:04:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 1141, de 2011 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, relativo a levantamento de auditoria nas obras de Macrodrenagem do Canal do Congo, serviços de drenagem do canal e pavimentação de diversas ruas em Vila Velha/ES (TC 002.604/2011-6).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/5/2011 17:04:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>620689</id>
+    <nome>AVN 8/2011 CN</nome>
+    <tipoProposicao>
+      <id>712</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do TCU</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2011 15:54:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 56, caput e § 2º, da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal) e no art. 101 da Lei nº 12.017, de 12 de agosto de 2009 (LDO para 2010), a Prestação de Contas do Tribunal de Contas da União relativa ao exercício de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>578272</id>
+    <nome>AVN 6/2011 CN =&gt; AVN 23/2010 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2011 10:34:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 71 da Constituição Federal, o Relatório de Atividades do Tribunal de Contas da União, referente ao exercício de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558857</id>
+    <nome>AVN 7/2011 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2011 19:46:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 10 da Lei nº 11.887/2008, e do art. 11 do Decreto nº 7.055/2009, o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, referente ao quarto trimestre de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministro de Estado da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/4/2011 19:46:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>578271</id>
+    <nome>AVN 5/2011 CN =&gt; AVN 23/2010 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/3/2011 10:33:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento ao disposto no § 4º do artigo 71 da Constituição Federal, O RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União, referente ao 4º trimestre de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621942</id>
+    <nome>AVN 4/2011 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/3/2011 14:49:00</datApresentacao>
+    <txtEmenta>Encaminha as Demonstrações Financeiras do Banco Central do Brasil referentes ao exercício de 2010, conforme determina o art. 115 da Lei 12.017 de 12.08.09 (Lei de Diretrizes Orçamentárias para 2010).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Central do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621875</id>
+    <nome>AVN 2/2011 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/2/2011 15:58:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 122 da Lei nº 12.017, de 12 de agosto de 2009, combinado com o art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União referente ao terceiro quadrimestre de 2010.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558855</id>
+    <nome>AVN 1/2011 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/1/2011 19:39:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao terceiro trimestre de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministro de Estado da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/2/2011 19:39:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

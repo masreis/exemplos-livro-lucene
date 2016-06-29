@@ -1,0 +1,1210 @@
+<proposicoes>
+  <proposicao>
+    <id>603646</id>
+    <nome>AVN 20/2013 CN =&gt; AVN 13/2013 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2013 13:31:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no § 4º do artigo 71 da Constituição Federal, o Relatório de Atividades do Tribunal de Contas da União, referente ao 3º trimestre do exercício de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>597553</id>
+    <nome>AVN 19/2013 CN =&gt; AVN 13/2011 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/10/2013 12:57:00</datApresentacao>
+    <txtEmenta>Encaminha, em atendimento ao art. 59 da Lei Complementar 101, de 4 de maio de 2000, combinado com o art. 5° inciso I, da Lei n° 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União referente ao 2° quadrimestre do exercício de 2013. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>596010</id>
+    <nome>AVN 18/2013 CN =&gt; AVN 15/2013 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/10/2013 09:52:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 10 da Lei nº 11.887, de 24 de dezembro de 2008, e do art. 11 do Decreto nº 7.055, de 28 de dezembro de 2009, o Relatório de Desempenho do Fundo Soberano do Brasil - FSB relativo ao segundo trimestre de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>590132</id>
+    <nome>AVN 17/2013 CN =&gt; AVN 13/2013 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/9/2013 14:30:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Atividades do Tribunal de Contas da União referente ao 2° trimestre do exercício de 2013, em cumprimento ao disposto no §4° do artigo 71 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>586677</id>
+    <nome>AVN 16/2013 CN</nome>
+    <tipoProposicao>
+      <id>635</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN)</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/8/2013 16:20:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 1786/2013 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente à auditoria realizada no Departamento Nacional de Infraestrutura de Transportes/DNIT, relativamente às obras de construção da Ponte sobre o Rio Araguaia, ligando as cidades de Xambioá/TO a São Geraldo do Araguaia/PA (TC 007.190/2013-1). 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>585005</id>
+    <nome>AVN 15/2013 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/7/2013 14:19:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao primeiro trimestre de 2013, nos termos do art. 10 da Lei nº 11.887, de 24 de dezembro de 2008, e do art. 11 do Decreto nº 7.055, de 28 de dezembro de 2009.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>579973</id>
+    <nome>AVN 12/2013 CN</nome>
+    <tipoProposicao>
+      <id>639</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/6/2013 14:47:00</datApresentacao>
+    <txtEmenta>Encaminha, em conformidade com o Art. 71, inciso I, da Constituição Federal, documentos físicos, com o Relatório, sua síntese e o Voto sobre as contas da Presidenta da República referentes ao exercício de 2012, acompanhados das Declarações de Voto dos Ministros e do Parecer Prévio conclusivo aprovado pelo plenáro do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>579950</id>
+    <nome>AVN 13/2013 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/6/2013 13:13:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no § 4° do artigo 71 da Constituição Federal, o RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União referente ao 1° trimestre do exercício de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>579903</id>
+    <nome>AVN 14/2013 CN =&gt; AVN 13/2011 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/6/2013 11:07:00</datApresentacao>
+    <txtEmenta>Encaminha em atendimento ao art. 59 da Lei Complementar, de 4 de maio de 2000, combinado com o art. 5° inciso I, da Lei n° 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União, referente ao 1° quadrimestre do exercício de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>578328</id>
+    <nome>AVN 11/2013 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2013 14:46:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 98, § 6º da Lei nº 12.708, de 17 de agosto de 2012 (LDO 2013), a atualização, até o dia 8 de maio de 2013, das informações enviadas ao Congresso Nacional por meio do Aviso nº 1387-Seses-TCU-Plenário, de 30 de outubro de 2012, relativas às obras com indícios de irregularidades graves.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>573236</id>
+    <nome>AVN 10/2013 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/4/2013 18:06:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 10 da Lei nº 11.887, de 24 de dezembro de 2008, e do art. 11 do Decreto nº 7.055, de 28 de dezembro de 2009, o Relatório de Desempenho do Fundo Soberano do Brasil - FSB, relativo ao quarto trimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/4/2013 18:06:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570949</id>
+    <nome>AVN 9/2013 CN =&gt; AVN 9/2012 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2013 15:51:00</datApresentacao>
+    <txtEmenta>Encaminha, conforme o disposto no § 4º do art. 71 da Constituição Federal, o RELATÓRIO DAS ATIVIDADES do Tribunal de Contas da União referente ao exercício de 2012. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/4/2013 15:51:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567265</id>
+    <nome>AVN 8/2013 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/3/2013 11:57:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 29/2013 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente à auditoria em obras de esgotamento sanitário no município de Pilar/AL (TC 011.537/2012-4).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/3/2013 11:57:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567225</id>
+    <nome>AVN 7/2013 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/3/2013 09:59:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 93/2013 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente à fiscalização das obras de melhoria de capacidade de tráfego e duplicação da BR 116, no Rio Grande do Sul (TC 003.063/2012-7).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/3/2013 09:59:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>566363</id>
+    <nome>AVN 6/2013 CN =&gt; AVN 25/2012 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/3/2013 17:22:00</datApresentacao>
+    <txtEmenta>Encaminha, conforme determina o parágrafo único do art. 111 da Lei nº 12.465, de 12 de agosto de 2011 (Lei de Diretrizes Orçamentárias para 2012), as Demonstrações Financeiras do Banco Central do Brasil referentes ao 2º semestre de 2012. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/3/2013 17:22:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>566373</id>
+    <nome>AVN 5/2013 CN =&gt; AVN 9/2012 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/3/2013 17:22:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no § 4º do artigo 71 da Constituição Federal, o Relatório das Atividades do Tribunal de Contas da União referente ao 4º trimestre do exercício de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/3/2013 17:22:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565526</id>
+    <nome>AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/2/2013 16:42:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 3403/2012 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente à publicação dos Relatórios de Gestão Fiscal pelos Poderes e órgãos relacionados no art. 20 da Lei Complementar nº 101/2000, correspondentes ao 2º quadrimestre de 2012 (TC 039.151/2012-3).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/2/2013 16:42:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565522</id>
+    <nome>AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>637</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/2/2013 16:34:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 3376/2012 - TCU - Plenário, acompanhado do Relatório e do Voto que o fundamentam, referente à publicação dos Relatórios de Gestão Fiscal pelos Poderes e órgãos relacionados no art. 20 da Lei Complementar nº 101/2000, correspondentes ao 1º quadrimestre de 2012 (TC 015.303/2012-8).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/2/2013 16:34:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564915</id>
+    <nome>AVN 4/2013 CN =&gt; AVN 13/2011 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/2/2013 16:26:00</datApresentacao>
+    <txtEmenta>Encaminha, em atendimento ao art. 118 da Lei nº 12.465, de 12 de agosto de 2011, c/c o art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União, referente ao 3º quadrimestre do exercício de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/2/2013 16:26:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567629</id>
+    <nome>AVN 1/2013 CN =&gt; AVN 33/2009 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/1/2013 19:09:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 10 da lei nº 11.887, de 24 de dezembro de 2008, e do art. 11 do Decreto nº 7.055, de 28 de dezembro de 2009, o Relatório de Desempenho do Fundo Soberano do Brasil - FSB,, relativo ao 3º trimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/2/2013 19:09:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,3626 @@
+<proposicoes>
+  <proposicao>
+    <id>604842</id>
+    <nome>EMA 11/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2013 13:43:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alice Portugal</txtNomeAutor>
+      <idecadastro>74057</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603389</id>
+    <nome>EMA 10/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/12/2013 20:59:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erika Kokay</txtNomeAutor>
+      <idecadastro>160575</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>11</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603387</id>
+    <nome>EMA 9/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/12/2013 20:37:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602819</id>
+    <nome>EMA 8/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2013 10:57:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosane Ferreira</txtNomeAutor>
+      <idecadastro>160614</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602818</id>
+    <nome>EMA 7/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 10:54:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marquezelli</txtNomeAutor>
+      <idecadastro>73553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>13</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599679</id>
+    <nome>EMA 5/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2013 21:29:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jovair Arantes</txtNomeAutor>
+      <idecadastro>73666</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599678</id>
+    <nome>EMA 4/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2013 21:28:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Sampaio</txtNomeAutor>
+      <idecadastro>74262</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599677</id>
+    <nome>EMA 3/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2013 21:26:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Sampaio</txtNomeAutor>
+      <idecadastro>74262</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599665</id>
+    <nome>EMA 6/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2013 20:32:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Teixeira</txtNomeAutor>
+      <idecadastro>141488</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599010</id>
+    <nome>EMA 2/2013 =&gt; PL 6025/2005</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/10/2013 20:54:00</datApresentacao>
+    <txtEmenta>Código de Processo Civil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Teixeira</txtNomeAutor>
+      <idecadastro>141488</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>597937</id>
+    <nome>EMA 2/2013 =&gt; PLP 238/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/10/2013 15:02:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>597932</id>
+    <nome>EMA 1/2013 =&gt; PLP 238/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/10/2013 14:57:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Sampaio</txtNomeAutor>
+      <idecadastro>74262</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595835</id>
+    <nome>EMA 12/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:39:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595837</id>
+    <nome>EMA 13/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:39:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595833</id>
+    <nome>EMA 11/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:38:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595831</id>
+    <nome>EMA 10/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:37:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595828</id>
+    <nome>EMA 9/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:36:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595827</id>
+    <nome>EMA 8/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:35:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595825</id>
+    <nome>EMA 7/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:34:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595823</id>
+    <nome>EMA 6/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:31:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595821</id>
+    <nome>EMA 5/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:29:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595819</id>
+    <nome>EMA 4/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 16:25:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595653</id>
+    <nome>EMA 3/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2013 22:14:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595652</id>
+    <nome>EMA 2/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2013 22:11:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595651</id>
+    <nome>EMA 1/2013 =&gt; MPV 621/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2013 22:09:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Sampaio</txtNomeAutor>
+      <idecadastro>74262</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584802</id>
+    <nome>EMA 1/2013 =&gt; MPV 610/2013</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/7/2013 11:52:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zé Geraldo</txtNomeAutor>
+      <idecadastro>73931</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577123</id>
+    <nome>EMA 33/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 18:50:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 89 e 231 na forma do artigo 62-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo Maia</txtNomeAutor>
+      <idecadastro>74693</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577120</id>
+    <nome>EMA 31/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 18:49:00</datApresentacao>
+    <txtEmenta>Aglutina a Emenda nº 89 ao texto destacado do 'caput' do art. 58 do Projeto de Lei de Conversão nº 9/2013, na forma do artigo 58-A.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577122</id>
+    <nome>EMA 32/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 18:49:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 89, 231 e 344 na forma do artigo 62-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo Maia</txtNomeAutor>
+      <idecadastro>74693</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577118</id>
+    <nome>EMA 30/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 18:35:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 231 e 344 na forma do artigo 57-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sibá Machado</txtNomeAutor>
+      <idecadastro>160613</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577084</id>
+    <nome>EMA 28/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:59:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 231 e 344 na forma do artigo 57-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577085</id>
+    <nome>EMA 29/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:59:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 89, 231 e 344 na forma do artigo 62-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577080</id>
+    <nome>EMA 26/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:58:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 231 e 344 na forma do artigo 57-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577082</id>
+    <nome>EMA 27/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:58:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 231 e 344 na forma do artigo 57-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577079</id>
+    <nome>EMA 25/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:57:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nºs 231 e 344 na forma do artigo 57-A a ser incluído ao texto do Projeto de Lei de Conversão nº 9/2013. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577077</id>
+    <nome>EMA 24/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 16:56:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 71 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 89 e 344 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577021</id>
+    <nome>EMA 23/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:31:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 62 e demais dispositivos do Projeto de Lei de Conversão  nº 9/2013 com as Emendas nºs 89 e 344, apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577019</id>
+    <nome>EMA 21/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:30:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do arigo  59 do Projeto de Lei de Conversão nº 9/2013 com a Emenda nº 430, apresentada à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577020</id>
+    <nome>EMA 22/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:30:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 62 do Projeto de Lei de Conversão nº 9/2013 com a Emenda nº 89, apresentada à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577017</id>
+    <nome>EMA 19/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:29:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do Projeto de Lei de Conversão nº 9/2013 com a Emenda de nº 344 apresentada à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577018</id>
+    <nome>EMA 20/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:29:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 57 e 59 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 231 e 430, apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Caiado</txtNomeAutor>
+      <idecadastro>74813</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577013</id>
+    <nome>EMA 17/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:28:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 57 do Projeto de Lei de Conversão nº 9/2013 com a Emenda de nº 231 apresentada à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577015</id>
+    <nome>EMA 18/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:28:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 59 e demais dispositivos do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs 430 e 344 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577012</id>
+    <nome>EMA 16/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:27:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 57 e demais dispoisitivos do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs 231e 344 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577010</id>
+    <nome>EMA 15/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:26:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 57 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs 89 e 231 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576943</id>
+    <nome>EMA 14/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 20:45:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 2º, 6º, 57 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 89, 231, 508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576914</id>
+    <nome>EMA 13/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:22:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 2º e 57 do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs 231 e 508 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576913</id>
+    <nome>EMA 12/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:21:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 2º, 6º, 8º e 57 do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs 231, 508, 509 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576912</id>
+    <nome>EMA 11/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:20:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 2º e 6º do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nºs  508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576910</id>
+    <nome>EMA 10/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:19:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 2º, 6º e 57 do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nº 231, 508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576909</id>
+    <nome>EMA 9/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:18:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 2º, 6º, 57 e 62 e demais dispositivos do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nº 89, 231, 344, 508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576906</id>
+    <nome>EMA 8/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 19:15:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do artigo 2º  e demais dispositivos do Projeto de Lei de Conversão nº 9/2013 com as Emendas de nº 344 e 508 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576812</id>
+    <nome>EMA 7/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 16:50:00</datApresentacao>
+    <txtEmenta>Aglutina as Emendas nº 89, 231, 508 e 576 e o 'caput' do art. 9º da Medida Provisória nº 595/2012 aos artigos 2º, 6º, 57 e 62 do Projeto de Lei de Conversão nº 9/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576809</id>
+    <nome>EMA 5/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 16:49:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos artigos 6º e 8º do Projeto de Lei de Conversão nº 9/2013 com as Emendas nº 509 e 576, apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576810</id>
+    <nome>EMA 6/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 16:49:00</datApresentacao>
+    <txtEmenta>Aglutina o texto do art. 6º do Projeto de Lei de Conversão nº 9/2013 com a Emenda nº 576, apresentada à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576736</id>
+    <nome>EMA 4/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 14:04:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 2º, 6º, 57 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 89, 231, 508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576735</id>
+    <nome>EMA 3/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 14:03:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 2º, 5º, 6º, 57 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 89, 171, 231, 508 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576662</id>
+    <nome>EMA 2/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2013 19:55:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 2º, 6º, 8º, 9º, 57 e 62 do Projeto de Lei de Conversão nº 9/2013 com as Emendas nºs 89, 142, 147, 231, 252, 508, 509 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576580</id>
+    <nome>EMA 1/2013 =&gt; MPV 595/2012</nome>
+    <tipoProposicao>
+      <id>608</id>
+      <sigla>EMA</sigla>
+      <nome>Emenda Aglutinativa de Plenário</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/5/2013 11:18:00</datApresentacao>
+    <txtEmenta>Aglutina o texto dos arts. 2º, 5º, 6º, 8º, 9º , 57 e 62 do Projeto de Lei  de Conversão nº 9/2013 com as Emendas de nºs 89, 169, 171, 175, 231, 252, 508, 509 e 576 apresentadas à Medida Provisória nº 595/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

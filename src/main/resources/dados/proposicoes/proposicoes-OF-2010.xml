@@ -1,0 +1,63 @@
+<proposicoes>
+  <proposicao>
+    <id>477472</id>
+    <nome>OF 429/2010 =&gt; PL 4533/2004</nome>
+    <tipoProposicao>
+      <id>181</id>
+      <sigla>OF</sigla>
+      <nome>Ofício</nome>
+    </tipoProposicao>
+    <numero>429</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/4/2010 15:12:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Ofício n. 585/GP, do Tribunal Superior Eleitoral, que esclarece não haver interesse na continuidade do PL n. 4533/2004.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional de Justiça</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,1080 @@
+<proposicoes>
+  <proposicao>
+    <id>561179</id>
+    <nome>MCN 144/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>144</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/11/2012 18:03:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias referente ao 5º Bimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/11/2012 18:03:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>556436</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 13/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557641</id>
+    <nome>MCN 104/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>104</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2012 09:43:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 118 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Gestão Fiscal do Supremo Tribunal Federal, referente ao segundo quadrimestre de 2012, de que trata o artigo 54 da Lei Complementar nº 101/2000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Supremo Tribunal Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 09:43:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557640</id>
+    <nome>MCN 103/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>103</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2012 09:41:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 118 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Gestão Fiscal, do Poder Executivo, referente ao segundo quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556521</id>
+    <nome>MCN 102/2012 CN</nome>
+    <tipoProposicao>
+      <id>645</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+    </tipoProposicao>
+    <numero>102</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/10/2012 16:10:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 124 da Lei nº 12.465, de 12 de agosto de 2011, o relatório de avaliação do cumprimento da meta de superávit primário referente ao segundo quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA REPÚBLICA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/10/2012 16:10:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>547523</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 56/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556381</id>
+    <nome>MCN 95/2012 CN =&gt; MCN 115/2009 CN</nome>
+    <tipoProposicao>
+      <id>648</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do PPA, MCN</nome>
+    </tipoProposicao>
+    <numero>95</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/9/2012 16:04:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional nos termos do art. 19 da Lei nº 11.653, de 7 de abril de 2008, o Relatório de Avaliação do Plano Plurianual 2008-2011, ano base 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/9/2012 16:04:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552447</id>
+    <nome>MCN 82/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>82</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/8/2012 17:37:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias referente ao 3º Bimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/8/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>556436</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 13/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547523</id>
+    <nome>MCN 56/2012 CN</nome>
+    <tipoProposicao>
+      <id>645</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+    </tipoProposicao>
+    <numero>56</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 16:05:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 124 da Lei nº 12.465, de 12 de agosto de 2011, o relatório de avaliação do cumprimento da meta de superávit primário referente ao primeiro quadrimestre de 2012. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/6/2012 16:05:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557858</id>
+    <nome>MCN 57/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>57</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 14:33:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 118 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Gestão Fiscal referente ao primeiro quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 14:33:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557862</id>
+    <nome>MCN 58/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>58</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 00:46:00</datApresentacao>
+    <txtEmenta>Encaminha, em vista do que estabelece o art. 118 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Gestão Fiscal do Supremo Tribunal Federal referente ao primeiro quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Supremo Tribunal Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 00:46:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545908</id>
+    <nome>MCN 44/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>44</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2012 14:58:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias referente ao 2º Bimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/5/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>556436</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 13/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567402</id>
+    <nome>MCN 25/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>649</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Contas do Governo da República, MCN</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2012 15:35:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o Relatório das Contas do Supremo Tribunal Federal, relativas ao exercício de 2011, bem como os quadros referentes à execução orçamentária e financeira do Tribunal e uma encadernação com as principais atividades desenvolvidas pela Corte no ano de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Supremo Tribunal Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567252</id>
+    <nome>MCN 24/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>649</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Contas do Governo da República, MCN</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2012 11:15:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento aos arts. 84, inciso XXIV e 49, inciso IX, da Constituição Federal, e o art. 56 da Lei Complementar nº 101, de 04 de maio de 2000, as contas do Governo Federal relativas ao exercício de 2011.
+
+
+
+                                      
+
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 11:15:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556437</id>
+    <nome>MCN 19/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2012 14:51:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional nos termos do  § 4º art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias referente ao 1º Bimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA REPÚBLICA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>556436</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 13/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547529</id>
+    <nome>MCN 14/2012 CN =&gt; MCN 39/2011 CN</nome>
+    <tipoProposicao>
+      <id>645</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação do Cumprimento das Metas Fiscais/Superávit Primário, MCN</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/3/2012 16:11:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 126 da Lei nº 12.309, de 09 de agosto de 2010, o relatório de avaliação do cumprimento da meta de superávit primário, referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/3/2012 16:11:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>549257</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 39/2011 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556436</id>
+    <nome>MCN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/2/2012 14:46:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional,  nos termos do § 5º art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554894</id>
+    <nome>MCN 11/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Supremo Tribunal Federal, referente ao terceiro quadrimestre de 2011, de que trata o art. 54 da Lei Complementar nº 101/2000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Supremo Tribunal Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554898</id>
+    <nome>MCN 10/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>646</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Gestão Fiscal, MCN</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Poder Executivo referente ao período de janeiro a dezembro de 2011, de acordo com o art. 121 da Lei nº 12.309, de 09 de agosto de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556397</id>
+    <nome>MCN 98/2012 CN</nome>
+    <tipoProposicao>
+      <id>650</id>
+      <sigla>MCN</sigla>
+      <nome>Mensagem (CN) de Relatório de Avaliação de Receitas e Despesas, MCN</nome>
+    </tipoProposicao>
+    <numero>98</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/9/2011 11:21:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 67 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Avaliação de Receitas e Despesas Primárias referente ao 4º bimestre de 2012. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/9/2011</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>556436</codProposicaoPrincipal>
+        <proposicaoPrincipal>MCN 13/2012 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,124 @@
+<proposicoes>
+  <proposicao>
+    <id>549902</id>
+    <nome>CVR 1/2012 CMO =&gt; MPV 569/2012</nome>
+    <tipoProposicao>
+      <id>668</id>
+      <sigla>CVR</sigla>
+      <nome>Contestação ao Voto do Relator</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/6/2012 18:12:00</datApresentacao>
+    <txtEmenta>Com base no art. 148 da Resolução nº 1, de 2006 - CN e como membro coordenador representante do Partido Democratas no colegiado de líderes da CMO, proponho a presente contestação ao voto do Relator pela inadmissibilidade das emendas de remanejamento propostas à Medida Provisória nº 569, de 14 de maio de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Felipe Maia</txtNomeAutor>
+      <idecadastro>141429</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549901</id>
+    <nome>CVR 1/2012 CMO =&gt; MPV 566/2012</nome>
+    <tipoProposicao>
+      <id>668</id>
+      <sigla>CVR</sigla>
+      <nome>Contestação ao Voto do Relator</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/6/2012 18:08:00</datApresentacao>
+    <txtEmenta>Com base no art. 148 da Resolução nº 1, de 2006 - CN e como membro coordenador representante do Partido Democratas no colegiado de líderes da CMO, proponho a presente contestação ao voto do Relator pela inadmissibilidade das emendas de remanejamento propostas à Medida Provisória nº 566, de 25 de abril de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Felipe Maia</txtNomeAutor>
+      <idecadastro>141429</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

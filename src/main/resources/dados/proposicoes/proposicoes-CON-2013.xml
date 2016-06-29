@@ -1,0 +1,539 @@
+<proposicoes>
+  <proposicao>
+    <id>602501</id>
+    <nome>CON 37/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 16:41:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de adesão de Deputado no exercício do mandato ao Programa de Fidelidade Lyoness.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/11/2013 18:05:00</datDespacho>
+      <txtDespacho>Numere-se como consulta à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, c, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601469</id>
+    <nome>CON 36/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/11/2013 10:19:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade do exercício concomitante da medicina e do mandato parlamentar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/11/2013 10:24:00</datDespacho>
+      <txtDespacho>Numere-se como consulta à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, c, do RICD, transcrevendo-se as indagações formuladas no ofício em epígrafe. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601209</id>
+    <nome>CON 35/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2013 12:01:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de exercício precário do mandato de Prefeito por Deputado licenciado para tratar de interesse particular.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/11/2013 14:42:00</datDespacho>
+      <txtDespacho>Numere-se como consulta à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, c, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580674</id>
+    <nome>CON 33/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2013 11:29:00</datApresentacao>
+    <txtEmenta>Questionamento acerca da eventual extrapolação do poder regulamentar conferido pelo § 4° do art. 103-B da Constituição Federal ao Conselho Nacional de Justiça, por ocasião da edição da Resolução CNJ nº 175, de 14 de maio de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/5/2014 14:33:00</datDespacho>
+      <txtDespacho>Recebo a Questão de Ordem n. 317/2013 como consulta, nos termos do art. 32, inc. IV, alínea “c”, do RICD. Numere-se e, após, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580675</id>
+    <nome>CON 34/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2013 11:29:00</datApresentacao>
+    <txtEmenta>Alerta que o processo de votação é um processo que se inicia com a orientação e termina com a apuração dos votos.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/6/2013 14:37:00</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, “c”, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580650</id>
+    <nome>CON 32/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2013 10:51:00</datApresentacao>
+    <txtEmenta>Consulta à Presidência da Câmara dos Deputados sobre quem estaria legitimado a ter acesso a documentos sigilosos constante de procedimento em curso perante CEDPA  e como deverm ser processados os respectivos pedidos para extração de cópias.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/6/2013 11:53:00</datDespacho>
+      <txtDespacho>Numere-se como Consulta do Presidente da Câmara dos Deputados e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, nos termos do art. 32, IV, “c”, do RICD. Oficie-se. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576596</id>
+    <nome>CON 31/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2013 15:19:00</datApresentacao>
+    <txtEmenta>Questiona sobre a possibilidade de um Deputado Federal em licença para tratar de interesses particulares assumir cargos em comissão no Senado Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2013</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, inciso IV, alínea c, do RICD. Publique-se. Oficie-se.
+DCD de 16/05/13 PÁG 17802 COL 02.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>575639</id>
+    <nome>CON 30/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/5/2013 16:50:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania, acerca da possibilidade de Parlamentar, no exercício do mandato, atuar como presidente ou dirigente de associações religiosas ou sem fins lucrativos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/5/2013 14:59:00</datDespacho>
+      <txtDespacho>Numere-se como Consulta do Presidente da Câmara dos Deputados à Comissão de Constituição e Justiça e de Cidadania, nos termos do art. 32, inciso IV, alínea “c”, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564543</id>
+    <nome>CON 29/2013</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/1/2013 16:30:00</datApresentacao>
+    <txtEmenta>Consulta a Comissão de Constituição e Justiça e de Cidadania acerca da manutenção do entendimento consignado nas Consultas nº 3-A, de 2004; nº 1, de 2003; e nº 4, de 1995, quanto ao atendimento de solicitações de informações sigilosas ou que contenham restrições de acesso, por parte do Ministério Público e do Poder Judiciário, tendo em vista a superveniência da Lei nº 12.527, de 2011, em especial as regras contidas no art. 31, § 3º, inciso V; e § 4º.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/1/2013 16:51:00</datDespacho>
+      <txtDespacho>Encaminhe-se, por intermédio do Grupo de Coordenação Interinstitucional Câmara dos Deputados - Ministério Público Federal (GCI), cópia da documentação ostensiva solicitada pelo Requerente, nos termos da sugestão do Senhor Diretor do Centro de Documentação e Informação (fls. 60), ressalvadas as informações pessoais referentes ao sigilo bancário do investigado na Representação em epígrafe. Formule-se consulta à Comissão de Constituição e Justiça e de Cidadania, no sentido de esclarecer se a superveniência da Lei n. 12.527/2011, em especial em seu art. 31, § 3º, inciso V, e § 4º, interfere no entendimento consignado por aquele órgão nas Consultas n. 3-A, de 2004; n. 1, de 2003; e n. 4, de 1995, quanto ao atendimento a solicitações de informações sigilosas ou que contenham restrições de acesso, por parte do Ministério Público. Publique-se. Oficie-se ao Senhor Subprocurador-Geral da República Eugênio José Guilherme de Aragão, integrante do GCI.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

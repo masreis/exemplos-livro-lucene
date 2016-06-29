@@ -1,0 +1,850 @@
+<proposicoes>
+  <proposicao>
+    <id>2089162</id>
+    <nome>AVN 14/2016 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/6/2016 18:15:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 122 da Lei 13.242, de 30 de dezembro de 2015 (LDO 2016), relatório de fiscalização nas obras da Usina Termonuclear de Angra III, por meio do Aviso nº 249, de 15 de abril de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088451</id>
+    <nome>AVN 12/2016 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2016 12:14:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 5º, inciso I, da Lei nº 10.028, de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União referente ao 3º quadrimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2058025</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 19/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088450</id>
+    <nome>AVN 13/2016 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2016 12:11:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 5°, inciso I, da Lei n° 10.028, de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União referente ao 1° quadrimestre de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088449</id>
+    <nome>AVN 11/2016 CN</nome>
+    <tipoProposicao>
+      <id>672</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Gestão Fiscal do Tribunal de Contas da União</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2016 12:04:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 5º, inciso I, da Lei nº 10.028, de 2000, o Relatório de Gestão Fiscal do Tribunal de Contas da União referente ao 2º quadrimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2058025</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 19/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086754</id>
+    <nome>AVN 10/2016 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/6/2016 14:05:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 71 da Constituição Federal de 1988, o Relatório de Atividades do Tribunal de Contas da União referente ao 1º trimestre de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085957</id>
+    <nome>AVN 6/2016 CMO</nome>
+    <tipoProposicao>
+      <id>635</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN)</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2016 15:17:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 287/2016, referente às descrições e análises das alterações orçamentárias decorrentes da obrigatoriedade de execução das emendas parlamentares individuais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085961</id>
+    <nome>AVN 7/2016 CN</nome>
+    <tipoProposicao>
+      <id>635</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN)</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2016 15:30:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 699/2016, referente a auditoria de avaliação do nível de transparência das entidades do "Sistema S".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085929</id>
+    <nome>AVN 9/2016 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2016 14:44:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 122, § 6º da Lei 13.242, de 30 de dezembro de 2015 (LDO 2016), a atualização das informações enviadas ao Congresso Nacional por meio do Aviso nº 1260-GP-TCU, de 6 de Novembro de 2015, relativas às obras com indícios de irregularidades graves.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085919</id>
+    <nome>AVN 8/2016 CN</nome>
+    <tipoProposicao>
+      <id>641</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Subtítulos com Indícios de Irregularidades Graves Apontadas pelo TCU</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2016 14:29:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Acórdão nº 852/2016, referente a auditoria que avaliou a regularidade das obras da Usina Hidroelétrica São Domingos, no Estado de Mato Grosso do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081286</id>
+    <nome>AVN 5/2016 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/4/2016 10:14:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do § 4º do art. 71 da Constituição Federal de 1988, o Relatório de Atividades do Tribunal de Contas da União referente ao exercício de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2058027</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 18/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080244</id>
+    <nome>AVN 4/2016 CN</nome>
+    <tipoProposicao>
+      <id>640</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Desempenho do Fundo Soberano do Brasil</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/3/2016 18:30:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei 11.887/08, art.10, Relatório de Desempenho do Fundo Soberano do Brasil referente ao 4° trimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Fazenda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1999497</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 13/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078639</id>
+    <nome>AVN 3/2016 CN</nome>
+    <tipoProposicao>
+      <id>636</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Relatório de Atividades do TCU</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/3/2016 19:59:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do parágrafo 4º do art. 71 da Constituição Federal de 1988, o Relatório de Atividades do Tribunal de Contas da União referente ao 4º trimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2058027</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 18/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078508</id>
+    <nome>AVN 2/2016 CN</nome>
+    <tipoProposicao>
+      <id>638</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN) de Demonstrações Financeiras do Banco Central do Brasil</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/3/2016 10:47:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento à Lei nº 13.080/15, art. 138, parágrafo único, as Demonstrações Financeiras do Banco Central referentes ao 2º semestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Central do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1304</id>
+      <descricao>Aguardando Conhecimento na CMO</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1757148</codProposicaoPrincipal>
+        <proposicaoPrincipal>AVN 10/2015 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2077677</id>
+    <nome>AVN 1/2016 CN</nome>
+    <tipoProposicao>
+      <id>635</id>
+      <sigla>AVN</sigla>
+      <nome>Aviso (CN)</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/2/2016 15:19:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao Acórdão 3.324/2015-TCU-Plenário, relatório de acompanhamento dos agregados fiscais e do Relatório Resumido da Execução Orçamentária (RREO), referente ao 2º quadrimestre de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Contas da União</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

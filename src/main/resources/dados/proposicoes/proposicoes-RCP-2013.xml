@@ -1,0 +1,460 @@
+<proposicoes>
+  <proposicao>
+    <id>592177</id>
+    <nome>RCP 26/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/9/2013 18:27:20</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar irregularidades cometidas nas obras de manutenção da BR 364 no trecho abaixo destacado no Estado do Acre.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antônia Lúcia</txtNomeAutor>
+      <idecadastro>123756</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587318</id>
+    <nome>RCP 25/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/8/2013 10:38:00</datApresentacao>
+    <txtEmenta>Requer nos termos do art. 35 e seguintes do Regimento Interno da Câmara dos Deputados,  a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar a situação de segurança do Sistema de Tecnologia da Informação e Comunicação Brasileira.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Ferro</txtNomeAutor>
+      <idecadastro>74417</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580142</id>
+    <nome>RCP 24/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/6/2013 16:53:24</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar denúncias de irregularidades nos serviços de Planos de Saúde prestados por empresas e instituições privadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ivan Valente</txtNomeAutor>
+      <idecadastro>73531</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577412</id>
+    <nome>RCP 23/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/5/2013 17:15:50</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito para investigar os fatos determinados, na Petrobrás-SA, objetos de várias denúncias veiculadas na mídia, assim como suas causas, consequências e responsáveis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Leonardo Quintão</txtNomeAutor>
+      <idecadastro>141482</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576999</id>
+    <nome>RCP 22/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2013 14:00:00</datApresentacao>
+    <txtEmenta>Constitui Comissão Parlamentar de Inquérito destinada a investigar a atuação da Fundação Nacional do Índio - FUNAI e do Instituto Nacional de Colonização e Reforma Agrária - INCRA na demarcação de terras indígenas e de remanescentes de quilombos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alceu Moreira</txtNomeAutor>
+      <idecadastro>160559</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>5</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571493</id>
+    <nome>RCP 21/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2013 17:52:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito para investigar a existência de interesses e financiamentos internacionais para promover a legalização do aborto no Brasil, prática tipificada como crime no Código Penal Brasileiro, em seus arts. 124 a 127.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Campos</txtNomeAutor>
+      <idecadastro>74366</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568891</id>
+    <nome>RCP 20/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/3/2013 16:33:12</datApresentacao>
+    <txtEmenta>Requer, nos termos dos arts. 58, § 3º, da Constituição Federal e 35 a 37 do Regimento Interno da Câmara dos Deputados, a criação de Comissão Parlamentar de Inquérito para apurar a venda de madeira em área indígena.  
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sarney Filho</txtNomeAutor>
+      <idecadastro>74210</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565890</id>
+    <nome>RCP 19/2013</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/2/2013 09:08:22</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar as prestadoras de serviço de telefonia móvel com relação às elevadas tarifas cobradas, bem como o grave problema de má qualidade na prestação do serviço que tem gerado queda durante as chamadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>César Halum</txtNomeAutor>
+      <idecadastro>160576</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,307 @@
+<proposicoes>
+  <proposicao>
+    <id>486952</id>
+    <nome>EML 5/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Apoio a centros de referência em Direitos Humanos/Programa 0154 - Garantia e Acesso a Direitos/Ação 8799 - Apoio a Centros de Referência em Direitos Humanos/Produto - Centro apoiado (unidade)/Acréscimo de Meta - 30 unidades</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486968</id>
+    <nome>EML 3/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Apoio à implantação de conselhos de direitos das pessoas com deficiência em estados e municípios/Programa 1086 - Promoção e Defesa dos Direitos de Pessoas com Deficiência/Ação 8801 - Apoio à Implantação de Conselhos de Direitos das Pessoas com Deficiência em Estados e Municípios/Produto - Conselho implantado (unidade)/Acréscimo de meta - 40 unidades</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486978</id>
+    <nome>EML 1/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Apoio à mobilização para o registro civil de nascimento e fornecimento de documentação civil básica/Programa 0154 - Garantia e Acesso a Direitos/Ação 8802 - Apoio à Mobilização para o Registro Civil de Nascimento e Fornecimento de Documentação Civil Básica/Produto - Iniciativa apoiada (unidade)/Acréscimo de meta - 30 unidades</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486989</id>
+    <nome>EML 2/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Centros integrados de apoio para prevenção e enfrentamento à violência contra pessoa idosa/Programa 1404 - Promoção e Defesa dos Direitos da Pessoa Idosa/Ação 8817 - Centros Integrados de Apoio para Prevenção e Enfrentamento à Violência contra a Pessoa Idosa/Produto - Pessoa atendida (unidade)/Acréscimo de meta - 3.000 unidades</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486990</id>
+    <nome>EML 4/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 09:30:00</datApresentacao>
+    <txtEmenta>Apoio a comitês de enfrentamento da violência secual contra crianças e adolescentes/Programa 0073 - Enfrentamento da Violência Secual contra Crianças e Adolescentes/Ação 8788 - Apoio a Comitês de Enfrentamento da Violência Sexual de Crianças e Adolescentes/Produto - Comitê apoiado (unidade)/Acréscimo de meta - 27 unidades</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

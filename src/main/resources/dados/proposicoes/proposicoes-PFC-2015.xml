@@ -1,0 +1,3814 @@
+<proposicoes>
+  <proposicao>
+    <id>2075568</id>
+    <nome>PFC 69/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>69</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2015 17:23:10</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, ouvida a Comissão de Minas e Energia, fiscalize a empresa Petróleo Brasileiro S. A. - Petrobrás, sobretudo no tocante ao prejuízo superior a 2,7 bilhões de reais com o cancelamento da construção das refinarias Premium I e II, que seriam implantadas, respectivamente, nos Estados do Maranhão e do Ceará.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Valim</txtNomeAutor>
+      <idecadastro>178869</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/1/2016 10:45:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2075567</id>
+    <nome>PFC 68/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>68</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2015 17:21:43</datApresentacao>
+    <txtEmenta>Propõe à Comissão de Fiscalização Financeira e Controle - CFFC realize, com o auxílio do Tribunal de Contas da União - TCU, fiscalização sobre a regularidade da aplicação dos recursos federais repassados ao Município de Fortaleza, no Estado do Ceará, para custeio das ações e serviços de saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Valim</txtNomeAutor>
+      <idecadastro>178869</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/1/2016 12:08:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2074690</id>
+    <nome>PFC 67/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>67</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/12/2015 09:43:37</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Minas e Energia, com o auxílio do Tribunal de Contas da União e do Ministério Público da União, realize ato de fiscalização e controle relativo ao dever de fiscalização e gestão de recursos do Departamento Nacional de Produção Mineral no caso do rompimento da barragem do Fundão, na unidade industrial da Mina do Germano, localizada no município de Mariana, em Minas Gerais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Flavinho</txtNomeAutor>
+      <idecadastro>178978</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/12/2015 12:29:00</datDespacho>
+      <txtDespacho>À Comissão de Minas e EnergiaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2057454</id>
+    <nome>PFC 66/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>66</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2015 11:14:15</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo  Federal, para o Município de Igarapé Grande, no Estado do Maranhão, no âmbito de todos os ministérios, desde 2013 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/12/2015 10:46:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2057260</id>
+    <nome>PFC 65/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>65</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/12/2015 16:39:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Japeri, no Estado do Rio de Janeiro, no âmbito de todos os ministérios, desde 2010 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/12/2015 12:52:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2053129</id>
+    <nome>PFC 64/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>64</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2015 16:54:31</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor com o auxílio do Tribunal de Contas da União realize ato de fiscalização e controle sobre os procedimentos de autorização, funcionamento e avaliação dos cursos de graduação em Direito realizados pelo Ministério da Educação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Márcio Marinho</txtNomeAutor>
+      <idecadastro>150418</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/11/2015 09:59:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2053090</id>
+    <nome>PFC 63/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>63</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/11/2015 15:48:53</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Minas e Energia fiscalize os procedimentos de venda de 49% da Petrobrás Gás S.A. - Gaspetro, subsidiária da estatal Petróleo Brasileiro S.A. - Petrobrás, para a empresa Mitsui Gás e Energia Ltda.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Davidson Magalhães</txtNomeAutor>
+      <idecadastro>101309</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/11/2015 10:55:00</datDespacho>
+      <txtDespacho>À Comissão de Minas e EnergiaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2026208</id>
+    <nome>PFC 62/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>62</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/11/2015 15:36:19</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Direitos Humanos e Minorias fiscalize os órgãos da administração direta e indireta da União incumbidos de supervisionar a apuração das responsabilidades sobre o incêndio na boate Kiss, ocorrido em Santa Maria, no Rio Grande do Sul, em 27 de janeiro de 2013, com 922 vítimas, sendo 242 fatais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Couto</txtNomeAutor>
+      <idecadastro>74041</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/11/2015 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Direitos Humanos e MinoriasProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2026063</id>
+    <nome>PFC 61/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>61</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2015 16:13:28</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização no contrato firmado entre a empresa Kroll Advisory Solution e a Câmara dos Deputados para atender à CPI da PETROBRAS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eliziane Gama</txtNomeAutor>
+      <idecadastro>178883</idecadastro>
+      <codPartido>225</codPartido>
+      <txtSiglaPartido>REDE      </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/11/2015 10:57:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2025853</id>
+    <nome>PFC 60/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>60</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2015 10:08:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União (TCU), realize fiscalização em seis decretos do Executivo de 2015.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/11/2015 10:57:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2024988</id>
+    <nome>PFC 59/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>59</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/10/2015 18:05:03</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Direitos Humanos e Minorias fiscalize os órgãos da administração direta e indireta da União incumbidos de supervisionar a apuração das responsabilidades sobre o incêndio na boate Kiss, ocorrido em Santa Maria, no Rio Grande do Sul, em 27 de janeiro de 2013, com 922 vítimas, sendo 242 fatais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/11/2015 14:36:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, nos termos do art. 137, § 1º, II, “c”, combinado com o art. 61, I, do RICD. Publique-se, oficie-se ao Autor.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2017078</id>
+    <nome>PFC 58/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>58</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2015 09:34:38</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, Ministério Público Federal e a Controladoria Geral da União, realize ato de fiscalização e controle na Postal Saúde - Caixa de Assistência e Saúde dos Empregados da Empresa Brasileira de Correios e Telégrafos (ECT), sobre os contratos sob suspeita nos planos de saúde dos empregados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/10/2015 10:46:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1806405</id>
+    <nome>PFC 57/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>57</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/10/2015 14:53:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Seguridade Social e Família realize com o auxílio do Tribunal de Contas da União - TCU, auditoria e fiscalização nos recursos federais destinados ao Hospital Universitário da Universidade Federal da Grande Dourados - UFGD, pelos fatos denunciados pelo Conselho Municipal de Saúde, que supostamente apontam falhas no serviço público e descaso com a verba pública.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Geraldo Resende</txtNomeAutor>
+      <idecadastro>74374</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2015 13:23:00</datDespacho>
+      <txtDespacho>À Comissão de Seguridade Social e FamíliaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1734825</id>
+    <nome>PFC 56/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>56</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/9/2015 10:10:04</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle, por meio do TCU, sobre os atos praticados pela Prefeitura Municipal de Macapá-AP,  no que diz respeito aos recursos federais destinados ao município para as áreas de Saneamento Básico e Limpeza Urbana</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcos Reategui</txtNomeAutor>
+      <idecadastro>178852</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>AP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/9/2015 09:03:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1734576</id>
+    <nome>PFC 55/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>55</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/9/2015 18:11:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor, com o auxílio do Tribunal de Contas da União,  realize ato de fiscalização e controle junto à Agência Nacional de Aviação Civil-ANAC em sua atuação de fiscalização das tarifas praticadas pelas empresas aéreas, em especial, os preços cobrados na Região Norte do Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alan Rick</txtNomeAutor>
+      <idecadastro>178836</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/9/2015 11:37:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1733201</id>
+    <nome>PFC 54/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>54</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/9/2015 18:21:21</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia, com o auxílio do Tribunal de Contas da União, acompanhe a Agência Nacional de Energia Elétrica-ANEEL em sua atribuição de fiscalizar a prestação de serviço adequado pela Companhia de Eletricidade do Amapa (CEA).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alan Rick</txtNomeAutor>
+      <idecadastro>178836</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2015 10:24:00</datDespacho>
+      <txtDespacho>À Comissão de Integração Nacional, Desenvolvimento Regional e da AmazôniaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2017</codOrgaoEstado>
+        <siglaOrgaoEstado>CINDRA    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1733042</id>
+    <nome>PFC 53/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>53</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/9/2015 15:51:16</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Finanças e Tributação da Câmara dos Deputados com auxílio do Tribunal de Contas da União apure a ausência de classificação de recursos por parte do Ministério da Fazenda.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Júlio Cesar</txtNomeAutor>
+      <idecadastro>74317</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/9/2015 11:37:00</datDespacho>
+      <txtDespacho>À Comissão de Finanças e TributaçãoProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1715791</id>
+    <nome>PFC 52/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>52</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/9/2015 15:05:38</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Seropédica, no Estado do Rio de Janeiro, no âmbito de todos os ministérios, desde 2008 até a presente data. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/9/2015 12:44:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1713082</id>
+    <nome>PFC 51/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>51</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/9/2015 14:44:21</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR, por intermédio do Tribunal de Contas da União - TCU, promova a fiscalização e suspensão dos atos administrativos praticados pelo Ministério do Desenvolvimento Agrário, MDA e Secretaria Extraordinária de Regularização Fundiária na Amazônia Legal - SERFAL - Programa Terra Legal, referentes aos processos: 56426.001965/2012-15; 56426.000019/2012-51; 56426.001964/2012-71; 56426.000028/2012-42; 56462.000011/2012-95; 56462.000010/2012-41.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irajá Abreu</txtNomeAutor>
+      <idecadastro>81232</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/9/2015 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento RuralProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1701659</id>
+    <nome>PFC 50/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>50</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/9/2015 15:47:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR, por intermédio do Banco Central do Brasil - BACEN, promova a fiscalização dos atos financeiros praticados pelo Banco do Estado da Amazônia - BASA, referente à remuneração cobrada dos proponentes nos financiamentos a título de taxa de avaliação das garantias oferecidas no financiamento;
+taxa de análise dos projetos de financiamento;
+taxa de análise para renegociação de financiamentos inadimplentes, comparado ao que preconiza a Resolução nº 4.288, de 22 de novembro de 2013, do Banco Central do Brasil - BACEN.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irajá Abreu</txtNomeAutor>
+      <idecadastro>81232</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/9/2015 16:28:00</datDespacho>
+      <txtDespacho>À Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento RuralProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1672654</id>
+    <nome>PFC 49/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>49</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/8/2015 14:19:41</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC, com o auxílio do Tribunal de Contas da União - TCU e demais órgãos de controle, fiscalizem o Contrato de Financiamento nº 20/00012-X firmado entre o Governo do Estado de Rondônia e o Banco do Brasil para promover Ações do Programa de Apoio ao Investimento dos Estados e Distrito Federal - PROINVESTE, especificamente no tocante a eventuais atrasos nos repasses, bem como irregularidades presentes na execução do Contrato, em especial as obras do Novo Espaço Alternativo, entre outros.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Valtenir Pereira</txtNomeAutor>
+      <idecadastro>141552</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/8/2015 10:31:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1672114</id>
+    <nome>PFC 48/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>48</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/8/2015 12:00:40</datApresentacao>
+    <txtEmenta>Solicita que o TCU fiscalize  - por economia processual -, no âmbito do Processo TC-005.335/2015-9, que trata da prestação de contas do governo federal referente ao exercício de 2014</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/9/2015 18:01:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Ordinária</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1598880</id>
+    <nome>PFC 47/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>47</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/8/2015 17:24:14</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle-CFFC, com o auxílio do Tribunal de Contas da União - TCU e demais órgãos de controle, fiscalizem o Contrato de Financiamento número 12.2.0514.1, firmado entre o Governo do Estado de Rondônia e o BNDES, para promover as Ações do Programa Integrado de Desenvolvimento e Inclusão Socioeconômico do Estado de Rondônia - PIDISE, notadamente no que tange aos recursos repassados pelo BNDES ao Estado de Rondônia e que foram alvo de investigação da Polícia Federal, na Operação nomeada Murídeos que encontrou indícios de irregularidades no projeto do Hospital de Urgência e Emergência de Rondônia (HEURO).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vicente Candido</txtNomeAutor>
+      <idecadastro>160622</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/8/2015 10:46:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1594301</id>
+    <nome>PFC 46/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>46</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2015 17:27:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Minas e Energia da Câmara dos Deputados (CME) realize, por intermédio do Tribunal de Contas da União (TCU), ato de fiscalização com o objetivo de verificar a ocorrência de possíveis irregularidades na aplicação de recursos públicos federais nas obras de implantação do Parque Eólico de Casa Nova (BA). </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jaime Martins</txtNomeAutor>
+      <idecadastro>74665</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/7/2015 11:41:00</datDespacho>
+      <txtDespacho>À Comissão de Minas e EnergiaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1594138</id>
+    <nome>PFC 45/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>45</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2015 12:04:25</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados (CFFC) realize, por intermédio do Tribunal de Contas da União (TCU), fiscalização com o objetivo de verificar a ocorrência de possíveis irregularidades na aplicação de recursos públicos federais em Teresópolis (RJ), destinados à recuperação do município, que foi atingido por fortes chuvas em janeiro de 2011. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Daciolo</txtNomeAutor>
+      <idecadastro>178938</idecadastro>
+      <codPartido>141</codPartido>
+      <txtSiglaPartido>S.PART.   </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/7/2015 11:41:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1579558</id>
+    <nome>PFC 44/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>44</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/7/2015 12:49:25</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática, em concurso com o Tribunal de Contas da União, realize auditoria operacional sobre a legalidade das alterações na grade de canais do serviço de televisão por assinatura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Tadeu Mudalen</txtNomeAutor>
+      <idecadastro>73535</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/7/2015 11:41:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e InformáticaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1579129</id>
+    <nome>PFC 43/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>43</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2015 11:14:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize auditoria em todos os atos, contratos e congêneres, assinados pelo Consórcio "Una 3" (composto pelas empreiteiras Andrade Gutierres, Camargo Corrêa, Odebrecht e UTC) e a Eletrobras, ou qualquer de suas subsidiárias, relativos à construção da Usina Nuclear de Angra 3.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/7/2015 13:37:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1549485</id>
+    <nome>PFC 42/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>42</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/7/2015 10:52:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados (CFFC) realize, por intermédio do Tribunal de Contas da União (TCU), procedimento fiscalizatório no Município de Caucaia, no Ceará tendo em vista indícios de má utilização de recursos do Regime Próprio de Previdência Social - RPPS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Valim</txtNomeAutor>
+      <idecadastro>178869</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/7/2015 10:30:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1549477</id>
+    <nome>PFC 41/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>41</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/7/2015 09:14:38</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Viação e Transportes da Câmara dos Deputados fiscalize a conduta do Departamento Nacional de Trânsito - DENATRAN - em relação a atos e omissões que estariam a configurar, desde 2006, a deficiência técnica e administrativa do Departamento de Trânsito do Estado de Goiás - DETRAN/GO -, justificando a intervenção federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Daniel Vilela</txtNomeAutor>
+      <idecadastro>144523</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/7/2015 10:30:00</datDespacho>
+      <txtDespacho>À Comissão de Viação e TransportesProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1549138</id>
+    <nome>PFC 40/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>40</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2015 09:35:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização nos convênios celebrados pela Secretaria Especial de Saúde Indígena - SESAI, do Ministério da Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Pimenta</txtNomeAutor>
+      <idecadastro>74400</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/7/2015 09:56:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1548862</id>
+    <nome>PFC 39/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>39</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/7/2015 14:09:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural adote as medidas necessárias para realização de fiscalização e controle, com o auxílio do Tribunal de Contas da União (TCU), para verificar, nos 10 últimos anos, se o volume de valores arrecadados com a cobrança da  taxa Adicional de Frete para Renovação da Marinha Mercante-AFRMM  a sua aplicação através do Fundo da Marinha Mercante-FMM, atendem o objetivo da legislação pertinente, face a falta da transparência de como os recursos são arrecadados e aplicados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sergio Souza </txtNomeAutor>
+      <idecadastro>178933</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/7/2015 10:30:00</datDespacho>
+      <txtDespacho>À Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento RuralProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1515645</id>
+    <nome>PFC 38/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>38</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/6/2015 10:43:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática, com o auxílio do Tribunal de Contas da União, realize ato de fiscalização e o controle na arrecadação e aplicação dos recursos dos fundos das telecomunicações.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandro Alex</txtNomeAutor>
+      <idecadastro>160621</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/6/2015 09:43:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e InformáticaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1344453</id>
+    <nome>PFC 37/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/6/2015 15:28:01</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle, com o auxílio do Tribunal de Contas da União realize ato de fiscalização e controle sobre a aquisição de equipamento conhecido como "TATUZÃO" sem que o estado do Ceará tenha capacidade para alimentação elétrica do equipamento. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Valim</txtNomeAutor>
+      <idecadastro>178869</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/6/2015 09:34:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1307281</id>
+    <nome>PFC 36/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2015 14:16:47</datApresentacao>
+    <txtEmenta>Propõe, no âmbito da Comissão Permanente de Fiscalização Financeira e Controle,  com o auxílio do Tribunal de Contas da União e Controladoria Geral da União, ação de fiscalização e controle, no que tange a aplicação de recursos do governo federal para a realização da 19ª Parada Gay realizada no dia 07 de junho de 2015, no Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ezequiel Teixeira</txtNomeAutor>
+      <idecadastro>178941</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/6/2015 09:34:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1301051</id>
+    <nome>PFC 35/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/5/2015 15:48:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle, com auxílio do Tribunal de Contas da União (TCU), fiscalize o pedido de autorização, junto à Secretaria Especial de portos, para transação judicial que visa celebração de acordo em negociação entre a Administração dos Portos de Paranaguá e Antonina (APPA) e a empresa RODRIMAR S.A.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Arruda</txtNomeAutor>
+      <idecadastro>160573</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/6/2015 11:26:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1280288</id>
+    <nome>PFC 34/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2015 09:42:22</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Educação realize ato de fiscalização e controle no Programa de Apoio à Planos de Reestruturação e Expansão das Universidades Federais - Reuni, a fim de acompanhar a reestruturação e expansão das universidades federais no País.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Max Filho</txtNomeAutor>
+      <idecadastro>178827</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/5/2015 10:38:00</datDespacho>
+      <txtDespacho>À Comissão de EducaçãoProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2009</codOrgaoEstado>
+        <siglaOrgaoEstado>CE        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1279793</id>
+    <nome>PFC 33/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/5/2015 15:02:44</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Minas e Energia, com auxílio do Tribunal de Contas da União, realize ato de fiscalização e controle junto a Agência Nacional de Energia Elétrica (Aneel)  sobre as concessionárias das usinas de Belo Monte, Jirau e Santo Antônio em relação aos atrasos nas obras das Hidroelétricas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/5/2015 11:22:00</datDespacho>
+      <txtDespacho>À Comissão de Minas e EnergiaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1279114</id>
+    <nome>PFC 32/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2015 09:03:21</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Viação e Transportes da Câmara dos Deputados execute fiscalização do ato que autorizou a concessionária Ferrovia Centro-Atlântica S.A. a desativar e devolver trechos ferroviários, por meio da Resolução nº 4.131, de 03 de julho de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irmão Lazaro</txtNomeAutor>
+      <idecadastro>178855</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/5/2015 11:22:00</datDespacho>
+      <txtDespacho>À Comissão de Viação e TransportesProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1279006</id>
+    <nome>PFC 31/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2015 15:47:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União (TCU), Controladoria-Geral da União (CGU), Advocacia Geral da União (AGU) e da Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP), fiscalize os recursos de royalties de petróleo originários da Estação Coletora de Embarque e Desembarque de Petróleo e da Unidade Produtora de Gás Natural (UPGN) localizadas em Alagoas, sua destinação e aplicação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jhc</txtNomeAutor>
+      <idecadastro>178842</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/5/2015 13:37:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1247409</id>
+    <nome>PFC 30/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2015 09:58:22</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização no contrato do BNDES com o Governo da República do Gana para a construção dos Corredores Rodoviários Oriental e Ocidental.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/5/2015 13:37:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1247407</id>
+    <nome>PFC 29/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2015 09:56:50</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização no contrato do BNDES com o Governo da República Dominicana para a construção da central termelétrica de Punta Catalina.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/5/2015 13:37:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1230215</id>
+    <nome>PFC 28/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2015 15:36:04</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR promova a fiscalização dos atos do INCRA e do Ministério do Desenvolvimento Agrário - MDA que promovem o desenvolvimento dos assentamentos rurais do Brasil, criando meios para propiciar melhorias e padronizar procedimentos para todos os assentamentos do Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Henrique Gaguim</txtNomeAutor>
+      <idecadastro>178993</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2015 11:00:00</datDespacho>
+      <txtDespacho>À Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento RuralProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1230150</id>
+    <nome>PFC 27/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2015 14:21:38</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle, com auxílio do Tribunal de Contas da União, fiscalize os recursos de royalties de petróleo recebidos pelo Município de Marechal Deodoro -AL.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jhc</txtNomeAutor>
+      <idecadastro>178842</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2015 11:00:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1229863</id>
+    <nome>PFC 26/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/5/2015 19:01:09</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor realize ato de fiscalização e controle para acompanhar eventual cobrança de custos extras aos alunos em face da  implementação das novas regras do FIES.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vinicius Carvalho</txtNomeAutor>
+      <idecadastro>141555</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2015 11:00:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1229562</id>
+    <nome>PFC 25/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/5/2015 11:52:01</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização nos contratos firmados entre o governo federal - Secretaria de Comunicação da Presidência da Republica - e empresas estatais que ele controla - Petrobras, Banco do Brasil S.A. e Caixa Econômica Federal - e a Editora Gráfica Atitude Ltda.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2015 11:00:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227976</id>
+    <nome>PFC 24/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 15:41:30</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Segurança Pública e Combate ao Crime Organizado realize a Fiscalização e Controle das contas públicas da prefeitura de Parauapebas/PA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Priante</txtNomeAutor>
+      <idecadastro>74079</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/5/2015 09:47:00</datDespacho>
+      <txtDespacho>À Comissão de Segurança Pública e Combate ao Crime Organizado. Proposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227971</id>
+    <nome>PFC 23/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 15:40:18</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Segurança Pública e Combate ao Crime Organizado realize, com o auxílio do Tribunal de Contas da União, auditoria de natureza operacional sobre os procedimentos de segurança adotados pelas usinas nucleares instaladas em território brasileiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Daciolo</txtNomeAutor>
+      <idecadastro>178938</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/5/2015 09:47:00</datDespacho>
+      <txtDespacho>À Comissão de Segurança Pública e Combate ao Crime OrganizadoProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227908</id>
+    <nome>PFC 22/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 14:36:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize auditoria em todos os atos, contratos e congêneres, relativos à construção da sede da Petrobras em Vitória/ES.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eliziane Gama</txtNomeAutor>
+      <idecadastro>178883</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/5/2015 09:28:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PFC-53/2011. Proposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>525197</codProposicaoPrincipal>
+        <proposicaoPrincipal>PFC 53/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227907</id>
+    <nome>PFC 21/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 14:35:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - com o auxílio do Tribunal de Contas da União - adote as medidas necessárias para a realização de fiscalização e controle relativa as denúnicias de irregularidades e favorecimentos em processos licitatórios pelo Gobverno Federal à Empresa Privada EBP ( Estruturadora Brasileira de Projetos)</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wellington Roberto</txtNomeAutor>
+      <idecadastro>74043</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2015 11:05:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227906</id>
+    <nome>PFC 20/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 14:33:54</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Mangaratiba, no Estado do Rio de Janeiro, no âmbito de todos os ministérios, desde 2013 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2015 11:05:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227904</id>
+    <nome>PFC 19/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 14:32:44</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e Ministério Público Federal, realize ato de auditoria contábil, financeira, orçamentária e operacional ao Ministério da Fazenda, a Receita Federal do Brasil e o Conselho Administrativo de Recursos Fiscais (Carf).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2015 11:05:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1227902</id>
+    <nome>PFC 18/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2015 14:31:31</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize ato de auditoria contábil, financeira, orçamentária e operacional no Ministério da Defesa, a Agência Nacional de Aviação Civil - ANAC e na Infraero Aeroportos, em sua atuação de controle e administração do transporte aéreo de passageiros;</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Altineu Côrtes</txtNomeAutor>
+      <idecadastro>178937</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2015 11:05:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1215445</id>
+    <nome>PFC 17/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2015 17:46:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor fiscalize a situação por que passa o estado da Bahia com referência ao aumento da tarifa de energia elétrica, tendo em vista a autorização da Agência Nacional de Energia Elétrica (Aneel) para novas tarifas da Coelba (Companhia de Eletricidade do Estado da Bahia). </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irmão Lazaro</txtNomeAutor>
+      <idecadastro>178855</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2015 11:05:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1215443</id>
+    <nome>PFC 16/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2015 17:45:40</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor, fiscalize o Seguro de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres (DPVAT), em sua atuação, tendo em vista a Operação "Tempo de despertar", deflagrada pela Polícia Federal sobre eventuais fraudes na instituição. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irmão Lazaro</txtNomeAutor>
+      <idecadastro>178855</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/4/2015 10:06:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1212744</id>
+    <nome>PFC 15/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/4/2015 09:55:02</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Integração Nacional, Desenvolvimento Regional e Amazônia, com auxílio do Tribunal de Contas da União, realize ato de auditoria no instrumento de aditamento contratual entre o BNDES e a Norte Energia S.A, que alterou datas do cronograma de entregas do empreendimento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/4/2015 10:20:00</datDespacho>
+      <txtDespacho>À Comissão de Integração Nacional, Desenvolvimento Regional e da AmazôniaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2017</codOrgaoEstado>
+        <siglaOrgaoEstado>CINDRA    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1212483</id>
+    <nome>PFC 14/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/4/2015 10:18:25</datApresentacao>
+    <txtEmenta>Propõe que a Presidência da Câmara dos Deputados envie a Comissão de Fiscalização Financeira e Controle, para que com  auxílio do Tribunal de Contas da União, da Controladoria Geral da União, da Receita Federal e da Polícia Federal,  apure o desvio de centenas de milhões de  reais por ano  e a transferência ilegal de dinheiro para o exterior realizado por meio  do Banco Santander, por intermédio de depósitos de dinheiro e cartões de crédito para o site de Pôquer online - PokerStars, por via  da empresa Payment Brazil, com sede em São Paulo, com CNPJ 11.338.745/0001-81, além de apurar as remessas de apostas  para os seguintes sites de jogos online: Betboo, Betmotion, Apostasonline, Bet365, Bet9, oddsring, sportingbet, fantasticwin, WillianHill, bet-at-home e BetFair, e possíveis omissões do Banco Central, Receita Federal e Conselho de Controle de Atividades Financeiras - COAF do Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marquezelli</txtNomeAutor>
+      <idecadastro>73553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/4/2015 15:56:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1199215</id>
+    <nome>PFC 13/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2015 13:53:56</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realize fiscalização no contrato do BNDES com o Governo de Cuba para a construção do Porto de Mariel.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/4/2015 09:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1194332</id>
+    <nome>PFC 12/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/3/2015 14:45:52</datApresentacao>
+    <txtEmenta>Requer ato de Fiscalização e Controle nos, contratos, convênios e congêneres firmados no âmbito do programa Minha Casa, Minha Vida.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2015 09:24:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1188116</id>
+    <nome>PFC 11/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2015 15:14:53</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática realize, com o auxílio do Tribunal de Contas da União, auditoria de natureza operacional sobre os procedimentos adotados pelo Poder Executivo para análise do processo que outorga concessão à Televisão Brasil Limitada para explorar, pelo prazo de quinze anos, sem direito de exclusividade, serviço de radiodifusão de sons e imagens, no município de São José dos Campos, Estado de São Paulo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pastor Franklin</txtNomeAutor>
+      <idecadastro>186775</idecadastro>
+      <codPartido>200</codPartido>
+      <txtSiglaPartido>PTdoB     </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2015 09:24:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e InformáticaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1188113</id>
+    <nome>PFC 10/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2015 15:13:24</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática realize, com o auxílio do Tribunal de Contas da União, auditoria de natureza operacional sobre os procedimentos adotados pelo Poder Executivo para análise do processo que outorga concessão à Rede de Rádio e Televisão Tiradentes Ltda. para explorar, pelo prazo de quinze anos, sem direito de exclusividade, serviço de radiodifusão de sons e imagens, no município de Belém, Estado do Pará.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pastor Franklin</txtNomeAutor>
+      <idecadastro>186775</idecadastro>
+      <codPartido>200</codPartido>
+      <txtSiglaPartido>PTdoB     </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/4/2015 14:55:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e InformáticaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1188008</id>
+    <nome>PFC 9/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2015 10:56:30</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Educação realize ato de fiscalizaçãoe e controle no Programa de Financiamento Estudantil (FIES) a fim de acompanhar a continuidade da execução do programa fente aos cortes orçamentatários e mudanças nas regras de funcionamento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Max Filho</txtNomeAutor>
+      <idecadastro>178827</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/4/2015 14:55:00</datDespacho>
+      <txtDespacho>À Comissão de EducaçãoProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2009</codOrgaoEstado>
+        <siglaOrgaoEstado>CE        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1147861</id>
+    <nome>PFC 8/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/3/2015 15:58:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados (CFFC) realize, por intermédio do Tribunal de Contas da União (TCU), fiscalização com o objetivo de verificar se as empresas que prestam serviços públicos sob a forma de concessão, permissão ou autorização nos setores de radiodifusão sonora e de sons e imagens, de transporte rodoviário interestadual e internacional de passageiros e de navegação aérea, aeroespacial e a infraestrutura aeroportuária vêm cumprindo as obrigações legais e contratuais assumidas, notadamente no que diz respeito à regularidade fiscal no curso da concessão, nos termos do art. 38, inciso VII, da Lei 8.987, de 1995. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vicente Candido</txtNomeAutor>
+      <idecadastro>160622</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/4/2015 14:55:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1049292</id>
+    <nome>PFC 7/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/3/2015 14:29:58</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Itaguai, no Estado do Rio de Janeiro, no âmbito de todos os ministérios, desde 2013 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Valle</txtNomeAutor>
+      <idecadastro>178936</idecadastro>
+      <codPartido>121</codPartido>
+      <txtSiglaPartido>PRP       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2015 11:23:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1049236</id>
+    <nome>PFC 6/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/3/2015 10:12:16</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Relações Exteriores e de Defesa Nacional - com o auxílio do Tribunal de Contas da União - adote as medidas necessárias de fiscalização e controle visando investigar se os sucessivos cortes orçamentários impostos pelo Governo ao Itamaraty têm prejudicado a execução da política externa brasileira a cargo do Itamaraty.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Barbosa</txtNomeAutor>
+      <idecadastro>74655</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2015 11:23:00</datDespacho>
+      <txtDespacho>À Comissão de Relações Exteriores e de Defesa NacionalProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1049029</id>
+    <nome>PFC 5/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2015 15:14:22</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, fiscalize, com auxílio do Tribunal de Contas da União - TCU, os gastos de propaganda  do Poder Executivo Federal em mídia comercial.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bacelar</txtNomeAutor>
+      <idecadastro>69871</idecadastro>
+      <codPartido>137</codPartido>
+      <txtSiglaPartido>PTN       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2015 15:27:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1048096</id>
+    <nome>PFC 4/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2015 10:20:14</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Minas e Energia, com auxílio do Tribunal de Contas da União, realize ato de auditoria no montante de recursos públicos aplicados na construção da usina Belo Monte.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2015 11:23:00</datDespacho>
+      <txtDespacho>À Comissão de Minas e EnergiaProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1028994</id>
+    <nome>PFC 3/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2015 14:58:16</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio do Tribunal de Contas da União e do Ministério Público da União, realize ato de fiscalização e controle relativo à reestruturação da Empresa Brasileira de Infraestrutura Aeroportuária-INFRAERO.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Flavinho</txtNomeAutor>
+      <idecadastro>178978</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/3/2015 09:49:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>996927</id>
+    <nome>PFC 2/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2015 17:45:06</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Defesa do Consumidor realize, com auxílio do  Tribunal de Contas da União, ato de  fiscalização e controle com vistas a auditar os processos de definição das cotas anuais da Conta de Desenvolvimento Energético - CDE para o ano de 2015, a serem pagas por todos os agentes comercializadores de energia ao consumidor final, mediante encargo nas tarifas de energia, bem como o de definição do aumento das bandeiras tarifárias em índices exorbitantes e apenas um mês depois de começarem a ser aplicadas. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Weliton Prado</txtNomeAutor>
+      <idecadastro>160518</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/3/2015 09:49:00</datDespacho>
+      <txtDespacho>À Comissão de Defesa do ConsumidorProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>996550</id>
+    <nome>PFC 1/2015</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/3/2015 09:10:51</datApresentacao>
+    <txtEmenta>Propõe a fiscalização e controle da Secretaria do Tesouro Nacional em relação à liberação dos empréstimos autorizados para Estados e Municípios no período compreendido entre 2007 e 2014
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Carlos Hauly</txtNomeAutor>
+      <idecadastro>73778</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/3/2015 16:34:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e ControleProposição Sujeita à Apreciação Interna nas Comissões. Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

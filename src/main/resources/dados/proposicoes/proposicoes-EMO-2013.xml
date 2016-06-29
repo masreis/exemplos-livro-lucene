@@ -1,0 +1,246 @@
+<proposicoes>
+  <proposicao>
+    <id>602325</id>
+    <nome>EMO 2/2013 CME</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 12:28:00</datApresentacao>
+    <txtEmenta>Administração da Agência Nacional de Energia Elétrica - ANEEL - Valor R$ 40.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Minas e Energia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602327</id>
+    <nome>EMO 3/2013 CME</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 12:28:00</datApresentacao>
+    <txtEmenta>Administração do Departamento Nacional de Produção Mineral - DNPM - Valor R$ 160.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Minas e Energia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602328</id>
+    <nome>EMO 4/2013 CME</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 12:28:00</datApresentacao>
+    <txtEmenta>Programa Luz para Todos - Valor R$ 50.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Minas e Energia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602323</id>
+    <nome>EMO 1/2013 CME</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 12:18:00</datApresentacao>
+    <txtEmenta>Tecnologia Nuclear da Marinha - Valor: R$ 97.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Minas e Energia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

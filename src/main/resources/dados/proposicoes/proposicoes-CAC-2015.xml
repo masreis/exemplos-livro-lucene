@@ -1,0 +1,1405 @@
+<proposicoes>
+  <proposicao>
+    <id>1531556</id>
+    <nome>CAC 23/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2015 15:21:00</datApresentacao>
+    <txtEmenta>Comunica ao Congresso Nacional - Alteração de controle societário de empresas jornalísticas - Artigo 222, § 5º, da Constituição Federal e Artigo 3º, parágrafo único, da Lei nº 10.610, de 20 de dezembro de 2002.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>DESTAK BRASIL EDITORA S.A.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/6/2015 09:40:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949142</id>
+    <nome>CAC 17/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 22:15:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Sociedade Rádio Hulha Negra de Criciúma Ltda., no município de Criciúma - SC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949141</id>
+    <nome>CAC 16/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 22:08:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Brasil Sociedade Ltda., no município de Valinhos e Campinas - SP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949140</id>
+    <nome>CAC 15/2015 =&gt; PDC 1310/2004</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 21:56:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Contemporânea Ltda., no município do Rio de Janeiro - RJ.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949138</id>
+    <nome>CAC 14/2015 =&gt; PDC 486/2000</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 21:48:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Auriflama de Comunicação Ltda., no município de Auriflama - SP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949038</id>
+    <nome>CAC 13/2015 =&gt; PDC 650/2003</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 17:39:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Empresa Caponense de Radiodifusão AM Ltda., no município de Capão da Canoa - RS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949033</id>
+    <nome>CAC 12/2015 =&gt; PDC 304/2003</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 17:31:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 07/06/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Sociedade Rádio Difusora Eldorado Catarinense Ltda., no município de Criciúma - SC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949260</id>
+    <nome>CAC 21/2015 =&gt; PDC 1994/2009</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 17:29:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão de sons e imagens da Empresa Pioneira de Televisão S.A., no município de São Carlos - SP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949256</id>
+    <nome>CAC 20/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 17:18:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão de sons e imagens da Sociedade de Televisão Manauara Ltda., no município de Manaus - AM.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949021</id>
+    <nome>CAC 11/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:57:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Multisom Rádio Cataguases Ltda., no município de Cataguases - MG.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949016</id>
+    <nome>CAC 10/2015 =&gt; PDC 2529/2002</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:47:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Clube de São Domingos Ltda., no município de São Domingos - SC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949007</id>
+    <nome>CAC 9/2015 =&gt; PDC 2564/2002</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:36:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Caçanjurê Ltda., no município de Caçador - SC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento, e após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949003</id>
+    <nome>CAC 8/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:26:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Interior Ltda., no município de Pinheiro - MA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949221</id>
+    <nome>CAC 19/2015 =&gt; PDC 672/2003</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:19:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão de sons e imagens da Televisão Sul de Minas S.A., no município de Varginha - MG</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>948990</id>
+    <nome>CAC 7/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:17:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 30/03/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Sistema Centro-Oeste de Comunicação e Radiodifusão Ltda., no município de Santo Antônio do Descoberto - GO.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>949217</id>
+    <nome>CAC 18/2015 =&gt; PDC 882/2003</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:10:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 27/05/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão de sons e imagens da Televisão Tibagi Ltda., no município de Apucarana - PR.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>948985</id>
+    <nome>CAC 6/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 16:09:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 30/03/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Técnica de Atibaia Ltda., no município de Atibaia - SP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>947924</id>
+    <nome>CAC 5/2015 =&gt; PDC 465/1997</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 15:50:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 30/03/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Comercial de Presidente Prudente Ltda., no município de Presidente Prudente - SP.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>947921</id>
+    <nome>CAC 4/2015 =&gt; PDC 1547/2001</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 15:41:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 29/03/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Rádio Cultura AM Ltda., no município de Florianópolis - SC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>947914</id>
+    <nome>CAC 3/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 15:31:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 04/02/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Multisom Rádio Jornal Ltda., no município de Leopoldina - MG.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>947909</id>
+    <nome>CAC 2/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 15:18:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme o despacho de 04/02/2010 (DOU do dia subsequente), a transferência indireta, do controle societário, para outros grupos de cotistas de concessionária de serviços de radiodifusão em ondas médias da Multisom Rádio Sociedade Ubaense Ltda., no município de Ubá - MG.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>947850</id>
+    <nome>CAC 1/2015 =&gt; TVR 290/2000</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 10:22:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme Decreto de 29 de março de 2010, publicado no Diário Oficial da União do dia subsequente, a transferência, para a Fundação Eurico Bergsten, da concessão outorgada à Rádio Nordeste Ltda., para explorar serviços de radiodifusão sonora em ondas médias, no município de Natal, Estado do Rio Grande do Norte.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>955461</id>
+    <nome>CAC 22/2015</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/2/2015 09:47:00</datApresentacao>
+    <txtEmenta>Comunica a composição societária e de capital social da empresa jornalística EMPRESA FRANCANA EDITORA DE JORNAIS E REVISTA LTDA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Empresa Francana Editora de Jornais e Revista Ltda</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/3/2015 11:06:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática para conhecimento e, após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,1014 @@
+<proposicoes>
+  <proposicao>
+    <id>527952</id>
+    <nome>SPP 5/2011 CDEICS</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/11/2011 11:31:00</datApresentacao>
+    <txtEmenta>Manutenção, modernização e ampliação da infraestrutura da Embrapa. PROGRAMA: 2042 - Inovações para a Agropecuária. Tipo: TemáticoValores globais: Esfera - Orçamento Fiscal de Seguridade Social. Valor proposto para 2012: R$ 605.965.255 - Valor proposto para 2013 - 2015: R$ 2.841.078.525.Valores globais: Total Proposto 2012: R$ 605.965.255. Total Proposto 2013-2015: R$ 2.841.078.525. Total Final: R$ 3.447.043.780</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526966</id>
+    <nome>SPP 5/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 18:39:00</datApresentacao>
+    <txtEmenta>DNR Cidade das Águas</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526864</id>
+    <nome>SPP 2/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 16:32:00</datApresentacao>
+    <txtEmenta>Altera meta de objetivo para inclusão produtiva e o desenvolvimento social</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526866</id>
+    <nome>SPP 3/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 16:32:00</datApresentacao>
+    <txtEmenta>Altera meta de objetivo para popularizar ciência e tecnologia</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526867</id>
+    <nome>SPP 4/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 16:32:00</datApresentacao>
+    <txtEmenta>Altera meta de objetivo para capacitação de engenheiros</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526863</id>
+    <nome>SPP 1/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 16:30:00</datApresentacao>
+    <txtEmenta>Altera meta de objetivo para inclusão digital</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526577</id>
+    <nome>SPP 1/2011 CSPCCO</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:15:00</datApresentacao>
+    <txtEmenta>Altera indicador do programa 2020 (Cidadania e Justiça) para identificar sexo e cor/etnia no acesso ao serviço jurídico gratuito.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526580</id>
+    <nome>SPP 2/2011 CSPCCO</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:15:00</datApresentacao>
+    <txtEmenta>Inclui indicadores no programa 2016 (Políticas para as Mulheres: Enfrentamento à Violencia e Autonomia).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526460</id>
+    <nome>SPP 1/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN. 
+EMENTA: APRIMORAMENTO DO CONCEITO DE VALOR DE REFERÊNCIA</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526463</id>
+    <nome>SPP 2/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: AVALIAÇÃO DO PPA 2012/15 INFORMADO AO CONGRESSO NACIONAL.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526467</id>
+    <nome>SPP 3/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: CONCEITO DE EMPREENDIMENTO DE GRANDE PORTE
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526472</id>
+    <nome>SPP 4/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: DIRETRIZ - ART. 4º - EFICIÊNCIA NOS GASTOS PÚBLICOS
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526474</id>
+    <nome>SPP 5/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: DISPENSA DO PPA EMPREENDIMENTOS COM EXECUÇÃO EM UM SÓ EXERCÍCIO
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526477</id>
+    <nome>SPP 6/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: PAC COMO PRIORIDADE, DESDE QUE SUAS AÇÕES SEJAM APROVADAS PELO CONGRESSO NACIONAL
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526478</id>
+    <nome>SPP 7/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: SUPRESSÃO DO § 3º DO ART. 10 QUE PERMITE CRITÉRIOS ADICIONAIS PARA INICIATIVAS.
+
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526480</id>
+    <nome>SPP 8/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: UNICIDADE E EXCLUSIVIDADE DE INICIATIVA PARA EMPREEDIMENTO DE GRANDE PORTE
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526482</id>
+    <nome>SPP 9/2011 CFT</nome>
+    <tipoProposicao>
+      <id>613</id>
+      <sigla>SPP</sigla>
+      <nome>Sugestão de Emenda ao PPA - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2011 18:10:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei do Plano Plurianual para o período de 2012-2015 - Projeto de Lei nº 29/2011-CN.
+EMENTA: TIPOLOGIA DOS PROGRAMAS NO PPA - ART. 5º, I - PROGRAMA DE POLÍTICAS PÚBLICAS
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

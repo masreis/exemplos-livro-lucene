@@ -1,0 +1,709 @@
+<proposicoes>
+  <proposicao>
+    <id>557844</id>
+    <nome>APJ 1/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera os arts. 121, 122, 129 e 136 e revoga o § 1o do art. 121 e os arts. 123 e 134 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal (Lei de crimes contra a vida).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557845</id>
+    <nome>APJ 2/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera o artigo 148 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal e dá outras providências (Lei de crimes contra a liberdade individual).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557846</id>
+    <nome>APJ 3/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera os arts. 1°, 7°, 44, 75, 100, 145, 155, 157, 163, 168, 168-A, 180, 181 e 182 e acrescenta dispositivos ao Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal (Lei de crimes contra o patrimônio).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557847</id>
+    <nome>APJ 4/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera o art. 273 do Capítulo III (Crimes Contra a Saúde Pública) do Decreto-lei no 2.848, de 7 de dezembro de 1940 - Código Penal (Lei de crimes contra a saúde pública).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557848</id>
+    <nome>APJ 5/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera a redação do artigo 288 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal e dá outras providências (Lei de crimes contra a paz pública).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557849</id>
+    <nome>APJ 6/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera o Capítulo I do Título XI do Decreto-lei no 2.848, de 7 de dezembro de 1940 - Código Penal (Lei de crimes contra a administração pública).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557850</id>
+    <nome>APJ 7/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Acrescenta e altera dispositivos à Lei 9.605 de 12 de fevereiro de 1998 (Lei de crimes ambientais).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557851</id>
+    <nome>APJ 8/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera os arts. 94, 96, 97, 98 e 99 da Lei no 10.741, de 1o de outubro 2003, que dispõe sobre o Estatuto do Idoso e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557852</id>
+    <nome>APJ 9/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Acrescenta Art. 235-A e altera os Arts. 236, 237, 239, 241-B, 241-D, 243 e 244-B da Lei no 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557853</id>
+    <nome>APJ 10/2012 CCJC =&gt; REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2012 11:37:00</datApresentacao>
+    <txtEmenta>Altera os arts. 28, 37, 44, 50 e 57 da Lei 11.343, de 23 de agosto de 2006, que institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas; define crimes e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>536395</id>
+    <nome>APJ 3/2012 CEREFPOL</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>537343</id>
+      <sigla>CEREFPOL  </sigla>
+      <nome>Comissão Especial destinada a efetuar estudo e apresentar propostas com relação às matérias infraconstitucionais da Reforma Política</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/3/2012 20:30:00</datApresentacao>
+    <txtEmenta>(DA COMISSÃO ESPECIAL DE REFORMA POLÍTICA)
+Dispõe sobre o sistema eleitoral para as eleições proporcionais e sobre o financiamento público exclusivo das campanhas eleitorais, alterando a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e sobre a forma de subscrição de eleitores a proposições legislativas de iniciativa popular, alterando a Lei nº 9.709, de 18 de novembro de 1998.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Henrique Fontana</txtNomeAutor>
+      <idecadastro>73482</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>537343</codOrgaoEstado>
+        <siglaOrgaoEstado>CEREFPOL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

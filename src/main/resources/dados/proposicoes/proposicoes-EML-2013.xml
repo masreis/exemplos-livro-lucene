@@ -1,0 +1,1602 @@
+<proposicoes>
+  <proposicao>
+    <id>587061</id>
+    <nome>EML 13/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:40:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Sistema de Gerenciamento da Amazônia Azul (SisGAAz).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587058</id>
+    <nome>EML 12/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:39:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Reconstrução da Estação Antártica  Comandante Ferraz.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587057</id>
+    <nome>EML 11/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:38:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Missão Antártica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587049</id>
+    <nome>EML 10/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:37:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Estratégia Nacional de Defesa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587047</id>
+    <nome>EML 9/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:36:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Ensino Profissional Marítimo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587044</id>
+    <nome>EML 8/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:34:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Construção de Navios-Patrulha de 500Ton..</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587042</id>
+    <nome>EML 7/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:33:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Construção de Navios-Escolta.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587037</id>
+    <nome>EML 6/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:31:00</datApresentacao>
+    <txtEmenta>Emenda ao Texto: Anexo III - Auxílio e Fiscalização da Navegação Aquaviária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587036</id>
+    <nome>EML 5/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:27:00</datApresentacao>
+    <txtEmenta>Emenda de Inclusão de Meta: Auxílios e Fiscalização da Navegação Aquaviária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587035</id>
+    <nome>EML 4/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:26:00</datApresentacao>
+    <txtEmenta>Emenda de Inclusão de Meta: Elaboração do Projeto de Arquitetura do Sistema de Gerenciamento da Amazônia Azul (SisGAAz).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587032</id>
+    <nome>EML 3/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:24:00</datApresentacao>
+    <txtEmenta>Emenda de Inclusão de Meta: Construção de Navios-Patrulha de 500Ton..</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587029</id>
+    <nome>EML 2/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:21:00</datApresentacao>
+    <txtEmenta>Emenda de Inclusão de Meta: Missão Antártica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>587027</id>
+    <nome>EML 1/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 14:19:00</datApresentacao>
+    <txtEmenta>Emenda de Inclusão de Meta: Reconstrução da Estação Antártica Comandante Ferraz.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584511</id>
+    <nome>EML 13/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/7/2013 12:46:00</datApresentacao>
+    <txtEmenta>Incluir no Anexo de Metas e Prioridades do Governo Federal, que trata das Despesas consideradas prioritárias para o estado brasileiro, conforme o Art. 165º, § 2º, da Constituição Federal: 
+6 - Ação Orçamentária 2510 - Ensino Profissional Marítimo
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584512</id>
+    <nome>EML 14/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/7/2013 12:46:00</datApresentacao>
+    <txtEmenta>Incluir no Anexo de Metas e Prioridades do Governo Federal, que trata das Despesas consideradas prioritárias para o estado brasileiro, conforme o Art. 165º, § 2º, da Constituição Federal:
+5 - Ação Orçamentária 20XX - Auxílio e Fiscalização da Navegação Aquaviária
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584243</id>
+    <nome>EML 12/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 18:01:00</datApresentacao>
+    <txtEmenta>INCLUIR NO ANEXO DE METAS E PRIORIDADES DO GOVERNO FEDERAL, QUE TRATA DAS DESPESAS CONSIDERADAS PRIORITÁRIAS PARA O ESTADO BRASILEIRO, CONFORME O ART. 165º, § 2º, DA CONSTITUIÇÃO FEDERAL: 7 - AÇÃO ORÇAMENTÁRIA 14TB - CONSTRUÇÃO DE NAVIOS-ESCOLTA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584241</id>
+    <nome>EML 11/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:57:00</datApresentacao>
+    <txtEmenta>INCLUIR NO ANEXO DE METAS E PRIORIDADES DO GOVERNO FEDERAL, QUE TRATA DAS DESPESAS CONSIDERADAS PRIORITÁRIAS PARA O ESTADO BRASILEIRO, CONFORME O ART. 165º, § 2º, DA CONSTITUIÇÃO FEDERAL: 4 - AÇÃO ORÇAMENTÁRIA 13DE - ELABORAÇÃO DO PROJETO DE ARQUITETURA DO SISTEMA DE GERENCIAMENTO DA AMAZÔNIA AZUL (SISGAAZ).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584240</id>
+    <nome>EML 10/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:56:00</datApresentacao>
+    <txtEmenta>INCLUIR NO ANEXO DE METAS E PRIORIDADES DO GOVERNO FEDERAL, QUE TRATA DAS DESPESAS CONSIDERADAS PRIORITÁRIAS PARA O ESTADO BRASILEIRO, CONFORME O ART. 165º, § 2º, DA CONSTITUIÇÃO FEDERAL: 1 - AÇÃO ORÇAMENTÁRIA 1N47 - CONSTRUÇÃO DE NAVIOS-PATRULHA DE 500TON.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584238</id>
+    <nome>EML 9/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:55:00</datApresentacao>
+    <txtEmenta>SISTEMA DE GERENCIAMENTO DA AMAZÔNIA AZUL (SISGAAZ) - ANEXO III  - DESPESAS RELACIONADAS COM A ELABORAÇÃO DO PROJETO DE ARQUITETURA DO SISTEMA DE GERENCIAMENTO DA AMAZÔNIA AZUL (SISGAAZ).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584237</id>
+    <nome>EML 8/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:54:00</datApresentacao>
+    <txtEmenta>RECONSTRUÇÃO DA ESTAÇÃO ANTÁRTICA COMANDANTE FERRAZ - ANEXO III - DESPESAS RELACIONADAS À RECONSTRUÇÃO DA ESTAÇÃO BRASILEIRA NA ANTÁRTICA;</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584232</id>
+    <nome>EML 7/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:53:00</datApresentacao>
+    <txtEmenta>MISSÃO ANTÁRTICA - ANEXO III - DESPESAS RELACIONADAS À RECONSTRUÇÃO DA ESTAÇÃO BRASILEIRA NA ANTÁRTICA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584231</id>
+    <nome>EML 6/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:52:00</datApresentacao>
+    <txtEmenta>ESTRATÉGIA NACIONAL DE DEFESA - ANEXO III - OS PROJETOS ESTRATÉGICOS DECORRENTES DAS NECESSIDADES IMPOSTAS PELO DECRETO Nº 6.703, DE 18 DE DEZEMBRO DE 2008 (ESTRATÉGIA NACIONAL DE DEFESA);</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584229</id>
+    <nome>EML 5/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:51:00</datApresentacao>
+    <txtEmenta>ENSINO PROFISSIONAL MARÍTIMO - ANEXO III - DESPESAS RELACIONADAS COM O ENSINO PROFISSIONAL MARÍTIMO.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584227</id>
+    <nome>EML 4/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:50:00</datApresentacao>
+    <txtEmenta>CONSTRUÇÃO DE NAVIOS-PATRULHA DE 500TON - ANEXO III - DESPESAS RELACIONADAS COM A CONSTRUÇÃO DE NAVIOS-PATRULHA DE 500TON.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584226</id>
+    <nome>EML 3/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:49:00</datApresentacao>
+    <txtEmenta>CONSTRUÇÃO DE NAVIOS-ESCOLTA- ANEXO III - DESPESAS RELACIONADAS COM A CONSTRUÇÃO DE NAVIOS-ESCOLTA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584224</id>
+    <nome>EML 2/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:47:00</datApresentacao>
+    <txtEmenta>AUXÍLIO E FISCALIZAÇÃO DA NAVEGAÇÃO AQUAVIÁRIA - ANEXO III - DESPESAS RELACIONADAS COM O AUXÍLIO E FISCALIZAÇÃO DA NAVEGAÇÃO AQUAVIÁRIA;</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584220</id>
+    <nome>EML 1/2013 CME</nome>
+    <tipoProposicao>
+      <id>273</id>
+      <sigla>EML</sigla>
+      <nome>Emenda à LDO</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:42:00</datApresentacao>
+    <txtEmenta>DÊ-SE AO ART. 13 DO PROJETO DE LEI Nº 2, DE 2013-CN, A SEGUINTE REDAÇÃO: "ART. 13. .........................
+§ 1º ....................................................................................................................
+§ 2º NÃO PODERÃO CONSTITUIR RESERVA DE CONTINGÊNCIA A QUE SE REFERE ESTE ARTIGO:
+I - AS DOTAÇÕES DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP REFERENTES ÀS ATIVIDADES DE ESTUDOS E SERVIÇOS DE GEOLOGIA E GEOFÍSICA APLICADOS À PROSPECÇÃO E AO TRANSPORTE DE PETRÓLEO E GÁS NATURAL E DE FISCALIZAÇÃO DA INDÚSTRIA DO PETRÓLEO;
+II - AS DOTAÇÕES DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL RELACIONADAS À FISCALIZAÇÃO DA INDÚSTRIA DE ENERGIA ELÉTRICA";
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

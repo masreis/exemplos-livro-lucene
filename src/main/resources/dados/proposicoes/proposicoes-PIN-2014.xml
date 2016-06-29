@@ -1,0 +1,64 @@
+<proposicoes>
+  <proposicao>
+    <id>615797</id>
+    <nome>PIN 1/2014 CMO =&gt; PLN 9/2013 CN</nome>
+    <tipoProposicao>
+      <id>714</id>
+      <sigla>PIN</sigla>
+      <nome>Proposta de Instrução Normativa</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2014 18:00:00</datApresentacao>
+    <txtEmenta>Dispõe sobre os procedimentos para recebimento e consolidação das indicações parlamentares para correção dos impedimentos de ordem técnica à execução das programações orçamentárias decorrentes de emendas individuais.
+NOVA EMENTA: Regula os procedimentos para recebimento e consolidação das indicações parlamentares para a correção dos impedimentos de ordem técnica à execução das programações orçamentárias decorrentes de emendas individuais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da Comissão Mista de Orçamento</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

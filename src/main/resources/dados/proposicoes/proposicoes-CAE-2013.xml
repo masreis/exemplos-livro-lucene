@@ -1,0 +1,126 @@
+<proposicoes>
+  <proposicao>
+    <id>602307</id>
+    <nome>CAE 2/2013 CMO =&gt; PLN 9/2013 CN</nome>
+    <tipoProposicao>
+      <id>685</id>
+      <sigla>CAE</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2013 18:30:00</datApresentacao>
+    <txtEmenta> Relatório do Comitê de Admissibilidade de Emendas sobre o Exame de Admissibilidade das emendas coletivas (Bancada e Comissão) apresentadas ao PLN 9/2013 - Projeto de Lei Orçamentária para 2014.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Teixeira</txtNomeAutor>
+      <idecadastro>160652</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602305</id>
+    <nome>CAE 1/2013 CMO =&gt; PLN 9/2013 CN</nome>
+    <tipoProposicao>
+      <id>681</id>
+      <sigla>CAE</sigla>
+      <nome>Relatório de Atividades do Comitê de Admissibilidade de Emendas (CAE)</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 16:30:00</datApresentacao>
+    <txtEmenta>sobre Diretrizes e Orientações para a análise da admissibilidade de emendas ao Projeto de Lei Orçamentária para 2014, apresentado ao Projeto de Lei nº 9/2013-CN, que "Estima a receita e fixa a despesa da União para o exercício financeiro de 2014", em razão do art. 25 da Resolução nº 1/2006-CN.
+Coordenador do CAE: Deputado Marcus Pestana
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Teixeira</txtNomeAutor>
+      <idecadastro>160652</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

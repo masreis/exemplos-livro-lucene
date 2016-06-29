@@ -1,0 +1,910 @@
+<proposicoes>
+  <proposicao>
+    <id>563777</id>
+    <nome>SIT 40/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>40</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2012 11:36:00</datApresentacao>
+    <txtEmenta>Requer ao Ministro Presidente do Tribunal de Contas da União que proceda a uma análise da proteção das cavernas do Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Meio Ambiente e Desenvolvimento Sustentável</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562675</id>
+    <nome>SIT 39/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>39</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2012 15:11:00</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre o lucro obtido pelas empresas CELPE, CESP, CEMIG e COPEL.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2012 14:50:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562579</id>
+    <nome>SIT 38/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>38</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/12/2012 15:42:50</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre o valor de remuneração e indenização para os ativos ainda não amortizados das empresas CESP, CEMIG e COPEL.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2012 14:50:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>561978</id>
+    <nome>SIT 37/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2012 17:31:00</datApresentacao>
+    <txtEmenta>Requer do Tribunal de Contas da União informações sobre a paralização das obras da barragem de Berizal, que interceptariam as águas do rio Pardo, no Estado de Minas Gerais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zé Silva</txtNomeAutor>
+      <idecadastro>160632</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2012 14:50:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555182</id>
+    <nome>SIT 36/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/9/2012 16:53:26</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre o conflito entre a Resolução ANEEL nº 450, de 2011, e o disposto no Decreto nº 7.521, de 2011.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/9/2012 18:14:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>553183</id>
+    <nome>SIT 35/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/8/2012 09:50:26</datApresentacao>
+    <txtEmenta>Solicita ao Ministro Presidente do Tribunal de Contas da União informações sobre fiscalização realizada pelo Tribunal com relação aos contratos e às obras que compõem o projeto de transposição do Rio São Francisco.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/4/2013 14:04:00</datDespacho>
+      <txtDespacho>Encaminhe-se ao solicitante. Publique-se. Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552061</id>
+    <nome>SIT 34/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2012 18:59:00</datApresentacao>
+    <txtEmenta>Solicita ao Sr. Ministro Presidente do Tribunal de Contas da União - TCU, informações sobre o possível recebimento indevido de verbas públicas federais na contratação de serviços de dragagem nos Portos de Paranaguá e Antonina - PR.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/7/2012 16:28:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549742</id>
+    <nome>SIT 33/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 17:46:50</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre a Contribuição para Custeio da Iluminação Pública (CIP) e a transferência dos ativos de iluminação pública aos municípios de Pernambuco.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/7/2012 18:57:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>547510</id>
+    <nome>SIT 32/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2012 15:48:33</datApresentacao>
+    <txtEmenta>Solicita ao Sr. Ministro Presidente do Tribunal de Contas da União - TCU, o Relatório deste Tribunal acerca dos custos dos subsídios concedidos pelo BNDES com recursos do Tesouro Nacional nos últimos cinco anos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2012 18:10:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>544230</id>
+    <nome>SIT 31/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/5/2012 10:36:56</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre o processo de reajuste tarifário da Companhia Energética de Pernambuco (CELPE), ocorrido no mês de abril de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2012 18:10:00</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>541808</id>
+    <nome>SIT 30/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/4/2012 19:31:42</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre os resultados das ações de auditoria do Tribunal de Contas da União nas obras de mobilidade urbana viabilizadas com recursos federais de todas as cidades-sede da Copa do Mundo de 2014.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Urbano</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>540120</id>
+    <nome>SIT 29/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/4/2012 19:24:48</datApresentacao>
+    <txtEmenta>Solicita ao Sr. Ministro Presidente do Tribunal de Contas da União - TCU, o histórico das receitas obtidas pelas representações brasileiras no exterior, com emolumentos e taxas consulares advindos da concessão de todas as categorias de visto, bem como o histórico das despesas realizadas com tais recursos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Eduardo Cadoca</txtNomeAutor>
+      <idecadastro>74474</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/4/2012</datDespacho>
+      <txtDespacho>Submeta-se à Mesa Diretora.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>539022</id>
+    <nome>SIT 28/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/3/2012 10:11:00</datApresentacao>
+    <txtEmenta>Solicita ao Ministro Presidente do Tribunal de Contas da União informações sobre fiscalização realizada pelo Tribunal com relação aos contratos e às obras que compõem o projeto de transposição do Rio São Francisco.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2012 17:22:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, para que exerça o direito de escolher o órgão colegiado que deverá examinar a solicitação, nos termos do Ofício Circular nº 508/2012/SGM/P. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>538894</id>
+    <nome>SIT 27/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/3/2012 16:04:25</datApresentacao>
+    <txtEmenta>Solicita informações ao Presidente do Tribunal de Contas da União sobre pagamentos realizados acima do Teto Constitucional aos servidores públicos no âmbito federal. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marchezan Junior</txtNomeAutor>
+      <idecadastro>160567</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2012 17:22:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, para que exerça o direito de escolher o órgão colegiado que deverá examinar a solicitação, nos termos do Ofício Circular nº 508/2012/SGM/P. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>535407</id>
+    <nome>SIT 26/2012</nome>
+    <tipoProposicao>
+      <id>151</id>
+      <sigla>SIT</sigla>
+      <nome>Solicitação de Informação ao TCU</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/2/2012 15:07:53</datApresentacao>
+    <txtEmenta>Requer informações ao senhor Ministro Benjamin Zymler, Presidente do TCU - Tribunal de Contas da União sobre a legalidade ou não, de dispositivos do BNB - Banco do Nordeste do Brasil que proíbe Contrato de Financiamentos com Parlamentar ou empresa que tenha Parlamentar como sócio.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gonzaga Patriota</txtNomeAutor>
+      <idecadastro>74419</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2012 17:22:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, para que exerça o direito de escolher o órgão colegiado que deverá examinar a solicitação, nos termos do Ofício Circular nº 508/2012/SGM/P. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

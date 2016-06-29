@@ -1,0 +1,377 @@
+<proposicoes>
+  <proposicao>
+    <id>531319</id>
+    <nome>OBJ 6/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 19:06:00</datApresentacao>
+    <txtEmenta>Eleição para Membro do Conselho Nacional de Justiça</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531085</id>
+    <nome>OBJ 5/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 14:37:00</datApresentacao>
+    <txtEmenta>Eleição dos membros da Câmara dos Deputados que comporão a Comissão Representativa do Congresso Nacional para o período de 23 de dezembro de 2011 a 1º de fevereiro de 2012 (Art. 58, § 4º da Constituição Federal). 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>520467</id>
+    <nome>OBJ 4/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/9/2011 19:46:00</datApresentacao>
+    <txtEmenta>Eleição para o cargo de Ministro do Tribunal de Contas da União, sendo candidatos a Sra. Ana Lúcia Arraes de Alencar (INA 2/11) e os Srs. Rosendo Severo dos Anjos Neto (INA 1/11), José Aldo Rebelo Figueiredo (INA 3/11), Átila Sidney Lins Albuquerque (INA 4/11), Damião Feliciano da Silva (INA 5/11), Milton Antônio Casquel Monti (INA 6/11) e Vilson Luiz Covatti (INA 9/11), indicados nos termos do art. 2º, § 1º, do Decreto Legislativo nº 6, de 1993.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>511371</id>
+    <nome>OBJ 3/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/7/2011 10:52:00</datApresentacao>
+    <txtEmenta>Eleição dos membros da Câmara dos Deputados que comporão a Comissão Representativa do Congresso Nacional para o período de 19 a 31 de julho de 2011 (Art. 58, § 4º da Constituição Federal).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>497561</id>
+    <nome>OBJ 2/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2011 23:57:00</datApresentacao>
+    <txtEmenta>Ofício/PGR/GAB/Nº 588/09, da Procuradoria Geral da República, que solicita a retirada do Projeto de Lei nº 4.299, de 2008, do Ministério Público da União, que altera o Anexo XXI da Lei nº 10.771, de 21 de novembro de 2003, o art. 23, parágrafo único, e o art. 25, ambos da Lei nº 11.415, de 15 de dezembro de 2006. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490878</id>
+    <nome>OBJ 1/2011</nome>
+    <tipoProposicao>
+      <id>460</id>
+      <sigla>OBJ</sigla>
+      <nome>Objeto de Deliberação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/2/2011 19:46:00</datApresentacao>
+    <txtEmenta>Eleição da Mesa Diretora da Câmara dos Deputados para o biênio 2011/2012 da 54ª Legislatura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

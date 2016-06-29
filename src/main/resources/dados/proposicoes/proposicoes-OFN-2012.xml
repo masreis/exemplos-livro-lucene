@@ -1,0 +1,3273 @@
+<proposicoes>
+  <proposicao>
+    <id>562651</id>
+    <nome>OFN 56/2012 CN</nome>
+    <tipoProposicao>
+      <id>698</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Nordeste (FNE).</nome>
+    </tipoProposicao>
+    <numero>56</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/11/2012 16:47:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional a programação de financiamento do Fundo Constitucional de Financiamento do Nordeste - FNE para o exercício de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Superintendência do Desenvolvimento do Nordeste</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/11/2012 16:47:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>560084</id>
+    <nome>OFN 55/2012 CN</nome>
+    <tipoProposicao>
+      <id>671</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Atividades da Autoridade Pública Olímpica - APO</nome>
+    </tipoProposicao>
+    <numero>55</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2012 20:21:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Atividades desenvolvidas pela APO no primeiro semestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Autoridade Pública Olímpica - APO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/11/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>560083</id>
+    <nome>OFN 54/2012 CN</nome>
+    <tipoProposicao>
+      <id>652</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Trimestral Gerencial do BNDES</nome>
+    </tipoProposicao>
+    <numero>54</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/11/2012 20:15:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do artigo 1º, § 6º, da Lei nº 11.948, de 16 de junho de 2000, e do artigo 1º, § 8º da Lei nº 12.453, de 21 de julho de 2011, o Relatório Gerencial Trimestral do BNDES referente ao terceiro trimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Nacional de Desenvolvimento Econômico Social</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/11/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557381</id>
+    <nome>OFN 52/2012 CN</nome>
+    <tipoProposicao>
+      <id>697</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Centro-Oeste (FCO)</nome>
+    </tipoProposicao>
+    <numero>52</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2012 16:48:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos dos §§ 4º e 5º do art. 20 da Lei nº 7.827, de 27 de setembro de 1989, o Relatório de Gestão do Fundo Constitucional de Financiamento do Centro-Oeste (FCO) referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Integração Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/10/2012 16:48:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557658</id>
+    <nome>OFN 53/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>53</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2012 14:50:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 54 da Lei Complementar nº 101, de 4 de maio de 2000, e do art. 122 da Lei nº 12.017, de 12 de agosto de 2009, o Relatório de Gestão Fiscal do Superior Tribunal de Justiça referente ao segundo quadrimestre do exercício de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUPERIOR TRIBUNAL DE JUSTIÇA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 14:50:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557657</id>
+    <nome>OFN 51/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>51</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 14:48:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 118 da Lei nº 12.465, de 12 de agosto de 2011 - LDO 2012, o Relatório de Gestão Fiscal do Tribunal Superior Eleitoral, referente ao segundo quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR ELEITORAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 14:48:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557656</id>
+    <nome>OFN 50/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>50</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 14:30:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no art. 118, da Lei das Diretrizes Orçamentárias - LDO nº 12.465/2011, o Relatório de Gestão Fiscal do Tribunal de Justiça do Distrito Federal e Territórios, relativo ao 2º quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Justiça do Distrito Federal e dos Territórios</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 14:30:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557653</id>
+    <nome>OFN 49/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>49</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 14:27:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 121 da Lei nº 12.465, de 12 de agosto de 2011, o Relatório de Gestão Fiscal do 2º Quadrimestre de 2012, de que trata o art. 54 da Lei Complementar nº 101/2000, do Conselho Nacional de Justiça.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional de Justiça</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 14:27:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557650</id>
+    <nome>OFN 48/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>48</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 14:03:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao artigo 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal do Tribunal Superior do Trabalho referente ao período de setembro de 2011 a agosto de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR DO TRABALHO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 14:03:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557649</id>
+    <nome>OFN 47/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>47</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 13:56:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento ao inciso I do art. 5º da Lei nº 10.028, de 19 de outubro de 2000, os demonstrativos que compõem os Relatórios de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao período de setembro de 2011 a agosto de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PROCURADORIA-GERAL DA REPÚBLICA </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 13:56:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557646</id>
+    <nome>OFN 46/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>46</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 11:53:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, nos termos do art. 118 da Lei 12.465, de 12 de agosto de 2011 - Lei de Diretrizes Orçamentárias de 2012, o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 2º quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>CONSELHO DA JUSTIÇA FEDERAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 11:53:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557642</id>
+    <nome>OFN 45/2012 CN =&gt; AVN 3/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>45</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/10/2012 10:41:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 118 da Lei nº 12.465, de 12 de agosto de 2011 - LDO 2012, e no inciso I do art. 5º da Lei 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de setembro de 2011 a agosto de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/10/2012 10:41:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>553194</id>
+    <nome>OFN 44/2012 CN</nome>
+    <tipoProposicao>
+      <id>652</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Trimestral Gerencial do BNDES</nome>
+    </tipoProposicao>
+    <numero>44</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/8/2012 14:33:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 1º, § 6º, da Lei nº 11.948, de 16 de junho de 2009, o Relatório Gerencial Trimestral do BNDES referente ao segundo trimestre de 2012. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Nacional de Desenvolvimento Econômico Social</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/8/2012 14:33:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557176</id>
+    <nome>OFN 43/2012 CN =&gt; OFN 14/2012 CN</nome>
+    <tipoProposicao>
+      <id>698</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Nordeste (FNE).</nome>
+    </tipoProposicao>
+    <numero>43</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/8/2012 18:44:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Resultados e Impactos - Execício de 2011, do Fundo Constitucional de Financiamento do Nordeste - FNE, o Parecer Conjunto nº 13/SFRI/SUDENE/MI, de 28/06/2012, e a Resolução CONDEL nº 053, de 13/07/2012, que aprovou o referido relatório.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Superintendência do Desenvolvimento do Nordeste</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/8/2012 18:44:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552446</id>
+    <nome>OFN 42/2012 CN</nome>
+    <tipoProposicao>
+      <id>696</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Norte (FNO)</nome>
+    </tipoProposicao>
+    <numero>42</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/8/2012 17:30:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do parágrafo 4° do art. 20 da Lei nº 7.827, de 1989, cópia do Processo de Contas Ordinárias do Fundo Constitucional de Financiamento do Norte (FNO) referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco da Amazônia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/8/2012 17:30:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557872</id>
+    <nome>OFN 41/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>41</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/6/2012 15:19:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Conselho da Justiça Federal referente ao 1º quadrimestre de 2012, conforme determina o art. 118 da Lei nº 12.465/2011 - Lei de Diretrizes Orçamentárias de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>CONSELHO DA JUSTIÇA FEDERAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/6/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557867</id>
+    <nome>OFN 40/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>40</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal da Justiça Militar da União, referente ao primeiro quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUPERIOR TRIBUNAL MILITAR</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 15:00:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557876</id>
+    <nome>OFN 38/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>38</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 15:36:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Tribunal de Justiça do Distrito Federal e dos Territórios, relativo ao 1º quadrimestre de 2012, em cumprimento ao disposto no art. 118 da Lei nº 12.465, de 2011. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Justiça do Distrito Federal e dos Territórios</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 15:36:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557874</id>
+    <nome>OFN 36/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 15:29:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao art. 118 da Lei nº 12.465, de 12 de agosto de 2011, os Relatórios de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios referentes ao período de maio de 2011 a abril de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PROCURADORIA-GERAL DA REPÚBLICA </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 15:29:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557871</id>
+    <nome>OFN 35/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 15:13:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao artigo 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000, cópia do Relatório de Gestão Fiscal do Tribunal Superior do Trabalho, referente ao período de maio de 2011 a abril de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR DO TRABALHO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 15:13:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557865</id>
+    <nome>OFN 39/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>39</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 14:57:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao artigo 118 da Lei nº 12.465, de 12 de agosto de 2011, Lei de Diretrizes Orçamentárias para o exercício de 2012, o Relatório de Gestão Fiscal do Tribunal Superior Eleitoral, referente ao primeiro quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR ELEITORAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 14:57:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557864</id>
+    <nome>OFN 37/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 14:53:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em vista do que estabelece o art. 121 da Lei nº 12.309, de 9 de agosto de 2010, o Relatório de Gestão Fiscal do Conselho Nacional de Justiça do 1º Quadrimestre de 2012, de que trata o art. 54 da Lei Complementar nº 101, de 4 de maio de 2000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional de Justiça</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 14:53:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557861</id>
+    <nome>OFN 34/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 14:43:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao disposto no caput do art. 118 da Lei nº 12.465, de 12 de agosto de 2011, Lei de Diretrizes Orçamentárias para 2012, e no inciso I do art. 5º da Lei nº 10.028, de 19 de outubro de 2000, o Relatório de Gestão Fiscal da Câmara dos Deputados, referente ao período de maio de 2011 a abril de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 14:43:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>557859</id>
+    <nome>OFN 33/2012 CN =&gt; AVN 2/2013 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2012 14:40:00</datApresentacao>
+    <txtEmenta>Aprova o Relatório de Gestão Fiscal do Senado Federal, referente ao Primeiro Quadrimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2012 14:40:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555795</id>
+    <nome>OFN 32/2012 CN =&gt; OFN 51/2011 CN</nome>
+    <tipoProposicao>
+      <id>673</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Lei de Incentivo ao Esporte</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2012 16:05:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional Relatório contendo os projetos que no exercício de 2011 captaram recursos por intermédio da Lei de Incentivo ao Esporte.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério do Esporte</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/5/2012 16:05:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556349</id>
+    <nome>OFN 31/2012 CN</nome>
+    <tipoProposicao>
+      <id>652</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Trimestral Gerencial do BNDES</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/5/2012 15:16:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do artigo 1º, § 6º, da Lei nº 11.948, de 16/06/2009, o Relatório Gerencial Trimestral do BNDES referente ao primeiro trimestre de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Nacional de Desenvolvimento Econômico Social</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/5/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567420</id>
+    <nome>OFN 24/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2012 15:52:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o relatório de prestação de contas da Justiça do Distrito Federal e dos Territórios referente ao exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tribunal de Justiça do Distrito Federal e dos Territórios</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:52:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567413</id>
+    <nome>OFN 30/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2012 15:48:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em referência ao disposto no art. 56 da Lei Complementar nº 101, de 4 de maio de 2000 - LRF, bem como no art. 101 da Lei nº 12.309, de 9 de agosto de 2010, LDO 2011, o Relatório de Prestação  de Contas do Conselho Nacional de Justiça relativo ao exercício de 2011, acompanhado do Relatório Anual e do Relatório de Gestão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional de Justiça</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:48:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567438</id>
+    <nome>OFN 23/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 16:12:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o relatório da prestação de contas do Ministério Público da União referente ao exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>MINISTÉRIO PÚBLICO DA UNIÃO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 16:12:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567435</id>
+    <nome>OFN 29/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 16:08:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional conforme determinação expressa no art. 56 da Lei Complementar nº 101 de 2000, o relatório da Prestação de Contas do Conselho Nacional do Ministério Público, referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional do Ministério Público</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 16:08:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567433</id>
+    <nome>OFN 28/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 16:01:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento ao estabelecido no art. 56 da Lei Complementar nº 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal, o Relatório de Prestação de Contas do Conselho da Justiça Federal e da Justiça Federal de primeiro e segundo graus, referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>CONSELHO DA JUSTIÇA FEDERAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 16:01:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567424</id>
+    <nome>OFN 25/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 15:58:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento ao disposto no artigo 56 da Lei Complementar nº 101, de 4 de maio de 2000, o Relatório de Contas da Justiça Eleitoral, referente ao exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR ELEITORAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:58:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567423</id>
+    <nome>OFN 26/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 15:56:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional a prestação de contas e o relatório de gestão do Superior Tribunal de Justiça referentes ao exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUPERIOR TRIBUNAL DE JUSTIÇA</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:56:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567411</id>
+    <nome>OFN 22/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 15:45:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional cópia do Relatório de Prestação de Contas da Justiça Militar da União (JMU) 2012, ano de referência 2011, conforme determina o art. 56 da Lei de Responsabilidade Fiscal - LC nº 101 de 04 de maio de 2000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUPERIOR TRIBUNAL MILITAR</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:45:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567410</id>
+    <nome>OFN 27/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 15:41:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional a prestação de contas do Tribunal Superior do Trabalho referente ao exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR DO TRABALHO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:41:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567394</id>
+    <nome>OFN 21/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 15:31:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em atendimento ao Aviso nº 06 de 2007 - TCU, de 01 de novembro de 2011, a prestação de Contas da Câmara dos Deputados, referente ao exercício financeiro de 2011. 
+ 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 15:31:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567259</id>
+    <nome>OFN 20/2012 CN =&gt; AVN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>655</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Contas do Governo da República</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2012 11:24:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em atendimento às disposições ao art. 101 da Lei nº 12.309, de 9 de agosto de 2010 (Lei de Diretrizes Orçamentárias para 2011), e nos termos do Aviso nº 11/2011-GabMinJM/TCU, de 1º de novembro de 2011, da Instrução Normativa TCU nº 63, de 1º de setembro de 2010, da Decisão Normativa TCU nº 108, de 24 de novembro de 2010, e da Portaria TCU nº 123, de 12 de maio de 2011, o anexo Relatório de Contas do Presidente do Senado Federal referente ao exercício de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 11:24:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567067</id>
+    <nome>OFN 18/2012 CN</nome>
+    <tipoProposicao>
+      <id>697</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Centro-Oeste (FCO)</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/2/2012 15:51:00</datApresentacao>
+    <txtEmenta>Programação do Fundo Constitucional de Financiamento do Centro Oeste (FCO), referente ao exercício de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministro de Estado da Integração Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>535714</codProposicaoPrincipal>
+        <proposicaoPrincipal>OFN 35/2010 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556344</id>
+    <nome>OFN 17/2012 CN</nome>
+    <tipoProposicao>
+      <id>652</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório Trimestral Gerencial do BNDES</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/2/2012 14:18:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do artigo 1º, § 6º da Lei nº 11.948, de 16 de junho de 2009, o Relatório Gerencial Trimestral do BNDES referente ao quarto trimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Banco Nacional de Desenvolvimento Econômico Social</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/2/2012 14:18:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555633</id>
+    <nome>OFN 16/2012 CN</nome>
+    <tipoProposicao>
+      <id>671</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Atividades da Autoridade Pública Olímpica - APO</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/2/2012 16:07:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, em cumprimento ao disposto no art. 6º da Lei nº 12.396, de 2011, o Relatório de Atividades da Autoridade Pública Olímpica - APO referente ao 2º semestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Autoridade Pública Olímpica - APO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/2/2012 16:07:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570290</id>
+    <nome>OFN 1/2012 CN</nome>
+    <tipoProposicao>
+      <id>689</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Informações de Execução das Obras do PAC</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/2/2012 16:03:00</datApresentacao>
+    <txtEmenta>Encaminha informações de execução das obras do PAC, referentes aos meses de julho a setembro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério do Planejamento, Orçamento e Gestão</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570830</id>
+    <nome>OFN 3/2012 CN =&gt; OFN 1/2012 CN</nome>
+    <tipoProposicao>
+      <id>689</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Informações de Execução das Obras do PAC</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/2/2012 15:05:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 14, § 2º, da Lei nº 11.653, de 7 de abril de 2008, informações de execução das obras do PAC, por estado, referentes aos meses de julho a setembro de 2011, em meio digital.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério do Planejamento, Orçamento e Gestão</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554880</id>
+    <nome>OFN 15/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, conforme exigência do art. 54 da lei complementar nº 101, de 04 de maio de 2000, cópia do Relatório de Gestão Fiscal da Justiça Militar da União, referente ao 3º quadrimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUPERIOR TRIBUNAL MILITAR</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567156</id>
+    <nome>OFN 13/2012 CN</nome>
+    <tipoProposicao>
+      <id>698</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Nordeste (FNE).</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2012 18:14:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional a programação de financiamento do Fundo Constitucional de Financiamento do Nordeste - FNE, para o exercício de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Superintendência do Desenvolvimento do Nordeste</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558787</id>
+    <nome>OFN 14/2012 CN</nome>
+    <tipoProposicao>
+      <id>698</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Nordeste (FNE).</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2012 16:58:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o Relatório de Resultados e Impactos - Exercício de 2011 - primeiro semestre, do Fundo Constitucional de Financiamento do Nordeste - FNE.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Superintendência do Desenvolvimento do Nordeste</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554864</id>
+    <nome>OFN 12/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Conselho da Justiça Federal, referente ao 3º quadrimestre de 2011, conforme determina o art. 121 da Lei nº 12.309, de 09 de agosto de 2010 - Lei de Diretrizes Orçamentárias.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>CONSELHO DA JUSTIÇA FEDERAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/2/2012</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554884</id>
+    <nome>OFN 11/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha, em cumprimento ao artigo 121 da Lei nº 12.309, de 9 de agosto de 2010 - LDO/2011, cópia do Relatório de Gestão do Tribunal Superior Eleitoral, referente ao terceiro quadrimestre de 2011, publicado no Diário Oficial da União de 27 de janeiro de 2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR ELEITORAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555233</id>
+    <nome>OFN 4/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 17:37:00</datApresentacao>
+    <txtEmenta>Aprova o Relatório de Gestão Fiscal do Senado Federal, referente ao Terceiro Quadrimestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 17:37:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567065</id>
+    <nome>OFN 2/2012 CN</nome>
+    <tipoProposicao>
+      <id>697</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Demonstrações Contábeis do Fundo Constitucional de Financiamento do Centro-Oeste (FCO)</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 15:51:00</datApresentacao>
+    <txtEmenta>Encaminha, nos termos do art. 20, §§ 4º e 5º, da Lei nº 7.827, de 27 de setembro de 1989, o Relatório de Gestão do Fundo Constitucional de Financiamento do Centro-Oeste (FCO), referente ao 1º semestre de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ministério da Integração Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 15:51:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>535714</codProposicaoPrincipal>
+        <proposicaoPrincipal>OFN 35/2010 CN</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554857</id>
+    <nome>OFN 10/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do Tribunal de Justiça do Distrito Federal e dos Territórios, relativo ao 3º quadrimestre de 2011, em cumprimento ao disposto no art. 121 da Lei nº 12.309, de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL DE JUSTIÇA DO DF</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554848</id>
+    <nome>OFN 5/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2012 14:18:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal da Câmara dos Deputados referente ao período de janeiro a dezembro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:18:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554860</id>
+    <nome>OFN 6/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha os demonstrativos que compõem os Relatórios de Gestão Fiscal do Ministério Público da União e do Ministério Público do Distrito Federal e Territórios, referentes ao período de janeiro a dezembro de 2011, de acordo com o art. 118 da Lei nº 12.465, de 12 de agosto de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Procurador-Geral da República</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554872</id>
+    <nome>OFN 8/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha os demonstrativos da Disponibilidade de Caixa e Restos a Pagar, que compõem o Relatório de Gestão Fiscal do Conselho Nacional do Ministério Público, referentes ao período de janeiro a dezembro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional do Ministério Publico</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554878</id>
+    <nome>OFN 7/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha cópia do Relatório de Gestão Fiscal do Tribunal Superior do Trabalho, referente ao período de janeiro a dezembro de 2011, de acordo com o art. 5º, inciso I, da Lei nº 10.028, de 19 de outubro de 2000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>TRIBUNAL SUPERIOR DO TRABALHO</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554888</id>
+    <nome>OFN 9/2012 CN =&gt; AVN 12/2012 CN</nome>
+    <tipoProposicao>
+      <id>651</id>
+      <sigla>OFN</sigla>
+      <nome>Ofício (CN) de Relatório de Gestão Fiscal</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>111</id>
+      <sigla>CN        </sigla>
+      <nome>CONGRESSO NACIONAL</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/2/2012 14:23:00</datApresentacao>
+    <txtEmenta>Encaminha o Relatório de Gestão Fiscal do 3º Quadrimestre de 2011, de que trata o art. 54 da Lei Complementar nº 101, de 2000 do Conselho Nacional de Justiça.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho Nacional de Justiça</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/2/2012 14:23:00</datDespacho>
+      <txtDespacho>Leitura em Sessão do Senado Federal</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1299</id>
+      <descricao>Enviada ao Congresso Nacional</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

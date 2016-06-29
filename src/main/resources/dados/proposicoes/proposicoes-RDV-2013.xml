@@ -1,0 +1,61 @@
+<proposicoes>
+  <proposicao>
+    <id>587022</id>
+    <nome>RDV 1/2013 PEC56506 =&gt; PEC 565/2006</nome>
+    <tipoProposicao>
+      <id>482</id>
+      <sigla>RDV</sigla>
+      <nome>Redação do Vencido</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>537046</id>
+      <sigla>PEC56506  </sigla>
+      <nome>Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 565-A, de 2006, do Senado Federal, que "altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual"</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2013 12:25:00</datApresentacao>
+    <txtEmenta>Proposta  de Redação para o Segundo Turno de Discussão   à PEC 565/2006, do Relator, Deputado Edio Lopes. .</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Edio Lopes</txtNomeAutor>
+      <idecadastro>141417</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>537046</codOrgaoEstado>
+        <siglaOrgaoEstado>PEC56506  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

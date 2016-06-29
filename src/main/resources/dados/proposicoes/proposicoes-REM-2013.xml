@@ -1,0 +1,478 @@
+<proposicoes>
+  <proposicao>
+    <id>599317</id>
+    <nome>REM 7/2013</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/11/2013 15:25:07</datApresentacao>
+    <txtEmenta>Requer seja proferida decisão do ofício 173/2013-GAB..DR.JS. datado no dia 16 de outubro de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Dr. Jorge Silva</txtNomeAutor>
+      <idecadastro>160643</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/11/2013 10:26:00</datDespacho>
+      <txtDespacho>Oficie-se ao Reclamante, esclarecendo que foi encaminhado às Lideranças Partidárias, no dia 7 de novembro do corrente ano, o Ofício n. 2737/2013/SGM/P, concedendo-lhes prazo de três sessões para que indiquem os Deputados sem lugares nas Comissões para as vagas ainda não preenchidas. Findo o prazo, esta Presidência, atendendo ao que dispõe o art. 26, § 3º, combinado com o art. 27, § 2º, V, ambos do RICD, procederá à designação dos Deputados indicados pelos Partidos ou Blocos Parlamentares, destinando aos Deputados sem legenda partidária as vagas remanescentes. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>596936</id>
+    <nome>REM 6/2013 =&gt; PL 4847/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/10/2013 15:26:00</datApresentacao>
+    <txtEmenta>Solicita a elucidação da observância dos arts. 163 e 164 do Regimento Interno, que tratam de prejudicialidade, em razão da decisão pelo arquivamento do Projeto de Lei nº 4.847/12.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marçal Filho</txtNomeAutor>
+      <idecadastro>74124</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/10/2013 11:43:00</datDespacho>
+      <txtDespacho>À Presidência da Comissão de Constituição e Justiça e de Cidadania, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595655</id>
+    <nome>REM 5/2013</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/10/2013 23:31:00</datApresentacao>
+    <txtEmenta>Formula reclamação quanto às palavras proferidas pelo Deputado Alceu Moreira; Solicita que as ofensas sejam retiradas das notas taquigráficas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ivan Valente</txtNomeAutor>
+      <idecadastro>73531</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/10/2013 14:48:00</datDespacho>
+      <txtDespacho>Com fundamento no art. 17, V, “b”, combinado com o art. 98, §6º, do Regimento Interno da Câmara dos Deputados – RICD, defiro o Requerimento do Deputado IVAN VALENTE para determinar que não conste dos Anais da Câmara e não sejam publicadas as expressões ofensivas empregadas pelo Senhor Deputado ALCEU MOREIRA durante seu discurso proferido na sessão ordinária do dia 08/10/2013. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>592580</id>
+    <nome>REM 4/2013</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/9/2013 19:12:50</datApresentacao>
+    <txtEmenta>Reclama contra a condução dos trabalhos pela Mesa da Câmara dos Deputados, em inobservância ao art. 91, §1º do RICD, na Comissão Geral destinada a discutir a terceirização - Projeto de Lei nº 4.330 de 2004, realizada em 18.09.2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>589665</id>
+    <nome>REM 3/2013 =&gt; PL 4571/2008</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/8/2013 17:57:00</datApresentacao>
+    <txtEmenta>Solicita que seja revisada a tramitação do Projeto de Lei nº 4.571 de 2008 na Comissão de Constituição e Justiça e de Cidadania.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Walter Ihoshi</txtNomeAutor>
+      <idecadastro>141560</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/9/2013</datDespacho>
+      <txtDespacho>DECISÃO DA PRESIDÊNCIA: "... A presente Reclamação foi apresentada apenas em 28 de agosto, após, portanto, a aprovação definitiva da matéria, razão pela qual não pode ser conhecida. Ressalte-se, por fim, que idêntica orientação balizou a decisão da Presidência na Reclamação n. 7/2012 e no pedido de reconsideração referente a ela."
+DCD de 27/11/13 PÁG 56100 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577400</id>
+    <nome>REM 2/2013</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/5/2013 15:37:59</datApresentacao>
+    <txtEmenta>Contra a decisão ou decisões arbitrárias e antiéticas do atual e ilegítimo Presidente da CDHM, de colocar na Pauta de Votação da CDHM, temas relacionados aos direitos da comunidade LGBT e direito das nações indígenas e comunidade quilombolas, entre outras "minorias", com a finalidade - tendo em vista a renuncia de Parlamentares - de "derrotá-los", posto que os Parlamentares que ficaram constituem e agrega uma maioria absoluta e homogênea de posições e pensamento político, ideológico e social, o que viola a cláusula democrática de participação e soberania popular, que impõe que decisões fundamentais em uma democracia devem ser tomadas necessariamente com participação de todos os grupos e atores sociais interessados naquela decisão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erika Kokay</txtNomeAutor>
+      <idecadastro>160575</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/5/2013 16:10:00</datDespacho>
+      <txtDespacho>Numere-se como Reclamação. Ao Senhor Presidente da Comissão de Direitos Humanos e Minorias, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576676</id>
+    <nome>REM 1/2013 =&gt; PEC 33/2011</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 09:49:00</datApresentacao>
+    <txtEmenta>Requer seja declarada nula a designação do Deputado João Campos para relatar a PEC n. 33/2011, e como não escritos todos os atos praticados até a presente data, nos termos do art. 96, § 2º c/c art. 52, §3º, do RICD e das Questões de Ordem 279/2008 e 423/2009.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcos Rogério</txtNomeAutor>
+      <idecadastro>167722</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2013</datDespacho>
+      <txtDespacho>Numere-se como Reclamação. Ao Senhor Presidente da Comissão de Constituição e Justiça e de Cidadania, para se manifestar no prazo de 3 (três) sessões. Publique-se.
+DCD de 16/05/13 PÁG 17801 COL 02.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>573873</id>
+    <nome>REM 1/2013 CDC =&gt; REQ 167/2013 CDC</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2004</id>
+      <sigla>CDC       </sigla>
+      <nome>Comissão de Defesa do Consumidor</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2013 16:54:00</datApresentacao>
+    <txtEmenta>Reclama contra o requerimento nº 167 de 2013, que requer a tramitação do Projeto de Decreto Legislativo  - PDC - 3034/2010 pela Comissão De Defesa do Consumidor.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Silvio Costa</txtNomeAutor>
+      <idecadastro>4930</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

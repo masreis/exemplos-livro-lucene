@@ -1,0 +1,3726 @@
+<proposicoes>
+  <proposicao>
+    <id>532067</id>
+    <nome>PFC 62/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>62</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/12/2011 14:33:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática, em concurso com o Tribunal de Contas da União, realize auditoria de natureza operacional sobre os procedimentos adotados pelo Poder Executivo para fiscalizar a prática de subconcessão, arrendamento ou alienação a terceiros promovida por concessionários e permissionários de serviços públicos de radiodifusão sonora e de sons e imagens sem a autorização competente.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiza Erundina</txtNomeAutor>
+      <idecadastro>74784</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/5/2012 14:19:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática.
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531898</id>
+    <nome>PFC 61/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>61</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/12/2011 19:03:02</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural adote as medidas necessárias para que seja realizado ato de fiscalização e controle dos procedimentos administrativos e eventuais excessos e omissões por parte da Fundação Nacional do Índio - Funai - no que diz respeito à demarcação de terras indígenas no País. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luis Carlos Heinze</txtNomeAutor>
+      <idecadastro>73483</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2012 10:47:00</datDespacho>
+      <txtDespacho>À Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural.
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>530884</id>
+    <nome>PFC 60/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>60</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/12/2011 10:17:54</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle efetue ato de fiscalização e controle, com o auxílio do Tribunal de Constas da União, a fim de que seja realizada auditoria na Universidade Federal de Rondônia - UNIR. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2012 10:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>529869</id>
+    <nome>PFC 59/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>59</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2011 09:47:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle efetue ato de fiscalização e controle, com auxílio do Tribunal de Contas da União - TCU, para investigar denúncias de adulteração de parecer técnico pela diretora de Mobilidade Urbana do Ministério das Cidades, que vetava a mudança de projeto do governo de Mato Grosso, culminando no aumento de 700 milhões em relação ao valor da obra de melhoria de transporte urbano, prevista no projeto original.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2012 10:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528795</id>
+    <nome>PFC 58/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>58</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/11/2011 10:44:08</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC, com o auxílio do Tribunal de Contas da União - TCU, realize atos de fiscalização junto à Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão Secretaria (SLTI/MP), para avaliar se a existência de deficiências e falhas no Sistema de Gestão de Convênios e Contratos de Repasse (Siconv) possibilitam a ocorrência de fraudes na execução de convênios e repasses efetuados pela Administração Pública Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2012</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528794</id>
+    <nome>PFC 57/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>57</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/11/2011 10:43:16</datApresentacao>
+    <txtEmenta>Propõe ato de fiscalização, com o auxílio do Tribunal de Contas da União, sobre contratação por parte do INEP de empresas da área de informática.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/12/2011</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528793</id>
+    <nome>PFC 56/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>56</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/11/2011 10:42:01</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize atos de fiscalização e controle, com o auxílio do Tribunal de Contas da União - TCU, para apurar eventuais de irregularidades na gestão da Administração dos Portos de Paranaguá e Antonina (APPA). </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2012 10:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526914</id>
+    <nome>PFC 55/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>55</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 17:30:26</datApresentacao>
+    <txtEmenta>Propõe ato de fiscalização sobre a gestão dos convênios realizados entre a União Nacional dos Estudantes e o Ministério da Cultura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/12/2011 14:40:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525198</id>
+    <nome>PFC 54/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>54</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 16:16:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização sobre a gestão do contrato de concessão da rodovia BR-040, no trecho entre Juiz de Fora/MG e Rio de Janeiro/RJ, com o objetivo de verificar o cumprimento das cláusulas do contrato, o cronograma de obras e investimentos, o reajuste das tarifas e eventual superfaturamento por parte da CONCER - Companhia de Concessão Rodoviária Juiz de Fora - Rio. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aureo</txtNomeAutor>
+      <idecadastro>160512</idecadastro>
+      <codPartido>123</codPartido>
+      <txtSiglaPartido>PRTB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525196</id>
+    <nome>PFC 52/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>52</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 16:14:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle no Instituto Nacional de Reforma Agrária - INCRA  integrante da estrutura administrativa do Ministério do Desenvolvimento Agrário, com vistas a verificar irregularidades em assentamentos de reforma agrária criados pelo órgão no Estado do Pará, no período de 2005 a 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525197</id>
+    <nome>PFC 53/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>53</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 16:14:00</datApresentacao>
+    <txtEmenta>Propõe a realização de procedimentos de fiscalização e controle sobre a licitação e o contrato administrativo levados a termo para execução do edifício sede da empresa Petróleo Brasileiro S.A. - PETROBRAS na cidade de Vitória, capital do Estado do Espírito Santo. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/12/2011 14:40:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525195</id>
+    <nome>PFC 51/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>51</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 16:12:59</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize atos de fiscalização junto ao Ministério do Trabalho e Emprego, bem como junto ao Ministério da  Aquicultura e Pesca, para investigar a ocorrência de fraude no pagamento do seguro-defeso, ou no cadastramento dos beneficiários da chamada "bolsa-pescador", e em sendo constatadas irregularidades ou ilicitudes, que proceda auditoria em conjunto com o Tribunal de Contas da União (TCU) e demais órgãos competentes, para que se possam aplicar  as medidas punitivas e reparadoras cabíveis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525194</id>
+    <nome>PFC 50/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>50</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 16:11:00</datApresentacao>
+    <txtEmenta>Propõe a realização de atos de fiscalização e controle, com o auxílio do Tribunal de Contas da União - TCU, junto ao Ministério do Trabalho e Emprego, para investigar a ocorrência de repasse irregular de verbas do Fundo de Amparo ao Trabalhador - FAT às centrais sindicais, por meio de convênios com sindicatos e ONGs.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>Proposição Sujeita à Apreciação Interna nas Comissões
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524609</id>
+    <nome>PFC 49/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>49</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/10/2011 15:59:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle efetue ato de fiscalização e controle, com auxílio do Tribunal de Contas da União - TCU, com vistas à realização de auditoria sobre o montante de recursos investido pelo Governo Federal, inclusive como aditivo, nas obras de reforma do Palácio do Planalto.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/12/2011 14:40:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524608</id>
+    <nome>PFC 48/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>48</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/10/2011 15:56:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize ato de fiscalização nos contratos celebrados entre a PETROBRAS e empreiteiras contratadas para obras de reforma e modernização da Refinaria Presidente Getúlio Vargas (Repar), no Município de Araucária - PR.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Francischini</txtNomeAutor>
+      <idecadastro>160646</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>520035</id>
+    <nome>PFC 47/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>47</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/9/2011 15:25:10</datApresentacao>
+    <txtEmenta>Propõe que o Tribunal de Contas da União - TCU fiscalize os contratos e obras deles decorrentes entre o Departamento de Engenharia do Exército - DEC e o Departamento Nacional de Infraestrutura de Transportes - DNIT. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/10/2011 15:18:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>520033</id>
+    <nome>PFC 46/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>46</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/9/2011 15:24:26</datApresentacao>
+    <txtEmenta>Com base no art.100, § 1º, combinado com os arts. 60, inciso II, e 61 do Regimento Interno, proponho a Vossa Excelência que, ouvido o Plenário desta Comissão, se digne adotar as medidas necessárias para que, com auxílio do Tribunal de Contas da União e da Controladoria Geral da União, realize ato de fiscalização  sobre a legalidade do repasse feito pelo Governo Federal, de R$ 6,2 milhões, ao Sindicato Nacional das Associações de Futebol Profissional e suas Entidades Estaduais de Administração e Ligas (Sindafebol), para o projeto Torcida Legal, a ser implantado como parte dos preparativos  da Copa do Mundo de 2014, e os motivos do porque  que nunca saiu do papel.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/10/2011 15:18:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>517634</id>
+    <nome>PFC 45/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>45</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/8/2011 14:23:11</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor realize, com auxílio do Tribunal de Contas da União, ato de fiscalização e controle na Eletrobras Distribuição Alagoas de Eletricidade de Alagoas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Maurício Quintella Lessa</txtNomeAutor>
+      <idecadastro>74050</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/10/2011 15:18:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>516116</id>
+    <nome>PFC 44/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>44</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/8/2011 09:53:40</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize atos de fiscalização e controle, com o auxílio do Tribunal de Contas da União - TCU, sobre suposto desvio de recursos públicos destinados ao Ministério do Turismo por meio de emendas parlamentares ao Orçamento da União, referente à operação denominada "Voucher".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/8/2011</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>515354</id>
+    <nome>PFC 43/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>43</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/8/2011 10:33:59</datApresentacao>
+    <txtEmenta>Propõe que o Tribunal de Contas da União - TCU realize atos de fiscalização e controle em todos os contratos firmados entre o Banco do Brasil e as empresas Rede Brasil Gestão de Ativos, Cercred e BNS Bureaux, bem como sobre os serviços deles decorrentes. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/9/2011</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>515353</id>
+    <nome>PFC 42/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>42</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/8/2011 10:32:40</datApresentacao>
+    <txtEmenta>Propõe que o Tribunal de Contas da União - TCU fiscalize os termos aditivos firmados pelo Departamento Nacional de Infraestrutura de Transportes - DNIT, relativos a contratos e obras deles decorrentes no período de 1º de julho de 2010 a 31 de dezembro de 2010. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>511873</codProposicaoPrincipal>
+        <proposicaoPrincipal>PFC 36/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>515222</id>
+    <nome>PFC 41/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>41</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/8/2011 14:40:48</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor fiscalize a Agência Nacional de Saúde Suplementar (ANS) a respeito de sua atuação regulatória e fiscalizatória sobre as operadoras de planos de saúde, em especial sobre o cumprimento de autorizações para a realização de cirurgias, exames e outros procedimentos e do prazo destes atendimentos aos usuários.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Santiago</txtNomeAutor>
+      <idecadastro>141473</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/9/2011 18:29:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>514544</id>
+    <nome>PFC 40/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>40</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/8/2011 17:27:44</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura - com o auxílio do Tribunal de Contas da União - fiscalize o impacto das medidas tomadas pelo Governo para o escoamento da produção agropecuária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Abelardo Lupion</txtNomeAutor>
+      <idecadastro>73764</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/9/2011 18:29:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>514094</id>
+    <nome>PFC 39/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>39</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/8/2011 10:23:16</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize atos de fiscalização e controle, com o auxílio do Tribunal de Contas da União - TCU, sobre suposto esquema de desvio de dinheiro público envolvendo a Companhia Nacional de Abastecimento - Conab, empresa pública, vinculada ao Ministério da Agricultura, Pecuária e Abastecimento - Mapa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/9/2011 18:29:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>513826</id>
+    <nome>PFC 38/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>38</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/8/2011 17:19:02</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - com o auxílio do Tribunal de Contas da União - fiscalize denúncias de má gestão de recursos no Ministério dos Transportes.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>Apense-se à PFC-36/2011.
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>511873</codProposicaoPrincipal>
+        <proposicaoPrincipal>PFC 36/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>513047</id>
+    <nome>PFC 37/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/7/2011 10:30:26</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização sobre as operadoras de telefonia móvel, telefonia fixa e de banda larga de internet no Brasil, com o objetivo de verificar o cumprimento das cláusulas contratuais de concessão, cronograma de investimentos, reajustes de tarifas e as constantes panes na prestação de serviços.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sérgio Brito</txtNomeAutor>
+      <idecadastro>73808</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>511873</id>
+    <nome>PFC 36/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/7/2011 15:15:36</datApresentacao>
+    <txtEmenta>Propõe ato de fiscalização sobre a gestão dos contratos de obras realizadas pelo Departamento Nacional de Infraestrutura de Transporte e a VALEC Engenharia, Construção e Ferrovias. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2011 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>511870</id>
+    <nome>PFC 35/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/7/2011 15:14:45</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, realizem ato de fiscalização e controle para apurar o adimplemento do contrato de concessão rodoviária, no trecho Curitiba-Florianópolis, durante o período que vai de 15 de fevereiro de 2008 a 15 de fevereiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Boeira</txtNomeAutor>
+      <idecadastro>74388</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510907</id>
+    <nome>PFC 34/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/6/2011 16:31:50</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação dos recursos do FUNDEB repassados pelo Governo Federal ao Estado de Santa Catarina. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Boeira</txtNomeAutor>
+      <idecadastro>74388</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510906</id>
+    <nome>PFC 33/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/6/2011 16:31:00</datApresentacao>
+    <txtEmenta>Propõe que o Tribunal de Contas da União - TCU fiscalize as operações do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) em relação ao Grupo JBS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510904</id>
+    <nome>PFC 32/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/6/2011 16:30:50</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize atos de fiscalização das atividades administrativas desenvolvidas pela Ordem dos Músicos do Brasil, Autarquia Federal criada pela Lei nº 3.857, de 22 de dezembro de 1960, e, em sendo constatadas irregularidades ou ilicitudes, realize auditoria em conjunto com o Tribunal de Contas da União (TCU) e demais órgãos responsáveis, para que se possam aplicar todas as medidas punitivas cabíveis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>Proposição Sujeita à Apreciação Interna nas Comissões
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509314</id>
+    <nome>PFC 31/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2011 17:22:07</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados, por meio da Comissão de Fiscalização Financeira e Controle, instaure ato para investigar a denúncia de privatização do controle migratório e aduaneiro pela Polícia Federal, o que afronta as normas materializadas pelo Constituição da República Federativa do Brasil e ultraja a defesa da soberania do Estado, colocando em risco a segurança da Nação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Anthony Garotinho</txtNomeAutor>
+      <idecadastro>160539</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509309</id>
+    <nome>PFC 30/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2011 17:18:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio da Controladoria Geral da União (CGU) e assessorada pela auditoria do TCU, ouvida a Comissão de Educação e Cultura, realize ato de fiscalização e controle para verificar "in loco", todos os atos administrativos, procedimentos licitatórios e operacionais, para apurar as graves e consistentes denúncias veiculadas pela imprensa, acerca da malversação na aplicação dos recursos do (PNAE) Programa Nacional de Alimentação Escolar, transferidos à Prefeitura Municipal de Bacarena - PA, referentes aos exercícios de 2008, 2009, 2010 e 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wladimir Costa</txtNomeAutor>
+      <idecadastro>73930</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/9/2013 15:52:00</datDespacho>
+      <txtDespacho>Reconstitua-se a Proposta de Fiscalização e Controle (PFC) n. 30/2011, nos termos do art. 106, do Regimento Interno da Câmara dos Deputados. Publique-se. </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509308</id>
+    <nome>PFC 29/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2011 17:17:59</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio da Controladoria Geral da União (CGU) e assessorada pela auditoria do TCU, ouvida a Comissão de Segurança Pública e Combate ao Crime Organizado, realize ato de fiscalização e controle para verificar "in loco", todos os atos administrativos, procedimentos licitatórios e operacionais da Superintendência do Sistema Penitenciário do Estado do Pará (Susipe), para apurar indícios de irregularidades nos contratos de gestão, referentes aos exercícios de 2008, 2009, 2010 e 2011.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wladimir Costa</txtNomeAutor>
+      <idecadastro>73930</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>508111</id>
+    <nome>PFC 28/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2011 09:26:42</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, Controladoria Geral da União e o Ministério Público Federal, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Duque de Caxias, no Estado do Rio de Janeiro, no âmbito de todos os ministérios, no período compreendido entre 01 de janeiro de 2009 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aureo</txtNomeAutor>
+      <idecadastro>160512</idecadastro>
+      <codPartido>123</codPartido>
+      <txtSiglaPartido>PRTB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>508110</id>
+    <nome>PFC 27/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2011 09:24:28</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio do Tribunal de Contas da União e o Ministério Público Federal, realizem ato de fiscalização e controle sobre a Companhia Imobiliária de Brasília - Terracap, bem como, a Companhia Urbanizadora da Nova Capital do Brasil - NOVACAP, a Construtora Andrade Gurierrez S.A. e, ainda, a Empresa Via Engenharia S.A.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ademir Camilo</txtNomeAutor>
+      <idecadastro>133374</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/7/2011 11:00:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>507442</id>
+    <nome>PFC 26/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2011 14:19:09</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize ato de fiscalização sobre a gestão de contratos do Programa Cultura Viva, no qual estão inseridos os Pontos de Cultura, com o objetivo de verificar o cumprimento dos contratos e o cronograma dos pagamentos dos Pontos de Cultura já realizados e a se realizar.    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>Proposição Sujeita à Apreciação Interna nas Comissões
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>505141</id>
+    <nome>PFC 25/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2011 17:23:00</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Segurança Pública e Combate ao Crime Organizado realize a Fiscalização e Controle do Programa Antiterrorismo no Brasil. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011</datDespacho>
+      <txtDespacho>Apense-se à(ao) PFC-8/2011.
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>505042</id>
+    <nome>PFC 24/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2011 15:28:46</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor fiscalize o desempenho da Agência Nacional de Telecomunicações - ANATEL no exercício de sua competência para fiscalizar a prestação dos serviços de telecomunicações, em especial, quanto à qualidade e à modicidade tarifária dos serviços de telefonia móvel. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Santiago</txtNomeAutor>
+      <idecadastro>141473</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>504523</id>
+    <nome>PFC 23/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/5/2011 15:14:37</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização sobre a gestão dos contratos de concessão das rodovias federais com o objetivo de verificar o cumprimento das cláusulas dos contratos, o cronograma de desembolso de investimentos, o reajuste das tarifas e um possível superfaturamento por parte das empresas concessionárias.
+
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ademir Camilo</txtNomeAutor>
+      <idecadastro>133374</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2011 14:18:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>504015</id>
+    <nome>PFC 22/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/5/2011 10:18:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize ato de fiscalização nos pagamentos realizados à empresa WTORRE PROPERTIES S.A pela Delegacia da Receita Federal de Administração Tributária em São Paulo - DERAT São Paulo, que é vinculada ao Ministério Fazenda.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Francischini</txtNomeAutor>
+      <idecadastro>160646</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>503862</id>
+    <nome>PFC 21/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/5/2011 16:23:17</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Finanças e Tributação fiscalize possível crime de responsabilidade contra a probidade na Administração praticado pelo Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/10/2011</datDespacho>
+      <txtDespacho>Tendo em vista o disposto no artigo 15, da Lei n. 1.079, de 1950, segundo o qual “a denúncia só poderá ser recebida enquanto o denunciado não tiver, por qualquer motivo, deixado definitivamente o cargo”, declaro prejudicadas, nos termos do art. 164, I, do RICD, as Propostas de Fiscalização e Controle n. 18, n. 19, n. 20 e n. 21. Publique-se. Oficie-se
+
+DCD de 06/10/11 PÁG 55738 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>503028</id>
+    <nome>PFC 20/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/5/2011 17:43:27</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Constituição e Justiça e de Cidadania fiscalize possível crime de responsabilidade contra a probidade na Administração praticado pelo Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/10/2011</datDespacho>
+      <txtDespacho>Tendo em vista o disposto no artigo 15, da Lei n. 1.079, de 1950, segundo o qual “a denúncia só poderá ser recebida enquanto o denunciado não tiver, por qualquer motivo, deixado definitivamente o cargo”, declaro prejudicadas, nos termos do art. 164, I, do RICD, as Propostas de Fiscalização e Controle n. 18, n. 19, n. 20 e n. 21. Publique-se. Oficie-se
+
+DCD de 06/10/11 PÁG 55738 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>503018</id>
+    <nome>PFC 19/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/5/2011 15:15:02</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle fiscalize possível crime de responsabilidade contra a probidade na Administração praticado pelo Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>502988</id>
+    <nome>PFC 18/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2011 17:12:25</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Segurança Pública e Combate ao Crime Organizado fiscalize possível crime de responsabilidade contra a probidade na Administração praticado pelo Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>502972</id>
+    <nome>PFC 17/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2011 16:16:07</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle, com o auxilio do Ministério Público Federal (MPF), adote as medidas necessárias para realizar ato de fiscalização e controle, de modo a verificar irregularidades acerca das negociações referentes a compra do Banco Schahin S.A, pertencente ao Grupo Schahin S.A, controlado pelos Srs. Salim Taufic Schahin e Milton Taufic Schahin, pelo Banco BMG, mediante vultoso empréstimo do Fundo Garantidor de Créditos - FGC, que tem como participantes bancos oficiais, como o Banco do Brasil e a Caixa Econômica Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:47:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>501043</id>
+    <nome>PFC 16/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2011 17:16:02</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Defesa do Consumidor realize, com auxílio do Tribunal de Contas da União, ato de fiscalização e controle com vistas a apurar denúncias feitas em relação à metodologia de cálculo de faturamento e cobrança das contas de luz da CEMIG.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Weliton Prado</txtNomeAutor>
+      <idecadastro>160518</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>500912</id>
+    <nome>PFC 15/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2011 10:57:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle realize ato de fiscalização e controle com vistas a apurar os contratos que estabelecem os serviços terceirizados nos aeroportos brasileiros, onde praticam preços bem acima do mercado.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Padovani</txtNomeAutor>
+      <idecadastro>160566</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>500911</id>
+    <nome>PFC 14/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2011 10:55:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle com vistas a apurar as razões e conseqüências da paralisação das obras de Esgotamento Sanitário em Porto Velho, constantes do Programa de Aceleração do Crescimento PAC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Magno</txtNomeAutor>
+      <idecadastro>160605</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2011 14:18:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>500909</id>
+    <nome>PFC 13/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2011 10:53:00</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados, por meio da Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle para verificar irregularidades envolvendo o senhor Ricardo Teixeira, o Comitê Organizador Local - COL da Copa de 2014 e a Confederação Brasileira de Futebol - CBF.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Anthony Garotinho</txtNomeAutor>
+      <idecadastro>160539</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>500262</id>
+    <nome>PFC 12/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/5/2011 16:58:13</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realizem ato de fiscalização e controle sobre a regularidade dos pagamentos realizados aos segurados do INSS a partir do ano de 2005.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Davi Alcolumbre</txtNomeAutor>
+      <idecadastro>73924</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>AP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>499662</id>
+    <nome>PFC 11/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/4/2011 16:19:00</datApresentacao>
+    <txtEmenta>Com fulcro no art. 100, § 1º, combinado com os art. 60, inciso II, e art. 61 do Regimento Interno da Câmara dos Deputados, proponho a Vossa Excelência que, ouvido o Plenário desta Comissão, se digne adotar as medidas necessárias para que, com auxílio do Tribunal de Contas da União, realize ato de fiscalização objetivando avaliar a regularização da gestão e execução do Programa Nacional de Inclusão de Jovens (Projovem).
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Brandão</txtNomeAutor>
+      <idecadastro>141402</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>499275</id>
+    <nome>PFC 10/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/4/2011 16:14:55</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com o auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal aos Municípios da Região Serrana atingidos pela tragédia climática no mês de janeiro do corrente ano.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Glauber Braga</txtNomeAutor>
+      <idecadastro>152605</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/7/2011</datDespacho>
+      <txtDespacho>Proposição Sujeita à Apreciação Interna nas Comissões
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>498755</id>
+    <nome>PFC 8/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2011 14:22:00</datApresentacao>
+    <txtEmenta>Proposta de Fiscalização e Controle do Programa Antiterrorismo da Polícia Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>498756</id>
+    <nome>PFC 9/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2011 14:22:00</datApresentacao>
+    <txtEmenta>Proposta de Fiscalização e Controle das políticas públicas sobre o crack. 
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Segurança Pública e Combate ao Crime Organizado
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>498687</id>
+    <nome>PFC 7/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/4/2011 17:11:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle - CFFC realize ato de fiscalização no Programa Nacional de Segurança Pública com Cidadania - PRONASCI para a apuração de denúncias envolvendo as organizações Agência de Desenvolvimento Educacional e Social Brasileira - ADESOBRAS e Instituto Brasileiro de Integração de Desenvolvimento Pró-Cidadão - IBIDEC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Francischini</txtNomeAutor>
+      <idecadastro>160646</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2011 14:18:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>498599</id>
+    <nome>PFC 6/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/4/2011 14:49:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Viação e Transportes, com auxílio do Tribunal de Contas da União, promova ato de fiscalização e controle com vistas a apurar irregularidades nos contratos firmados pela VALEC Engenharia, Construções e Ferrovias, em face das obras da Ferrovia Norte-Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo Garcia</txtNomeAutor>
+      <idecadastro>88950</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2011 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Viação e Transportes
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>498000</id>
+    <nome>PFC 5/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/4/2011 16:58:17</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Defesa do Consumidor realize, com auxílio do Tribunal de Contas da União, ato de fiscalização e controle com vistas a auditar o processo de reajuste tarifário da Companhia Energética de Pernambuco (CELPE), no ano de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:53:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>496604</id>
+    <nome>PFC 4/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2011 09:57:16</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, via empréstimo do BNDES para a CASAN - Companhia de Saneamento de Santa Catarina para realização das obras de implantação do Sistema de Esgotos Sanitários da cidade de Criciúma-SC.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Boeira</txtNomeAutor>
+      <idecadastro>74388</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/8/2011 18:53:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>496055</id>
+    <nome>PFC 3/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/3/2011 09:40:49</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle com vistas a apurar os impactos gerados pelo aumento do nível de água nas Usinas de Jirau e Santo Antônio, aprovadas as revisões dos projetos pela Agência Nacional de Energia Elétrica (ANEEL).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sérgio Brito</txtNomeAutor>
+      <idecadastro>73808</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2011 16:02:00</datDespacho>
+      <txtDespacho>Proposição Sujeita à Apreciação Interna nas Comissões
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>494986</id>
+    <nome>PFC 2/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2011 09:35:57</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Turismo e Desporto da Câmara dos Deputados execute uma fiscalização contábil, financeira, orçamentária e patrimonial, no Ministério do Esporte, sobre o  "Programa Segundo Tempo" e outros convênios firmados pela referida Pasta. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Augusto Coutinho</txtNomeAutor>
+      <idecadastro>160665</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/3/2014</datDespacho>
+      <txtDespacho>À Comissão de  do Esporte
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>494549</id>
+    <nome>PFC 1/2011</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/3/2011 15:29:35</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados execute uma fiscalização contábil, financeira, orçamentária e patrimonial, no Ministério do Esporte, sobre o  "Programa Segundo Tempo" e outros convênios firmados pela referida Pasta. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Augusto Coutinho</txtNomeAutor>
+      <idecadastro>160665</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2011 16:02:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,3854 @@
+<proposicoes>
+  <proposicao>
+    <id>487503</id>
+    <nome>SOR 4/2010 CAPADR</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 13:29:00</datApresentacao>
+    <txtEmenta>EMENTA: Pesquisa e Desenvolvimento em Biologia Avançada e suas aplicações no Agronegócio - TIPO DE EMENDA: Aprop - Acréscimo - UNIDADE ORÇAMENTÁRIA PRETENTIDA: EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária - FUNCIONAL/AÇÃO/SUBTÍTULO: 20.572.1156.4676.0001 - Pesquisa e Desenvolvimento em Biologia Avançada e suas Aplicações no Agronegócio - Nacional. - ESPECIFICAÇÃO DA META: Pesquisa Desenvolvida (unidade) - QUANTIDADE: 168 - GND 3 - MOD. APLICAÇÃO: 90 - RP: 2 - VALOR ACRESCIDO: 75.000.000 - GND 4 - MOD. APLICAÇÃO: 90 - RP: 2 - VALOR ACRESCIDO: 75.000.000 - TOTAL: 150.000.000". 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Piau</txtNomeAutor>
+      <idecadastro>141519</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487502</id>
+    <nome>SOR 3/2010 CAPADR</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 13:28:00</datApresentacao>
+    <txtEmenta>EMENTA: Apoio a Projetos de Desenvolvimento do Setor Agropecuário - UNIDADE ORÇAMENTÁRIA PRETENDIDA: Ministério da Agricultura, Pecuária e Abastecimento - FUNCIONAL/AÇÃO/SUBTÍTULO: 20.605.6003.7H17 - Apoio a Projetos de Desenvolvimento do Setor Agropecuário - Máquinas e Equipamentos - Nacional - ESPECIFICAÇÃO DA META: Projeto apoiado (unidade) QUANTIDADE: 500 - GND 3 MOD. APLICAÇÃO: 90 RP: 2 - Valor Acrescido: 75.000.000 - GND 4 MOD. APLICAÇÃO: 90 - RP: 2 - Valor Acrescido: 75.000.000 - TOTAL: 150.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Abelardo Lupion</txtNomeAutor>
+      <idecadastro>73764</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487500</id>
+    <nome>SOR 1/2010 CAPADR</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 13:00:00</datApresentacao>
+    <txtEmenta>EMENTA: Apoio ao Pequeno e Médio produtor agropecuário - UNIDADE ORÇAMENTÁRIA PRETENDIDA: Ministério da Agricultura, Pecuária e Abastecimento - FUNCIONAL/AÇÃO/SUBTÍTULO: 20.605.6003.8611.0001 - SUBTÍTULO: 8611 - Apoio ao Pequeno e médio produtor agropecuário - Nacional ESPECIFICAÇÃO DA META: Produtor atendido (unidade) - QUANTIDADE: 120.000 - GND 3 - MOD. APLICAÇÃO: 40 – RP: 2 Valor Acrescido: 30.000.000 - GND 3 - MOD. APLICAÇÃO: 90 – RP: 2 Valor Acrescido: 10.000.000 - GND 4 - MOD. APLICAÇÃO: 40 – RP: 2 Valor Acrescido: 210.000.000 - TOTAL: 250.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Silas Brasileiro</txtNomeAutor>
+      <idecadastro>74765</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487501</id>
+    <nome>SOR 2/2010 CAPADR</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 13:00:00</datApresentacao>
+    <txtEmenta>EMENTA: Ministério do Desenvolvimento Agrário - Aquisição de máquinas e equipamentos para recuperação de estradas vicinais para municípios com até 50.000 habitantes - UNIDADE ORÇAMENTÁRIA PRETENDIDA: Ministério do Desenvolvimento Agrário - FUNCIONAL/AÇÃO/SUBTÍTULO: 21.127.1334.12NR - SUBTÍTULO: Aquisição de máquinas e equipamentos para recuperação de estradas vicinais para municípios com até 50.000 habitantes. - ESPECIFICAÇÃO DA META: Município atendido - QUANTIDADE: 500 - GND 4 - MOD. APLICAÇÃO: 90 - RP: - VALOR: 250.000.000 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Faro</txtNomeAutor>
+      <idecadastro>141335</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487497</id>
+    <nome>SOR 11/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 12:46:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de remanejamento da Comissão de Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Barros</txtNomeAutor>
+      <idecadastro>73788</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487697</id>
+    <nome>SOR 8/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:17:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 5408 - Desenvolvimento de projetos de sistemas bélicos e associados - Valor: R$ 67.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487695</id>
+    <nome>SOR 7/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:15:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 6995 - Fomento a projetos de fortalecimento da capacidade científica e tecnológica - Valor: R$ 15.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487693</id>
+    <nome>SOR 6/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:13:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 6833 - Pesquisa e desenvolvimento em ciências e tecnologias nucleares e em aplicações das radiações ionizantes  - Valor: R$ 18.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487691</id>
+    <nome>SOR 5/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:12:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 0900 - Concessão de bolsas de estímulo à pesquisa  - Valor: R$ 30.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487689</id>
+    <nome>SOR 4/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:10:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 8978 - Apoio à pesquisa e desenvolvimento em áreas temáticas da biodiversidade - Valor: R$ 100.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487687</id>
+    <nome>SOR 3/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:08:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 8470 - Fomento a incubadoras de empresas e parques tecnológicos - Valor: R$ 100.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487478</id>
+    <nome>SOR 6/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:07:00</datApresentacao>
+    <txtEmenta>Requer implantação de estaleiro e base naval para desenvolvimento, construção e manutenção de submarinos. Valor: R$ 613.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487477</id>
+    <nome>SOR 5/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:06:00</datApresentacao>
+    <txtEmenta>Fomento à elaboração e implantação de projetos de inclusão digital. Valor: R$ 700.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487476</id>
+    <nome>SOR 4/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:05:00</datApresentacao>
+    <txtEmenta>Centro de Referência em Tecnologia para a cadeia Coureiro Calçadista. Valor: R$ 200.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487686</id>
+    <nome>SOR 2/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:02:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 8976 - Apoio à pesquisa, inovação e à extensão tecnológica para o desenvolvimento social - Valor: R$ 200.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487685</id>
+    <nome>SOR 1/2010 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 11:00:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 6492 - Fomento à elaboração de projetos de inclusão digital - Valor: R$ 200.000.000,00 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487473</id>
+    <nome>SOR 3/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 10:59:00</datApresentacao>
+    <txtEmenta>Requer a construção, reforma ou adequação de barracões industriais. Valor: R$ 170.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487472</id>
+    <nome>SOR 2/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 10:57:00</datApresentacao>
+    <txtEmenta>Requer a ampliação e revitalização da infraestrutura física das unidades da Embrapa. Valor: R$44.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487471</id>
+    <nome>SOR 1/2010 CDEICS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2008</id>
+      <sigla>CDEICS    </sigla>
+      <nome>Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2010 10:42:00</datApresentacao>
+    <txtEmenta>Requer a ampliação e manutenção de infraestrutura laboratorial dos Institutos Tecnológicos do DCTA. Valor: R$ 100.000.000</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Econômico, Indústria e Comércio</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2008</codOrgaoEstado>
+        <siglaOrgaoEstado>CDEICS    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487321</id>
+    <nome>SOR 5/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 10:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo de despesa para Monitoramento, Controle e Fiscalização Eletrônica da Malha Rodoviária Federal, no valor de R$ 69.600.000,00 (25.851 equipamentos mantidos) - Programa 0663, Ação 2B11.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mauro Lopes</txtNomeAutor>
+      <idecadastro>74749</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487300</id>
+    <nome>SOR 1/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Controle de Desmatamentos e Incêndios Florestais - Ibama no valor de R$ 25.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Edson Duarte</txtNomeAutor>
+      <idecadastro>74061</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487302</id>
+    <nome>SOR 2/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Apoio à Implementação do Plano de Ação Nacional de Combate à Desertificação nas Áreas Susceptíveis à Desertificação - PAN-Brasil - Ministério do Meio Ambiente, no valor de R$ 80.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sarney Filho</txtNomeAutor>
+      <idecadastro>74210</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487303</id>
+    <nome>SOR 3/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Regularização Fundiária das Unidades de Conservação Federais - Instituto Chico Mendes, no valor de R$ 60.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Bassuma</txtNomeAutor>
+      <idecadastro>74059</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487304</id>
+    <nome>SOR 4/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Regularização Fundiária das Unidades de Conservação Federais GND 5 - Instituto Chico Mendes, no valor de R$ 60.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Gabeira</txtNomeAutor>
+      <idecadastro>74841</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487305</id>
+    <nome>SOR 5/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Recuperação e Preservação de Bacias Hidrográficas - Ministério do Meio Ambiente, no valor de R$ 10.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487306</id>
+    <nome>SOR 6/2010 CMADS</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:17:00</datApresentacao>
+    <txtEmenta>Recuperação da Cobertura Vegetal de Áreas Degradadas - Ministério do Meio Ambiente, no valor de R$ 10.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487314</id>
+    <nome>SOR 1/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de despesa para Construção do Comando de Operações Táticas da Polícia Federal, no valor de R$ 15.000.000,00 (100% da sede construída) - Programa 1353, Ação 7I78.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Laerte Bessa</txtNomeAutor>
+      <idecadastro>141478</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487315</id>
+    <nome>SOR 2/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de despesa para implantação de 100% do Sistema Integrado de Registro de Identidade Civil - RIC, no valor de R$ 200.000.000,00 - Programa 1127, Ação 2E16.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>William Woo</txtNomeAutor>
+      <idecadastro>141563</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487316</id>
+    <nome>SOR 3/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo de despesa para Apoio ao Reaparelhamento das Instituições de Segurança Pública, no valor de R$ 100.000.000,00 (250 unidades aparelhadas) - Programa 1127, Ação 8988.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paes de Lira</txtNomeAutor>
+      <idecadastro>154417</idecadastro>
+      <codPartido>194</codPartido>
+      <txtSiglaPartido>PTC       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487317</id>
+    <nome>SOR 4/2010 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/11/2010 09:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo de despesa para Aquisição de Veículos Especiais e Aeronaves para Policiamento da Malha Rodoviária, no valor de R$ 50.000.000,00 (500 veículos adquiridos) - Programa 1386, Ação 200C.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Faria de Sá</txtNomeAutor>
+      <idecadastro>73434</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486772</id>
+    <nome>SOR 4/2010 CME</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 12:19:00</datApresentacao>
+    <txtEmenta>LUZ PARA TODOS   - VALOR: R$ 50.000.000,00.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486769</id>
+    <nome>SOR 3/2010 CME</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 12:16:00</datApresentacao>
+    <txtEmenta>RECUPERAÇÃO E PRESERVAÇÃO DE BACIAS HIDROGRÁFICAS - VALOR: R$ 40.000.000,00".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486768</id>
+    <nome>SOR 2/2010 CME</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 12:08:00</datApresentacao>
+    <txtEmenta>Reforma de Unidades Regionais do DNPM - valor: R$ 60.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Leonardo Quintão</txtNomeAutor>
+      <idecadastro>141482</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486757</id>
+    <nome>SOR 1/2010 CME</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 11:57:00</datApresentacao>
+    <txtEmenta>CONSTRUÇÃO DO PROTÓTIPO DE REATOR NUCLEAR - VALOR: R$ 60.700.000,00".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Negromonte</txtNomeAutor>
+      <idecadastro>74635</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486715</id>
+    <nome>SOR 10/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 09:03:00</datApresentacao>
+    <txtEmenta>: Reserva para Compensação de Projetos de Lei que fixem criem despesas obrigatórias continuadas ou desonerações de receitas sujeitos à deliberação de Órgão Colegiado Permanente do Poder Legislativo, durante o Exame de Compatibilidade Orçamentário-Financeira - NA</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486714</id>
+    <nome>SOR 9/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/11/2010 09:01:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação ao Projeto de Lei Orçamentária nº 59, de 2010-CN, que dispõe sobre a capacitação de Gestores Públicos e Agentes Políticos Municipais por meio de cursos de capacitação e aprimoramento nas áreas de finanças e tributação em Instituições de Ensino Federais.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486642</id>
+    <nome>SOR 8/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 17:00:00</datApresentacao>
+    <txtEmenta>Para que o IPEA continue a prestar serviços de excelência e manter-se como entidade de ponta do conhecimento econômico e do desenvolvimento do País, é imprescindível e pertinente que a sociedade brasileira, por meio da União, lhe aporte recursos complementares para o financiamento das pesquisas que trarão respostas para os desafios dos problemas do desenvolvimento nacional derivados das transformações das condições internas e externas da economia e da sociedade.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pedro Eugênio</txtNomeAutor>
+      <idecadastro>74556</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486624</id>
+    <nome>SOR 7/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 16:09:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa  da União para o exercício financeiro de 2011.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gladson Cameli</txtNomeAutor>
+      <idecadastro>141446</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486596</id>
+    <nome>SOR 1/2010 CREDN..</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 14:44:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 01/11 À LOA - COMISSÕES - AÇÃO: 2533 - COOPERAÇÃO TÉCNICA INTERNACIONAL. META: 1</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486595</id>
+    <nome>SOR 3/2010 CREDN..</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 14:41:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 03/11 À LOA - COMISSÕES - AÇÃO 123H - CONSTRUÇÃO DE SUBMARINO DE PROPULSÃO NUCLEAR. META: 9</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486594</id>
+    <nome>SOR 2/2010 CREDN..</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 14:39:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 02/11 À LOA - COMISSÕES - AÇÃO: 3128 - MODERNIZAÇÃO DE AERONAVES DA FORÇA AÉREA BRASILEIRA. META: 1</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486575</id>
+    <nome>SOR 6/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 10:48:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação a Proposta Orçamentária de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Carlos Hauly</txtNomeAutor>
+      <idecadastro>73778</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486571</id>
+    <nome>SOR 5/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 10:32:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação - CFT, ao Projeto de Lei nº 59/2010-CN, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aline Corrêa</txtNomeAutor>
+      <idecadastro>141375</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486407</id>
+    <nome>SOR 4/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/11/2010 09:46:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Márcio Reinaldo Moreira</txtNomeAutor>
+      <idecadastro>74744</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486381</id>
+    <nome>SOR 3/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/11/2010 18:17:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa  da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486356</id>
+    <nome>SOR 2/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/11/2010 17:39:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa  da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Maluf</txtNomeAutor>
+      <idecadastro>132056</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485854</id>
+    <nome>SOR 1/2010 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/11/2010 12:32:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de apropriação da Comissão de Comissão de Finanças e Tributação - CFT ao Projeto de Lei Nº 59, de 2010-CN, que estima a Receita e fixa a Despesa da União para o exercício financeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Barros</txtNomeAutor>
+      <idecadastro>73788</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479412</id>
+    <nome>SOR 17/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:29:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 17/10 À LDO - COMISSÕES -   "A contabilidade registrará todos os atos e os fatos relativos à gestão orçamentário, financeira e patrimonial, independentemente de sua legalidade, sem prejuízo das responsabilidades e demais consequências advindas da inobservância do disposto no caput deste artigo".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479413</id>
+    <nome>SOR 18/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2010 11:29:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 18/10 À LDO - COMISSÕES - "Despesas com as ações vinculadas às funções Defesa Nacional e Ciência e Tecnologia, excetuadas as subfunções Planejamento e Orçamento, Administração Geral, Normatização e Fiscalização, Comunicação Social, Defesa Civil e Atenção Básica, no âmbito do Ministério da Ciência e Tecnologia".  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479406</id>
+    <nome>SOR 12/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:25:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 12/10 À LDO - COMISSÕES -   "Despesas com o Programa Preparo e Emprego da Força Terrestre".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479407</id>
+    <nome>SOR 13/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:25:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 13/10 À LDO - COMISSÕES -   "Despesas com o Programa Preparo e Emprego da Força Terrestre e o Programa de Reaparelhamento e Adequação do Exército Brasileiro". </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479408</id>
+    <nome>SOR 14/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:25:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 14/10 À LDO - COMISSÕES -   "Despesas com o Programa Brasil no Esporte de Alto Rendimento - Brasil Campeão, voltados para os V Jogos Mundiais Militares - Jogos da Paz - Rio 2011".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479409</id>
+    <nome>SOR 15/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:25:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 15/10 À LDO - COMISSÕES -   "Despesas com o Programa Reaparelhamento e Adequação do Exército Brasileiro".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479410</id>
+    <nome>SOR 16/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:25:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 16/10 À LDO - COMISSÕES -   "Art. 63. As eventuais disponibilidades de dotações orçamentárias relativas aos benefícios auxílio-alimentação ou refeição, assistência pré-escolar, assistência médica e odontológica, inclusive exames periódicos, e auxílio-transporte, porventura existentes em unidades orçamentárias no âmbito dos Poderes e do MPU, deverão ser remanejadas, prioritariamente, para o atendimento de outras despesas dessas unidades, sendo que os saldos por ventura existentes poderão atender à necessidade de suplementação das dotações de outras unidades orçamentárias dos respectivos Poderes e Órgãos".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479403</id>
+    <nome>SOR 9/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:24:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 09/10 À LDO - COMISSÕES -   "Despesas com as Ações Orçamentárias vinculadas ao Programa de Desenvolvimento de Submarinos da Marinha".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479404</id>
+    <nome>SOR 10/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:24:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 10/10 À LDO - COMISSÕES -   "As dotações propostas no projeto de lei orçamentária para 2011, à conta de recursos a que se refere a alínea "c" do inciso II do art. 49 da Lei nº 9.478, de 06 de agosto de 1997, e do art. 27 da Lei nº 2.004, de 03 de outubro de 1953, com redação dada pela Lei nº 7.990, de 28 de dezembro de 1989, com o propósito de fiscalização e proteção das áreas produtoras de petróleo e gás natural, corresponderão, pelo menos, ao montante autorizado na lei orçamentária de 2010, podendo o excedente constituir reserva de contingência a que se refere este artigo".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479405</id>
+    <nome>SOR 11/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:24:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 11/10 À LDO - COMISSÕES -   "Despesas com a atuação das Forças Armadas brasileiras no Haiti do Programa Preparo e Emprego Combinado das Forças Armadas, previstas na Ação Participação Brasileira em Missões de Paz".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479399</id>
+    <nome>SOR 5/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:23:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 05/10 À LDO - COMISSÕES -   "Implantação do Estaleiro e Base naval para Construção e Manutenção de Submarinos Convencionais e Nucleares - Valor: 940.800.000,00 (novecentos e quarenta milhões e oitocentos mil reais)".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479400</id>
+    <nome>SOR 6/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:23:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 06/10 À LDO - COMISSÕES -   "Alimentação do pessoal militar das Forças Armadas, (letra "g", do inciso IV do Art. 50 da Lei nº 6.880, de 09 de dezembro de 1980)".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479401</id>
+    <nome>SOR 7/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:23:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 07/10 À LDO - COMISSÕES -   "Despesas relacionadas com o desenvolvimento do ciclo do combustível e do protótipo do reator nuclear, no âmbito da Marinha".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479402</id>
+    <nome>SOR 8/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:23:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 08/10 À LDO - COMISSÕES -   "Despesas com as ações vinculadas às fontes de recursos a que se referem à alínea "c" do inciso II do art. 49 da Lei nº 9.478, de 6 de agosto de 1997, e do art. 27 da Lei nº 2.004, de 3 de outubro de 1953, com redação dada pela Lei nº 7.990, de 28 de dezembro de 1989, referentes às parcelas dos recursos arrecadados à conta das Compensações Financeiras pela Exploração de Petróleo e Gás Natural para atender aos encargos de fiscalização e proteção das áreas produtoras situadas na plataforma continental". </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479396</id>
+    <nome>SOR 2/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:22:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 02/10 À LDO - COMISSÕES - "Construção de Submarino de Propulsão Nuclear - Valor: R$ 218.400.000,00 (duzentos e dezoito milhões e quatrocentos mil reais)".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479397</id>
+    <nome>SOR 3/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:22:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 03/10 À LDO - COMISSÕES -   "Construção de Submarinos Convencionais - Valor: 1.005.200.000,00 (um bilhão, cinco milhões e duzentos mil reais)".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479398</id>
+    <nome>SOR 4/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:22:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 04/10 À LDO - COMISSÕES -   "Construção do Protótipo de Reator Nuclear - Valor: 112.500.000,00 (cento e doze milhões e quinhentos mil reais).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479395</id>
+    <nome>SOR 1/2010 CREDN</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 20:19:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 01/10 À LDO - COMISSÕES - "Construção de Navios-Patrulha Oceânicos - Valor: R$ 160.000.000,00 (cento e sessenta milhões de reais)".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

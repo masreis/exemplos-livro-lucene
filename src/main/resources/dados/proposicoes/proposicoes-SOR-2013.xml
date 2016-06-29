@@ -1,0 +1,1231 @@
+<proposicoes>
+  <proposicao>
+    <id>602343</id>
+    <nome>SOR 10/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 13:20:00</datApresentacao>
+    <txtEmenta>Trata da contratação de instituições federais de ensino superior com programas de pós-graduação em econômia, estatística e/ou contabilidade com notas iguais ou superiores a 05(cinco) no ranking da CAPES para realização de estudos e pesquisas nas áreas de política de estabilidade, crescimento e desenvolvimento econômico</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Afonso Florence</txtNomeAutor>
+      <idecadastro>160508</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602342</id>
+    <nome>SOR 9/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 13:19:00</datApresentacao>
+    <txtEmenta>Trata da contratação de instituições de ensino superior - com programas de pós de graudação em áreas relacionadas a estudos sobre planejamento do desenvolvimento - para a realização de estudos e pesquisas orientados ao apoio a políticas de planejamento do desenvolvimento nas esclasa mesorregional, marcorregional e nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Afonso Florence</txtNomeAutor>
+      <idecadastro>160508</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602486</id>
+    <nome>SOR 1/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 14LW - Implantação do Sistema de Defesa Estratégico ASTROS 2020 - Nacional - Valor R$ 354.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602490</id>
+    <nome>SOR 2/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 0B18 - Participação da União no Capital - Alcântara Cyclone Space - ACS - Nacional - Valor R$ 150.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602494</id>
+    <nome>SOR 3/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 20VD, com a inclusão do Subtítulo Ciência, Tecnologia e Inovação para Pesquisa, Desenvolvimento, Conservação, Valoração e Sustentabilidade dos Recursos Naturais Brasileiros - Implantação da Cidade das Águas da UNESCO/HIDROEX - Nacional - Valor R$ 150.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602497</id>
+    <nome>SOR 4/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que acrescenta recursos na ação 00LV - Formação, Capacitação e Fixação de Recursos Humanos Qualificados para C,T&amp;I - Nacional - Valor R$ 150.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602502</id>
+    <nome>SOR 5/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 20UQ - Apoio a Extensão Tecnológica para Inclusão Social e Desenvolvimento Sustentável - Nacional - Valor R$ 8.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602504</id>
+    <nome>SOR 6/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 20V8 - Apoio a Projetos de Inclusão Digital - Nacional - Valor R$ 6.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602507</id>
+    <nome>SOR 7/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 20V6 - Fomento a Pesquisa de Desenvolvimento Voltados à Inovação e ao Processo Produtivo - Nacional - Valor R$ 15.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602510</id>
+    <nome>SOR 8/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:00:00</datApresentacao>
+    <txtEmenta>que remaneja recursos de programação dentro do mesmo órgão para a ação 2345 - Missão Antártica - Nacional - Valor R$ 6.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602253</id>
+    <nome>SOR 8/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 19:05:00</datApresentacao>
+    <txtEmenta>Solicita apoio financeiro à Fundação getúlio Vargas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Maluf</txtNomeAutor>
+      <idecadastro>132056</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602251</id>
+    <nome>SOR 7/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 18:58:00</datApresentacao>
+    <txtEmenta>Trata do aumento de remuneração das CJS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602246</id>
+    <nome>SOR 6/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 18:52:00</datApresentacao>
+    <txtEmenta>Trata da promoção da educação fiscal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602243</id>
+    <nome>SOR 5/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 18:36:00</datApresentacao>
+    <txtEmenta>Trata da reserva para compensação de proposições legislativas que criem despesa obrigatória ou renúncia de receita sujeitas à deliberação de órgão colegiado permanente do Poder Legislativo, durante o exame de compatibilidade e adequação orçamentária da legislação</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602178</id>
+    <nome>SOR 4/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 17:11:00</datApresentacao>
+    <txtEmenta>Solicita apoio financeiro à Fundação Getúlio Vargas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602123</id>
+    <nome>SOR 3/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 15:17:00</datApresentacao>
+    <txtEmenta>Solicita apoio financeiro à Fundação Getúlio Vargas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luis Carlos Heinze</txtNomeAutor>
+      <idecadastro>73483</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602122</id>
+    <nome>SOR 2/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 15:16:00</datApresentacao>
+    <txtEmenta>Solicita apoio financeiro à Fundação Getúlio Vargas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jerônimo Goergen</txtNomeAutor>
+      <idecadastro>160570</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602284</id>
+    <nome>SOR 1/2013 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 14:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo à despesa para implantação do SISFRON, no valor de R$ 45.000.000,00 (Programa 2058; Ação 14T5; produto(unid) 2).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Otavio Leite</txtNomeAutor>
+      <idecadastro>141515</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602285</id>
+    <nome>SOR 2/2013 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 14:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo à despesa para implantação do SISFRON, no valor de R$ 45.000.000,00 (Programa 2058; Ação 14T5; produto(unid) 2).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Keiko Ota</txtNomeAutor>
+      <idecadastro>160659</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602286</id>
+    <nome>SOR 3/2013 CSPCCO</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 14:00:00</datApresentacao>
+    <txtEmenta>Requer acréscimo à despesa para estruturação, reaparelhamento, modernização organizacional e tecnológica das instituições de segurança pública, no valor de R$ 112.671.795,00 (Programa 2070; Ação 20ID; 46 projetos apoiados).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Otavio Leite</txtNomeAutor>
+      <idecadastro>141515</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>4</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602040</id>
+    <nome>SOR 1/2013 CFT</nome>
+    <tipoProposicao>
+      <id>611</id>
+      <sigla>SOR</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2013 09:44:00</datApresentacao>
+    <txtEmenta>Solicita apoio financeiro à Fundação Getúlio Vargas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Magalhães</txtNomeAutor>
+      <idecadastro>74120</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

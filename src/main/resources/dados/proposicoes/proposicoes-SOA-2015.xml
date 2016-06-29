@@ -1,0 +1,307 @@
+<proposicoes>
+  <proposicao>
+    <id>2018376</id>
+    <nome>SOA 5/2015 CLP</nome>
+    <tipoProposicao>
+      <id>288</id>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/10/2015 16:36:00</datApresentacao>
+    <txtEmenta>EMENTA: IMPLANTAÇÃO DE BRINQUEDOTECA EM HOSPITAIS PEDIÁTRICOS - LEI 11.104/2005; Sequencial da Despesa: 002204; Detalhamento: Órgão: 36000 - Ministério da Saúde; Unidade: 36901 - Fundo Nacional de Saúde; Programa: 2015 - Fortalecimento do Sistema Único de Saúde (SUS); Ação: 8535 - Estruturação de Unidades de Atenção Especializada em Saúde; Subtítulo: 0001 - Nacional; Produto(unid): Unidade estruturada(unidade): 100; Localidade: 9000000 - Nacional - NA; Função: 10 - Saúde; Subfunção: 302 - Assistência Hospitalar e Ambulatorial; Esfera: 2 - Orçamento da Seguridade Social; Composição da Despesa: GND: 3; Mod. Aplic.: 90 - Aplic. Diretas; fonte: 100 - Rec. Ordinários; ID: 6; RP: 2; valor: 11.600.000; GND: 4; Mod. Aplic.: 41 - Transf Municípios - Fdo a Fdo; fonte: 100 - Rec. Ordinários; ; ID: 6; RP: 2; valor: 198.000.000; GND:4; Mod. Aplic.: 90 - Aplic. Diretas; fonte: 100 - Rec. Ordinários; ID: 6; RP: 2; valor: 189.400.000; total: 399.000.000; Acréscimo de meta: 20 - Unidade estruturada(unidade); Composição dos Acréscimos de valores: GND: 3 - Outras Despesas Correntes; Mod. Aplic.: 90 - Aplic. Diretas; RP: 2 - Primário Discricionário; Valor: 10.000.000; GND: 4 - Investimentos; Mod. Aplic.: 90 - Aplic. Diretas; RP: 2 - Primário Discricionário; Valor: 10.000.000; Total: 20.000.000; Composição dos Cancelamentos de Valores: Sequencial: 004411; GND: 9-RES; Mod. Aplic.: 99 - A Definir; fonte: 100 - Rec. Ordinários; ID: 0; RP: 2; Valor: 20.000.000; Total: 20.000.000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Brasileira de Brinquedotecas</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2017951</id>
+    <nome>SOA 1/2015 CLP</nome>
+    <tipoProposicao>
+      <id>288</id>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2015 18:44:00</datApresentacao>
+    <txtEmenta>EMENDA DESTINADA A EXPANSÃO E REESTRUTURAÇÃO DE INSTITUIÇÕES FEDERAIS DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA - Emenda à Despesa, Área Governo: 15 - Educação, Tipo Realização: 199 - Educação Profissional e Tecnológica, Modalidade Interv.: 077 - Expansão e Reestruturação das Instituições Federais, Esfera: 1-Orçamento Fiscal, Órgão: 26000 - Ministério da Educação, UO: 26101 - Ministério da Educação - Administração Direta, Funcional: 12.363.2080.20RG; Função: 12 - Educação; Subfunção: 363 - Ensino Profissional; Programa: 2080 - Educação de qualidade para todos, Ação: 20RG - Expansão e Reestruturação de Instituições Federais de Educação Profissional e Tecnológica; Subtítulo: Nacional, Localidade: 9000000 - Nacional (Pop.); Acréscimo de meta:28 Projeto viabilizado (unidade); Composição dos Acréscimos de valores: GND, 4 - Investimentos; Mod. Apl. 90 - Aplic. Diretas; RP 2 - Primário Discricionário, Valor: 50.000.000; Composição dos Cancelamentos de Valores: Sequencial 004411 GND 9-RES, Mod. Apl. 99 - A Definir, fonte: 100 - Rec. Ordinários, ID 0, RP 2, Valor 50.000.000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fundação Educacional e Cultural da Alta Mogiana </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2018149</id>
+    <nome>SOA 4/2015 CLP</nome>
+    <tipoProposicao>
+      <id>288</id>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2015 14:41:00</datApresentacao>
+    <txtEmenta>EMENDA DESTINADA A FOMENTO ÀS AÇÕES DE GRADUAÇÃO, PÓS-GRADUAÇÃO, ENSINO, PESQUISA E EXTENSÃO NACIONAL. Modalidade da Emenda: comissão; Tipo de emenda: Aprop.-Acréscimo; Localidade Beneficiada: 9000000 - Nacional; Esfera Orçamentária: Orçamento Fiscal; Unidade Orçamentária Pretendida: Ministério da Educação; Funcional/Ação/Subtítulo: 12.364.2080.20GK.0001 - Fomento às Ações de Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão Nacional. Especificação da Meta: Iniciativa apoiada (unidade) quantidade: 30; Acréscimos à Programação: GND 3 outras Despesas Correntes, Mod. Apli 90 - aplicações diretas, RP 2, Valor Acrescido: 20.000.000; Cancelamentos Compensatórios: Sequencial: 004411; Fonte: 100; GND 9 - Reserva de Contingência; mod. Aplic. 99 - a definir, ID 0, RP 2 Valor Deduzido: 20.000.000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fundação Josué Montello</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2018055</id>
+    <nome>SOA 3/2015 CLP</nome>
+    <tipoProposicao>
+      <id>288</id>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2015 11:14:00</datApresentacao>
+    <txtEmenta>EMENDA DESTINADA A POLÍTICAS E ESTRATÉGIAS DE PREVENÇÃO E CONTROLE DO DESMATAMENTO NO ÂMBITO DA UNIÃO, ESTADOS E MUNICÍPIOS. Sequencial da Despesa: 002912 ; Detalhamento: Órgão: 44000 - Ministério do Meio Ambiente, Unidade: 44101 - Ministério do Meio Ambiente - Administração Direta, Programa: 2050 - Mudança do Clima Ação: 20VU - Políticas e Estratégias de Prevenção e Controle do Desmatamento no âmbito da União, Estados e Municípios, Subtítulo: 0001 - Nacional, Produto(unid): Política estabelecida(unidade), 1, Localidade :  9000000 - Nacional - NA, Função: 18 - Gestão Ambiental, Subfunção: 542 - Controle Ambiental, Esfera: 1 - Orçamento Fiscal, Composição da Despesa: GND:3 Mod. Apl.: 90 - Aplic. Diretas, Fonte: 100 - Rec. Ordinários, ID 0, RP 2 Valor: 200.000,00 - Alteração de Emenda - Acréscimo/Cancelamento - Acréscimo de meta:20 Política estabelecida(unidade); Composição dos Acréscimos de valores: GND: 3 - Outras Despesas Correntes; Mod. Aplic. - 90 - Aplic. Diretas; RP 2 - Primário Discricionário; Valor: 20.000.000; Composição dos Cancelamentos de Valores: Sequencial: 004411, GND 9-RES, mod. Aplic. 99 - A Definir; fonte: 100 - Rec. Ordinários, ID 0; RP 2; Valor: 20.000.000.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fundação SOS Mata Atlântica</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2018052</id>
+    <nome>SOA 2/2015 CLP</nome>
+    <tipoProposicao>
+      <id>288</id>
+      <sigla>SOA</sigla>
+      <nome>Sugestão de Emenda ao Orçamento - CLP</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2015 11:05:00</datApresentacao>
+    <txtEmenta>EMENDA DESTINADA PARA A AQUISIÇÃO E INSTALAÇÃO DE SISTEMAS FOTOVOLTAICOS PARA GERAÇÃO DE ELETRICIDADE EM UNIDADES PÚBLICAS DE ENSINO - Emenda à despesa, sequencial sof: 5483, esfera orçamentária fiscal, órgão: 26000 Ministério da Educação; unidade orçamentária - código: 26298 - Fundo Nacional de Desenvolvimento da Educação, Programa: 2080 - Educação de qualidade para todos; ação: 20RP - Infraestrutura para a Educação Básica, Subtítulo: 0001 - nacional;;  produto: projeto apoiado(unidade), meta:1420;  localidade: 9000000 - Nacional - NA; função: 12 - Educação; subfunção: 368 - Educação Básica; esfera: 01 - orçamento fiscal; composição da despesa: GND: 3, mod. Aplic.: 30 - Transf. a Est. e ao DF; fonte: 108 - Fundo Social (Educ./Saúde), ID 0 , RP 3, valor: 20.000.000; GND: 4, mod. Aplic.: 30 - Transf. a Est. e ao DF; fonte: 108 - Fundo Social (Educ./Saúde); ID 0 , RP 3, valor: 683.907.840; GND: 4, mod. Aplic.: 30 - Transf. a Est. e ao DF; fonte: 293 - Prod. Aplic. Rec. Sal. Educ.; ID 0 , RP 3, valor: 46.092.160.TOTAL: 750.000.000; Alteração de Emenda - Acréscimo/Cancelamento; acréscimo de meta: 500 Projeto apoiado(unidade); composição dos Acréscimos de valores: GND, cod. 4 - investimentos, mod. Aplic.: cod. 90, descrição: aplicação direto; RP: 2 - Primário Discricionário - acréscimo: 100.000.000,00; composição dos cancelamentos de valores: - sequencial: 4411, GND: 9-RES; Mod. aplic: 99 - A Definir; fonte: 100- recursos ordinários; iu: 0, rp: 2, Valor: 100.000.000,00.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Greenpeace do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,1106 @@
+<proposicoes>
+  <proposicao>
+    <id>563817</id>
+    <nome>REL 5/2012 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2013 14:47:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial destinada a tratar do ordenamento da Formação de Recursos Humanos do Sistema Único de Saúde e da Educação Permanente na Área da Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562676</id>
+    <nome>REL 2/2012 CMADS</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2012 15:17:00</datApresentacao>
+    <txtEmenta>Relatório prévio do  Deputado Antônio Roberto (PV/MG) referente ao Grupo de Trabalho criado (Req.128/2012) para acompanhar a implementação do novo Código Florestal e suas diversas consequências.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antônio Roberto</txtNomeAutor>
+      <idecadastro>141390</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6174</codOrgaoEstado>
+        <siglaOrgaoEstado>CMADS     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562582</id>
+    <nome>REL 4/2012 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/12/2012 15:45:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão  Especial destinada a avaliar os avanços e desafios das políticas públicas de segurança alimentar e nutricional em nosso país
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nazareno Fonteles</txtNomeAutor>
+      <idecadastro>74491</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558654</id>
+    <nome>REL 2/2012 SUBFIPAC =&gt; REQ 277/2012 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6944</id>
+      <sigla>SUBFIPAC  </sigla>
+      <nome>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida.</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/10/2012 17:01:00</datApresentacao>
+    <txtEmenta>Relatório de visita técnica às obras de construção de trecho na rodovia BR 429/RO, de sistemas de esgotamento sanitário e de abastecimento de água de Porto Velho/RO e obras de construção da Usina de Jirau.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Magno</txtNomeAutor>
+      <idecadastro>160605</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562682</id>
+    <nome>REL 1/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2012 18:20:00</datApresentacao>
+    <txtEmenta>Relatório referente à conclusão dos trabalhos da Subcomissão Especial para acompanhar as atividades da Conferência das Nações Unidas sobre Desenvolvimento Sustentável, Rio+20</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Azeredo</txtNomeAutor>
+      <idecadastro>160647</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556541</id>
+    <nome>REL 3/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2012 09:45:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DA SUBCOMISSÃO ESPECIAL PARA PROPOR NOVA ORGANIZAÇÃO E UNIFORMIZAÇÃO DA LEGISLAÇÃO BRASILEIRA, ESPECIFICAMENTE NO QUE TANGE AOS CRIMES E PENAS (SUBCOMISSÃO ESPECIAL DE CRIMES E PENAS).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão Especial de Crimes e Penas</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>555844</id>
+    <nome>REL 2/2012 CCJC =&gt; REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/9/2012 17:39:00</datApresentacao>
+    <txtEmenta>Relatório final da Subcomissão propondo nova organização da legislação brasileira, especificamente no que tange aos crimes e penas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão Especial de Crimes e Penas</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554249</id>
+    <nome>REL 1/2012 SUBCRIPE</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>9066</id>
+      <sigla>SUBCRIPE  </sigla>
+      <nome>Subcomissão Especial de Crimes e Penas</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/9/2012 10:16:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DA SUBCOMISSÃO ESPECIAL PARA PROPOR NOVA ORGANIZAÇÃO E UNIFORMIZAÇÃO DA LEGISLAÇÃO BRASILEIRA, ESPECIFICAMENTE NO QUE TANGE AOS CRIMES E PENAS (SUBCOMISSÃO ESPECIAL DE CRIMES E PENAS)
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alessandro Molon</txtNomeAutor>
+      <idecadastro>160511</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9066</codOrgaoEstado>
+        <siglaOrgaoEstado>SUBCRIPE  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>551701</id>
+    <nome>REL 3/2012 CSSF =&gt; REQ 167/2012 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/7/2012 14:26:00</datApresentacao>
+    <txtEmenta>RELATÓRIO SOBRE A AUDIÊNCIA PÚBLICA REALIZADA EM 28.06.2012
+PARA DISCUSSÃO DO PDC 243/2011</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto de Lucena</txtNomeAutor>
+      <idecadastro>160653</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>551509</id>
+    <nome>REL 5/2012 SUBFUSAO</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>536836</id>
+      <sigla>SUBFUSAO  </sigla>
+      <nome>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/7/2012 18:04:00</datApresentacao>
+    <txtEmenta>SUBCOMISSÃO PERMANENTE PARA ACOMPANHAR O PROCESSO DE FUSÃO ENTRE PERDIGÃO SADIA, JBS E BERTIN, MARFRIG E SEARA, E PROPOR MEDIDAS QUE EVITEM IMPACTOS NEGATIVOS AOS TRABALHADORES, PRODUTORES E ÀS REGIÕES ONDE AS EMPRESAS ESTÃO INSTALADAS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>550348</id>
+    <nome>REL 2/2012 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/7/2012 17:02:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial Destinada a Analisar e Diagnosticar a Situação em que se Encontram as Santas Casas, Hospitais e Entidades Filantrôpicas na Área da Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Brito</txtNomeAutor>
+      <idecadastro>160553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>550347</id>
+    <nome>REL 1/2012 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/7/2012 17:02:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial Destinada a Analisar e Diagnosticar a Situação em que se Encontram as Santas Casas, Hospitais e Entidades Filantrôpicas na Área da Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Brito</txtNomeAutor>
+      <idecadastro>160553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>553439</id>
+    <nome>REL 1/2012 SUBFIPAC =&gt; REQ 277/2012 CFFC</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6944</id>
+      <sigla>SUBFIPAC  </sigla>
+      <nome>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida.</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/7/2012 17:01:00</datApresentacao>
+    <txtEmenta>"Parecer técnico da visita no Canal do Sertão Alagoano - Maceio."</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Magno</txtNomeAutor>
+      <idecadastro>160605</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549284</id>
+    <nome>REL 2/2012 CFFC =&gt; REQ 3/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/6/2012 11:52:00</datApresentacao>
+    <txtEmenta>Relatório das Atividades de 2011 da Subcomissão de Fiscalização da Copa de 2014 e das Olimpíadas de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Filipe Pereira</txtNomeAutor>
+      <idecadastro>141433</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>546315</id>
+    <nome>REL 1/2012 GTDIVIDA</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>9158</id>
+      <sigla>GTDIVIDA  </sigla>
+      <nome>Grupo de Trabalho para analisar a questão da dívida dos Estados com a União.</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/5/2012 12:32:00</datApresentacao>
+    <txtEmenta>Proposta de Relatório Final do Grupo de Trabalho.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cândido Vaccarezza</txtNomeAutor>
+      <idecadastro>141396</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>903</id>
+      <descricao>Aguardando Deliberação</descricao>
+      <orgao>
+        <codOrgaoEstado>9158</codOrgaoEstado>
+        <siglaOrgaoEstado>GTDIVIDA  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545714</id>
+    <nome>REL 4/2012 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/5/2012 09:46:00</datApresentacao>
+    <txtEmenta>Relatório da SUBCOMISSÃO DESTINADA A, NO PRAZO DE 180 DIAS, ANALISAR E PROPOR MEDIDAS SOBRE O PROCESSO DE AQUISIÇÃO DE ÁREAS RURAIS E SUAS UTILIZAÇÕES, NO BRASIL, POR PESSOAS FÍSICAS E JURÍDICAS ESTRANGEIRAS – SUBESTRA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão destinada a, no prazo de 180 dias, analisar, e propor medidas sobre o processo de aquisição de áreas rurais e suas utilizações, no Brasil, por pessoas físicas e jurídicas estrangeiras</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>543962</id>
+    <nome>REL 3/2012 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/5/2012 15:22:00</datApresentacao>
+    <txtEmenta>Complementação ao Relatório da SUBESTRA com apresentação de Projeto de Lei.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Faro</txtNomeAutor>
+      <idecadastro>141335</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>538824</id>
+    <nome>REL 2/2012 CEALCOOL</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6942</id>
+      <sigla>CEALCOOL  </sigla>
+      <nome>Comissão Especial para efetuar estudo sobre as causas e consequências do consumo abusivo de álcool entre cidadãos brasileiros e, especialmente, as razões que determinam o aumento exponencial do consumo dessa substância nos últimos cinco anos.</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/3/2012 13:17:00</datApresentacao>
+    <txtEmenta>Relatório final da Comissão Epecial de Bebidas Alcóolicas, com a alterações e inclusões finais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6942</codOrgaoEstado>
+        <siglaOrgaoEstado>CEALCOOL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>537806</id>
+    <nome>REL 1/2012 CEALCOOL</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6942</id>
+      <sigla>CEALCOOL  </sigla>
+      <nome>Comissão Especial para efetuar estudo sobre as causas e consequências do consumo abusivo de álcool entre cidadãos brasileiros e, especialmente, as razões que determinam o aumento exponencial do consumo dessa substância nos últimos cinco anos.</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2012 11:05:00</datApresentacao>
+    <txtEmenta>Relatório da Comissão Especial para efetuar estudo sobre as causas e consequências do consumo abusivo de álcool ente cidadãos brasileiros e, especialmente. as razões que determinam o aumento exponencial nos úlitmos cinco anos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>6942</codOrgaoEstado>
+        <siglaOrgaoEstado>CEALCOOL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

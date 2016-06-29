@@ -1,0 +1,116 @@
+<proposicoes>
+  <proposicao>
+    <id>563657</id>
+    <nome>COI 2/2012 CMO =&gt; PLN 24/2012 CN</nome>
+    <tipoProposicao>
+      <id>682</id>
+      <sigla>COI</sigla>
+      <nome>Relatório do COI</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/12/2012 16:58:00</datApresentacao>
+    <txtEmenta>propõe Atualização do Anexo VI - Subtítulos Relativos a Obras e Serviços com indícios de irregularidades Graves constantes do PL  nº 24/2012-CN,- PLOA 2013)</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mauro Lopes</txtNomeAutor>
+      <idecadastro>74749</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>563637</id>
+    <nome>COI 1/2012 CMO</nome>
+    <tipoProposicao>
+      <id>682</id>
+      <sigla>COI</sigla>
+      <nome>Relatório do COI</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/12/2012 16:07:00</datApresentacao>
+    <txtEmenta>sobre informações encaminhadas pelo Tribunal de Contas da União pendentes de deliberação da CMO em 30/11/2012, em atendimento ao disposto no art. 122 da Resolução nº 1/2006-CN, alterada pelas de nº 3/2008-CN e  1/2012-CN, aos seguintes  Avisos do Congresso Nacional: AVN 11/2011 e AVN's 2, 7, 14, 15, 16, 17, 19, 20, 21, 23 e 24/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mauro Lopes</txtNomeAutor>
+      <idecadastro>74749</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

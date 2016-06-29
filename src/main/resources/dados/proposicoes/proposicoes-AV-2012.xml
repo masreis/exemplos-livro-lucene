@@ -1,0 +1,845 @@
+<proposicoes>
+  <proposicao>
+    <id>564426</id>
+    <nome>AV 137/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>137</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/12/2012 14:29:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao mês de novembro de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/2/2013 10:50:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>561840</id>
+    <nome>AV 128/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>128</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/11/2012 16:44:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional, o demonstrativo das emissões do real referentes ao mês de outubro de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2012 20:28:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação, ambas para conhecimento. Após, arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558583</id>
+    <nome>AV 121/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>121</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/11/2012 17:55:00</datApresentacao>
+    <txtEmenta>Encaminha, ao Congresso Nacional, o demonstrativo das emissões do Real, referente ao terceiro trimestre de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/11/2012 14:52:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e 
+Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556503</id>
+    <nome>AV 112/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>112</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/10/2012 13:59:00</datApresentacao>
+    <txtEmenta>Encaminha, ao Congresso Nacional, o demonstrativo das emissões do real referentes ao mês de agosto de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/10/2012 16:30:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação, ambas para conhecimento.Após, arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554230</id>
+    <nome>AV 94/2012</nome>
+    <tipoProposicao>
+      <id>495</id>
+      <sigla>AV</sigla>
+      <nome>Aviso</nome>
+    </tipoProposicao>
+    <numero>94</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/9/2012 17:10:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao mês de julho de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>554229</id>
+    <nome>AV 94/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>94</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/9/2012 16:51:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real  referentes ao mês de julho de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/9/2012 09:58:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e 
+Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552292</id>
+    <nome>AV 79/2012</nome>
+    <tipoProposicao>
+      <id>495</id>
+      <sigla>AV</sigla>
+      <nome>Aviso</nome>
+    </tipoProposicao>
+    <numero>79</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/8/2012 16:15:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões referentes ao segundo trimestre de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas, bem como o relatório da execução da programação monetária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/8/2012 14:49:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>550895</id>
+    <nome>AV 66/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>66</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2012 19:21:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do Real referentes ao mês de maio de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/8/2012 11:50:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e 
+Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>546282</id>
+    <nome>AV 56/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>56</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/5/2012 10:11:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao mês de abril de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/6/2012 16:04:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>543285</id>
+    <nome>AV 45/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>45</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/5/2012 10:07:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao referentes ao primeiro trimestre de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas, bem como o relatório da execução da programação monetária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/5/2012 11:11:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>539848</id>
+    <nome>AV 31/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2012 16:28:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao mês de fevereiro de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2012 10:21:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e 
+Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>535907</id>
+    <nome>AV 18/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/3/2012 14:11:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao mês de janeiro de 2012, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/3/2012 10:51:00</datDespacho>
+      <txtDespacho>Às Comissões de 
+Desenvolvimento Econômico, Indústria e Comércio e 
+Finanças e Tributação, ambas para conhecimento.
+Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>534343</id>
+    <nome>AV 9/2012</nome>
+    <tipoProposicao>
+      <id>409</id>
+      <sigla>AV</sigla>
+      <nome>Demonstrativo de emissão do real</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2012 19:29:00</datApresentacao>
+    <txtEmenta>Encaminha ao Congresso Nacional o demonstrativo das emissões do real referentes ao quarto trimestre de 2011, as razões delas determinantes e a posição das reservas internacionais a elas vinculadas, bem como o relatório da execução da programação monetária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>BANCO CENTRAL DO BRASIL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/2/2012 10:51:00</datDespacho>
+      <txtDespacho>Às Comissões de Desenvolvimento Econômico, Indústria e Comércio e Finanças e Tributação, ambas para conhecimento. Após, arquive-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,196 @@
+<proposicoes>
+  <proposicao>
+    <id>527139</id>
+    <nome>REM 3/2011</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/11/2011 14:52:34</datApresentacao>
+    <txtEmenta>Solicita que seja apurada a responsabilidade pela publicação da matéria de capa do Jornal da Câmara, de 10 de novembro de 2011, sob o título "Governo decide aguardar cinco sessões para votar segundo turno da prorrogação da DRU."</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Magalhães Neto</txtNomeAutor>
+      <idecadastro>74058</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/11/2011 10:22:00</datDespacho>
+      <txtDespacho>Encaminhe-se ao Senhor Primeiro-Secretário.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519002</id>
+    <nome>REM 2/2011</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/9/2011 12:04:00</datApresentacao>
+    <txtEmenta>Reclama sobre o uso da palavra nas Comunicações de Lideranças.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Dutra</txtNomeAutor>
+      <idecadastro>74197</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011 17:58:00</datDespacho>
+      <txtDespacho>DECISÃO DA PRESIDÊNCIA NA RECLAMAÇÃO N. 2/2011: “...A Reclamação n. 2/2011 atende os requisitos de admissibilidade expressos no art. 96 do RICD, razão pelo qual passo à apreciação do mérito. 
+Em suma, o Deputado Domingos Dutra se insurge contra duas questões que, a seu ver, estariam descumprindo norma regimental: primeiramente, o tempo utilizado para Comunicações de Lideranças; a seguir, o teor dos debates proferidos pelos Líderes.
+As Comunicações de Liderança estão previstas expressamente no art. 10, I; art. 66, §1º e 3º e art. 89, todos do RICD. Assim como as demais normas regimentais voltadas a regulamentar os debates no Parlamento, a fixação do tempo destinado às comunicações de liderança tem por escopo permitir a manifestação dos Deputados sobre a posição de seus Partidos ou Blocos, ajustando essa prerrogativa ao direito de fala dos demais Parlamentares e ao período de realização de sessões. 
+Dessa maneira, inclusive com fundamento no princípio constitucional da proporcionalidade partidária, o tempo para os discursos a serem proferidos nesta Casa (pequeno expediente, grande expediente, comunicações parlamentares, discussões, “breves comunicações”) está fixado na norma regimental no sentido de equacionar o exercício de uma das funções primeiras do Parlamento, a livre manifestação dos representantes de diversos segmentos da sociedade nas decisões do Estado.
+No que tange ao teor das comunicações, não se pode olvidar que, especialmente com a consolidação do regime democrático, a regra é a inviolabilidade constitucional parlamentar inscrita no art. 53 da Constituição Federal. É dizer, não compete à Presidência ou à Mesa Diretora interferir no teor dos pronunciamentos dos Líderes e demais membros da Casa, salvo para o cumprimento das normas procedimentais previstas no Regimento Interno.
+Assim posto, decido pela improcedência da Reclamação.
+Oficie-se o Autor, dando-lhe ciência do teor do presente entendimento e, após, publique-se.
+Em  21/09/11.”.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>517525</id>
+    <nome>REM 1/2011</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/8/2011 10:48:00</datApresentacao>
+    <txtEmenta>Reclama a falta de decisão da Presidência da Câmara dos Deputados à Questão de Ordem nº 394, formulada pela Sra. Laura Carneiro, em 27 de maio de 2004, na qual suscita dúvida sobre a interpretação do art. 41, inciso VI do Regimento Interno desta Casa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandra Rosado</txtNomeAutor>
+      <idecadastro>74039</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/8/2011</datDespacho>
+      <txtDespacho>DECISÃO DA PRESIDÊNCIA NA RECLAMAÇÃO 1/2011: “...Em assim sendo, conheço da Reclamação n. 1/2011 e passo à apreciação do mérito, respondendo a Questão de Ordem n. 394, de 2004, para sanar a omissão quanto à possibilidade de um parlamentar ser relator da mesma matéria em mais de uma Comissão. 
+                    O Regimento Interno da Câmara dos Deputados prevê, no seu art. 43, ipsis litteris: 
+Art. 43.	 Nenhum Deputado poderá presidir reunião de Comissão quando se debater ou votar matéria da qual seja Autor ou Relator.
+Parágrafo único. Não poderá o Autor de proposição ser dela Relator, ainda que substituto ou parcial.
+ 		Esse dispositivo consolida as duas hipóteses de limitação à atuação como relator.  
+		Outrossim, o Regimento Interno da Câmara dos Deputados prevê, no seu art. 49, verbis:
+Art. 49.	 As Comissões a que for distribuída uma proposição poderão estudá-la em reunião conjunta, por acordo dos respectivos Presidentes, com um só Relator ou Relator substituto, devendo os trabalhos ser dirigidos pelo Presidente mais idoso dentre os de maior número de legislaturas.
+		Percebe-se, pois, que um mesmo relator poderá consolidar matéria atinente a mais de uma Comissão, nas hipóteses previstas nesse artigo (Comissão Especial e proposição aprovada, com emendas, por mais de uma Comissão).
+		O Regimento Interno não impede, portanto, que um Deputado possa atuar como Relator de determinada proposição em mais de uma Comissão.
+		Assim posto, tenho por respondida a Questão de Ordem n. 394, de 2004, e via de consequência, sanada a omissão levantada nesta Reclamação.
+		Oficie-se à Autora, dando-lhe ciência do teor do presente entendimento e, após, publique-se.”
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

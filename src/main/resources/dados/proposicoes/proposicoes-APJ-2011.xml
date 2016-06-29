@@ -1,0 +1,122 @@
+<proposicoes>
+  <proposicao>
+    <id>525787</id>
+    <nome>APJ 2/2011 CEREFPOL</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>537343</id>
+      <sigla>CEREFPOL  </sigla>
+      <nome>Comissão Especial destinada a efetuar estudo e apresentar propostas com relação às matérias infraconstitucionais da Reforma Política</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 17:31:00</datApresentacao>
+    <txtEmenta>Dispõe sobre o sistema eleitoral para as eleições proporcionais e sobre o financiamento público exclusivo das campanhas eleitorais, alterando a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e sobre a forma de subscrição de eleitores a proposições legislativas de iniciativa popular, alterando a Lei nº 9.709, de 18 de novembro de 1998.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Henrique Fontana</txtNomeAutor>
+      <idecadastro>73482</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>537343</codOrgaoEstado>
+        <siglaOrgaoEstado>CEREFPOL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>523110</id>
+    <nome>APJ 1/2011 CEREFPOL</nome>
+    <tipoProposicao>
+      <id>538</id>
+      <sigla>APJ</sigla>
+      <nome>Anteprojeto</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>537343</id>
+      <sigla>CEREFPOL  </sigla>
+      <nome>Comissão Especial destinada a efetuar estudo e apresentar propostas com relação às matérias infraconstitucionais da Reforma Política</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/9/2011 14:44:00</datApresentacao>
+    <txtEmenta>Dispõe sobre o sistema eleitoral para as eleições proporcionais e sobre o financiamento público exclusivo das campanhas eleitorais, alterando a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), e sobre a forma de subscrição de eleitores a proposições legislativas de iniciativa popular, alterando a Lei nº 9.709, de 18 de novembro de 1998.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Henrique Fontana</txtNomeAutor>
+      <idecadastro>73482</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

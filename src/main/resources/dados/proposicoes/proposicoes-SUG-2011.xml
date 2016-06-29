@@ -1,0 +1,2444 @@
+<proposicoes>
+  <proposicao>
+    <id>530584</id>
+    <nome>SUG 40/2011 CLP =&gt; PEC 202/2012</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>40</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/12/2011 19:44:00</datApresentacao>
+    <txtEmenta>Sugere Proposta de Emenda à Constituição para acrescentar § 4º ao Artigo 217 da Constituição Federal, prevendo a regulamentação do Poder Público, ou da sociedade civil, na busca por democratização, moralização, transparência, espírito educacional, justiça e popularização desportiva.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Frente Nacional dos Torcedores</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528729</id>
+    <nome>SUG 39/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>39</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2011 18:03:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para dispor sobre a construção e manutenção de banheiros públicos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>INSTITUTO DOMÉSTICA LEGAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525914</id>
+    <nome>SUG 38/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>38</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/11/2011 14:27:00</datApresentacao>
+    <txtEmenta>Sugere a realização de audiência pública para debater a matéria objeto do PL 2.295/2000, que 'dispõe sobre a regulamentação da jornada de trabalho dos Enfermeiros, Técnicos e Auxiliares de Enfermagem'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Federação Nacional dos Enfermeiros</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524333</id>
+    <nome>SUG 37/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>37</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/10/2011 10:01:00</datApresentacao>
+    <txtEmenta>Sugere a realização de audiência pública para debater o seguinte tema: "Futebol e Democracia".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Frente Nacional dos Torcedores</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519395</id>
+    <nome>SUG 26/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>26</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei com o objetivo de fixar regras para as ações previdenciárias</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519396</id>
+    <nome>SUG 27/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>27</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para estimular o serviço voluntariado, bem como o Serviço Militar Obrigatório e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519397</id>
+    <nome>SUG 28/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>28</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para acrescentar o Art. 299-A ao Decreto-Lei nº N.º 2.848, de 7 de dezembro de 1940, visando coibir o uso de declarações falsas para obter gratuidade em processos judiciais ou em benefícios sociais</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519398</id>
+    <nome>SUG 29/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>29</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para aperfeiçoar a Lei nº 7.210/84, Lei de Execução Penal,  assegurando a ampla defesa  e dá outras providências</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519399</id>
+    <nome>SUG 30/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>30</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para alterar a Lei nº 9.099/95, definindo prazo para contestação no Juizado Especial Cível</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519400</id>
+    <nome>SUG 31/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>31</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para acrescentar os Arts. 682-A e 682-B à Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), criando a figura da 'procuração post mortem'</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519402</id>
+    <nome>SUG 32/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>32</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que acrescenta os Artigos 33-A, 44-A, 44-B, 44-C, 44-D, 44-E, 51-A, 68-A, 68-B, 109-A, 120-A; dá nova redação aos Artigos 71, parágrafo único, 91, Inciso II, e 119; e revoga o Artigo 46 e § 2º do Artigo 60 do Drecreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519404</id>
+    <nome>SUG 33/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>33</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para estimular a criação de Procons e Núcleos de Mediação Familiar</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519405</id>
+    <nome>SUG 34/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>34</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que dá transparência na gestão de contratação de professores por Instituições de Ensino Superior</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519406</id>
+    <nome>SUG 35/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>35</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para aperfeiçoar o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), no tocante aos Jurados, visando valorizar e facilitar o acesso à função de jurado</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519407</id>
+    <nome>SUG 36/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>36</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 19:52:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para estimular a contratação de ex-detentos e detentos em regime semiaberto por empresas que prestam serviços à Administração Pública</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sindicato Nacional dos Trabalhadores Aposentados, Pensionistas e Idosos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>518000</id>
+    <nome>SUG 25/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/8/2011 11:32:00</datApresentacao>
+    <txtEmenta>Sugere a realização do "Seminário Nacional de Combate à Obesidade".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Núcleo Mineiro de Obesidade</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>517509</id>
+    <nome>SUG 24/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/8/2011 18:23:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Audiência Pública para discussão do tema: 'Agenda do Movimento de Mulheres para o Próximo Ciclo Orçamentário'.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>516797</id>
+    <nome>SUG 23/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/8/2011 17:43:00</datApresentacao>
+    <txtEmenta>Sugere a apresentação de emendas ao Projeto de Lei nº 6.959/2010, que 'dispõe sobre a regulamentação da profissão de Terapeuta Naturista'.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Assoc. Terapeutas Naturalistas Alternativos na Saúde e Cultura do Brasil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>514320</id>
+    <nome>SUG 22/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/8/2011 11:39:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Seminário com o propósito de debater o 'Relatório Anual das Desigualdades Raciais no Brasil; 2009-2010'</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>514310</id>
+    <nome>SUG 21/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/8/2011 18:49:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Reunião de Audiência Pública, com o intuito de promover o debate sobre a indicação de ministro para TCU e apresentar aos parlamentares o candidato apoiado pela sociedade civil organizada.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>União dos Auditores Federais de Controle Externo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510996</id>
+    <nome>SUG 20/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/7/2011 09:46:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que altera a Lei 9.503/97, para definir o conceito de sucata.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510995</id>
+    <nome>SUG 19/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/7/2011 09:42:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para definir medidas de segurança e controle social sobre a fase de comunicação de crimes.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510994</id>
+    <nome>SUG 18/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/7/2011 09:40:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para acrescentar os arts. 251-A, 251-B e 552-A no Código de Processo Civil, dispondo a baixa de processos e o Plenário Virtual.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510993</id>
+    <nome>SUG 17/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/7/2011 09:37:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para regulamentar a prova oral em concursos públicos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>510959</id>
+    <nome>SUG 16/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/7/2011 16:17:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Reunião de Audiência Pública para debater sobre a previsão de  recursos na Lei Orçamentária para 2012, visando assegurar a correção das tabelas salariais dos servidores públicos federais; a abertura de novos concursos públicos; e mais investimentos no setor público.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>CONFEDERAÇÃO DOS TRABALHADORES NO SERVIÇO PÚBLICO FEDERAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509651</id>
+    <nome>SUG 15/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/6/2011 11:12:00</datApresentacao>
+    <txtEmenta>Sugere a realização do "1º Seminário dos Servidores do Judiciário nos Estados", com o objetivo de debater a PEC nº 190/07, que acrescenta o artigo 93-A à Constituição Federal de 1988.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>FEDERAÇÃO NACIONAL DOS SERVIDORES DO JUDICIÁRIO NOS ESTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509432</id>
+    <nome>SUG 14/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2011 18:44:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que acrescenta parágrafo 6º ao artigo 32 da Lei n. 9.394, de 2006, para incluir conteúdo referente ao direito do consumidor no currículo de ensino fundamental.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Paulista do Ministério Público</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>502902</id>
+    <nome>SUG 11/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2011 09:49:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para alterar a redação dos artigos 16, 65 e 155 do Código Penal Brasileiro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>502903</id>
+    <nome>SUG 12/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2011 09:49:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que dispõe sobre a criação de regras para a fixação de dano moral.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>502904</id>
+    <nome>SUG 13/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2011 09:49:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que acrescenta o artigo 478-A e parágrafo único ao Código de Processo Civil, visando a uniformização de jurisprudência.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Conselho de Defesa Social de Estrela do Sul </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>500891</id>
+    <nome>SUG 10/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2011 09:59:00</datApresentacao>
+    <txtEmenta>Sugere a realização do II Seminário "Escola sem Homofobia".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis e Transexuais</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>497606</id>
+    <nome>SUG 9/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/4/2011 11:04:00</datApresentacao>
+    <txtEmenta>Sugere a realização do "III Seminário Guardas Municipais e Segurança Pública".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>ONG SOS Segurança Dá Vida</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>496763</id>
+    <nome>SUG 8/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2011 11:05:00</datApresentacao>
+    <txtEmenta>Sugere a realização do VIII Seminário LGBT no Congresso Nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis e Transexuais</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>496288</id>
+    <nome>SUG 6/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/3/2011 09:53:00</datApresentacao>
+    <txtEmenta>Sugere a realização do Seminário "O Futuro do Emprego Doméstico no Brasil"</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>INSTITUTO DOMÉSTICA LEGAL</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>495232</id>
+    <nome>SUG 7/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2011 17:56:00</datApresentacao>
+    <txtEmenta>Sugere a realização do Seminário "FGTS 44 anos - Justiça para o Trabalhador".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto FGTS Fácil</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>494377</id>
+    <nome>SUG 5/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/3/2011 16:48:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que dispõe sobre a aposentadoria dos catadores de materiais recicláveis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>ASSOCIAÇÃO NACIONAL DOS CARROCEIROS E CATADORES DE MATERIAIS RECICLÁVEIS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>493044</id>
+    <nome>SUG 4/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/2/2011 16:37:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Evento Nacional sobre a Regulamentação da Jornada de Trabalho da Enfermagem.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Confederação Nacional dos Trabalhadores  na Saúde</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>492062</id>
+    <nome>SUG 3/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/2/2011 09:53:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei que altera a redação dos artigos 33, 58, 59, 61, 63, 77, 81, 95, 110, 117 e 287 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para abolir o agravamento da pena pela reincidência e instituir o agravamento pela primariedade, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Associação Eduardo Banks</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>491859</id>
+    <nome>SUG 2/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/2/2011 16:37:00</datApresentacao>
+    <txtEmenta>Sugere Projeto de Lei para dispor sobre os Conselhos Federal e Regionais de Terapeutas e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Federação Nacional dos Terapeutas</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>491208</id>
+    <nome>SUG 1/2011 CLP</nome>
+    <tipoProposicao>
+      <id>285</id>
+      <sigla>SUG</sigla>
+      <nome>Sugestão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2011 11:10:00</datApresentacao>
+    <txtEmenta>Sugere a realização de Seminário Nacional sobre as Condições de Trabalho dos Trabalhadores na Saúde.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Confederação Nacional dos Trabalhadores  na Saúde</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

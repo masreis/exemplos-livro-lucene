@@ -1,0 +1,3617 @@
+<proposicoes>
+  <proposicao>
+    <id>2089452</id>
+    <nome>PEC 250/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>250</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/6/2016 15:42:00</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para estabelecer que a distribuição dos recursos do fundo partidário e acesso gratuito ao rádio e à televisão sejam distribuídos de acordo com a representação dos partidos políticos na Câmara dos Deputados. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aluisio Mendes</txtNomeAutor>
+      <idecadastro>178881</idecadastro>
+      <codPartido>137</codPartido>
+      <txtSiglaPartido>PTN       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2089416</id>
+    <nome>PEC 249/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>249</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/6/2016 15:07:00</datApresentacao>
+    <txtEmenta>Altera o artigo 39 da Constituição Federal, acrescentando - lhe novo dispositivo, para garantir o pagamento integral dos salários devidos aos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, vedado o seu parcelamento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto de Lucena</txtNomeAutor>
+      <idecadastro>160653</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2089031</id>
+    <nome>PEC 248/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>248</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2016 18:06:00</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para estabelecer que a distribuição dos recursos do Fundo Partidário e do tempo de acesso gratuito ao rádio e à TV, deverá considerar a dimensão das bancadas partidárias na Câmara dos Deputados na data da promulgação da presente Emenda Constitucional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Renata Abreu</txtNomeAutor>
+      <idecadastro>178989</idecadastro>
+      <codPartido>137</codPartido>
+      <txtSiglaPartido>PTN       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/6/2016 11:19:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-240/2016. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2088283</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 240/2016</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2089000</id>
+    <nome>PEC 247/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>247</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2016 17:03:00</datApresentacao>
+    <txtEmenta>Extingue o foro especial por prerrogativa de função, nas infrações penais comuns, para o Presidente e o Vice-Presidente da República, os Senadores, os Deputados, os Ministros do Supremo Tribunal Federal, o Procurador-Geral da República, os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, os membros dos Tribunais Superiores e do Tribunal de Contas da União, os chefes de missão diplomática de caráter permanente, os Governadores dos Estados e do Distrito Federal, os Prefeitos, os Desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios, os juízes estaduais, os juízes federais, incluídos os juízes da Justiça Militar e da Justiça do Trabalho, os membros do Ministério Público estadual e os do Ministério Público da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Celso Maldaner</txtNomeAutor>
+      <idecadastro>141405</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/6/2016 11:19:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-470/2005. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>303883</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 470/2005</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088568</id>
+    <nome>PEC 246/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>246</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2016 18:18:00</datApresentacao>
+    <txtEmenta>Altera o art. 203 da Constituição Federal para incluir o amparo à mulher vítima de violência entre os objetivos da assistência social.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088445</id>
+    <nome>PEC 245/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>245</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2016 10:57:00</datApresentacao>
+    <txtEmenta>Institui o sistema de governo parlamentarista no Brasil e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Rosado</txtNomeAutor>
+      <idecadastro>178948</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088396</id>
+    <nome>PEC 244/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>244</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 20:40:00</datApresentacao>
+    <txtEmenta>Acrescenta a alínea "d" ao inciso II do § 4º e o § 5º ao art. 177 da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>Trata da destinação de recursos da Contribuição de Intervenção no Domínio Econômico Combustíveis (Cide-Combustíveis) para financiamento de ações de mobilidade urbana. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lúcio Vale</txtNomeAutor>
+      <idecadastro>141484</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088395</id>
+    <nome>PEC 243/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>243</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 20:39:00</datApresentacao>
+    <txtEmenta>Altera o art. 160 e o art. 241 da Constituição Federal, para permitir que a União condicione a entrega das parcelas de arrecadação de tributos que cabem a outros entes federativos ao pagamento dos débitos do ente recebedor com consórcios públicos; e para permitir a transferência direta para os consórcios públicos dos recursos de que trata o art. 159, inciso I, alíneas "a", "b", "d" e "e". </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lúcio Vale</txtNomeAutor>
+      <idecadastro>141484</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088393</id>
+    <nome>PEC 242/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>242</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 20:20:00</datApresentacao>
+    <txtEmenta>Altera o art. 155 da Constituição Federal e acrescenta o art. 34-A ao Ato das Disposições Constitucionais Transitórias, para definir o compartilhamento entre os Estados e o Distrito Federal, das competências relativas ao imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, definido pelo art. 155, II.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Goulart</txtNomeAutor>
+      <idecadastro>178980</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088351</id>
+    <nome>PEC 241/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>241</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 18:47:00</datApresentacao>
+    <txtEmenta>Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/6/2016 11:44:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088283</id>
+    <nome>PEC 240/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>240</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 15:59:00</datApresentacao>
+    <txtEmenta>Disciplina a organização político-partidária brasileira.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Shéridan</txtNomeAutor>
+      <idecadastro>178961</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088060</id>
+    <nome>PEC 239/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>239</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/6/2016 10:17:00</datApresentacao>
+    <txtEmenta>Altera o parágrafo §2º, do art. 150, da Constituição Federal, para, "a vedação do inciso VI, a, é extensiva às autarquias, às fundações, às empresas públicas e às sociedades de economia mista que não exploram atividades econômicas, instituídas e mantidas pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados às suas finalidade essenciais ou às delas decorrentes".</txtEmenta>
+    <txtExplicacaoEmenta>Trata da imunidade tributária para as empresas públicas e sociedades de economia mista que não exploram atividade econômica.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Silas Câmara</txtNomeAutor>
+      <idecadastro>74356</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2016 15:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088004</id>
+    <nome>PEC 238/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>238</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/6/2016 20:14:00</datApresentacao>
+    <txtEmenta>Institui o sistema de governo parlamentarista e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Rosado</txtNomeAutor>
+      <idecadastro>178948</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/6/2016 09:18:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2087496</id>
+    <nome>PEC 237/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>237</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2016 17:57:00</datApresentacao>
+    <txtEmenta>Altera o art. 96 da Constituição da República Federativa do Brasil para incluir o parágrafo único, bem como acrescenta o § 4º ao art. 102 e o artigo 105-A, da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Trata da execução provisória de decisão penal condenatória proferida em segunda instância. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Carlos Mendes Thame</txtNomeAutor>
+      <idecadastro>73584</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2016 09:16:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2087489</id>
+    <nome>PEC 236/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>236</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2016 17:38:00</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para dispor sobre o afastamento do Presidente da República a partir da admissibilidade da denúncia de crime de responsabilidade pelo Plenário da Câmara dos Deputados e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Rosso</txtNomeAutor>
+      <idecadastro>160426</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2016 09:13:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2087407</id>
+    <nome>PEC 235/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>235</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2016 11:39:00</datApresentacao>
+    <txtEmenta>Altera os artigos 79, 80 e 85 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Dispõe sobre a condição para a substituição do Presidente e Vice-Presidente da República em caso de impedimento ou vacância do cargo.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Leônidas Cristino</txtNomeAutor>
+      <idecadastro>74299</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2016 09:13:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2087391</id>
+    <nome>PEC 234/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>234</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/6/2016 10:58:43</datApresentacao>
+    <txtEmenta>Modifica o Art. 144 à Constituição Federal, incluindo os departamentos estaduais de administração prisional e afins entre os órgãos de segurança pública.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Sabino</txtNomeAutor>
+      <idecadastro>178865</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/6/2016 09:13:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2087377</id>
+    <nome>PEC 233/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>233</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2016 19:58:00</datApresentacao>
+    <txtEmenta>Altera o art. 100 da Constituição Federal, para dispor sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais; e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias, para instituir regime especial de pagamento para os casos em mora.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2016 10:31:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania. Apense-se a esta a PEC-205/2016. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086995</id>
+    <nome>PEC 232/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>232</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/6/2016 17:38:45</datApresentacao>
+    <txtEmenta>Dá nova redação ao parágrafo segundo do art. 42 da Constituição Federal de 1988, determinando a equivalência entre os valores das pensões dos militares estaduais e dos militares federais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Sabino</txtNomeAutor>
+      <idecadastro>178865</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2016 10:31:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086981</id>
+    <nome>PEC 231/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>231</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/6/2016 17:19:34</datApresentacao>
+    <txtEmenta>Altera o art. 155, III, da Constituição Federal para instituir nova base de cálculo para o imposto sobre a propriedade de veículos automotores (IPVA).
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vicentinho Júnior</txtNomeAutor>
+      <idecadastro>137070</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2016 10:31:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086665</id>
+    <nome>PEC 230/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>230</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/6/2016 15:15:36</datApresentacao>
+    <txtEmenta>Altera o artigo 39 da Constituição Federal, para garantir o pagamento integral dos vencimentos devidos aos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, vedado o seu parcelamento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Francisco Floriano</txtNomeAutor>
+      <idecadastro>160677</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/6/2016 10:51:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086600</id>
+    <nome>PEC 229/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>229</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/6/2016 11:10:08</datApresentacao>
+    <txtEmenta>Renumera o parágrafo único do Artigo 160 da Constituição Federal e acresce o parágrafo segundo ao mesmo artigo, visando impedir retenção por parte da União em relação aos Estados-membros, Distrito Federal e Municípios; e dos Estados-membros em relação aos Municípios, de valores correspondentes a dotação orçamentária afetada a pagamento de salários de servidores públicos, dos entes em comento. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/6/2016 10:01:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-208/2016. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2081876</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 208/2016</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086481</id>
+    <nome>PEC 228/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>228</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2016 20:29:48</datApresentacao>
+    <txtEmenta>Inclui o art. 144-A na Constituição Federal, para determinar a aplicação de re-cursos mínimos pela União em Segurança Pública.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moses Rodrigues</txtNomeAutor>
+      <idecadastro>178997</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/6/2016 16:22:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-454/1997. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>14777</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 454/1997</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086221</id>
+    <nome>PEC 227/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>227</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2016 11:17:00</datApresentacao>
+    <txtEmenta>Prevê eleições diretas no caso de vacância da Presidência da República, exceto nos seis últimos meses do mandato.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Miro Teixeira</txtNomeAutor>
+      <idecadastro>74862</idecadastro>
+      <codPartido>225</codPartido>
+      <txtSiglaPartido>REDE      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/6/2016 16:42:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086220</id>
+    <nome>PEC 226/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>226</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/6/2016 11:16:26</datApresentacao>
+    <txtEmenta>Acresce o artigo 14A e institue o inciso IV ao Artigo 14 da CF e inciso VI ao Artigo 51 da Constituição Federal, estabelecendo o ato revogatório popular.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/6/2016 16:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2086167</id>
+    <nome>PEC 225/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>225</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2016 20:02:00</datApresentacao>
+    <txtEmenta>Altera dispositivos do art. 22 e do art. 144 da Constituição Federal para criar as polícias municipais, com missões de policiamento ostensivo e de manutenção da ordem pública. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moses Rodrigues</txtNomeAutor>
+      <idecadastro>178997</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/6/2016 16:24:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-266/2013. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>578465</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 266/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085663</id>
+    <nome>PEC 224/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>224</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/5/2016 18:07:21</datApresentacao>
+    <txtEmenta>Altera o Parágrafo 3º e acrescenta o parágrafo 5º ao artigo 176 da Constituição Federal, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Autoriza o poder público a explorar jazidas de substâncias minerais de uso  da construção civil em obras públicas. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marco Tebaldi</txtNomeAutor>
+      <idecadastro>160536</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/6/2016 16:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085172</id>
+    <nome>PEC 223/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>223</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2016 12:09:00</datApresentacao>
+    <txtEmenta>Acresce o artigo 14A e institue o inciso IV ao Artigo 14 da CF e inciso VI ao Artigo 51 da Constituição Federal, estabelecendo o ato revogatório popular. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/5/2016 12:31:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085018</id>
+    <nome>PEC 222/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>222</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/5/2016 17:07:56</datApresentacao>
+    <txtEmenta>Estabelece lista tríplice e requer a aprovação do Senado Federal para a escolha e nomeação do Ministro de Estado da Justiça e do Advogado-Geral da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Franklin Lima</txtNomeAutor>
+      <idecadastro>186775</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/5/2016 09:28:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084889</id>
+    <nome>PEC 221/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>221</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/5/2016 13:32:28</datApresentacao>
+    <txtEmenta>Inclui o inciso XVIII ao art. 49 da Constituição Federal, dispondo sobre a aprovação da indicação para o cargo de presidente, vice-presidente e diretor em empresa estatal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Covatti Filho</txtNomeAutor>
+      <idecadastro>178963</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/5/2016 09:28:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084719</id>
+    <nome>PEC 220/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>220</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/5/2016 17:29:00</datApresentacao>
+    <txtEmenta>Acrescenta o § 13 ao artigo 37 da Constituição Federal, para que a revisão geral anual não seja inferior à variação inflacionária. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/5/2016 09:28:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084335</id>
+    <nome>PEC 219/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>219</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/5/2016 16:15:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao Art. 57, § 2º, da Constituição Federal, para estabelecer que a sessão legislativa anual do Congresso Nacional não será encerrada sem a deliberação das contas prestadas pelo Presidente da República relativas ao ano imediatamente anterior</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/5/2016 09:09:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-120/2015. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1700995</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 120/2015</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084331</id>
+    <nome>PEC 218/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>218</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/5/2016 16:14:42</datApresentacao>
+    <txtEmenta>Dá nova redação ao art 27 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Fixa a data de posse de deputado estadual para 1º de fevereiro.   </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/5/2016 11:28:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084043</id>
+    <nome>PEC 217/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>217</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2016 10:58:18</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 166, estabelecendo a obrigatoriedade da execução orçamentária e financeira das programações da lei orçamentária que visem financiar pesquisas científicas e tecnológicas voltadas para a agricultura e a pecuária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Evair de Melo</txtNomeAutor>
+      <idecadastro>178871</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/5/2016 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2083826</id>
+    <nome>PEC 216/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>216</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/5/2016 14:40:01</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 208, inciso IV, para dispor sobre a prioridade de acesso das crianças com deficiência à educação infantil.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rômulo Gouveia</txtNomeAutor>
+      <idecadastro>141536</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/5/2016 15:45:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2083607</id>
+    <nome>PEC 215/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>215</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2016 16:48:40</datApresentacao>
+    <txtEmenta>Altera o art. 159 da Constituição Federal para aumentar a entrega de recursos pela União para o Fundo de Participação dos Estados (FPE) e Municípios (FPM).  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Hildo Rocha</txtNomeAutor>
+      <idecadastro>178884</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/5/2016 15:44:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-183/2015. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2075575</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 183/2015</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2083541</id>
+    <nome>PEC 214/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>214</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2016 13:54:00</datApresentacao>
+    <txtEmenta>Acresce o artigo 14A e institue o inciso IV ao Artigo 14 da CF e inciso VI ao Artigo 51 da Constituição Federal, estabelecendo o ato revogatório popular. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2016 15:21:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082753</id>
+    <nome>PEC 213/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>213</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/4/2016 14:37:03</datApresentacao>
+    <txtEmenta>Altera os artigos 21, 22 e 24 da Constituição Federal, dispondo sobre a competência para legislar sobre as Polícias Civis, Polícias Militares e Corpos de Bombeiros Militares e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alberto Fraga</txtNomeAutor>
+      <idecadastro>73579</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/5/2016 11:11:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082483</id>
+    <nome>PEC 212/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>212</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/4/2016 16:33:00</datApresentacao>
+    <txtEmenta>Acrescenta art. 101 ao Ato das Disposições Constitucionais Transitórias para instituir novo regime especial de pagamento de precatórios.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/5/2016 09:23:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082106</id>
+    <nome>PEC 211/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>211</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/4/2016 18:32:05</datApresentacao>
+    <txtEmenta>Acresce alínea ao inciso XVI do art. 37 da Constituição Federal para dispor sobre a possibilidade de acumulação de cargos de guarda municipal e agente de trânsito com outros cargos ou empregos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Sabino</txtNomeAutor>
+      <idecadastro>178865</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 16:18:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-179/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>546158</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 179/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081998</id>
+    <nome>PEC 210/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>210</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/4/2016 19:18:37</datApresentacao>
+    <txtEmenta>Altera a Constituição para criar, a Zona Franca Moveleira Itapeva - SP. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Goulart</txtNomeAutor>
+      <idecadastro>178980</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 16:08:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081963</id>
+    <nome>PEC 209/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>209</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/4/2016 17:00:05</datApresentacao>
+    <txtEmenta>Altera o inciso V do art. 203 da Constituição Federal, para estender a garantia de um salário mínimo de benefício mensal, dos 18 aos 21 anos, à pessoa órfã de pai e mãe na infância que tenha sido atendida em serviços de acolhimento institucional nos últimos cinco anos da concessão do benefício.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fausto Pinato</txtNomeAutor>
+      <idecadastro>66828</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 16:08:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081876</id>
+    <nome>PEC 208/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>208</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/4/2016 18:20:37</datApresentacao>
+    <txtEmenta>Renumera o parágrafo único do Artigo 160 da Constituição Federal e acresce o parágrafo segundo ao mesmo artigo, visando impedir retenção por parte da União em relação aos Estados-membros, Distrito Federal e Municípios; e dos Estados-membros em relação aos Municípios, de valores correspondentes a dotação orçamentária afetada a pagamento de salários de servidores públicos, dos entes em comento. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Pereira Júnior</txtNomeAutor>
+      <idecadastro>178887</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 16:08:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081855</id>
+    <nome>PEC 207/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>207</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/4/2016 16:36:59</datApresentacao>
+    <txtEmenta>Altera a Constituição para criar a Zona Franca de Dionísio Cerqueira. (ZFDC-SC).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Rodrigues</txtNomeAutor>
+      <idecadastro>160571</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 16:08:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081715</id>
+    <nome>PEC 206/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>206</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/4/2016 17:29:00</datApresentacao>
+    <txtEmenta>Altera o artigo 102, inciso I, alínea c, da Constituição Federal, dando novas providências sobre a prerrogativa de função no julgamento de infrações penais comuns.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cristiane Brasil</txtNomeAutor>
+      <idecadastro>93472</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 10:09:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-142/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>536261</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 142/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081528</id>
+    <nome>PEC 205/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>205</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2016 13:52:00</datApresentacao>
+    <txtEmenta>Altera o art. 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Silvio Torres</txtNomeAutor>
+      <idecadastro>73560</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/4/2016 10:09:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>2087377</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 233/2016</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081040</id>
+    <nome>PEC 204/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>204</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/3/2016 12:37:53</datApresentacao>
+    <txtEmenta>Altera a redação do § 3º do art. 60 da Constituição Federal, para estabelecer prazo para a promulgação das emendas. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bacelar</txtNomeAutor>
+      <idecadastro>69871</idecadastro>
+      <codPartido>137</codPartido>
+      <txtSiglaPartido>PTN       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2016 10:18:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080933</id>
+    <nome>PEC 203/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>203</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2016 19:25:47</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 1º do art. 144 da Constituição Federal, para atribuir à Polícia Federal a apuração dos crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional, definidos na Lei nº 7.716, de 5 de janeiro de 1989.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Tia Eron</txtNomeAutor>
+      <idecadastro>178862</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2016 10:18:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080818</id>
+    <nome>PEC 202/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>202</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2016 17:09:51</datApresentacao>
+    <txtEmenta>Confere autonomia administrativa e financeira às Polícias Civis, sob regime autárquico especial, e estabelece mandato fixo para o chefe da instituição.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Laerte Bessa</txtNomeAutor>
+      <idecadastro>141478</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/4/2016 10:18:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080574</id>
+    <nome>PEC 201/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>201</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/3/2016 16:21:41</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 149-A da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Permite que os Municípios e o Distrito Federal utilizem os eventuais valores excedentes arrecadados com a contribuição para o custeio do serviço de iluminação pública em obras de infraestrutura e em geração de energias renováveis.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gorete Pereira</txtNomeAutor>
+      <idecadastro>129618</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2016 11:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080470</id>
+    <nome>PEC 200/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>200</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/3/2016 19:11:00</datApresentacao>
+    <txtEmenta>Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/4/2016 10:11:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania. Apense-se a este a(o)PEC-254/2013. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>901</id>
+      <descricao>Especial</descricao>
+      <orgao>
+        <codOrgaoEstado>100068</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080373</id>
+    <nome>PEC 199/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>199</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/3/2016 18:27:00</datApresentacao>
+    <txtEmenta>Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2016 11:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080353</id>
+    <nome>PEC 198/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>198</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/3/2016 15:31:29</datApresentacao>
+    <txtEmenta>Dá nova redação aos artigos 24 e 144 da Constituição Federal para prever a competência legislativa concorrente da União, dos Estados e do Distrito Federal para legislar sobre as policias militares e os corpos de bombeiros militares e especificar princípios sobre a carreira nestas corporações.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cabo Sabino</txtNomeAutor>
+      <idecadastro>178865</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/4/2016 10:11:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-430/2009. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>458500</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 430/2009</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080300</id>
+    <nome>PEC 197/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>197</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/3/2016 11:36:17</datApresentacao>
+    <txtEmenta>Inclui o § 19 no art. 166 da Constituição Federal, para determinar que sejam aplicados em ações de Defesa 2% do Produto Interno Bruto (PIB). </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jô Moraes</txtNomeAutor>
+      <idecadastro>141503</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2016 11:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080196</id>
+    <nome>PEC 196/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>196</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/3/2016 15:18:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao inciso XVIII do art. 7º da Constituição Federal, para dispor sobre a licença-maternidade.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece que tanto a mãe biológica quanto a mãe adotiva de múltiplos tem o direito de ampliar em 30 (trinta) dias a licença maternidade para cada filho nascido vivo ou adotado além do primeiro.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2016 11:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2079777</id>
+    <nome>PEC 195/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>195</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/3/2016 19:57:06</datApresentacao>
+    <txtEmenta>Altera o art. 96 para incluir parágrafo único, acrescenta §4º ao art. 102 e o artigo 105-A na Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece que os Tribunais de apelação, ao proferirem julgamento de mérito em matéria penal, autorizarão, a pedido do Ministério Público, a execução provisória da decisão penal condenatória, ainda que na pendência de recurso extraordinário ou recurso especial.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Indio da Costa</txtNomeAutor>
+      <idecadastro>141389</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/3/2016 10:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2079587</id>
+    <nome>PEC 194/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>194</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/3/2016 20:57:00</datApresentacao>
+    <txtEmenta>Estabelece a exigência de conclusão de curso de graduação de nível superior em qualquer área como condição elegibilidade para os cargos de Senador, Deputado Federal, Estadual ou Distrital, Presidente, Vice-Presidente, Governador, Vice-Governador, Prefeito, Vice-Prefeito e Vereador.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irajá Abreu</txtNomeAutor>
+      <idecadastro>81232</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/3/2016 10:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2079152</id>
+    <nome>PEC 193/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>193</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/3/2016 18:02:13</datApresentacao>
+    <txtEmenta>Dá nova redação aos incisos I e II, do parágrafo único, do art. 158, da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a percentagem do repasse do produto da arrecadação do ICMS aos Municípios.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Nunes</txtNomeAutor>
+      <idecadastro>160619</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/3/2016 10:05:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-149/2015. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1806222</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 149/2015</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078737</id>
+    <nome>PEC 192/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>192</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/3/2016 15:19:32</datApresentacao>
+    <txtEmenta>Altera o §4° do artigo 66 da Constituição Federal para prever o quórum de maioria simples para rejeição do veto.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Rosso</txtNomeAutor>
+      <idecadastro>160426</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/3/2016 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078691</id>
+    <nome>PEC 191/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>191</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/3/2016 11:47:40</datApresentacao>
+    <txtEmenta>Acresce parágrafo único ao art. 88 da Constituição Federal, para determinar que o Ministro de Estado da Defesa seja escolhido entre os Oficiais Generais das Forças Armadas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jair Bolsonaro</txtNomeAutor>
+      <idecadastro>74847</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/3/2016 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078690</id>
+    <nome>PEC 190/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>190</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/3/2016 11:46:26</datApresentacao>
+    <txtEmenta>Acrescenta § 4º ao art. 56 da Constituição Federal, estabelecendo uma quarentena pelo prazo de 120 (cento e vinte) dias a parlamentares exonerados dos cargos públicos referidos no inciso I do art. 56 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pauderney Avelino</txtNomeAutor>
+      <idecadastro>74095</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/3/2016 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078689</id>
+    <nome>PEC 189/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>189</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/3/2016 11:43:15</datApresentacao>
+    <txtEmenta>Determina que o Congresso Nacional não entre em recesso a partir do recebimento da denúncia por crime de responsabilidade contra presidente da República até decisão final. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Afonso Motta</txtNomeAutor>
+      <idecadastro>178835</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/3/2016 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2077785</id>
+    <nome>PEC 188/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>188</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/2/2016 18:46:00</datApresentacao>
+    <txtEmenta>Altera a redação do art. 167 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Trata da transferência de encargos financeiros para a União, Estados, Distrito Federal e  Municípios.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/2/2016 15:00:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-122/2015. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1701050</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 122/2015</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2077621</id>
+    <nome>PEC 187/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>187</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/2/2016 18:53:18</datApresentacao>
+    <txtEmenta>Acrescenta o §8º ao art. 231 da Constituição Federal de 1988, a fim de permitir às comunidades indígenas praticar atividades agropecuárias e florestais em suas terras, bem como, comercializar aquilo que foi produzido e gerenciar sua renda.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vicentinho Júnior</txtNomeAutor>
+      <idecadastro>137070</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2016 10:15:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2076733</id>
+    <nome>PEC 186/2016</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>186</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/2/2016 15:35:48</datApresentacao>
+    <txtEmenta>Altera os §§ 1º e 3º do art. 128 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Trata do critério de escolha para os cargos de Procurador-Geral da República e Procurador-Geral de Justiça.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Pereira da Silva</txtNomeAutor>
+      <idecadastro>141518</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/2/2016 11:21:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-59/1995. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>14318</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 59/1995</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,64 @@
+<proposicoes>
+  <proposicao>
+    <id>559316</id>
+    <nome>RPLE 1/2012 CMO =&gt; PLN 24/2012 CN</nome>
+    <tipoProposicao>
+      <id>679</id>
+      <sigla>RPLE</sigla>
+      <nome>Relatório Preliminar Apresentado com Emendas</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/11/2012 15:21:00</datApresentacao>
+    <txtEmenta>voto pela aprovação na forma ora apresentada, com as alterações decorrentes das emendas, bem como dos ajustes de redação, identificados no texto. Ao Parecer Preliminar foram apresentadas 127 (cento e vinte e sete) emendas. O relator, Senador Romero Jucá, quanto às emendas, ofereceu voto pela APROVAÇÃO da emenda nº. 1; PREJUDICIALIDADE da emenda nº 62 e REJEIÇÃO das demais. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Romero Jucá</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

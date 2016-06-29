@@ -1,0 +1,242 @@
+<proposicoes>
+  <proposicao>
+    <id>481884</id>
+    <nome>RPA 2/2010 CFFC =&gt; PFC 84/2005</nome>
+    <tipoProposicao>
+      <id>614</id>
+      <sigla>RPA</sigla>
+      <nome>Relatório Parcial</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/6/2010 18:22:00</datApresentacao>
+    <txtEmenta>Relatório Parcial do Deputado Aníbal Gomes propondo que esta Comissão:
+a) tome conhecimento da documentação encaminhada por meio do Aviso nº 203-SGS-TCU-Plenário, de 22/02/2006. b) Reitere solicitação ao Tribunal de Contas da União para que se manifeste, no que tange às obras da BR-317 e da BR-364, no estado do Acre, acerca dos seguintes aspectos: 1) Fatos relevantes constatados em função das auditorias subseqüentes realizadas; 2) as conseqüências geradas em razão das irregularidades constatadas ao longo das fiscalizações (multas, ressarcimentos, representações etc); 3) denúncias remetidas ao Ministério Público Federal, no Estado do Acre, indicando as providências tomadas em relação à matéria; 4) eventual desvio de recursos financeiros para custear campanhas eleitorais locais e nacionais, mencionando, se possível, os beneficiados.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aníbal Gomes</txtNomeAutor>
+      <idecadastro>74212</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>474392</id>
+    <nome>RPA 3/2010 CPI-DIVI</nome>
+    <tipoProposicao>
+      <id>614</id>
+      <sigla>RPA</sigla>
+      <nome>Relatório Parcial</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6698</id>
+      <sigla>CPI-DIVI  </sigla>
+      <nome>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/4/2010 11:45:00</datApresentacao>
+    <txtEmenta>RELATÓRIO PARCIAL CPI Dívida Pública</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jô Moraes</txtNomeAutor>
+      <idecadastro>141503</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>6698</codOrgaoEstado>
+        <siglaOrgaoEstado>CPI-DIVI  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>474388</id>
+    <nome>RPA 2/2010 CPI-DIVI</nome>
+    <tipoProposicao>
+      <id>614</id>
+      <sigla>RPA</sigla>
+      <nome>Relatório Parcial</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6698</id>
+      <sigla>CPI-DIVI  </sigla>
+      <nome>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/4/2010 17:25:00</datApresentacao>
+    <txtEmenta>Relatório Parcial da Comissão Parlamentar de Inquérito que destinou-se a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Márcio Reinaldo Moreira</txtNomeAutor>
+      <idecadastro>74744</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>6698</codOrgaoEstado>
+        <siglaOrgaoEstado>CPI-DIVI  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>473847</id>
+    <nome>RPA 1/2010 CPI-DIVI</nome>
+    <tipoProposicao>
+      <id>614</id>
+      <sigla>RPA</sigla>
+      <nome>Relatório Parcial</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>6698</id>
+      <sigla>CPI-DIVI  </sigla>
+      <nome>Comissão Parlamentar de Inquérito destinada a investigar a dívida pública da União, Estados e Municípios, o pagamento de juros da mesma, os beneficiários destes pagamentos e o seu impacto nas políticas sociais e no desenvolvimento sustentável do País.</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/4/2010 10:25:00</datApresentacao>
+    <txtEmenta>RELATÓRIO PARCIAL sobre a DÍVIDA PÚBLICA INTERNA</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Valverde</txtNomeAutor>
+      <idecadastro>73938</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>6698</codOrgaoEstado>
+        <siglaOrgaoEstado>CPI-DIVI  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

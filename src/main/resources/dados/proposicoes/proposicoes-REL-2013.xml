@@ -1,0 +1,1797 @@
+<proposicoes>
+  <proposicao>
+    <id>604716</id>
+    <nome>REL 1/2013 CDHM =&gt; PFC 149/2013</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/12/2013 17:42:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Direitos Humanos e Minorias fiscalize os órgãos da administração direta e indireta da União responsáveis por atender a população atingida por contaminação por chumbo e outros metais pesados, por promover a recuperação ambiental das áreas degradadas, e por responsabilizar as empresas vinculadas à Sociedade Mineira e Metalúrgica de Peñarroya e suas sucessoras pelo passivo socioambiental deixado no Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto de Lucena</txtNomeAutor>
+      <idecadastro>160653</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>604436</id>
+    <nome>REL 2/2013 CEXDEST</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>537009</id>
+      <sigla>CEXDEST   </sigla>
+      <nome>Comissão Externa, com ônus para esta Casa, objetivando visitar a região serrana do Rio de Janeiro, para averiguar os danos sociais, ambientais e econômicos, decorrentes das enchentes, inundações e desmoronamentos, bem como verificar as providências que estão sendo tomadas no sentindo de atender as populações afetadas</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2013 14:17:00</datApresentacao>
+    <txtEmenta>COMISSÃO EXTERNA DESASTRES NA REGIÃO SERRANA 
+DO RIO DE JANEIRO - 2013
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sarney Filho</txtNomeAutor>
+      <idecadastro>74210</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>604220</id>
+    <nome>REL 5/2013 CCTCI =&gt; REL 3/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/12/2013 20:16:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial destinada a acompanhar as ações do Programa Nacional de Banda Larga.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Newton Lima</txtNomeAutor>
+      <idecadastro>160657</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603829</id>
+    <nome>REL 1/2013 CEXDEST</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>537009</id>
+      <sigla>CEXDEST   </sigla>
+      <nome>Comissão Externa, com ônus para esta Casa, objetivando visitar a região serrana do Rio de Janeiro, para averiguar os danos sociais, ambientais e econômicos, decorrentes das enchentes, inundações e desmoronamentos, bem como verificar as providências que estão sendo tomadas no sentindo de atender as populações afetadas</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2013 16:14:00</datApresentacao>
+    <txtEmenta>Relatório da Comissão Externa, com ônus para esta Casa, objetivando visitar a região serrana do Rio de Janeiro, para averiguar os danos sociais, ambientais e econômicos, decorrentes das enchentes, inundações e desmoronamentos, bem como verificar as providências que estão sendo tomadas no sentindo de atender as populações afetadas - CEXDEST</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sarney Filho</txtNomeAutor>
+      <idecadastro>74210</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>537009</codOrgaoEstado>
+        <siglaOrgaoEstado>CEXDEST   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603795</id>
+    <nome>REL 4/2013 CCTCI =&gt; REL 1/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2013 15:02:00</datApresentacao>
+    <txtEmenta>Relatório da Subcomissão Especial de Rádio Digital.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandro Alex</txtNomeAutor>
+      <idecadastro>160621</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603972</id>
+    <nome>REL 2/2013 CEENSI</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9157</id>
+      <sigla>CEENSI    </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio.</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/12/2013 11:40:00</datApresentacao>
+    <txtEmenta>Relatório final apresentado pelo Relator da Comissão, Deputado Wilson Filho, aprovado em reunião ocorrida em 26/11/2013, com as alterações sugeridas pelos membros da Comissão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wilson Filho</txtNomeAutor>
+      <idecadastro>160636</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9157</codOrgaoEstado>
+        <siglaOrgaoEstado>CEENSI    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602294</id>
+    <nome>REL 3/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2013 10:20:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial destinada a acompanhar as ações do Programa Nacional de Banda Larga</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Newton Lima</txtNomeAutor>
+      <idecadastro>160657</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601315</id>
+    <nome>REL 3/2013 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2013 17:27:00</datApresentacao>
+    <txtEmenta>Relatório da Subcomissão Especial para debater o tema 
+da violência contra a mulher
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosane Ferreira</txtNomeAutor>
+      <idecadastro>160614</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601195</id>
+    <nome>REL 1/2013 CEENSI</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9157</id>
+      <sigla>CEENSI    </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições para a reformulação do ensino médio.</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2013 10:34:00</datApresentacao>
+    <txtEmenta>Parecer do Relator da Comissão Especial de Reformulação do Ensino Médio.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wilson Filho</txtNomeAutor>
+      <idecadastro>160636</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9157</codOrgaoEstado>
+        <siglaOrgaoEstado>CEENSI    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>600563</id>
+    <nome>REL 4/2013 CESAUDE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9100</id>
+      <sigla>CESAUDE   </sigla>
+      <nome>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/11/2013 16:00:00</datApresentacao>
+    <txtEmenta>COMISSÃO ESPECIAL DESTINADA A DISCUTIR O FINANCIAMENTO DA SAÚDE PÚBLICA</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Geraldo Resende</txtNomeAutor>
+      <idecadastro>74374</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9100</codOrgaoEstado>
+        <siglaOrgaoEstado>CESAUDE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>600535</id>
+    <nome>REL 3/2013 CESAUDE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9100</id>
+      <sigla>CESAUDE   </sigla>
+      <nome>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/11/2013 14:00:00</datApresentacao>
+    <txtEmenta>Relatório da Comissão Especial sobre Financiamento da Saúde Pública - versão 3.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9100</codOrgaoEstado>
+        <siglaOrgaoEstado>CESAUDE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>598393</id>
+    <nome>REL 2/2013 CESAUDE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9100</id>
+      <sigla>CESAUDE   </sigla>
+      <nome>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2013 17:41:00</datApresentacao>
+    <txtEmenta>Comissão Especial Destinada a Debater o Financiamento da Saúde Pública. Relatório nº02 </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9100</codOrgaoEstado>
+        <siglaOrgaoEstado>CESAUDE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>598252</id>
+    <nome>REL 2/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2013 17:13:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial para analisar formas de financiamento de mídia alternativa, no âmbito da Comissão de Ciência, Tecnologia, Comunicação e Informática. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luciana Santos</txtNomeAutor>
+      <idecadastro>160628</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>597925</id>
+    <nome>REL 1/2013 CESAUDE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9100</id>
+      <sigla>CESAUDE   </sigla>
+      <nome>Comissão Especial destinada a discutir o Financiamento da Saúde Pública.</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/10/2013 14:47:00</datApresentacao>
+    <txtEmenta>Relatório "Financiamento da Saúde Pública" - Versão 1.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>9100</codOrgaoEstado>
+        <siglaOrgaoEstado>CESAUDE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>593043</id>
+    <nome>REL 2/2013 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/9/2013 14:59:00</datApresentacao>
+    <txtEmenta>RELATÓRIO FINAL DA SUBCOMISSÃO ESPECIAL DESTINADA A ANALISAR E DIAGNOSTICAR A SITUAÇÃO EM QUE SE ENCONTRAM AS POLÍTICAS DE GOVERNO RELACIONADAS ÀS DOENÇAS DETERMINADAS PELA POBREZA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Brito</txtNomeAutor>
+      <idecadastro>160553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>592899</id>
+    <nome>REL 1/2013 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/9/2013 18:07:00</datApresentacao>
+    <txtEmenta>Relatório Final da Subcomissão Especial de Rádio Digital destinada a estudar e avaliar o modelo de rádio digital a ser adotado no Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandro Alex</txtNomeAutor>
+      <idecadastro>160621</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>590999</id>
+    <nome>REL 1/2013 GTTERRAS</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>537060</id>
+      <sigla>GTTERRAS  </sigla>
+      <nome>Grupo de Trabalho destinado a debater a questão das terras indígenas</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/9/2013 17:33:00</datApresentacao>
+    <txtEmenta>Relatório Final do Grupo de Trabalho Destinado a Debater a Questão das Terras Indígenas</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lincoln Portela</txtNomeAutor>
+      <idecadastro>74585</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>537060</codOrgaoEstado>
+        <siglaOrgaoEstado>GTTERRAS  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584730</id>
+    <nome>REL 2/2013 CEMOTOR</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>536982</id>
+      <sigla>CEMOTOR   </sigla>
+      <nome>Comissão Especial destinada a debater e propor modificações à Lei 12.619, de 30 de abril de 2012, que regulamenta a Profissão de Motorista</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/7/2013 18:53:00</datApresentacao>
+    <txtEmenta>Relatório Final - Texto Consolidado, após a aprovação, com modificações, do Relatório Preliminar/01, em 03.07.13.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Valdir Colatto</txtNomeAutor>
+      <idecadastro>74010</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>536982</codOrgaoEstado>
+        <siglaOrgaoEstado>CEMOTOR   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>582617</id>
+    <nome>REL 1/2013 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2013 16:51:00</datApresentacao>
+    <txtEmenta>Relatório Preliminar
+Missão Oficial a Teresina - Piauí
+13 e 14 de junho de 2013
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>SUBCOMISSÃO ESPECIAL SOBRE VIOLÊNCIA CONTRA A MULHER</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Ordinária</descricao>
+      <orgao>
+        <codOrgaoEstado>537056</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>581896</id>
+    <nome>REL 2/2013 CFFC =&gt; REQ 3/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/6/2013 17:07:00</datApresentacao>
+    <txtEmenta>apresenta o relatório das atividades de 2012 da Subcomissão Permanente para Acompanhamento, Fiscalização e Controle dos Recursos Públicos Federais destinados à Copa de 2014 e às Olimpíadas de 2016.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcelo Matos</txtNomeAutor>
+      <idecadastro>76287</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>581498</id>
+    <nome>REL 1/2013 CEMOTOR</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>536982</id>
+      <sigla>CEMOTOR   </sigla>
+      <nome>Comissão Especial destinada a debater e propor modificações à Lei 12.619, de 30 de abril de 2012, que regulamenta a Profissão de Motorista</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/6/2013 21:18:00</datApresentacao>
+    <txtEmenta>descreve o trabalho desenvolvido pela "Comissão Especial destinada a debater e propor modificações à Lei nº 12.619, de 30 de abril de 2012, que regulamenta a profissão de motorista", concluindo pela apresentação de anteprojeto de lei sobre o tema.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Valdir Colatto</txtNomeAutor>
+      <idecadastro>74010</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>536982</codOrgaoEstado>
+        <siglaOrgaoEstado>CEMOTOR   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580423</id>
+    <nome>REL 1/2013 CEXSANTA</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>536983</id>
+      <sigla>CEXSANTA  </sigla>
+      <nome>Comissão Externa destinada a acompanhar a apuração dos fatos relacionados à tragédia que vitimou centenas de jovens em um incêndio no município de Santa Maria, Rio Grande do Sul, e oferecer sugestão de aperfeiçoamento da legislação sobre o tema.</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/6/2013 15:55:00</datApresentacao>
+    <txtEmenta>Relatório da Deputada Elcione Barbalho, Sub-Relatora da Comissão Externa destinada a acompanhar a apuração dos fatos relacionados à tragédia que vitimou centenas de jovens em um incêndio no Município de Santa Maria, Rio Grande do Sul, e oferecer sugestão de aperfeiçoamento da Legislação sobre o tema - CEXSANTA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Elcione Barbalho</txtNomeAutor>
+      <idecadastro>74075</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580308</id>
+    <nome>REL 1/2013 CPICRIAN</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>9140</id>
+      <sigla>CPICRIAN  </sigla>
+      <nome>Comissão Parlamentar de Inquérito destinada a apurar denúncias de turismo sexual e exploração sexual de crianças e adolescentes, conforme diversas matérias publicadas pela imprensa.</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2013 18:00:00</datApresentacao>
+    <txtEmenta>Relatório Parcial da Comissão Parlamentar de Inquérito - Exploração Sexual de Crianças e Adolescentes sobre o funcionamento de boates e casas de espetáculo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Liliam Sá</txtNomeAutor>
+      <idecadastro>160533</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>9140</codOrgaoEstado>
+        <siglaOrgaoEstado>CPICRIAN  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>579078</id>
+    <nome>REL 1/2013 CFFC =&gt; REQ 277/2012 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/5/2013 10:35:00</datApresentacao>
+    <txtEmenta>Apresenta as atividades da Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida (PMCMV).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wellington Roberto</txtNomeAutor>
+      <idecadastro>74043</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576778</id>
+    <nome>REL 5/2013 CAPADR =&gt; REL 4/2013 CAPADR =&gt; REQ 24/2011 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/5/2013 15:55:00</datApresentacao>
+    <txtEmenta>SUBCOMISSÃO ESPECIAL para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico - SUBMERCO - Relatório da Submerco
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>573945</id>
+    <nome>REL 1/2013 CMADS</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>6174</id>
+      <sigla>CMADS     </sigla>
+      <nome>Comissão de Meio Ambiente e Desenvolvimento Sustentável</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2013 19:20:00</datApresentacao>
+    <txtEmenta>RELATÓRIO FINAL  DA SUBCOMISSÃO RIO+20.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Tripoli</txtNomeAutor>
+      <idecadastro>141472</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Ordinária</descricao>
+      <orgao>
+        <codOrgaoEstado>9074</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>573707</id>
+    <nome>REL 4/2013 CAPADR =&gt; REQ 24/2011 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/4/2013 09:25:00</datApresentacao>
+    <txtEmenta>Subcomissão Especial para tratar das assimetrias do Mercosul em relação aos produtores brasileiros e aos do Bloco Econômico</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luis Carlos Heinze</txtNomeAutor>
+      <idecadastro>73483</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571811</id>
+    <nome>REL 3/2013 CAPADR =&gt; REQ 29/2011 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 17:50:00</datApresentacao>
+    <txtEmenta>RELATORIO FINAL DA SUBCOMISSÃO ESPECIAL COM A FINALIDADE DE DISCUTIR AS QUESTÕES ACERCA DAS ENERGIAS RENOVÁVEIS NA AGRICULTURA E DAS POLÍTICAS PÚBLICAS PARA A AGRICULTURA FAMILIAR E EXTENSÃO RURAL (SUBAGRIF) </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Oziel Oliveira</txtNomeAutor>
+      <idecadastro>160650</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Ordinária</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571761</id>
+    <nome>REL 1/2013 CEXINDI</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>536965</id>
+      <sigla>CEXINDI   </sigla>
+      <nome>Comissão Externa para acompanhar a luta da comunidade indígena Guarani-Kaiowá, do Mato Grosso do Sul, para permanecer às margens do Rio Hovy, próximo ao território tradicional Pyelito Kue/Mbarakay</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 15:27:00</datApresentacao>
+    <txtEmenta>Relatório final da Comissão Externa para Acompanhar a Luta da Comunidade Indígena Guarani-Kaiowá, do Mato Grosso do Sul, para Permanecer às Margens do Rio Hovy, Próximo ao Território Tradicional Pyelito Kue/Mbarakay.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sarney Filho</txtNomeAutor>
+      <idecadastro>74210</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>536965</codOrgaoEstado>
+        <siglaOrgaoEstado>CEXINDI   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570991</id>
+    <nome>REL 2/2013 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2013 16:22:00</datApresentacao>
+    <txtEmenta>SUBCOMISSÃO PERMANENTE PARA ACOMPANHAR O PROCESSO DE FUSÃO ENTRE PERDIGÃO E SADIA, JBS E BERTIN, MARFRIG E SEARA, E PROPOR MEDIDAS QUE EVITEM IMPACTOS NEGATIVOS AOS TRABALHADORES, PRODUTORES E ÀS REGIÕES ONDE AS EMPRESAS ESTÃO INSTALADAS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão  Permanente para acompanhar o processo de fusão entre Perdigão e Sadia, JBS e Bertim, Marfrig e Seara, Citrosuco e Citrovita, e propor medidas que evitem impactos negativos aos trabalhadores, produtores e às regiões onde as empresas estão instaladas.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570621</id>
+    <nome>REL 1/2013 CAPADR =&gt; REQ 9/2011 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/4/2013 14:50:00</datApresentacao>
+    <txtEmenta>Relatório parcial da Subcomissão Permanente destinada a acompanhar, avaliar e propor medidas sobre a produção de leite no mercado nacional incluindo: a fixação de preço justo para os produtores; o combate aos cartéis na produção dos insumos lácteos; o estabelecimento de mecanismos de proteção do mercado interno de importação de produtos subsidiados; e a redefinição da carga tributária sobre leite in natura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alceu Moreira</txtNomeAutor>
+      <idecadastro>160559</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1120</id>
+      <descricao>Devolvida ao Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>2001</codOrgaoEstado>
+        <siglaOrgaoEstado>CAPADR    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

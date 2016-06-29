@@ -1,0 +1,796 @@
+<proposicoes>
+  <proposicao>
+    <id>1715661</id>
+    <nome>CON 13/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/9/2015 21:43:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de Deputado Federal no exercício do mandato presidir a Confederação Brasileira de Futebol.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/10/2015 15:08:00</datDespacho>
+      <txtDespacho>Oficie-se ao Senhor Deputado MARCUS VICENTE, encaminhando-lhe cópia da resposta referida em epígrafe. Publique-se. </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1692979</id>
+    <nome>CON 12/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/8/2015 11:59:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de o parlamentar constituir e/ou figurar como gerente de sociedade por quotas de responsabilidade limitada, na forma que especifica. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/8/2015 12:56:00</datDespacho>
+      <txtDespacho>Numere-se como consulta à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, “c”, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>1579440</codProposicaoPrincipal>
+        <proposicaoPrincipal>CON 11/2015 =&gt; REQ 2437/2015</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1579440</id>
+    <nome>CON 11/2015 =&gt; REQ 2437/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/7/2015 20:13:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de o Deputado constituir sociedade empresarial com pessoas de sua família.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/9/2015</datDespacho>
+      <txtDespacho>Deferido o Requerimento n. 2.808/2015, conforme despacho do seguinte teor: “Defiro o pedido contido no Requerimento n. 2.808/2015. Apense-se a Consulta n. 12/2015 à Consulta n. 11/2015, nos termos do art. 142, caput, e do art. 143, inciso II, alínea “b”, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.”.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1301759</id>
+    <nome>CON 10/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/6/2015 16:17:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possibilidade de serem apreciados recursos interpostos contra a apreciação conclusiva de matéria pelas Comissões ou contra pareceres terminativos exarados pelos orgãos competentes.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/6/2015</datDespacho>
+      <txtDespacho>Formule-se consulta desta Presidência, nos termos do art. 32, IV, c, do Regimento Interno da Câmara dos Deputados. Numere-se e encaminhe-se à Comissão de Constituição de Justiça e de Cidadania. Publique-se. Oficie-se. </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1243651</id>
+    <nome>CON 9/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2015 15:24:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Relações Exteriores e de Defesa Nacional sobre autorização de acesso, pela Empresa Brasileira de Pesquisa Agropecuária - Embrapa, ao projeto de pesquisa intilulado "Identificação etnobotânica de variedades locais de mandioca utilizadas na regional do Juruá, Acre" (Instituto do Patrimônio Histórico e Artístico Nacional-IPHAN, Processo nº 01450.010202/2014-38).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/5/2015</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência e encaminhe-se à Comissão de Relações Exteriores e de Defesa Nacional - CREDN, para se pronunciar acerca da matéria, na forma do art. 126, caput, combinado com o art. 32, XV, “h”, do Regimento Interno da Câmara dos Deputados - RICD. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1243649</id>
+    <nome>CON 8/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2015 15:12:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Relações Exteriores e de Defesa Nacional sobre autorização de acesso, pela Empresa Brasileira de Pesquisa Agropecuária - Embrapa, ao projeto de pesquisa intilulado "Conservação da agrobiodiversidade da mandioca e dinâmica sócio-econômica de comunidades rurais de pequenos agricultores do Mato Grosso" (Ministério do Meio Ambiente - MMA, Processo 02000.003025/2013-13).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/5/2015</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência e encaminhe-se à Comissão de Relações Exteriores e de Defesa Nacional - CREDN, para se pronunciar acerca da matéria, na forma do art. 126, caput, combinado com o art. 32, XV, “h”, do Regimento Interno da Câmara dos Deputados - RICD. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1239719</id>
+    <nome>CON 7/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2015 14:47:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Relações Exteriores e de Defesa Nacional sobre autorização de acesso, pela empresa Solabia Biotecnológica Ltda., ao projeto de pesquisa intilulado "Estudo de espécie da família Lecythidaceae para fins de bioprospecção e desenvolvimento tecnológico" (Ministério do Meio Ambiente - MMA, Processo nº 02000.001617/2014-81).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/9/2015 11:44:00</datDespacho>
+      <txtDespacho>Oficie-se ao Ministro de Estado Chefe do Gabinete de Segurança Institucional da Presidência da República, informando-lhe que, no tocante ao pedido de acesso ao patrimônio genético referido em epígrafe, a Presidência da Câmara dos Deputados se manifesta nos termos do parecer aprovado pela Comissão de Relações Exteriores e de Defesa Nacional na Consulta n. 7/2015. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1239718</id>
+    <nome>CON 6/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2015 14:10:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Relações Exteriores e de Defesa Nacional sobre autorização de acesso, pela Universidade Federal do Pará - UFPA, ao projeto de pesquisa intilulado "Etnoconservação de Sementes Crioulas entre os Ticuna em situação de tríplice fronteira (Brasil, Colômbia e Peru)". (Instituto do Patrimônio Histórico e Artístico Nacional-IPHAN, Processo nº 01450.006007/2014-11).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1230388</id>
+    <nome>CON 5/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2015 18:34:00</datApresentacao>
+    <txtEmenta>Consulta ao Conselho de Ética e Decoro Parlamentar sobre emissão de carta de apresentação para candidatos a emprego e outros pedidos de eleitores a Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/5/2015 18:46:00</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se ao Conselho de Ética e Decoro Parlamentar. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1198100</id>
+    <nome>CON 4/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2015 10:08:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a ocorrência de hipótese de incompatibilidade em razão da prática da medicina, por deputado federal titular médico, no exercicio do mandato, na condição de cirurgião credenciado pelo Sistema Único de Saúde - SUS.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Presidente da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/4/2015 10:43:00</datDespacho>
+      <txtDespacho>Numere-se como consulta à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, c, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1197825</id>
+    <nome>CON 3/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/3/2015 16:10:00</datApresentacao>
+    <txtEmenta>Consulta do Presidente da Câmara dos Deputados, na condição de membro do Conselho de Defesa Nacional, o projeto de pesquisa intitulado "Produção de sementes de erva mate geneticamente melhoradas para produção de massa foliar", conforme pedido constante do Processo MMA nº 02000.002577/2012-23, para fins de desenvolvimento tecnológico.	
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/3/2015 10:28:00</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência e encaminhe-se à Comissão de Relações Exteriores e de Defesa Nacional - CREDN, para se pronunciar acerca da matéria, na forma do art. 126, caput, combinado com o art. 32, XV, “h”, do Regimento Interno da Câmara dos Deputados - RICD. Publique-se.  </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1029056</id>
+    <nome>CON 2/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2015 17:33:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a ocorrência de hipóteses de incompatibilidade em razão da prestação, por deputado federal titular médico, no exercício do mandato, de atendimento à população de forma gratuita, em consultório particular.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/5/2015 11:25:00</datDespacho>
+      <txtDespacho>Encaminhe-se, por cópia, ao Senhor Deputado Alexandre Serfiotis. Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>946786</id>
+    <nome>CON 1/2015</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/2/2015 11:04:00</datApresentacao>
+    <txtEmenta>Consulta do Presidente da Câmara dos Deputados, na condição de membro do Conselho de Defesa Nacional, o projeto de pesquisa intitulado "Biodiversidade de Psylloidea no Brasil". Processo n. 01300.002152/2012-77. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/2/2015</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência e encaminhe-se à Comissão de Relações Exteriores e de Defesa Nacional - CREDN, para se pronunciar acerca da matéria, na forma do art. 126, caput, combinado com o art. 32, XV, “h”, do . Regimento Interno da Câmara dos Deputados - RICD. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

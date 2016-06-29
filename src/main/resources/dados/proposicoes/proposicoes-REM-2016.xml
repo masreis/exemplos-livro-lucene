@@ -1,0 +1,801 @@
+<proposicoes>
+  <proposicao>
+    <id>2089029</id>
+    <nome>REM 14/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2016 17:57:00</datApresentacao>
+    <txtEmenta>Questiona transmissão ao vivo da entrevista coletiva do Deputado Eduardo Cunha.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2016 11:25:00</datDespacho>
+      <txtDespacho>Encaminhe-se à Secretaria de Comunicação Social, para manifestação.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2088907</id>
+    <nome>REM 13/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2016 14:04:00</datApresentacao>
+    <txtEmenta>Requer, com base nos artigos 96, 234 e 264 do RICD, que medidas administrativas sejam tomadas para que irregularidades nos serviços administrativos da Casa, no que se refere ao mau uso da TV Câmara, sejam apuradas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Maria do Rosário</txtNomeAutor>
+      <idecadastro>74398</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2016 11:50:00</datDespacho>
+      <txtDespacho>Encaminhe-se à Secretaria de Comunicação Social.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085701</id>
+    <nome>REM 12/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/5/2016 21:25:00</datApresentacao>
+    <txtEmenta>Questiona que providências serão adotadas pelo Departamento de Polícia Legislativa e pela Secretaria da Mulher devido às ameaças sofridas pela Deputada Moema Gramacho no dia 23/05/2016.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Maria do Rosário</txtNomeAutor>
+      <idecadastro>74398</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/6/2016 18:45:00</datDespacho>
+      <txtDespacho>Não conheço da presente reclamação, porque (a) não foi informada qualquer irregularidade nos serviços administrativos prestados pela Casa e (b) a Secretaria da Mulher está afeta a questões relacionadas à igualdade de gênero e aos direitos da mulher, não sendo este o caso da alegação formulada. Publique-se. Oficie-se..</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085212</id>
+    <nome>REM 11/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/5/2016 15:04:00</datApresentacao>
+    <txtEmenta>Reclama da conduta de um agente do Departamento de Polícia Legislativa que não permitiu que uma jornalista que o acompanhava durante uma entrevista acessasse o Plenário Ulysses Guimarães.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Edmilson Rodrigues</txtNomeAutor>
+      <idecadastro>134812</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/5/2016</datDespacho>
+      <txtDespacho>Encaminhe-se ao Diretor-Geral.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082806</id>
+    <nome>REM 10/2016 =&gt; REQ 4323/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2016 16:11:00</datApresentacao>
+    <txtEmenta>Apresenta Reclamação para solicitar que a Mesa determine a suspensão do registro da Frente Parlamentar intitulada "Frente Parlamentar Mista em Defesa da Democracia". Afirma que as assinaturas dadas em apoiamento à criação da Frente foram utilizadas como um instrumento de manifestação contra o impeachment. Afirma que está providenciando a retirada de sua assinatura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/4/2016 16:13:00</datDespacho>
+      <txtDespacho>Numere-se como Reclamação, que se declara prejudicada, tendo em vista a devolução à autora do Requerimento n. 4.323/2016, que solicita o registro da Frente Parlamentar Mista em Defesa da Democracia. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082790</id>
+    <nome>REM 9/2016 =&gt; CON 15/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2016 11:26:00</datApresentacao>
+    <txtEmenta>Reclama que a Secretaria-Geral da Mesa não numerou e encaminhou como consulta à Comissão de Constituição e Justiça e de Cidadania, Oficio n. 069, de 2016, do Conselho de ética e Decoro Parlamentar da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Carlos Araújo</txtNomeAutor>
+      <idecadastro>74140</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/5/2016</datDespacho>
+      <txtDespacho>Declaro prejudicada a Reclamação n. 9/2016, nos termos do art. 164, I, do Regimento Interno, por perda superveniente de objeto. Publique-se. Oficie-se. Arquive-se.
+DCD de 17/05/16 PÁG 173 COL 01. VOL I/II.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082789</id>
+    <nome>REM 8/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2016 11:23:00</datApresentacao>
+    <txtEmenta>Solicita, com fundamento nos art. 73, II c/c art.114, IV, todos do Regimento Interno , que o Presidente determine que os oradores não sejam interrompidos pelos demais Deputados. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bohn Gass</txtNomeAutor>
+      <idecadastro>160538</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/5/2016 11:57:00</datDespacho>
+      <txtDespacho>Declaro prejudicada a Reclamação n. 8/2016, nos termos do art. 164, I, do Regimento Interno, por perda superveniente de objeto. Publique-se. Oficie-se. Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082138</id>
+    <nome>REM 7/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2016 12:25:13</datApresentacao>
+    <txtEmenta>Requer a esta Corregedoria que apure, nos termos dos art. 21-F, III, e 267, do Regimento Interno da Câmara dos Deputados, o cometimento de atos atentatórios ao decoro parlamentar pela Deputada LUCIANA SANTOS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/5/2016 14:51:00</datDespacho>
+      <txtDespacho>Cancele-se a classificação atribuída ao expediente em epígrafe, tendo em vista que não se cuida de reclamação, nos termos do art. 96 do Regimento Interno da Câmara dos Deputados. Após, encaminhe-se o expediente à autoridade à qual dirigido, para que proceda como entender de direito.Publique-se.Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081227</id>
+    <nome>REM 6/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2016 11:15:00</datApresentacao>
+    <txtEmenta>Reclama e solicita providências para apurar a origem de publicação apócrifa distribuida no dia 31 de março de 2016 nos corredores da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Carlos Aleluia</txtNomeAutor>
+      <idecadastro>74553</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/5/2016 14:18:00</datDespacho>
+      <txtDespacho>Oficie-se ao Senhor Deputado autor da Reclamação em epígrafe para prestar informações a respeito das providências adotadas.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080816</id>
+    <nome>REM 5/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2016 17:01:21</datApresentacao>
+    <txtEmenta>Reclama do descumprimento da Resolução da Câmara dos Deputados nº 3, de 2003, a qual instituiu o Diploma Mulher-Cidadã Carlota Pereira de Queirós.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Laura Carneiro</txtNomeAutor>
+      <idecadastro>74856</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/4/2016 15:10:00</datDespacho>
+      <txtDespacho>Esclareça-se à reclamante que, em 4 de abril de 2016, a Presidência da Câmara dos Deputados incumbiu a Segunda-Secretaria de analisar a possibilidade de esse órgão, em parceria com a Secretaria da Mulher, tomar as providências necessárias ao cumprimento da Resolução n. 3/2003, e, em caso positivo, de formular proposta de ato a ser submetida à Mesa Diretora. Publique-se. Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080782</id>
+    <nome>REM 4/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2016 15:55:26</datApresentacao>
+    <txtEmenta>Solicita apuração sobre a participação de servidores em manifestações político-partidária no salão verde em horário de expediente e adoção de medidas administrava cabíveis</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Julio Lopes</txtNomeAutor>
+      <idecadastro>74253</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/5/2016 11:50:00</datDespacho>
+      <txtDespacho>Oficie-se o Senhor Deputado autor da Reclamação em epígrafe para prestar-lhe informações a respeito das providências adotadas.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2080191</id>
+    <nome>REM 3/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/3/2016 15:07:00</datApresentacao>
+    <txtEmenta>Reclamação, nos termos do art. 264 c/c art. 96, ambos do Regimento Interno desta Casa, em razão de graves irregularidades ocorridas no serviço de comunicação social desta Câmara dos Deputados. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erika Kokay</txtNomeAutor>
+      <idecadastro>160575</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/3/2016 15:08:00</datDespacho>
+      <txtDespacho>Encaminhe-se à Secretaria de Comunicação Social, para manifestação. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2079670</id>
+    <nome>REM 2/2016</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/3/2016 14:03:00</datApresentacao>
+    <txtEmenta>Solicita, com fundamento no parágrafo único do art. 130 do Regimento Interno, a devolução à Comissão de Constituição e Justiça e de Cidadania - CCJC - do parecer por ela proferido ao apreciar o PL 3.123 (teto remuneratório dos agentes políticos e públicos), pois a manifestação da Comissão não foi feita de forma objetiva acarretando dúvida sobre o posicionamento da CCJC acerca da constitucionalidade de alguns dos dispositivos.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Faria de Sá</txtNomeAutor>
+      <idecadastro>73434</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100061</codOrgaoEstado>
+        <siglaOrgaoEstado>NAJUR(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078540</id>
+    <nome>REM 1/2016 =&gt; MPV 694/2015 </nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/3/2016 13:23:00</datApresentacao>
+    <txtEmenta>Reclama, com fundamento nos art. 171 e 175 do Regimento Interno, da continuação da discussão da Medida Provisória (MPV) nº 694/2015 na sessão extraordinária realizada em 01/03/2016.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Afonso Florence</txtNomeAutor>
+      <idecadastro>160508</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100061</codOrgaoEstado>
+        <siglaOrgaoEstado>NAJUR(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

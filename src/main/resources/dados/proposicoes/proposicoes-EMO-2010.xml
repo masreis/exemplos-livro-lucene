@@ -1,0 +1,250 @@
+<proposicoes>
+  <proposicao>
+    <id>487046</id>
+    <nome>EMO 1/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 09:30:00</datApresentacao>
+    <txtEmenta>Programa: Proteção a pessoas ameaçadas. Ação: Proteção a defensores de direitos humanos. Valor previsto no orçamento para 2011 - R$ 2.200.000,00. Emenda proposta pela CDHM - R$ 5.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487047</id>
+    <nome>EMO 3/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 09:30:00</datApresentacao>
+    <txtEmenta>Programa: Brasil Quilombola. Ação: Fomento ao desenvolvimento local para comunidades remanescentes de quilombos. Valor previsto no orçamento para 2011 - R$ 7.916.000,00. Emenda proposta pela CDHM - R$ 100.000.000,00
+
+
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487048</id>
+    <nome>EMO 2/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 09:30:00</datApresentacao>
+    <txtEmenta>Programa: Garantia e acesso a direitos. Ação: Apoio a serviços de prevenção e combate à homofobia.Valor previsto no orçamento para 2011 - R$ 800.000,00. Emenda proposta pela CDHM - R$ 11.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487050</id>
+    <nome>EMO 4/2010 CDHM</nome>
+    <tipoProposicao>
+      <id>287</id>
+      <sigla>EMO</sigla>
+      <nome>Emenda ao Orçamento</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>2007</id>
+      <sigla>CDHM      </sigla>
+      <nome>Comissão de Direitos Humanos e Minorias</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 09:30:00</datApresentacao>
+    <txtEmenta>Programa: Prevenção e enfrentamento da violência contra as mulheres. Ação: Ampliação e consolidação da Rede de Serviços Especializados de Atendimento às Mulheres em Situação de Violência. Valor previsto no orçamento para 2011 - R$ 25.700.000,00. Emenda proposta pela CDHM - R$ 145.000.000,00</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Minorias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2007</codOrgaoEstado>
+        <siglaOrgaoEstado>CDHM      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

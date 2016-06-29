@@ -1,0 +1,177 @@
+<proposicoes>
+  <proposicao>
+    <id>533800</id>
+    <nome>PRN 4/2011</nome>
+    <tipoProposicao>
+      <id>142</id>
+      <sigla>PRN</sigla>
+      <nome>Projeto de Resolução do Congresso Nacional</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/12/2011 15:29:00</datApresentacao>
+    <txtEmenta>Altera o § 3° do art. 6° da Resolução nº 1, de 2002- CN, para admitir a concessão de prazo de até duas sessões ordinárias, independente de deliberação do Plenário, mesmo que a Medida Provisória esteja sobrestando a pauta de votação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/2/2012 11:44:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados, nos termos do art. 128, § 3º, do Regimento Comum do Congresso Nacional.
+Proposição Sujeita à Apreciação do Plenário
+Regime de Tramitação: Especial
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>521288</id>
+    <nome>PRN 3/2011</nome>
+    <tipoProposicao>
+      <id>142</id>
+      <sigla>PRN</sigla>
+      <nome>Projeto de Resolução do Congresso Nacional</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/9/2011 16:40:00</datApresentacao>
+    <txtEmenta>Altera a Resolução nº 1, de 2006, para dispor sobre o Orçamento Cidadão.</txtEmenta>
+    <txtExplicacaoEmenta>Divulgação gratuita das matérias relacionadas às despesas, receitas e gestão orçamentária do Governo Federal.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Renan Filho</txtNomeAutor>
+      <idecadastro>160623</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/9/2011 16:47:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados, nos termos do art. 128, § 3º do Regimento comum do Congresso Nacional.
+Proposição Sujeita à Apreciação do Plenário
+Regime de Tramitação: Especial
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>926</id>
+      <descricao>Aguardando Apreciação pelo Senado Federal</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>501067</id>
+    <nome>PRN 2/2011</nome>
+    <tipoProposicao>
+      <id>142</id>
+      <sigla>PRN</sigla>
+      <nome>Projeto de Resolução do Congresso Nacional</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/5/2011 10:01:00</datApresentacao>
+    <txtEmenta>Altera o art. 47 da Resolução nº 1, de 2006 - CN, definindo novas regras para a apresentação de emendas coletivas de bancada estadual ao Projeto de Lei Orçamentária Anual.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ciro Nogueira</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/5/2011</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados, nos termos do art. 128, §3º, do Regimento Comum do Congresso Nacional.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

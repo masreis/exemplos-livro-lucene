@@ -1,0 +1,67 @@
+<proposicoes>
+  <proposicao>
+    <id>1279139</id>
+    <nome>DOC 0/2015 CCP =&gt; PL 7902/2014</nome>
+    <tipoProposicao>
+      <id>610</id>
+      <sigla>DOC</sigla>
+      <nome>Documentos internos</nome>
+    </tipoProposicao>
+    <numero>0</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>186</id>
+      <sigla>CCP       </sigla>
+      <nome>COORDENAÇÃO DE COMISSÕES PERMANENTES</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2015 11:46:14</datApresentacao>
+    <txtEmenta>DOC</txtEmenta>
+    <txtExplicacaoEmenta>Impacto Orçamentário do Projeto</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>
+      </txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

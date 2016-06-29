@@ -1,0 +1,514 @@
+<proposicoes>
+  <proposicao>
+    <id>608566</id>
+    <nome>EMC-A 1/2014 CVT =&gt; PL 2976/2011</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2016</id>
+      <sigla>CVT       </sigla>
+      <nome>Comissão de Viação e Transportes</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2014 16:57:00</datApresentacao>
+    <txtEmenta>Determina a realização do teste de impacto (crash test) em modelos de veículos automotores fabricados ou montados no País, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Viação e Transportes</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608567</id>
+    <nome>EMC-A 2/2014 CVT =&gt; PL 2976/2011</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2016</id>
+      <sigla>CVT       </sigla>
+      <nome>Comissão de Viação e Transportes</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2014 16:57:00</datApresentacao>
+    <txtEmenta>Determina a realização do teste de impacto (crash test) em modelos de veículos automotores fabricados ou montados no País, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Viação e Transportes</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608747</id>
+    <nome>EMC-A 4/2014 CCJC =&gt; PDC 1017/2013</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2014 12:56:00</datApresentacao>
+    <txtEmenta>Emenda adotada ao PDC 1017/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608014</id>
+    <nome>EMC-A 1/2014 CCTCI =&gt; PL 3554/2012</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 19:03:00</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo único ao art. 3º da Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), para instituir a obrigatoriedade de as prestadoras de serviços de telecomunicações oferecerem planos de serviços para atendimento específico de pessoas com deficiência auditiva ou da fala.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608387</id>
+    <nome>EMC-A 1/2014 CCJC =&gt; PL 4041/2012</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 15:21:00</datApresentacao>
+    <txtEmenta>Emenda adotada pela CCJC ao PL 4041/2012.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608384</id>
+    <nome>EMC-A 3/2014 CCJC =&gt; PL 7379/2006</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 15:12:00</datApresentacao>
+    <txtEmenta>Emenda 2 adotada pela CCJC ao PL 7379/2006.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608383</id>
+    <nome>EMC-A 2/2014 CCJC =&gt; PL 7379/2006</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 15:09:00</datApresentacao>
+    <txtEmenta>Emenda 1 adotada pela CCJC ao PL 7379/2006.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608285</id>
+    <nome>EMC-A 1/2014 CCJC =&gt; PAR 1 CCJC =&gt; PL 2020/2007</nome>
+    <tipoProposicao>
+      <id>702</id>
+      <sigla>EMC-A</sigla>
+      <nome>Emenda Adotada pela Comissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 11:37:00</datApresentacao>
+    <txtEmenta>Emenda adotada pela CCJC ao PL 2020/2007.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

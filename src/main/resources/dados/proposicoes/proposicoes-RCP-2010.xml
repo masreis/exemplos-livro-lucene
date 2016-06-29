@@ -1,0 +1,116 @@
+<proposicoes>
+  <proposicao>
+    <id>485139</id>
+    <nome>RCP 19/2010</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/8/2010 16:48:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar o abuso e a violência cometida contra as mulheres no território nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>George Hilton</txtNomeAutor>
+      <idecadastro>141441</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>467037</id>
+    <nome>RCP 18/2010</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/2/2010 18:03:57</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar as ações administrativas que envolveram o processo de privatização do Banespa, com foco nos prejuízos ao erário público e a milhares de aposentados e pensionistas do Banespa, hoje Banco Santander SA, e as conseqüências de ato da Secretaria do Tesouro Nacional, na gestão do Senhor Fábio de Oliveira Barbosa, ao autorizar, em 14 de agosto de 2000, por meio da Portaria nº 386, de 2000, a substituição de títulos ativos inalienáveis- ATSP970315, garantidores de complementação das aposentadorias dos aposentados e pensionistas do Plano Pré-75 dos funcionários do Banespa, que acabou transferindo ilicitamente ao Banco Santander, um montante de mais de 7 bilhões de reais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marquezelli</txtNomeAutor>
+      <idecadastro>73553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

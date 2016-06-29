@@ -1,0 +1,124 @@
+<proposicoes>
+  <proposicao>
+    <id>525053</id>
+    <nome>ERD 1/2011 =&gt; PL 3443/2008</nome>
+    <tipoProposicao>
+      <id>450</id>
+      <sigla>ERD</sigla>
+      <nome>Emenda de Redação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2011 10:28:00</datApresentacao>
+    <txtEmenta>Substitui expressão do artigo 6º  da Emenda Substitutiva Global de Plenário</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alessandro Molon</txtNomeAutor>
+      <idecadastro>160511</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>516995</id>
+    <nome>ERD 1/2011 MPV53211 =&gt; MPV 532/2011</nome>
+    <tipoProposicao>
+      <id>450</id>
+      <sigla>ERD</sigla>
+      <nome>Emenda de Redação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>100836</id>
+      <sigla>MPV53211  </sigla>
+      <nome>Acresce e dá nova redação a dispositivos das Leis nos 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999, que dispõem sobre a política e a fiscalização das atividades relativas ao abastecimento nacional de combustíveis; altera o § 1o do art. 9o da Lei no 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores; dá nova redação aos arts. 1o, 2o e 3o do Decreto-Lei no 509, de 20 de março de 1969, que dispõe sobre a transformação do Departamento dos Correios e Telégrafos em empresa pública; altera a Lei no 10.683, de 28 de maio de 2003, que dispõe sobre a Organização da Presidência da República e dos Ministérios, e dá outras providências.</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/8/2011 10:15:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao artigo 1º do Decreto Lei nº 509/69, com a redação dada pelo artigo 12 do PLV  à MPV 532/11.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Miro Teixeira</txtNomeAutor>
+      <idecadastro>74862</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

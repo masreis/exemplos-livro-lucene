@@ -1,0 +1,4202 @@
+<proposicoes>
+  <proposicao>
+    <id>549728</id>
+    <nome>SLD 1/2012 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de meta para implantação do Sistema de Defesa Cibernético (22% do sistema implantado). Programa 2058, Ação 147F.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549731</id>
+    <nome>SLD 3/2012 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de inciso no Anexo V para incluir entre as despesas que não serão objeto de empenho àquelas referentes à implantação do Sistema Integrado de Monitoramento de Fronteiras - SISFRON.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549732</id>
+    <nome>SLD 4/2012 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de inciso no Anexo V para incluir entre as despesas que não serão objeto de empenho àquelas referentes à implantação do Sistema de Defesa Cibernético.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549734</id>
+    <nome>SLD 5/2012 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de artigo para possibilitar que todas as comissões permanentes da Câmara dos Deputados e do Senado Federal possam apresentar ao menos 3 emendas de apropriação aos projetos de Lei Orçamentária Anual.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549736</id>
+    <nome>SLD 2/2012 CSPCCO</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>5503</id>
+      <sigla>CSPCCO    </sigla>
+      <nome>Comissão de Segurança Pública e Combate ao Crime Organizado</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 15:00:00</datApresentacao>
+    <txtEmenta>Requer inclusão de meta para implantação do Sistema Integrado de Monitoramento de Fronteiras - SISFRON (38% do sistema integrado implantado). Programa 2058, Ação 13DA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Efraim Filho</txtNomeAutor>
+      <idecadastro>141422</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5503</codOrgaoEstado>
+        <siglaOrgaoEstado>CSPCCO    </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549689</id>
+    <nome>SLD 6/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:33:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - "Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013: Despesas relacionadas com acordos e parcerias estratégicas firmados pela República Federativa do Brasil com outros países na área de defesa; </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549691</id>
+    <nome>SLD 7/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:33:00</datApresentacao>
+    <txtEmenta>Inclui inciso I - Despesas que não serão objeto de limitação de empenho, nos termos do Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013: "I)	despesas que constituem obrigações constitucionais ou legais da União".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549693</id>
+    <nome>SLD 8/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:33:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o  Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013: "1. Despesas com ações classificadas na função 19 - Ciência e Tecnologia e nas subfunções: 571 - Desenvolvimentos Científico, 572 - Desenvolvimento Tecnológico e Engenharia e 573 - Difusão do Conhecimento Científico e Tecnológico (573), no âmbito do Poder Executivo;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549694</id>
+    <nome>SLD 9/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:33:00</datApresentacao>
+    <txtEmenta>Altera Art. 87, inciso V do PLDO/2013: "V - para a Financiadora de Estudos e Projetos - FINEP e o BNDES, promoção do desenvolvimento da infraestrutura e da indústria, da agricultura e da agroindústria, com ênfase no fomento à pesquisa, à capacitação científica e tecnológica, à inovação, à melhoria da competitividade da economia, à estruturação de unidades e sistemas produtivos orientados para o fortalecimento do Mercosul, à geração de empregos e à redução do impacto ambiental; e".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549645</id>
+    <nome>SLD 1/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui a ação 20PZ - Aquisição de Meios Blindados. Meta 64</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549647</id>
+    <nome>SLD 2/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui a ação 123G - Implantação de Estaleiro e Base Naval para Construção e Manutenção de Submarinos Convencionais e Nucleares. Meta 21</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549649</id>
+    <nome>SLD 3/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui a ação 147F - Implantação do Sistema de Defesa Cibernética. Meta 22</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549650</id>
+    <nome>SLD 4/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui a ação 20HZ - Fomento aos Institutos Nacionais de Ciência e Tecnologia - INCTs. Meta 40</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549652</id>
+    <nome>SLD 5/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui a ação 7F40 - Implantação do Complexo Espacial de Alcântara - CEA. Meta 25</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549696</id>
+    <nome>SLD 10/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013: "Despesas relacionadas com a Ação 1421 - Construção do Protótipo de Reator Nuclear;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549699</id>
+    <nome>SLD 11/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Altera o art. 70, § 3º do PLDO/2013: "§ 3º Não constituem despesas com pessoal e encargos sociais as relativas ao pagamento de assistência pré-escolar de dependentes de servidores civis, militares e empregados públicos, saúde suplementar de servidores civis, militares, empregados públicos e seus dependentes, diárias, fardamento e auxílios transporte, alimentação e refeição".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549700</id>
+    <nome>SLD 12/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Altera o item 33 do Anexo V: "33. Auxílio-Alimentação (art. 22 da Lei nº 8.460, de 17/09/1992) e alimentação do pessoal militar das Forças Armadas (art. 50, inciso IV, alínea g, da Lei nº 6.880, de 09/12/1980, art.3º, inciso XIII da Medida Provisória nº 2.215-10, de 31/08/2001 e a Seção V do Decreto 4.307, de 18/07/2002);"</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549702</id>
+    <nome>SLD 13/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas com as ações vinculadas às contratações de produtos, de sistemas de defesa, de desenvolvimento de produtos e de sistemas de defesa, visando fomentar a área estratégica que envolve o desenvolvimento da Indústria Nacional de Defesa;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549703</id>
+    <nome>SLD 14/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas do Programa de Desenvolvimento de Submarinos da Marinha;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549704</id>
+    <nome>SLD 15/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Altera o art. 4º do  PLDO/2013:"Art. 4º As prioridades da Administração Pública Federal para o exercício de 2013, atendidas as despesas contidas no Anexo V e as de funcionamento dos órgãos e das entidades que integram os Orçamentos Fiscal e da Seguridade Social, correspondem às ações relativas ao PAC, ao Programa Brasil sem Miséria e às ações vinculadas às subfunções Desenvolvimento Tecnológico e Engenharia e Difusão do Conhecimento Científico e Tecnológico no âmbito da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA, as quais terão precedência na alocação dos recursos no Projeto e na Lei Orçamentária de 2013, não se constituindo, todavia, em limite à programação da despesa.".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549705</id>
+    <nome>SLD 16/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas suportadas pelas fontes de recursos a que se referem à alínea "c" do inciso II do art. 49 da Lei nº. 9.478 de 6 de agosto de 1997, e do art. 27 da Lei nº. 2.004, de 3 de outubro de 1953, com redação dada pela Lei nº. 7.990, de 28 de dezembro de 1989, referentes às parcelas dos recursos arrecadados à conta das Compensações Financeiras pela Exploração de Petróleo e Gás Natural para atender aos encargos de fiscalização e proteção das áreas produtoras situadas na plataforma continental;"</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549706</id>
+    <nome>SLD 17/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"1 - Despesas do Programa de Desenvolvimento de Submarinos da Marinha; 2 - Despesas suportadas pelas fontes de recursos a que se referem à alínea "c" do inciso II do art. 49 da Lei nº. 9.478 de 6 de agosto de 1997, e do art. 27 da Lei nº. 2.004, de 3 de outubro de 1953, com redação dada pela Lei nº. 7.990, de 28 de dezembro de 1989, referentes às parcelas dos recursos arrecadados à conta das Compensações Financeiras pela Exploração de Petróleo e Gás Natural para atender aos encargos de fiscalização e proteção das áreas produtoras situadas na plataforma continental; 3 - Despesas com as ações vinculadas às contratações de produtos, de sistemas de defesa, de desenvolvimento de produtos e de sistemas de defesa, visando fomentar a área estratégica que envolve o desenvolvimento da Indústria Nacional de Defesa; 4 - Despesas relacionadas ao patrulhamento e à salvaguarda das áreas marítimas que abrigam as plataformas de exploração de recursos energéticos e que envolvam desenvolvimento da Indústria Nacional de Defesa; 5 - Despesas relacionadas com acordos e parcerias estratégicas firmados pela República Federativa do Brasil com outros países na área de defesa; 6 - Despesas relacionadas à reconstrução da Estação Brasileira na Antártica; e 7 - Despesas relacionadas com a Ação 1421 - Construção do Protótipo de Reator Nuclear".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549707</id>
+    <nome>SLD 18/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso IV no art. 38 do PLDO/2013:"IV - alimentação, assistência médica e odontológica e fardamento destinado ao pessoal militar das Forças Armadas.".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549711</id>
+    <nome>SLD 19/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui item 67 no Anexo V do PLDO/2013:"67. Participação Brasileira em Missões de Paz (Decreto Legislativo nº 207 de 19 Maio de 2004, Decreto Legislativo nº 189 de 15 Julho de 2008, Decreto Legislativo nº 75 de 25 Janeiro de 2010, Decreto Legislativo nº 296 de 29 Setembro 2011).".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549712</id>
+    <nome>SLD 20/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas com a implantação do Sistema Integrado de Monitoramento de Fronteiras (SISFRON).".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549713</id>
+    <nome>SLD 21/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas com a Implantação do Sistema Integrado de Proteção de Estruturas Estratégicas Terrestres (Sistema PROTEGER).".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549714</id>
+    <nome>SLD 22/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas com a aquisição do blindado Guarani do Exército.".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549715</id>
+    <nome>SLD 23/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas com a implantação de um Sistema de Defesa Cibernético.".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549717</id>
+    <nome>SLD 24/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas relacionadas ao patrulhamento e à salvaguarda das áreas marítimas que abrigam as plataformas de exploração de recursos energéticos e que envolvam desenvolvimento da Indústria Nacional de Defesa;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549718</id>
+    <nome>SLD 25/2012 CCTCI</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 11:30:00</datApresentacao>
+    <txtEmenta>Inclui inciso II - Demais despesas ressalvadas, conforme o Art. 9º, § 2º, da LRF, no Anexo V do PLDO/2013:"Despesas relacionadas à reconstrução da Estação Brasileira na Antártica;".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Ciência e Tecnologia, Comunicação e Informática</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549555</id>
+    <nome>SLD 5/2012 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/6/2012 10:40:00</datApresentacao>
+    <txtEmenta>Acrescenta ao Projeto o Art. 111- A  -  Repasse provisório do FPE</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Júlio Cesar</txtNomeAutor>
+      <idecadastro>74317</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549516</id>
+    <nome>SLD 4/2012 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 19:01:00</datApresentacao>
+    <txtEmenta>Emenda ao PLN 0003/2012 - LDO - 2013  - Emende na Comissão de Finanças e Tributação - CFT.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mauro Nazif</txtNomeAutor>
+      <idecadastro>141508</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549490</id>
+    <nome>SLD 23/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:44:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 23/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549491</id>
+    <nome>SLD 24/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:44:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 24/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549487</id>
+    <nome>SLD 20/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:43:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 20/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549488</id>
+    <nome>SLD 21/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:43:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 21/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549489</id>
+    <nome>SLD 22/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:43:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 22/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549484</id>
+    <nome>SLD 17/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:42:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 17/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549485</id>
+    <nome>SLD 18/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:42:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 18/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549486</id>
+    <nome>SLD 19/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:42:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 19/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549480</id>
+    <nome>SLD 13/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:41:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 13/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549481</id>
+    <nome>SLD 14/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:41:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 14/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549482</id>
+    <nome>SLD 15/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:41:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 15/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549483</id>
+    <nome>SLD 16/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:41:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 16/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549477</id>
+    <nome>SLD 10/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:40:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 10/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549478</id>
+    <nome>SLD 11/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:40:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 11/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549479</id>
+    <nome>SLD 12/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:40:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 12/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549473</id>
+    <nome>SLD 7/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:39:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 07/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549474</id>
+    <nome>SLD 8/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:39:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 08/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549476</id>
+    <nome>SLD 9/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:39:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 09/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549471</id>
+    <nome>SLD 5/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:38:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 05/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549472</id>
+    <nome>SLD 6/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:38:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 06/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549470</id>
+    <nome>SLD 4/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:36:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 04/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549467</id>
+    <nome>SLD 2/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:35:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 02/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549469</id>
+    <nome>SLD 3/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:35:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 03/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549465</id>
+    <nome>SLD 1/2012 CREDN</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:34:00</datApresentacao>
+    <txtEmenta>SUGESTÃO DE EMENDA Nº 01/12 À LDO - COMISSÕES</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Relações Exteriores e de Defesa Nacional</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549451</id>
+    <nome>SLD 1/2012 CDU</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2006</id>
+      <sigla>CDU       </sigla>
+      <nome>Comissão de Desenvolvimento Urbano</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 17:02:00</datApresentacao>
+    <txtEmenta>Rodovias - Construção de Anel Rodoviário BR - 262</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Urbano</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2006</codOrgaoEstado>
+        <siglaOrgaoEstado>CDU       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549330</id>
+    <nome>SLD 3/2012 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 12:14:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de texto  da Comissão de Finanças e Tributação ao Projeto de Lei Orçamentária nº 03/2012-CN.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549329</id>
+    <nome>SLD 2/2012 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2012 12:13:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda de texto da Comissão de Finanças e Tributação ao Projeto de Lei Orçamentária nº 03/2012-CN.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>549056</id>
+    <nome>SLD 1/2012 CFT</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2010</id>
+      <sigla>CFT       </sigla>
+      <nome>Comissão de Finanças e Tributação</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2012 16:43:00</datApresentacao>
+    <txtEmenta>Solicita apresentação de emenda da Comissão de Finanças e Tributação ao Projeto de Lei nº 003 de 2012-CN, que "dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2013 e dá outras providências"</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aelton Freitas</txtNomeAutor>
+      <idecadastro>141372</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545461</id>
+    <nome>SLD 9/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:32:00</datApresentacao>
+    <txtEmenta>Dê-se ao inciso II do art. 87 do Projeto de Lei nº 03/2012-CN a seguinte redação: "Art. 87. II - para o Banco do Brasil S.A., aumento da oferta de alimentos para o mercado interno, especialmente os integrantes da cesta básica, por meio de incentivos a programas de agricultura familiar, e da oferta de produtos agrícolas para exportação e intensificação das trocas internacionais do Brasil com seus parceiros, devendo ser priorizado o financiamento da irrigação."
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Magalhães</txtNomeAutor>
+      <idecadastro>74574</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545462</id>
+    <nome>SLD 10/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:32:00</datApresentacao>
+    <txtEmenta>Acrescente-se ao art. 36 do Projeto de Lei nº 03/2012-CN o seguinte § 9º: "Art. 36. § 9º O Orçamento de Investimento deverá prever apoio financeiro à Companhia de Pesquisa de Recursos Minerais (CPRM) para perfuração e recuperação de poços de grande e média profundidade para extração de água, especialmente em áreas de clima semiárido."
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Fernando Ferro</txtNomeAutor>
+      <idecadastro>74417</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545450</id>
+    <nome>SLD 5/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:16:00</datApresentacao>
+    <txtEmenta>Inclusão do Anexo VI -  Prioridades e Metas com a seguinte redação: ANEXO DE PRIORIDADES E METAS - I) PRIORIDADES E METAS FÍSICAS DA ADMINISTRAÇÃO PÚBLICA FEDERAL PARA O EXERCÍCIO DE 2013  - Despesas relacionadas ao Programa Nuclear da Marinha.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545451</id>
+    <nome>SLD 6/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:16:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao anexo V, incluindo o item 1 na seção II - Demais Despesas Ressalvadas, conforme o Art. 9º, § 2º, da LRF, com a seguinte redação: 1 - Despesas do Programa de Desenvolvimento de Submarinos da Marinha.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545453</id>
+    <nome>SLD 7/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:16:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao anexo V, incluindo o item 7 na seção II - Demais Despesas Ressalvadas, conforme o Art. 9º, § 2º, da LRF, com a seguinte redação: 7 - Despesas relacionadas com a Ação 1421 - Construção do Protótipo de Reator Nuclear.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545455</id>
+    <nome>SLD 8/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:16:00</datApresentacao>
+    <txtEmenta>Dê-se ao art. 9º do Projeto de Lei nº 03/2012-CN, a seguinte redação: "Art. 9º ... : VI - anexo contendo o Plano Anual de Estoques Estratégicos de Combustíveis de que trata o art. 4º da Lei nº 8.176, de 8 de fevereiro de 1991, especificando as metas e prioridades do Sistema Nacional de Estoques de Combustíveis - SINEC para o exercício de 2013. § 6º O Orçamento de Investimento deverá contemplar: I - os valores necessários para atender as metas e prioridades constantes do inciso VI do caput; e II - as informações previstas; nos incisos I, III, IV, e V do § 3º e no § 4º, por função e subfunção."
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jardim</txtNomeAutor>
+      <idecadastro>141391</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545447</id>
+    <nome>SLD 3/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:11:00</datApresentacao>
+    <txtEmenta>Dê-se ao inciso II do art. 87 a seguinte redação: "Art. 87. II - para o Banco do Brasil S.A.: a) aumento da oferta de alimentos para o mercado interno, especialmente de alimentos integrantes da cesta básica e por meio de incentivos a programas de agricultura familiar, e da oferta de produtos agrícolas para exportação e intensificação das trocas internacionais do Brasil com seus parceiros; aproveitamento energético, em pequenas e médias propriedades rurais, de resíduos agropecuários e florestais."
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545449</id>
+    <nome>SLD 4/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:11:00</datApresentacao>
+    <txtEmenta>Inclusão do Anexo VI -  Prioridades e Metas com a seguinte redação: ANEXO DE PRIORIDADES E METAS - I) PRIORIDADES E METAS FÍSICAS DA ADMINISTRAÇÃO PÚBLICA FEDERAL PARA O EXERCÍCIO DE 2013 - Despesas relacionadas a Acordos de Cooperação Internacional que prevêem transferência de tecnologia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545446</id>
+    <nome>SLD 2/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:08:00</datApresentacao>
+    <txtEmenta>Dê-se ao inciso I do art. 87 a seguinte redação:"Art. 87. I - para a Caixa Econômica Federal, redução do déficit habitacional e melhoria das condições de vida das populações em situação de pobreza, especialmente quando beneficiam idosos, pessoas com deficiência, povos e comunidades tradicionais, mulheres chefes de família e militares das Forças Armadas que moram em áreas consideradas de risco, via financiamentos e projetos habitacionais de interesse social, projetos de investimentos em saneamento básico, desenvolvimento da infraestrutura urbana e rural, bem como o aproveitamento da energia solar para o aquecimento de água e para a geração de energia elétrica nas edificações residenciais."
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>545444</id>
+    <nome>SLD 1/2012 CME</nome>
+    <tipoProposicao>
+      <id>612</id>
+      <sigla>SLD</sigla>
+      <nome>Sugestão de Emenda à LDO - Comissões</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>2012</id>
+      <sigla>CME       </sigla>
+      <nome>Comissão de Minas e Energia</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/5/2012 12:03:00</datApresentacao>
+    <txtEmenta>Dê-se ao § 2º do art. 13 a seguinte redação: "Art. 13. § 2º As dotações propostas no Projeto de Lei Orçamentária de 2013, à conta de recursos a que se refere a alínea "c" do inciso II do caput do art. 49 da Lei nº 9.478, de 6 de agosto de 1997, com o propósito de fiscalização e proteção das áreas produtoras de petróleo e gás natural, corresponderão, pelo menos, ao montante autorizado na Lei Orçamentária de 2012 acrescido de cinquenta por cento, podendo o excedente constituir reserva de contingência a que se refere este artigo." 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Simão Sessim</txtNomeAutor>
+      <idecadastro>73424</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2012</codOrgaoEstado>
+        <siglaOrgaoEstado>CME       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

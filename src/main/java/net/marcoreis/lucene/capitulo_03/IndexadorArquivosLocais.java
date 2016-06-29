@@ -104,6 +104,7 @@ public class IndexadorArquivosLocais {
 			//
 			doc.add(new TextField("conteudo", textoArquivo, Store.YES));
 			doc.add(new TextField("tamanho", String.valueOf(arquivo.length()), Store.YES));
+			doc.add(new LongPoint("tamanhoLong", arquivo.length()));
 			doc.add(new StringField("data", dataParaIndexacao, Store.YES));
 			doc.add(new TextField("caminho", arquivo.getAbsolutePath(), Store.YES));
 			doc.add(new StringField("extensao", extensao, Store.YES));

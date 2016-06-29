@@ -1,0 +1,67 @@
+<proposicoes>
+  <proposicao>
+    <id>786915</id>
+    <nome>RRC 1/2014 CMO =&gt; PLN 13/2014 CN</nome>
+    <tipoProposicao>
+      <id>676</id>
+      <sigla>RRC</sigla>
+      <nome>Relatório de Receita</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2014 19:44:00</datApresentacao>
+    <txtEmenta>Estima a receita e fixa a despesa da União para o exercício financeiro de 2015.
+
+RELATOR DA RECEITA: Deputado Paulo Pimenta
+PARECER: Voto pela aprovação do Projeto de Lei Orçamentária para o exercício financeiro de 2015, no que concerne às estimativas de receitas, nos termos apresentados pelo Poder Executivo, com as alterações propostas pelo Relator, que incorpora 3 (três) emendas de Relator. Quanto às 45 (quarenta e cinco) emendas à receita apresentadas, foi oferecido voto pela aprovação. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Pimenta</txtNomeAutor>
+      <idecadastro>74400</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

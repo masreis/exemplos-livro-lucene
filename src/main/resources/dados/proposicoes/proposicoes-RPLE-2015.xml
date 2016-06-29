@@ -1,0 +1,127 @@
+<proposicoes>
+  <proposicao>
+    <id>2025590</id>
+    <nome>RPLE 1/2015 CMO =&gt; PLN 6/2015 CN</nome>
+    <tipoProposicao>
+      <id>679</id>
+      <sigla>RPLE</sigla>
+      <nome>Relatório Preliminar Apresentado com Emendas</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/10/2015 19:16:00</datApresentacao>
+    <txtEmenta>Relatório Preliminar com Emendas sobre o Projeto de Lei nº 6/2015-CN, que "Institui o Plano Plurianual para o período de 2016 a 2019".
+RELATOR: Deputado Zeca Dirceu
+VOTO: pela aprovação na forma ora apresentada.Quanto às 24 (vinte e quatro) emendas apresentadas, foram REJEITADAS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zeca Dirceu</txtNomeAutor>
+      <idecadastro>160592</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1514234</id>
+    <nome>RPLE 1/2015 CMO =&gt; PLN 1/2015 CN</nome>
+    <tipoProposicao>
+      <id>679</id>
+      <sigla>RPLE</sigla>
+      <nome>Relatório Preliminar Apresentado com Emendas</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>6855</id>
+      <sigla>CMO       </sigla>
+      <nome>Comissão Mista de Planos, Orçamentos Públicos e Fiscalização</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/6/2015 18:02:00</datApresentacao>
+    <txtEmenta>Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2016 e dá outras providências.
+VOTO: pela aprovação na forma ora apresentada. Quanto às 16 (dezesseis) emendas apresentadas, ofereceu voto pela  APROVAÇÃO PARCIAL das de nºs 11 e 16, e, REJEIÇÃO das demais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Teobaldo </txtNomeAutor>
+      <idecadastro>178920</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

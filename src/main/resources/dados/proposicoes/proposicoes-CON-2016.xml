@@ -1,0 +1,240 @@
+<proposicoes>
+  <proposicao>
+    <id>2085904</id>
+    <nome>CON 17/2016</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2016 12:17:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania acerca da apreciação, em Plenário, de processo político-disciplinar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/5/2016 12:30:00</datDespacho>
+      <txtDespacho>Numere-se como consulta da Presidência da Câmara dos Deputados e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do artigo 32, IV, “c”, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085805</id>
+    <nome>CON 16/2016</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/5/2016 17:46:00</datApresentacao>
+    <txtEmenta>Consulta à Comissão de Constituição e Justiça e de Cidadania sobre a possível perda de cargos e funções que o parlamentar ocupe em razão de desvinculação de sua bancada.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/5/2016 17:56:00</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do artigo 32, IV, “c”, do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082787</id>
+    <nome>CON 15/2016</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/4/2016 11:15:00</datApresentacao>
+    <txtEmenta>Consulta o Conselho de Ética sobre procedimentos a serem adotados pelo colegiado nos casos de substituição e renúncia de membros titulares
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Onyx Lorenzoni</txtNomeAutor>
+      <idecadastro>74399</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>3</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/4/2016</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se ao Conselho de Ética e Decoro Parlamentar. Publique-se. </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2081315</id>
+    <nome>CON 14/2016</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/4/2016 12:40:00</datApresentacao>
+    <txtEmenta>Consulta acerca da possibilidade de desligamento do partido pelo qual o detentor de mandato eletivo foi eleito, no período de trinta dias após a promulgação da Emenda Constitucional nº 91/2016, sem que haja imediata filiação a novo partido.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/4/2016 16:50:00</datDespacho>
+      <txtDespacho> Numere-se como Consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, “c” do RICD. Publique-se. Oficie-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

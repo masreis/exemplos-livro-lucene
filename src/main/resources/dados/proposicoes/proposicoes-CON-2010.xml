@@ -1,0 +1,246 @@
+<proposicoes>
+  <proposicao>
+    <id>488789</id>
+    <nome>CON 12/2010</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/12/2010 10:48:00</datApresentacao>
+    <txtEmenta>Consulta  sobre compatibilidade do exercício do mandato parlamentar com a prática da medicina na condição de cirurgião credenciado pelo Sistema Unico de Saúde - SUS.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/12/2010</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se sob forma de consulta à Comissão de Constituição e Justiça e de Cidadania - CCJC, nos termos do art. 32, IV, c, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.
+DCD de 08/12/10 PÁG 49205 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488790</id>
+    <nome>CON 13/2010</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/12/2010 10:48:00</datApresentacao>
+    <txtEmenta>Consulta sobre compatibilidade do exercício do mandato parlamentar com a presidência de entidade mantenedora de hospital que atende pacientes do Sistema Unico de Saúde - SUS.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/12/2010</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se sob forma de consulta à Comissão de Constituição e Justiça e de Cidadania – CCJC, nos termos do art. 32, IV, c, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.
+DCD de 08/12/10 PÁG 49206 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487804</id>
+    <nome>CON 11/2010</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/11/2010 15:11:00</datApresentacao>
+    <txtEmenta>Consulta do Sr. Nelson Padovani, apresentada aos 23/11/2010, na condição de eleito para o cargo de Deputado Federal para a 54ª Legislatura, sobre a vedação constante do art. 54, II, a, da Constituição Federal na hipótese que especifica.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/12/2010 19:43:00</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se sob a forma de consulta à Comissão de Constituição e Justiça e de Cidadania, nos termos do art. 32, inciso IV, alínea c, do Regimento Interno. 
+Publique-se.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>469915</id>
+    <nome>CON 10/2010</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2010 16:33:00</datApresentacao>
+    <txtEmenta>Consulta sobre qual a natureza dos documentos de origem externa e não classificados, pertencentes aos autos  Comissões Parlamentares de Inquérito, a fim de fundamentar decisão de acesso a essa documentação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão Especial destinada a apreciar as solicitações de acesso a informações sigilosas produzidas ou recebidas pela Câmara dos Deputados no exercício de suas funções parlamentares e administrativas, assim como sobre o cancelamento ou redução de prazos de sigilo e outras atribuições previstas na Resolução n º 29, de 1993.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/3/2010 17:17:00</datDespacho>
+      <txtDespacho>Tendo em vista a manifestação da Comissão Especial de Documentos Sigilosos (Ofício n. 04/10/CEDOS), a alta indagação da matéria, concernente ao posicionamento da Câmara dos Deputados a ser adotado com relação às solicitações de documentos de origem externa não classificados constantes dos autos de comissão parlamentar de inquérito, e considerando, ainda, o pronunciamento da Comissão de Constituição e Justiça e de Cidadania referente às Consultas n. 4, de 1995, e 1, de 2003, numere-se e encaminhe-se a Consulta formulada pela Comissão Especial de Documentos Sigilosos à CCJC, nos termos do art. 32, inciso IV, alínea “c”, do Regimento Interno.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

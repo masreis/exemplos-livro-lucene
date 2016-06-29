@@ -1,0 +1,754 @@
+<proposicoes>
+  <proposicao>
+    <id>532795</id>
+    <nome>CON 24/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/12/2011 15:21:00</datApresentacao>
+    <txtEmenta>Consulta sobre a incompatibilidade entre o exercício do mandato parlamentar e a necessidade de afastamento para providenciar aposentadoria junto ao órgão de origem.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/12/2011 15:54:00</datDespacho>
+      <txtDespacho>.
+Numere-se como consulta desta Presidência da Câmara dos Deputados e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, “c”, do RICD. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>523626</id>
+    <nome>CON 23/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/10/2011 11:21:00</datApresentacao>
+    <txtEmenta>Consulta sobre o fornecimento de cópia de documentos sigilosos a Parlamentar em exercício citado em depoimento tomado em reunião reservada de CPI.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/10/2011</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se, sob forma de Consulta desta Presidência, à Comissão de Constituição e Justiça e de Cidadania – CCJC, nos termos do art. 32, inciso IV, letra “p”, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>523247</id>
+    <nome>CON 22/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/10/2011 09:55:00</datApresentacao>
+    <txtEmenta>Consulta acerca da possibilidade do Deputado Federal em exercício atuar como comentarista esportivo em programa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/10/2011</datDespacho>
+      <txtDespacho>Numere-se como Consulta do Presidente da Câmara dos Deputados à Comissão de Constituição e Justiça e de Cidadania – CCJC, nos termos do art. 32, inciso IV alínea “c”. Publique-se.
+
+DCD do dia 19/10/11 PAG 56865 COL 02.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>520234</id>
+    <nome>CON 21/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/9/2011 14:39:00</datApresentacao>
+    <txtEmenta>Consulta se a ilegalidade ou o crime cometido por parlamentar antes do mandato contamina o exercício do mandato.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/9/2011</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se ao Conselho de Ética e Decoro Parlamentar, nos termos do art. 6º, IV, do Código de Ética e Decoro Parlamentar, na nova redação dada pela Resolução nº 2/2011. Publique-se.
+
+
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>517003</id>
+    <nome>CON 20/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/8/2011 11:19:00</datApresentacao>
+    <txtEmenta>Consulta sobre incompatibilidade entre o exercício do mandato parlamentar e a atividade de apresentação de programa em emissora de TV.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/8/2011</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, “c”, do RICD. Publique-se. Oficie-se.
+DCD do dia 25/08/11 PÁG 44571 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>516282</id>
+    <nome>CON 19/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/8/2011 18:37:00</datApresentacao>
+    <txtEmenta>Consulta a Comissão de Constituição e Justiça e de Cidadania sobre a aplicação da Lei nº 12.345, de 09 de dezembro de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelecendo critérios de alta significação para os diferentes segmentos a serem homenageados. 
+</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/8/2011</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhe-se à Comissão de Constituição e Justiça e Cidadania, na forma do art. 32, IV, “c”, do RICD. 
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>509992</id>
+    <nome>CON 18/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/6/2011 10:27:00</datApresentacao>
+    <txtEmenta>Consulta sobre a possibilidade de Deputado Federal, licenciado para ocupar cargo de Secretário de Prefeitura de Capital, exercer representação institucional como membro de Conselho de Administração de entidades integrantes da própria Administração Indireta Municipal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/6/2011 10:52:00</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se, sob forma de Consulta desta Presidência, à Comissão de Constituição e Justiça e de Cidadania – CCJC, nos termos do art. 32, inciso IV, letra “p”, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>508802</id>
+    <nome>CON 17/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/6/2011 16:42:00</datApresentacao>
+    <txtEmenta>Consulta sobre a existência de restrições constitucionais e legais no caso de participação de Parlamentar em centro de estudos e pesquisa, instituição governamental, sem fins lucrativos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/6/2011 17:18:00</datDespacho>
+      <txtDespacho>Numere-se como consulta desta Presidência da Câmara e encaminhem-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 32, IV, "c", do RICD. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>496729</id>
+    <nome>CON 16/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/4/2011 10:53:00</datApresentacao>
+    <txtEmenta>Consulta sobre a possiblidade de Deputado Federal, no exercício de cargo de Secretário de Estado, exercer representação institucional em conselhos de órgãos de empresas em que o Estado seja o principal acionista e a possibilidade do recebimento de remuneração por essa participação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2011</datDespacho>
+      <txtDespacho>Numere-se como Consulta do Presidente da Câmara dos Deputados e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, nos termos do art. 32, inciso IV, alíneas “c” e “p” do RICD. Junte-se cópia do Ofício nº 005/2011 - CEDPA/P, de 17 de março de 2011. Publique-se. Oficie-se.
+
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>491471</id>
+    <nome>CON 1/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2011 19:45:00</datApresentacao>
+    <txtEmenta>Consulta sobre a existência de incompatibilidade em relação à ocupação dos cargos de diretor-presidente da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo (CDHU) e de Secretário de Habitação do Estado de São Paulo, durante período de afastamento do exercício mandato de deputado federal </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2011</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490857</id>
+    <nome>CON 15/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/1/2011 10:22:00</datApresentacao>
+    <txtEmenta>Consulta acerca da compatibilidade do exercício do cargo de Deputado Federal com a ocupação de cargos de Membro em Conselhos de autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/1/2011</datDespacho>
+      <txtDespacho>Numere-se e encaminhe-se sob forma de Consulta à Comissão de Constituição e Justiça e de Cidadania – CCJC, nos termos do art. 32, IV, c, do Regimento Interno da Câmara dos Deputados. Publique-se. Oficie-se.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490855</id>
+    <nome>CON 14/2011</nome>
+    <tipoProposicao>
+      <id>129</id>
+      <sigla>CON</sigla>
+      <nome>Consulta</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/1/2011 11:38:00</datApresentacao>
+    <txtEmenta>Consulta sobre a possibilidade de Deputado Federal eleito e diplomado ser proprietário e administrador de empresa que mantenha contrato com pessoa jurídica de direito público, nas condições que menciona.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>PRESIDÊNCIA DA CÂMARA DOS DEPUTADOS</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/1/2011 14:40:00</datDespacho>
+      <txtDespacho>Numere-se como Consulta do Presidente da Câmara dos Deputados à Comissão de Constituição e Justiça e de Cidadania, nos termos do art. 32, inciso IV, alínea “c”, do RICD. Publique-se.
+
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

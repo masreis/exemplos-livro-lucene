@@ -1,0 +1,505 @@
+<proposicoes>
+  <proposicao>
+    <id>519109</id>
+    <nome>INA 9/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/9/2011 11:36:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal Vilson Covatti  para exercer o cargo de Ministro do Tribunal de Contas da União. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aguinaldo Ribeiro - Líder do PP</txtNomeAutor>
+      <idecadastro>160527</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/9/2011 13:07:00</datDespacho>
+      <txtDespacho>Acolho a presente indicação, nos termos do § 1º do art. 2º do Decreto Legislativo nº 06, de 1993. Encaminhe-se à Comissão de Finanças e Tributação. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>950</id>
+      <descricao>Retirado pelo Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519108</id>
+    <nome>INA 8/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/9/2011 16:47:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal Sérgio Brito  para exercer o cargo de Ministro do Tribunal de Contas da União.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ratinho Junior - Líder do PSC</txtNomeAutor>
+      <idecadastro>141403</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/9/2011 13:07:00</datDespacho>
+      <txtDespacho>Acolho a presente indicação, nos termos do § 1º do art. 2º do Decreto Legislativo nº 06, de 1993. Encaminhe-se à Comissão de Finanças e Tributação. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>950</id>
+      <descricao>Retirado pelo Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519107</id>
+    <nome>INA 7/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/9/2011 15:43:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal Jovair Arantes para exercer o cargo de Ministro do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jovair Arantes - Líder do PTB</txtNomeAutor>
+      <idecadastro>73666</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/9/2011 13:06:00</datDespacho>
+      <txtDespacho>Acolho a presente indicação, nos termos do § 1º do art. 2º do Decreto Legislativo nº 06, de 1993. Encaminhe-se à Comissão de Finanças e Tributação. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>950</id>
+      <descricao>Retirado pelo Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519106</id>
+    <nome>INA 6/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/9/2011 13:39:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal Milton Monti para exercer o cargo de Ministro do Tribunal de Contas da União.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lincoln Portela - Líder do Bloco Parlamentar PR/PTdoB/PRP/PHS/PTC/PSL</txtNomeAutor>
+      <idecadastro>74585</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011</datDespacho>
+      <txtDespacho>Declarada prejudicada, em face da aprovação da INA 02/2011.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519105</id>
+    <nome>INA 5/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/9/2011 12:07:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal  Damião Feliciano para exercer o cargo de Ministro do Tribunal de Contas da União.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Giovanni Queiroz - Líder do PDT</txtNomeAutor>
+      <idecadastro>74077</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011</datDespacho>
+      <txtDespacho>Declarada prejudicada, em face da aprovação da INA 02/2011.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519104</id>
+    <nome>INA 4/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/9/2011 10:41:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal  Átila Lins para exercer o cargo de Ministro do Tribunal de Contas da União.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Henrique Eduardo Alves - Líder do PMDB</txtNomeAutor>
+      <idecadastro>74324</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011</datDespacho>
+      <txtDespacho>Declarada prejudicada, em face da aprovação da INA 02/2011.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519103</id>
+    <nome>INA 3/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 16:56:00</datApresentacao>
+    <txtEmenta>Indica o nome do Deputado Federal José Aldo Rebelo Figueiredo para exercer o cargo de Ministro do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Osmar Júnior - Líder do PCdoB</txtNomeAutor>
+      <idecadastro>141514</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011</datDespacho>
+      <txtDespacho>Declarada prejudicada, em face da aprovação da INA 02/2011.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519102</id>
+    <nome>INA 2/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 15:46:00</datApresentacao>
+    <txtEmenta>Indica o nome da Deputada Federal Ana Arraes para exercer o cargo de Ministro do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ana Arraes - Líder do PSB</txtNomeAutor>
+      <idecadastro>141377</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/9/2011 13:04:00</datDespacho>
+      <txtDespacho>Acolho a presente indicação, nos termos do § 1º do art. 2º do Decreto Legislativo nº 06, de 1993. Encaminhe-se à Comissão de Finanças e Tributação. Publique-se.
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1230</id>
+      <descricao>Transformado em nova proposição</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>518629</id>
+    <nome>INA 1/2011</nome>
+    <tipoProposicao>
+      <id>171</id>
+      <sigla>INA</sigla>
+      <nome>Indicação de Autoridade</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/9/2011 11:04:00</datApresentacao>
+    <txtEmenta>Indica o nome do Sr. Rosendo Severo para exercer o cargo de Ministro do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/9/2011</datDespacho>
+      <txtDespacho>Declarada prejudicada, em face da aprovação da INA 02/2011.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

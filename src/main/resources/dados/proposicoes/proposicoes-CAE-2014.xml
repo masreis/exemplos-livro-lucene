@@ -1,0 +1,59 @@
+<proposicoes>
+  <proposicao>
+    <id>744703</id>
+    <nome>CAE 465/2014 CREDN</nome>
+    <tipoProposicao>
+      <id>685</id>
+      <sigla>CAE</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>465</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/11/2014 14:48:00</datApresentacao>
+    <txtEmenta>Requer, nos termos do Regimento Interno da Câmara dos Deputados e da Constituição Federal, a realização de Audiência Pública para discutir a natureza dos contratos mantidos entre o Ministério da Defesa e empresas israelenses que violam o direito internacional. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ivan Valente</txtNomeAutor>
+      <idecadastro>73531</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

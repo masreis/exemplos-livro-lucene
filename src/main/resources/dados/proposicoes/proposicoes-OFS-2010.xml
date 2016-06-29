@@ -1,0 +1,124 @@
+<proposicoes>
+  <proposicao>
+    <id>567955</id>
+    <nome>OFS 21/2010 SF =&gt; OFN 36/2010 CN</nome>
+    <tipoProposicao>
+      <id>691</id>
+      <sigla>OFS</sigla>
+      <nome>Ofício do Senado Federal de Fundo Constitucional de Financiamento </nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>78</id>
+      <sigla>SF        </sigla>
+      <nome>Senado Federal</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/10/2010 14:27:00</datApresentacao>
+    <txtEmenta>Encaminha ao Senado Federal, o Relatório de Resultados e Impactos - Exercício 2009, sobre atividades desenvolvidas  e resultados obtidos pelo Fundo Constitucional de Financiamento do Nordeste - FNE.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Superintendência do Desenvolvimento do Nordeste</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567633</id>
+    <nome>OFS 6/2010 SF =&gt; OFN 36/2010 CN</nome>
+    <tipoProposicao>
+      <id>691</id>
+      <sigla>OFS</sigla>
+      <nome>Ofício do Senado Federal de Fundo Constitucional de Financiamento </nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>78</id>
+      <sigla>SF        </sigla>
+      <nome>Senado Federal</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2010 19:28:00</datApresentacao>
+    <txtEmenta>O Presidente da Comissão de Desenvolvimento Regional e Turismo, comunica o recebimento do Relatório de Resultados e Impactos - primeiro Semestre de 2009, sobre atividades desenvolvidas pelo Fundo Constitucional de Financiamento do Nordeste - FNE.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Desenvolvimento Regional e Turismo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6855</codOrgaoEstado>
+        <siglaOrgaoEstado>CMO       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

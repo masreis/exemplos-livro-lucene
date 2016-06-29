@@ -1,0 +1,4088 @@
+<proposicoes>
+  <proposicao>
+    <id>861000</id>
+    <nome>PEC 451/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>451</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/12/2014 18:04:17</datApresentacao>
+    <txtEmenta>Insere inciso XXXV e altera o parágrafo único do art. 7º da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>Inclui como garantia fundamental, plano de assistência à saúde, oferecido pelo empregador em decorrência de vínculo empregatício, na utilização dos serviços de assistência médica. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 17:46:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>860999</id>
+    <nome>PEC 450/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>450</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/12/2014 18:01:00</datApresentacao>
+    <txtEmenta>Altera o art. 93 da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>Estabelece que os processos distribuídos aos membros e órgãos do Poder Judiciário sejam analisados em ordem cronológica, ou seja,  de acordo com a ordem de chegada.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 17:46:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>901</id>
+      <descricao>Aguardando Constituição de Comissão Temporária </descricao>
+      <orgao>
+        <codOrgaoEstado>100068</codOrgaoEstado>
+        <siglaOrgaoEstado>SERCO(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>860998</id>
+    <nome>PEC 449/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>449</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/12/2014 17:59:27</datApresentacao>
+    <txtEmenta>Altera o art. 101 da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>Permite a alteração do sistema de seleção dos membros do STF, possibilitando a efetiva participação dos três poderes no processo de escolha, fixando o mandato do Ministros em oito anos.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Cunha</txtNomeAutor>
+      <idecadastro>74173</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 17:46:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-227/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>562856</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 227/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858939</id>
+    <nome>PEC 448/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>448</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2014 14:16:00</datApresentacao>
+    <txtEmenta>Altera o inciso V, do artigo 52, da Constituição Federal para submeter à autorização do Senado Federal as operações financeiras de apoio à exportação, realizadas por instituições do mercado financeiro a entidades estrangeiras de direito público, mediante a concessão de créditos em moeda nacional aos exportadores brasileiros, ou mediante a equalização de taxas de juros de financiamentos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Domingos Sávio</txtNomeAutor>
+      <idecadastro>160758</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 12:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858908</id>
+    <nome>PEC 447/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>447</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2014 11:48:34</datApresentacao>
+    <txtEmenta>Altera os arts. 52 e 73 da Constituição Federal, para dispor sobre o provimento dos cargos de Ministros do Tribunal de Contas da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jesus Rodrigues</txtNomeAutor>
+      <idecadastro>160671</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PI</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 12:19:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-262/2008. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>398998</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 262/2008</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858888</id>
+    <nome>PEC 446/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>446</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2014 10:39:00</datApresentacao>
+    <txtEmenta>Dá nova redação do inciso XXI, do Art. 22 da Contituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Permite à União legislar sobre normas gerais de índices de segurança pública. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Julio Lopes</txtNomeAutor>
+      <idecadastro>74253</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 12:19:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858871</id>
+    <nome>PEC 445/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>445</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/12/2014 21:41:00</datApresentacao>
+    <txtEmenta>Acrescenta os incisos XXIII e XXIV, do artigo 37 da Constituição Federal fixando parâmetros para a remuneração da Carreira Policial Federal e da Carreira de Polícia Civil do Distrito Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cleber Verde</txtNomeAutor>
+      <idecadastro>141408</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 12:18:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>902</id>
+      <descricao>Aguardando Criação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858581</id>
+    <nome>PEC 444/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>444</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2014 20:36:52</datApresentacao>
+    <txtEmenta>Altera o § 1º do art. 14 da Constituição Federal para tornar facultativo o voto e o alistamento eleitoral.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Leonardo Picciani</txtNomeAutor>
+      <idecadastro>74254</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/6/2015</datDespacho>
+      <txtDespacho>Declarada prejudicada em face da aprovação, em primeiro turno, do Substitutivo oferecido à PEC n. 182/2007, principal (Sessão Deliberativa Extraordinária de 17/06/2015 – 14:42).
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>540574</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 159/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858546</id>
+    <nome>PEC 443/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>443</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2014 19:04:00</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo ao art. 42 da Constituição Federal, para assegurar as associaçoes dos militares estaduais as mesmas garantias de representação e imunidade tributária asseguradas aos sindicatos de trabalhadores.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subtenente Gonzaga</txtNomeAutor>
+      <idecadastro>177282</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/12/2014</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>855073</id>
+    <nome>PEC 442/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>442</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2014 14:40:00</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para extinguir a imunidade e o foro especial por prerrogativa de função, veda o recebimento de auxílio, ajuda de custo ou contribuição de qualquer natureza, assim como o uso de residência ou transporte fornecidos pelo Poder Público ou por entidade privada, por parte de membro de Poder, de detentor de mandato eletivo, Ministros de Estado e Secretários Estaduais e Municipais e outros.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Camilo Cola</txtNomeAutor>
+      <idecadastro>141395</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/12/2014 18:58:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do . Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1120</id>
+      <descricao>Devolvida ao Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>843816</id>
+    <nome>PEC 441/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>441</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/12/2014 14:08:00</datApresentacao>
+    <txtEmenta>Altera o artigo 150 da Constituição Federal, que dispõe sobre as limitações do Poder de Tributar.</txtEmenta>
+    <txtExplicacaoEmenta>Proíbe a criação de impostos sobre livros, jornais, periódicos e o papel para a sua impressão, produzidos no Brasil.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Guilherme Campos</txtNomeAutor>
+      <idecadastro>141447</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/12/2014 16:36:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-150/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>539068</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 150/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>840891</id>
+    <nome>PEC 440/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>440</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/12/2014 10:09:47</datApresentacao>
+    <txtEmenta>Dá nova redação à Constituição Federal, alterando os artigos 159, com a inserção do inciso IV e 167, inciso IV; e instituindo o artigo 73-A, no Ato das Disposições Constitucionais Transitórias (ADCT), com a finalidade de instituir o Fundo Nacional de Investimento, Manutenção e Desenvolvimento da Segurança Pública (FUNDESP), e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pauderney Avelino</txtNomeAutor>
+      <idecadastro>74095</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/12/2014 16:21:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-63/2011. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>514415</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 63/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>840841</id>
+    <nome>PEC 439/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>439</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2014 17:26:00</datApresentacao>
+    <txtEmenta>Acresce inciso XII ao art. 109 da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Liliam Sá</txtNomeAutor>
+      <idecadastro>160533</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>2</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/12/2014 16:21:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>902</id>
+      <descricao>Aguardando Criação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>808895</id>
+    <nome>PEC 438/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>438</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2014 20:30:00</datApresentacao>
+    <txtEmenta>Altera o artigo 228 da Constituição Federal, que dispõe sobre a inimputabilidade penal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/12/2014 15:04:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-332/2013. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>597859</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 332/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>796797</id>
+    <nome>PEC 437/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>437</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/11/2014 14:50:30</datApresentacao>
+    <txtEmenta>Cria o Fundo Nacional de Desenvolvimento do Ensino Técnico de Nível Médio (FUNDETEC).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo Garcia</txtNomeAutor>
+      <idecadastro>88950</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/12/2014 16:11:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-295/2008. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>412505</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 295/2008</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>796708</id>
+    <nome>PEC 436/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>436</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2014 17:34:09</datApresentacao>
+    <txtEmenta>Modifica os arts. 59 e 61 da Constituição Federal, para incluir a Indicação entre as proposições que compõem o processo legislativo e determinar que as leis de iniciativa privativa do Presidente da República mencionem as Indicações recebidas sobre a matéria, citando seus autores.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erivelton Santana</txtNomeAutor>
+      <idecadastro>99654</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/12/2014 16:11:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>796706</id>
+    <nome>PEC 435/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>435</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2014 17:32:49</datApresentacao>
+    <txtEmenta>Altera a redação do art. 210 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece que a cada dez anos, a lei fixará conteúdos mínimos para a educação básica e superior, proibindo a aplicação da transversalidade ou técnicas subliminares no ensino de matéria moral ou orientação religiosa.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erivelton Santana</txtNomeAutor>
+      <idecadastro>99654</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/12/2014 11:27:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>786713</id>
+    <nome>PEC 434/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>434</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/11/2014 19:59:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao inciso I § 1º do art. 40 da Constituição Federal, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Unifica a regra para aposentadoria por invalidez. Define a regra de transição para quem ingressou no serviço público até 31.12.2003.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Andreia Zito</txtNomeAutor>
+      <idecadastro>141379</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/11/2014 22:15:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-170/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>926</id>
+      <descricao>Aguardando Apreciação pelo Senado Federal</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>761787</id>
+    <nome>PEC 433/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>433</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/11/2014 15:59:23</datApresentacao>
+    <txtEmenta>Altera o § 4º do art. 40 e o § 1º do art. 201 da Constituição Federal, para incluir os cuidadores e atendentes pessoais de pessoas com deficiência entre os beneficiários com requisitos e critérios diferenciados para aposentadoria</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mara Gabrilli</txtNomeAutor>
+      <idecadastro>160565</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/11/2014 16:44:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>744151</id>
+    <nome>PEC 432/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>432</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/11/2014 12:18:00</datApresentacao>
+    <txtEmenta>Altera o § 4º do art. 27 e acrescenta o art. 29-B ao texto da Constituição Federal, para limitar a reeleição para os cargos de Presidente das Casas Legislativas Estaduais, Municipais e do Distrito Federal. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Augusto Coutinho</txtNomeAutor>
+      <idecadastro>160665</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/11/2014 10:33:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-426/2009. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>457840</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 426/2009</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>643936</id>
+    <nome>PEC 431/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>431</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2014 17:21:11</datApresentacao>
+    <txtEmenta>Acrescenta ao art. 144 da Constituição Federal parágrafo para ampliar a competência dos órgãos de segurança pública que especifica, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subtenente Gonzaga</txtNomeAutor>
+      <idecadastro>177282</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/10/2014 16:21:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-423/2014. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>621521</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 423/2014</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>643935</id>
+    <nome>PEC 430/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>430</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2014 17:19:48</datApresentacao>
+    <txtEmenta>Altera o art. 14 da Constituição Federal, a fim de prever a elegibilidade dos policiais e dos bombeiros militares. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subtenente Gonzaga</txtNomeAutor>
+      <idecadastro>177282</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/6/2015</datDespacho>
+      <txtDespacho>Declarada prejudicada em face da aprovação, em primeiro turno, do Substitutivo oferecido à PEC n. 182/2007, principal (Sessão Deliberativa Extraordinária de 17/06/2015 – 14:42).
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>280071</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 378/2005</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>639728</id>
+    <nome>PEC 429/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>429</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2014 15:05:00</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para extinguir a imunidade e o foro especial por prerrogativa de função, veda o recebimento de auxílio, ajuda de custo ou contribuição de qualquer natureza, assim como, o uso de residência ou transporte fornecidos pelo Poder Público ou por entidade privada, por parte de membro de Poder, de detentor de mandato eletivo, Ministros de Estado e Secretários Estaduais e Municipais.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Camilo Cola</txtNomeAutor>
+      <idecadastro>141395</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/11/2014 12:08:00</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do . Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>622584</id>
+    <nome>PEC 428/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>428</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/9/2014 12:40:01</datApresentacao>
+    <txtEmenta>Altera a redação do art. 159, do art. 169 e do art. 34 do ADCT da Constituição Federal para aumentar os recursos do Fundo de Participação dos Municípios, estabelecer critérios de repartição da parte aumentada do Fundo de Participação dos Municípios, determinar uma receita orçamentária per capita mínima mensal para os Municípios, bem como sua atualização e alterar o limite dos gastos com pessoal nos Municípios.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Penido</txtNomeAutor>
+      <idecadastro>141557</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/9/2014 08:53:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>622511</id>
+    <nome>PEC 427/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>427</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/9/2014 16:02:53</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para extinguir a imunidade e o foro especial por prerrogativa de função, veda o recebimento de auxílio, ajuda de custo ou contribuição de qualquer natureza, assim como o uso de residência ou transporte fornecidos pelo Poder Público ou por entidade privada, por parte de membro de Poder, de detentor de mandato eletivo, Ministros de Estado e Secretários Estaduais e Municipais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Camilo Cola</txtNomeAutor>
+      <idecadastro>141395</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/9/2014</datDespacho>
+      <txtDespacho>Devolva-se ao Autor, por não conter o número mínimo de assinaturas indicado no inciso I do art. 60, da Constituição Federal, combinado com o inciso I do art. 201, do . Regimento Interno da Câmara dos Deputados. Oficie-se e, após, publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621806</id>
+    <nome>PEC 426/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>426</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/8/2014 11:21:00</datApresentacao>
+    <txtEmenta>Altera o art. 159 da Constituição Federal, para aumentar a entrega de recursos pela União para o Fundo de Participação dos Municípios.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal - Ana Amélia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/8/2014 17:32:00</datDespacho>
+      <txtDespacho>Tendo em vista a correlação das matérias, determino a apensação da PEC 406/2009, com suas apensadas, à PEC 426/2014, na forma do art. 143, II, ‘a’, do RICD.A matéria encontra-se aguardando instalação de Comissão Especial, para apreciá-la.Por oportuno, retifico o ato de criação da Comissão Especial destinada a apreciar a PEC 406/2009, para que esta destine-se a apreciar a PEC 426/2014. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621779</id>
+    <nome>PEC 425/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>425</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/8/2014 17:51:57</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo ao art. 175 da Constituição Federal, excluindo da incumbência do poder público a prestação dos serviços de táxi, que passam a ser considerados serviços de utilidade pública.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wellington Fagundes</txtNomeAutor>
+      <idecadastro>73653</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/8/2014 09:54:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621723</id>
+    <nome>PEC 424/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>424</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/8/2014 13:17:00</datApresentacao>
+    <txtEmenta>Acrescenta art. 64-A à Constituição Federal, para prever a tramitação em regime de urgência dos tratados, acordos e atos internacionais, se requerido pelo Presidente da República ou por deliberação da Casa em que se encontrarem, na forma do regimento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/8/2014 15:53:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621521</id>
+    <nome>PEC 423/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>423</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/8/2014 14:49:01</datApresentacao>
+    <txtEmenta>Altera dispositivos da Constituição Federal para permitir à União e aos Estados a criação de polícia única e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Prevê o ciclo completo de ação policial na persecução penal e da ação de bombeiro; altera a denominação das polícias militares para forças públicas estaduais e do Distrito Federal e Territórios e do corpo de bombeiros militares para corpo de bombeiros dos Estados e Distrito Federal e Territórios.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorginho Mello</txtNomeAutor>
+      <idecadastro>160509</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/8/2014 10:56:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-430/2009. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>458500</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 430/2009</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>621519</id>
+    <nome>PEC 422/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>422</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/8/2014 14:46:00</datApresentacao>
+    <txtEmenta>Acrescenta o art. 99 ao Ato das Disposições Constitucionais Transitórias, dispondo sobre a efetivação de pessoal em exercício na União, nos Estados, no Distrito Federal e nos Municípios.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rodrigo de Castro</txtNomeAutor>
+      <idecadastro>141531</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/9/2014 18:37:00</datDespacho>
+      <txtDespacho>Deferido o Requerimento n. 10712/2014, conforme despacho do seguinte teor: “Defiro o pedido contido no Requerimento n. 10.712/2014, para determinar que a Proposta de Emenda à Constituição n. 422/2014 seja desapensada da Proposta de Emenda à Constituição n. 518/2010 e, ato contínuo, seja apensada à Proposta de Emenda à Constituição n. 54/1999. Publique-se. Oficie-se”.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>14313</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 54/1999</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>620527</id>
+    <nome>PEC 421/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>421</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2014 18:19:03</datApresentacao>
+    <txtEmenta>Altera a redação da alínea "e", inciso II do art. 34, inciso III do art. 35, parágrafo único do art. 160, inciso IV do art. 167 e acrescenta o art. 216-A da Constituição Federal e os arts. 98 e 99 ao Ato das Disposições Constitucionais Transitórias, para incluir a determinação de aplicação mínima de recursos por parte da União, dos Estados, do Distrito Federal na preservação do patrimônio cultural brasileiro e na produção e difusão da cultura nacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/7/2015 16:09:00</datDespacho>
+      <txtDespacho>Deferido o Requerimento n. 2.259/2015, conforme despacho do seguinte teor: “Defiro o Requerimento n. 2.259/2015 para determinar a apensação da Proposta de Emenda à Constituição n. 421/2014 à Proposta de Emenda à Constituição n. 150/2003. Publique-se. Oficie-se.”</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>902</id>
+      <descricao>Aguardando Criação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>131237</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 150/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>620305</id>
+    <nome>PEC 420/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>420</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2014 11:29:42</datApresentacao>
+    <txtEmenta>Altera o art. 144 da Constituição Federal, para assegurar os recursos mínimos, para o financiamento das ações e serviços públicos de segurança.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Heuler Cruvinel</txtNomeAutor>
+      <idecadastro>160596</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/7/2014 12:15:00</datDespacho>
+      <txtDespacho>Apense-se à PEC-158/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>540302</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 158/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>619563</id>
+    <nome>PEC 419/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>419</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2014 18:05:31</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 144, § 1º, da Constituição Federal de 1988 para acrescentar competência investigativa à Polícia Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Amauri Teixeira</txtNomeAutor>
+      <idecadastro>160603</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/7/2014 10:12:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>619451</id>
+    <nome>PEC 418/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>418</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2014 14:20:43</datApresentacao>
+    <txtEmenta>Acrescenta § ao art. 149-A, renumerando o parágrafo único, e acrescenta-se alínea ao inciso X do parágrafo 2º do art. 155 da Constituição Federal, para retirar a incidência da contribuição para o custeio de iluminação pública e do ICMS sobre os serviços públicos de saúde e educação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Giovanni Queiroz</txtNomeAutor>
+      <idecadastro>74077</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/7/2014 17:12:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-296/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>588458</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 296/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>619371</id>
+    <nome>PEC 417/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>417</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/7/2014 19:03:20</datApresentacao>
+    <txtEmenta>Altera os artigos 159 e 239 da Constituição Federal e acrescenta o art. 207-A para dispor sobre Fundo de Permanência Estudantil na Educação Superior - FUNPES.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Gustavo Petta</txtNomeAutor>
+      <idecadastro>176120</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/7/2014 17:12:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618907</id>
+    <nome>PEC 416/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>416</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/6/2014 12:25:00</datApresentacao>
+    <txtEmenta>Altera o artigo 185 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Torna insuscetíveis de desapropriação para fins de regularização fundiária e para fins de demarcação de terras indígenas e quilombolas a pequena e média propriedade rural e a propriedade produtiva. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vilson Covatti</txtNomeAutor>
+      <idecadastro>141870</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/6/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618403</id>
+    <nome>PEC 415/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>415</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/6/2014 09:54:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 11, do art. 14, da Constituição Federal, para suprimir a tramitação em segredo de justiça da ação de impugnação de mandato eletivo.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2014 11:38:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>902</id>
+      <descricao>Aguardando Criação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618369</id>
+    <nome>PEC 414/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>414</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/6/2014 20:22:18</datApresentacao>
+    <txtEmenta>Acrescenta o artigo 135-A e Seção IV ao Capítulo IV, Das Funções Essenciais à Justiça.</txtEmenta>
+    <txtExplicacaoEmenta>Reconhece  o Oficial de Justiça como função essencial à Justiça.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ademir Camilo</txtNomeAutor>
+      <idecadastro>133374</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/6/2014 11:38:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617669</id>
+    <nome>PEC 413/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>413</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/5/2014 16:54:00</datApresentacao>
+    <txtEmenta> Prevê a criação de fundo voltado à valorização profissional e desenvolvimento da segurança pública, estabelece critérios de transferência de recursos da União para os estados, princípios e condições ao desenvolvimento da gestão da segurança pública.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Augusto Maia</txtNomeAutor>
+      <idecadastro>160661</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/6/2014 17:16:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-63/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>514415</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 63/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617570</id>
+    <nome>PEC 412/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>412</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/5/2014 12:04:48</datApresentacao>
+    <txtEmenta>Dá nova redação ao inciso II do §1º do art. 40, da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Autoriza a aposentadoria compulsória aos setenta anos, com proventos integrais, para o servidor que tiver cumpridos todos os requisitos legais para obtenção da aposentadoria voluntária.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Andreia Zito</txtNomeAutor>
+      <idecadastro>141379</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/6/2014 17:14:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>617153</id>
+    <nome>PEC 411/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>411</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2014 19:14:30</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 9º do art. 37 da Constituição, para estender aos grupos que especifica a aplicação do limite remuneratório previsto no inciso XI do art. 37 da Constituição.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Washington Reis</txtNomeAutor>
+      <idecadastro>160620</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/5/2014 15:23:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616849</id>
+    <nome>PEC 410/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>410</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/5/2014 14:55:21</datApresentacao>
+    <txtEmenta>Incluir os Incisos XVIII e XIX do Art. 49 da Constituição Federal.  </txtEmenta>
+    <txtExplicacaoEmenta>Submete à apreciação prévia do Congresso Nacional a concessão de empréstimos a governos estrangeiros e a aquisição de bens imóveis ou instalações industriais e comerciais pelo  país em território estrangeiro.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mário Feitoza</txtNomeAutor>
+      <idecadastro>168447</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/5/2014 15:31:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-223/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>150002</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 223/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616566</id>
+    <nome>PEC 409/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>409</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2014 18:46:46</datApresentacao>
+    <txtEmenta>Dá nova redação ao Art. 50, da Constituição Federal, para permitir a convocação de presidentes, vice-presidentes e diretores de Empresas Públicas, Sociedades de Economia Mista, Autarquias e de Agências Reguladoras, Secretários Executivos dos Ministérios e executivos de empresas que tenham participação acionária da União.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Hugo Motta</txtNomeAutor>
+      <idecadastro>160674</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-290/2000. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>14666</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 290/2000</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616421</id>
+    <nome>PEC 408/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>408</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2014 14:08:23</datApresentacao>
+    <txtEmenta>Altera a Constituição Federal para estabelecer o impedimento para o cargo de Ministro do Tribunal de Contas da União de pessoa condenada por improbidade administrativa ou crime de responsabilidade, esteja respondendo a ações ou inquéritos penais, e para determinar que 80% desses cargos sejam escolhidos por competência técnica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Camilo Cola</txtNomeAutor>
+      <idecadastro>141395</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-235/2012. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>564331</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 235/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616368</id>
+    <nome>PEC 407/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>407</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2014 11:56:00</datApresentacao>
+    <txtEmenta>Acrescenta o inciso XII ao art.109 da Constituição Federal para estabelecer a competência dos Juízes Federais para processar e julgar as causas relativas à liberdade de expressão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Souza</txtNomeAutor>
+      <idecadastro>73934</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/5/2014 15:31:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616341</id>
+    <nome>PEC 406/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>406</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2014 11:10:00</datApresentacao>
+    <txtEmenta>Acresce § 5º ao art. 167, para permitir a transferência voluntária de recursos e a concessão de empréstimos, inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para pagamento dos profissionais do magistério da educação básica em efetivo exercício dos Estados, do Distrito Federal e dos Municípios.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pauderney Avelino</txtNomeAutor>
+      <idecadastro>74095</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/5/2014 15:31:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-76/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>518221</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 76/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616340</id>
+    <nome>PEC 405/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>405</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2014 11:07:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 4º do art. 212 </txtEmenta>
+    <txtExplicacaoEmenta>Inclui a merenda escolar nos níveis fundamental e médio como despesa obrigatória com a educação. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pauderney Avelino</txtNomeAutor>
+      <idecadastro>74095</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616273</id>
+    <nome>PEC 404/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>404</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/5/2014 19:16:42</datApresentacao>
+    <txtEmenta>Acrescenta o inciso XI ao §3º do Art. 142 da Constituição Federal, referente à remuneração dos militares.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vitor Paulo</txtNomeAutor>
+      <idecadastro>92355</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>615881</id>
+    <nome>PEC 403/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>403</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/5/2014 16:37:21</datApresentacao>
+    <txtEmenta>Acrescenta o inciso XVII ao artigo 24 e o § 13 ao artigo 37 da Constituição da República, para estabelecer a competência concorrente da União, dos Estados e do Distrito Federal em legislação sobre concursos públicos e facultar ao Poder Legislativo a iniciativa de lei sobre a matéria </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Policarpo</txtNomeAutor>
+      <idecadastro>162174</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/5/2014 17:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>615880</id>
+    <nome>PEC 402/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>402</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/5/2014 16:36:35</datApresentacao>
+    <txtEmenta>Acrescenta inciso ao § 1º do art. 43 da Constituição Federal para dispor sobre a gestão dos transportes em regiões integradas interfederativas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Policarpo</txtNomeAutor>
+      <idecadastro>162174</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/5/2014 15:20:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614641</id>
+    <nome>PEC 401/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>401</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/5/2014 10:41:00</datApresentacao>
+    <txtEmenta>Acrescenta o art. 40-A ao Ato das Disposições Constitucionais Transitórias, criando áreas de livre comércio de importação e exportação, sob regime fiscal especial nos municípios de Santarém, Marabá e Barcarena, pelo prazo de vinte e cinco anos, sendo renovável por igua período.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wandenkolk Gonçalves</txtNomeAutor>
+      <idecadastro>141561</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014 11:01:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>614309</id>
+    <nome>PEC 400/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>400</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2014 13:33:59</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 7º do art. 39 da Constituição.</txtEmenta>
+    <txtExplicacaoEmenta>Determina que Lei da União, dos Estados, do Distrito Federal e dos Municípios estabelecerá critérios para concessão de remuneração variável a servidor.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Irajá Abreu</txtNomeAutor>
+      <idecadastro>81232</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/5/2014 11:01:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>613261</id>
+    <nome>PEC 399/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>399</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2014 18:17:35</datApresentacao>
+    <txtEmenta>Altera o art. 93, o art. 129 e o art. 144, da Constituição Federal, para exigir do bacharel em Direito, cumulativamente, no mínimo, trinta anos de idade e três anos de atividade jurídica, para ingresso nas carreiras de juiz, de promotor e delegado, e dá outras providências. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2014 17:33:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-25/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>501374</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 25/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612878</id>
+    <nome>PEC 398/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>398</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/4/2014 11:39:49</datApresentacao>
+    <txtEmenta>Altera a redação do § 4º do art. 150 da Constituição Federal para excluir da imunidade tributária prevista para livros, jornais, periódicos e o papel destinado a sua impressão, as publicações de natureza pornográfica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Flávia Morais</txtNomeAutor>
+      <idecadastro>160598</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014 17:52:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-265/2008.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>399516</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 265/2008</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612704</id>
+    <nome>PEC 397/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>397</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2014 19:44:13</datApresentacao>
+    <txtEmenta>Altera o § 2º do art. 155 da Constituição Federal e inclui o art. 98 no Ato das Disposições Constitucionais Transitórias, para tratar da sistemática de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alex Canziani</txtNomeAutor>
+      <idecadastro>73458</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2014</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-282/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>582570</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 282/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>612086</id>
+    <nome>PEC 396/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>396</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2014 17:04:28</datApresentacao>
+    <txtEmenta>Acrescenta o art. 98 ao Ato das Disposições Constitucionais Transitórias, para tratar da revogação das leis.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Bornhausen</txtNomeAutor>
+      <idecadastro>73883</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014 10:41:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611966</id>
+    <nome>PEC 395/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>395</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2014 14:42:00</datApresentacao>
+    <txtEmenta>Altera a redação do inciso IV do art. 206 da Constituição Federal, referente à gratuidade do ensino público em estabelecimentos oficiais. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alex Canziani</txtNomeAutor>
+      <idecadastro>73458</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2014</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611405</id>
+    <nome>PEC 394/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>394</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/4/2014 17:39:06</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 14 da  Constituição Federal, proibindo a candidatura  de cônjuge e parentes em chapas eleitorais de candidatos a cargos eletivos majoritários.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Severino Ninho</txtNomeAutor>
+      <idecadastro>167614</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/4/2014 15:44:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-300/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>589361</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 300/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611116</id>
+    <nome>PEC 393/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>393</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/4/2014 18:03:02</datApresentacao>
+    <txtEmenta>Dá nova redação ao § 5º do artigo 14 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Propõe a limitação de dois mandatos aos Chefes do Executivo.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcio Bittar</txtNomeAutor>
+      <idecadastro>74363</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/4/2014 10:17:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-365/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>603461</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 365/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>610725</id>
+    <nome>PEC 392/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>392</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/4/2014 17:25:21</datApresentacao>
+    <txtEmenta>Acrescenta o § 7º ao art. 127 da Constituição Federal, para fixar prazo de afastamento de candidato Membro do Ministério Público;  e revoga a alínea "e", do inciso II, do § 5º, art. 128, de modo a restabelecer a capacidade política passiva dos Membros do Ministério Público.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Fonseca</txtNomeAutor>
+      <idecadastro>160637</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/4/2014 10:17:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>610489</id>
+    <nome>PEC 391/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>391</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/3/2014 15:04:00</datApresentacao>
+    <txtEmenta>Fixa parâmetros para a remuneração da Carreira de Auditoria da Receita Federal do Brasil (ARFB), da Carreira de Auditoria Fiscal do Trabalho e das carreiras de Auditoria, Fiscalização e Arrecadação dos Estados, do Distrito Federal e dos Municípios que sejam Capital de Estado ou com população superior a quinhentos mil habitantes e da Carreira de Nível Superior de Fiscal Federal Agropecuário.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulão</txtNomeAutor>
+      <idecadastro>171617</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/6/2015 12:13:00</datDespacho>
+      <txtDespacho>Deferido o Requerimento n. 1.942/2015, conforme despacho do seguinte teor: “Defiro o Requerimento n. 1.942/2015, para determinar a tramitação conjunta das Propostas de Emenda à Constituição n. 147/2012 e n. 391/2014, porquanto tratam de matérias correlatas. Apense-se, por conseguinte, a Proposta de Emenda à Constituição n. 391/2014 à Proposta de Emenda à Constituição n. 147/2012. Publique-se. Oficie-se”.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>537337</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 147/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>609753</id>
+    <nome>PEC 390/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>390</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/3/2014 18:59:03</datApresentacao>
+    <txtEmenta>Altera o art. 169 da Constituição Federal e o artigo 38 do Ato das Disposições Constitucionais Transitórias para possibilitar a ampliação de limite de despesas com pessoal ativo nas áreas da saúde e da educação.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>André Figueiredo</txtNomeAutor>
+      <idecadastro>133439</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/4/2014 10:58:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>902</id>
+      <descricao>Aguardando Criação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608998</id>
+    <nome>PEC 389/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>389</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2014 11:39:00</datApresentacao>
+    <txtEmenta>Inclui advogados na composição dos juizados especiais e turmas recursais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carmen Zanotto</txtNomeAutor>
+      <idecadastro>164360</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>SC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/3/2014 10:52:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608490</id>
+    <nome>PEC 388/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>388</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/3/2014 14:54:55</datApresentacao>
+    <txtEmenta> Altera a redação do art. 40 da Constituição Federal, para dispor que o beneficiário de pensão por morte de servidor público que contrair novo matrimônio ou união estável não perderá o direito ao respectivo benefício, vedando-se a acumulação de benefícios no mesmo regime. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zequinha Marinho</txtNomeAutor>
+      <idecadastro>73933</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/3/2014 10:46:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>608395</id>
+    <nome>PEC 387/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>387</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2014 16:00:56</datApresentacao>
+    <txtEmenta>Altera a redação do § 2º do art. 236 da Constituição Federal, para dar à União competência para fixar, em nível nacional, os emolumentos e o horário de funcionamento dos serviços notariais e de registro.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Dorner</txtNomeAutor>
+      <idecadastro>161903</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/3/2014 16:30:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-304/2004.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>260428</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 304/2004</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607954</id>
+    <nome>PEC 386/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>386</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/3/2014 17:40:00</datApresentacao>
+    <txtEmenta>Altera o inciso VI do art. 150 da Constituição Federal, para isentar dos tributos federais, inclusive das contribuições e taxas, os medicamentos de uso humano.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Duarte Nogueira</txtNomeAutor>
+      <idecadastro>141385</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/3/2014 14:35:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-375/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>604837</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 375/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>607166</id>
+    <nome>PEC 385/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>385</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/2/2014 09:12:00</datApresentacao>
+    <txtEmenta>Altera os §§ 3º, 6º, 7º e 11 do art. 62 da Constituição Federal, dispondo que os prazos referentes à tramitação das medidas provisórias passarão a ser contados em dias úteis. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Colbert Martins</txtNomeAutor>
+      <idecadastro>74230</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>10/3/2014 15:41:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606692</id>
+    <nome>PEC 384/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>384</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/2/2014 15:42:44</datApresentacao>
+    <txtEmenta>Dá nova redação à alíneas ''c'' e ''d'', do inciso VI, do § 3º, do art. 14, da Constituição Federal, para estabelecer a idade mínima de dezoito anos como condição de elegibilidade para Deputado Estadual ou Distrital.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arnaldo Jordy</txtNomeAutor>
+      <idecadastro>160602</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/6/2015</datDespacho>
+      <txtDespacho>Declarada prejudicada em face da aprovação, em primeiro turno, do Substitutivo oferecido à PEC n. 182/2007, principal (Sessão Deliberativa Extraordinária de 17/06/2015 – 14:42).
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>344644</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 20/2007</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606656</id>
+    <nome>PEC 383/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>383</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/2/2014 12:17:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao artº. 170 da Constituição Federal. </txtEmenta>
+    <txtExplicacaoEmenta>Insere a observância aos direitos humanos entre os princípios que regem a  ordem econômica.  </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sebastião Bala Rocha</txtNomeAutor>
+      <idecadastro>141539</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>AP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2014 15:10:00</datDespacho>
+      <txtDespacho>À Comissão de Constituição e Justiça e de CidadaniaProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606419</id>
+    <nome>PEC 382/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>382</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/2/2014 17:08:38</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 228 da Constituição Federal.</txtEmenta>
+    <txtExplicacaoEmenta>Excepciona da inimputabilidade penal os menores de dezoito anos que cometerem  crimes hediondos. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Akira Otsubo</txtNomeAutor>
+      <idecadastro>173269</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2014 10:02:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-386/1996.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>14747</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 386/1996</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606397</id>
+    <nome>PEC 381/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>381</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/2/2014 16:18:52</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 56, inciso I,  da Constituição Federal de 1988, para incluir a possibilidade de afastamento de Deputados Federais e Senadores para ocupar cargo de Secretário de Prefeitura de Município com população igual ou superior a quatrocentos mil habitantes.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Manato</txtNomeAutor>
+      <idecadastro>74163</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/2/2014 11:14:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-74/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>117708</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 74/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606323</id>
+    <nome>PEC 380/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>380</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/2/2014 11:51:23</datApresentacao>
+    <txtEmenta>Modifica a forma de escolha dos juízes do Tribunal Superior Eleitoral - TSE  e dos Tribunais Regionais Eleitorais - TREs, a partir da sistemática já adotada no art. 94 da Constituição da República.</txtEmenta>
+    <txtExplicacaoEmenta>Altera  os arts. 119 e 120 da Constituição Federal .</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcus Pestana</txtNomeAutor>
+      <idecadastro>159238</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2014 10:21:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-79/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>518741</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 79/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606240</id>
+    <nome>PEC 379/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>379</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/2/2014 13:55:46</datApresentacao>
+    <txtEmenta>Modifica os §§ 1º e 3º do art. 46 da Constituição Federal para por fim aos suplentes dos Senadores e reduzir o mandato dos Senadores para 4 anos, permitida 1 recondução. Condicionando na hipótese de vacância assumir o 2º candidato mais votado.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zé Geraldo</txtNomeAutor>
+      <idecadastro>73931</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2014 10:02:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-376/2009.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>439075</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 376/2009</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>606239</id>
+    <nome>PEC 378/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>378</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/2/2014 13:54:16</datApresentacao>
+    <txtEmenta>Altera dispositivos constitucionais, instituindo mandato com duração de 10 anos, vedando a recondução para os Ministros do STF, TCU e TCE e modifica forma de investidura no STF.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Zé Geraldo</txtNomeAutor>
+      <idecadastro>73931</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/2/2014 10:02:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-262/2008.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>398998</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 262/2008</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>605445</id>
+    <nome>PEC 377/2014</nome>
+    <tipoProposicao>
+      <id>136</id>
+      <sigla>PEC</sigla>
+      <nome>Proposta de Emenda à Constituição</nome>
+    </tipoProposicao>
+    <numero>377</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/2/2014 18:03:16</datApresentacao>
+    <txtEmenta>Dispõe sobre a composição do Conselho Nacional de Justiça</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>18</codRegime>
+      <txtRegime>Especial</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Osmar Serraglio</txtNomeAutor>
+      <idecadastro>73463</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/2/2014 17:05:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PEC-244/2008.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Especial</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>390114</codProposicaoPrincipal>
+        <proposicaoPrincipal>PEC 244/2008</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

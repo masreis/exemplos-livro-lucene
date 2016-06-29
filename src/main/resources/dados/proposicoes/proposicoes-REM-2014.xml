@@ -1,0 +1,401 @@
+<proposicoes>
+  <proposicao>
+    <id>860840</id>
+    <nome>REM 7/2014</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/12/2014 17:10:00</datApresentacao>
+    <txtEmenta>Reclamação sobre a abordagem da Secretaria de Comunicação Social no que se refere às candidaturas aos cargos da Mesa Diretora na próxima legislatura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Arlindo Chinaglia</txtNomeAutor>
+      <idecadastro>73433</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/1/2015 13:56:00</datDespacho>
+      <txtDespacho>Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>858841</id>
+    <nome>REM 6/2014 =&gt; PL 5627/2013</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/12/2014 19:59:00</datApresentacao>
+    <txtEmenta>Formulo Reclamação, com base no art. 96, §1º, do Regimento Interno da Câmara dos Deputados, em decorrência de violação ao art. 58, caput, do referido Regimento pelo Presidente da Comissão Especial competente para apreciar o Projeto de Lei nº  5.627/2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Chaves</txtNomeAutor>
+      <idecadastro>74423</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/12/2014 14:28:00</datDespacho>
+      <txtDespacho>Julgo prejudicada a presente reclamação, tendo em vista que a publicação e a abertura do prazo referidas em epígrafe já ocorreram. Publique-se. Oficie-se. Arquive-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>786882</id>
+    <nome>REM 5/2014</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2014 17:58:39</datApresentacao>
+    <txtEmenta>Apresenta reclamação com o objetivo de requerer a revogação do inciso VII do §1º do artigo 8º do Ato da Mesa nº 88, de 18 de outubro de 2006, que dispensada do sorteio de distribuição dos gabinetes remanescentes, entre outros, "o cônjuge, pai, filho ou irmão de Titular não reeleito da Legislatura vigente".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marchezan Junior</txtNomeAutor>
+      <idecadastro>160567</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/11/2014</datDespacho>
+      <txtDespacho>Recebo a Reclamação n. 5/2014 como sugestão à Mesa Diretora. Encaminhe-se ao Senhor Deputado Márcio Bittar, Primeiro-Secretário, para relatar.
+DCD de 27/11/14 PÁG 241 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>786715</id>
+    <nome>REM 4/2014 =&gt; PL 4364/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/11/2014 20:08:00</datApresentacao>
+    <txtEmenta>Reclama da indevida inclusão em pauta e votação do Projeto de Lei nº 4.364, de 2012, na Reunião Ordinária da Comissão de Trabalho, de Administração e Serviço Público, realizada em 12 de novembro de 2014</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Dr. Jorge Silva</txtNomeAutor>
+      <idecadastro>160643</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>ES</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/11/2014 17:07:00</datDespacho>
+      <txtDespacho>À Presidência da Comissão de Trabalho, de Administração e Serviço Público, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>619432</id>
+    <nome>REM 3/2014 =&gt; PL 3388/2012</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2014 13:02:00</datApresentacao>
+    <txtEmenta>Contra parecer aprovado na Comissão de Viação e Transportes ao Projeto de Lei 3.388/2012, tendo em vista extrapolar a competência regimental daquela CVT.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/7/2014 10:44:00</datDespacho>
+      <txtDespacho>À Presidência da Comissão de Viação e Transportes, para se manifestar no prazo de 3 (três) sessões. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>616686</id>
+    <nome>REM 2/2014</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/5/2014 10:10:32</datApresentacao>
+    <txtEmenta>Reclamação com fundamentação no art. 264 do Regimento Interno da Câmara dos Deputados 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jandira Feghali</txtNomeAutor>
+      <idecadastro>74848</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>611462</id>
+    <nome>REM 1/2014</nome>
+    <tipoProposicao>
+      <id>145</id>
+      <sigla>REM</sigla>
+      <nome>Reclamação</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/4/2014 11:15:00</datApresentacao>
+    <txtEmenta>Formula Reclamação sobre fato ocorrido na Sessão Solene para rememorar os fatos relacionados em 31 de março de 1964. Solicita que seja instaurada sindicância para averiguar a pessoa responsável por liberar o acesso às Galerias do Plenário por alguns dos participantes apesar de haver ordem contrária da Presidência.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ivan Valente</txtNomeAutor>
+      <idecadastro>73531</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/4/2014 13:22:00</datDespacho>
+      <txtDespacho>Arquive-se, tendo em vista resposta do Presidente da Câmara, na sessão de 01/04/2014. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

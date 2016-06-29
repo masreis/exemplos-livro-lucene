@@ -1,0 +1,241 @@
+<proposicoes>
+  <proposicao>
+    <id>531029</id>
+    <nome>PLS 726/2011 MERCOSUL =&gt; PLS 232/2011 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>726</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/12/2011 11:04:00</datApresentacao>
+    <txtEmenta>Concede incentivos a projetos que favoreçam a integração regional na América do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Direitos Humanos e Legislação Participativa</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>5973</codOrgaoEstado>
+        <siglaOrgaoEstado>MERCOSUL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531020</id>
+    <nome>PLS 686/2011 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>686</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/12/2011 10:24:00</datApresentacao>
+    <txtEmenta>Isenta do Imposto sobre Produtos Industrializados a aquisição de veículo blindado por Magistrados ou membros do Ministério Público.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lobão Filho</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5973</codOrgaoEstado>
+        <siglaOrgaoEstado>MERCOSUL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>520180</id>
+    <nome>PLS 232/2011 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>232</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/5/2011 09:41:00</datApresentacao>
+    <txtEmenta>Concede benefícios para projetos que favoreçam à integração regional na América do Sul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Paim</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>586681</id>
+    <nome>PLS 126/2011 MERCOSUL =&gt; PLS 381/2008 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>126</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/3/2011 14:52:00</datApresentacao>
+    <txtEmenta>Estabelece normas para as eleições, em 7 de outubro de 2012, de Parlamentares do Mercosul.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lindbergh Farias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>5973</codOrgaoEstado>
+        <siglaOrgaoEstado>MERCOSUL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

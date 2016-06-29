@@ -1,0 +1,4187 @@
+<proposicoes>
+  <proposicao>
+    <id>604006</id>
+    <nome>PRC 235/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>235</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/12/2013 13:55:00</datApresentacao>
+    <txtEmenta>Extingue o Pecúlio dos Servidores da Câmara dos Deputados, instituído pela Resolução n. 84, de 1984.</txtEmenta>
+    <txtExplicacaoEmenta> Também revoga a Resolução nº 84, de 1984, e o art. 17 da Resolução nº 28, de 1998.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603834</id>
+    <nome>PRC 234/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>234</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2013 16:26:33</datApresentacao>
+    <txtEmenta>Institui o "Prêmio de Direitos Humanos Evandro Lins e Silva" da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Renato Simões</txtNomeAutor>
+      <idecadastro>175212</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/12/2013 18:33:00</datDespacho>
+      <txtDespacho>Às Comissões de Mesa Diretora da Câmara dos Deputados e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>603746</id>
+    <nome>PRC 233/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>233</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/12/2013 12:22:44</datApresentacao>
+    <txtEmenta>Institui o Grupo Parlamentar Brasil-Etiópia e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Alberto</txtNomeAutor>
+      <idecadastro>74133</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/12/2013 16:40:00</datDespacho>
+      <txtDespacho>À Comissão de Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602919</id>
+    <nome>PRC 232/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>232</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2013 16:47:00</datApresentacao>
+    <txtEmenta>Dá nova redação aos arts. 188 e 240 do Regimento Interno da Câmara dos Deputados e aos arts.13 e 14 do Código de Etica e Decoro Parlamentar para determinar que as deliberações sobre decretação de perda de mandato nas hipóteses previstas nos incisos I, II e VI, do art. 55 da Constituição Federal sejam tomadas por votação ostensiva.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a Resolução nº 17, de 1989 e a Resolução nº 25, de 2001.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/12/2013 17:34:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602909</id>
+    <nome>PRC 231/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>231</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2013 16:45:00</datApresentacao>
+    <txtEmenta>Altera o art. 91 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para dar nova redação ao §1º, para explicitar a finalidade da Comissão Geral prevista na hipótese do inciso I; limitar o número de convidados indicados pelos partidos; fixar prazo para divulgação da relação de convidados indicados; e acrescenta o §1º-A para modificar a ordem dos oradores.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/12/2013 16:15:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania (Art. 54 RICD) e à Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602804</id>
+    <nome>PRC 230/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>230</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2013 17:43:00</datApresentacao>
+    <txtEmenta>Altera os arts. 188 e 240 do Regimento Interno e arts. 13 e 14 do Código de Ética e Decoro Parlamentar, estabelecendo o voto aberto para as situações que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/12/2013</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-232/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>602766</id>
+    <nome>PRC 229/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>229</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2013 11:14:00</datApresentacao>
+    <txtEmenta>Acrescenta os arts. 43-A e 43-B ao Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, criando hipóteses de impedimento para designação de Relator ou para a Presidência de Comissão Especial na apreciação de matéria em tramitação na Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erika Kokay</txtNomeAutor>
+      <idecadastro>160575</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/12/2013 10:40:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados. Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601931</id>
+    <nome>PRC 228/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>228</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/11/2013 19:03:00</datApresentacao>
+    <txtEmenta>Estabelece as estruturas temporárias da Liderança do Partido Republicano da Ordem Social e da Liderança do Solidariedade e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601912</id>
+    <nome>PRC 227/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>227</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/11/2013 17:18:00</datApresentacao>
+    <txtEmenta>Acrescenta Inciso ao art. 57, do Regimento Interno da Câmara dos Deputados, para determinar ser indispensável, a presença do autor ou relator de matéria constante das Reuniões Deliberativas das Comissões Permanentes. 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Couto</txtNomeAutor>
+      <idecadastro>74041</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/11/2013</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601911</id>
+    <nome>PRC 226/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>226</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/11/2013 17:17:00</datApresentacao>
+    <txtEmenta>Acrescente-se ao art. 41, do Regimento Interno da Câmara dos Deputados, o Inciso XXIV, para determinar o tempo de votação de matérias constante da Pauta da CCJC, no Painel Eletrônico.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Couto</txtNomeAutor>
+      <idecadastro>74041</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/12/2013 10:48:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601273</id>
+    <nome>PRC 225/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>225</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/11/2013 15:33:00</datApresentacao>
+    <txtEmenta>Altera o parágrafo único do art. 16 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para estabelecer a idade mínima de trinta e cinco anos para o Presidente da Câmara dos Deputados. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Dado</txtNomeAutor>
+      <idecadastro>73682</idecadastro>
+      <codPartido>223</codPartido>
+      <txtSiglaPartido>SDD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>22/11/2013 10:19:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>601036</id>
+    <nome>PRC 224/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>224</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/11/2013 10:16:00</datApresentacao>
+    <txtEmenta>Altera o inciso I do art. 57, o art. 142 e revoga o inciso I do art. 139 do Regimento Interno da Câmara dos Deputados, para disciplinar a tramitação conjunta de proposições da mesma espécie, que regulem matéria idêntica ou correlata.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandra Rosado</txtNomeAutor>
+      <idecadastro>74039</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/11/2013 09:44:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-315/2006.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>328618</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 315/2006</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>599337</id>
+    <nome>PRC 223/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>223</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/11/2013 17:38:00</datApresentacao>
+    <txtEmenta>Altera o § 1º do art. 66 do Regimento Interno para possibilitar o Primeiro-Vice-Líder a falar, na ausência do Líder.
+
+NOVA EMENTA:Altera o § 1º do art. 66 do Regimento Interno da Câmara dos Deputados, nos termos que explicita.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Givaldo Carimbão</txtNomeAutor>
+      <idecadastro>74558</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/11/2013 13:02:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>597694</id>
+    <nome>PRC 222/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>222</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/10/2013 17:30:19</datApresentacao>
+    <txtEmenta>Acrescenta o inciso XXII ao art. 57 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para limitar o número de retiradas de uma proposição da pauta da Ordem do Dia das Comissões. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Félix Mendonça Júnior</txtNomeAutor>
+      <idecadastro>160666</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>30/10/2013 14:57:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-186/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>571707</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 186/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595988</id>
+    <nome>PRC 221/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>221</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 19:31:00</datApresentacao>
+    <txtEmenta>Altera o art. 159 do RICD.</txtEmenta>
+    <txtExplicacaoEmenta>Entre os projetos em prioridade haverá a seguinte ordem de preferência: proposições de iniciativa dos cidadãos, da Mesa e Comissões Permanentes.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Ananias</txtNomeAutor>
+      <idecadastro>160574</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/10/2013 15:37:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-172/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>565994</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 172/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>595979</id>
+    <nome>PRC 220/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>220</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/10/2013 19:07:12</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo único ao art. 5º da Resolução nº 1, de 2007, que dispõe sobre os Cargos em Comissão de Natureza Especial do Quadro de Pessoal da Câmara dos Deputados, a fim de estabelecer como regra a imediata redistribuição dos cargos quando alterada a representação partidária na Casa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Fonseca</txtNomeAutor>
+      <idecadastro>160637</idecadastro>
+      <codPartido>222</codPartido>
+      <txtSiglaPartido>PROS      </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/2/2015 16:45:00</datDespacho>
+      <txtDespacho>Designação do Relator.Ao Senhor Deputado Beto Mansur, Primeiro-Secretário. </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>594068</id>
+    <nome>PRC 219/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>219</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/10/2013 16:12:00</datApresentacao>
+    <txtEmenta>Institui a Medalha Assembléia Nacional Constituinte, a ser conferida pela Câmara dos Deputados aos Constituintes e Colaboradores que contribuíram para a elaboração da Constituição Federal de 1988, e define critérios para sua distribuição.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>593646</id>
+    <nome>PRC 218/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>218</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/9/2013 19:50:00</datApresentacao>
+    <txtEmenta>Cria o Grupo Parlamentar Brasil-Catar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cleber Verde</txtNomeAutor>
+      <idecadastro>141408</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/9/2013 10:55:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>592338</id>
+    <nome>PRC 217/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>217</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/9/2013 10:24:41</datApresentacao>
+    <txtEmenta>Altera os arts. 66, 82, 84, 87 e 90; modifica o nome da Seção I e II, do Capítulo II, do Título III; acrescenta o art. 86-A e revoga o art. 81 e o § 4º do art. 86, todos do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para modificar o horário da Ordem do Dia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Bezerra</txtNomeAutor>
+      <idecadastro>141401</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/9/2013 15:54:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-11/2007.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>341011</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 11/2007</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>591721</id>
+    <nome>PRC 216/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>216</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/9/2013 19:17:09</datApresentacao>
+    <txtEmenta>Autoriza a transferência de recursos orçamentários, a título de contribuição corrente, à Confederação Parlamentar das Américas (COPA) e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>591230</id>
+    <nome>PRC 215/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>215</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/9/2013 15:36:05</datApresentacao>
+    <txtEmenta>Dispõe sobre locações de veículos para exercício da atividade parlamentar, custeadas com recursos providos pela Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Izar</txtNomeAutor>
+      <idecadastro>160655</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/9/2013 16:46:00</datDespacho>
+      <txtDespacho>À Mesa Diretora da Câmara dos Deputados e à Comissão deConstituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>590696</id>
+    <nome>PRC 214/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>214</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/9/2013 16:53:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a votação nominal pelo sistema eletrônico e a publicação dos resultados das sessões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alice Portugal</txtNomeAutor>
+      <idecadastro>74057</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/9/2013 15:44:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-231/1990.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>21820</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 231/1990</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>589652</id>
+    <nome>PRC 213/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>213</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/8/2013 17:27:00</datApresentacao>
+    <txtEmenta>Institui a Medalha Ulysses Guimarães, a ser conferida pela Câmara dos Deputados por ocasião do transcurso dos 25 anos da promulgação da Constituição Federal de 1988.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>586580</id>
+    <nome>PRC 212/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>212</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/8/2013 15:28:58</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo ao art. 102 do Regimento Interno da Câmara dos Deputados para proibir a retirada de assinaturas do recurso contra a competência conclusiva das Comissões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosane Ferreira</txtNomeAutor>
+      <idecadastro>160614</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/8/2013 16:02:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-170/2001.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>31392</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 170/2001</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>586418</id>
+    <nome>PRC 211/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>211</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/8/2013 20:38:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a votação nominal, nas Comissões da Câmara dos Deputados, de Propostas de Emenda à Constituição e Projetos de Lei Complementar.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a Resolução nº 17, de 1989,</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/8/2013 17:48:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, §1º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>586125</id>
+    <nome>PRC 210/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>210</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/8/2013 13:51:19</datApresentacao>
+    <txtEmenta>Altera a Resolução nº 17, de 1989, para dispor sobre a organização da Ordem do Dia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Flávia Morais</txtNomeAutor>
+      <idecadastro>160598</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/8/2013 13:44:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-11/2011.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>491514</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 11/2011</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>585091</id>
+    <nome>PRC 209/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>209</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/7/2013 13:55:00</datApresentacao>
+    <txtEmenta>Modifica o art. 116 do Regimento Interno da Câmara dos Deputados, para retirar dispositivo que faculta à Mesa o encaminhamento de Requerimento de Informação, e acrescentar parágrafo que estabelece prazo para a Mesa encaminhar o requerimento à autoridade competente.  </txtEmenta>
+    <txtExplicacaoEmenta>Prazo de 05 (cinco) dias da data de apresentação do requerimento de informação.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/8/2013 13:46:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584974</id>
+    <nome>PRC 208/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>208</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/7/2013 18:09:36</datApresentacao>
+    <txtEmenta>Dispõe sobre a estrutura para a Representação do Partido Ecológico Nacional - PEN.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584934</id>
+    <nome>PRC 207/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>207</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/7/2013 16:06:39</datApresentacao>
+    <txtEmenta>Acrescenta a alínea "p" ao inciso I, do art. 151 do Regimento Interno da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece regime de urgência na tramitação de proposições oriundas da Comissão de Legislação Participativa.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Glauber Braga</txtNomeAutor>
+      <idecadastro>152605</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/7/2013 14:37:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-172/2013.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>565994</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 172/2013</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584931</id>
+    <nome>PRC 206/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>206</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/7/2013 16:04:18</datApresentacao>
+    <txtEmenta>Acrescenta o Inciso XV ao art. 73, do Regimento Interno da Câmara dos Deputados, para determinar que o aparte somente será concedido pelo orador por até 2 minutos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Luiz Couto</txtNomeAutor>
+      <idecadastro>74041</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>17/7/2013 15:45:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-226/2002.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>45921</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 226/2002</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584767</id>
+    <nome>PRC 205/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>205</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/7/2013 09:45:26</datApresentacao>
+    <txtEmenta>Institui o Prêmio Nelson Mandela de Ensino da História da África e das Relações Étnico-Raciais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Iara Bernardi</txtNomeAutor>
+      <idecadastro>74780</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/7/2013</datDespacho>
+      <txtDespacho>À Mesa Diretora e à CCJC (art. 54, I, do RICD).Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>584207</id>
+    <nome>PRC 204/2013</nome>
+    <tipoProposicao>
+      <id>400</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Criação de CPI</nome>
+    </tipoProposicao>
+    <numero>204</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/7/2013 17:28:36</datApresentacao>
+    <txtEmenta>Institui Comissão Parlamentar de Inquérito destinada a investigar os fatos determinados de maus-tratos de animais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Izar</txtNomeAutor>
+      <idecadastro>160655</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/9/2015 11:35:00</datDespacho>
+      <txtDespacho>Determino a abertura de prazo a que se refere o art. 164, § 2º, do Regimento Interno da Câmara dos Deputados. No caso do transcurso do prazo sem a interposição de recurso, arquive-se o Projeto de Resolução n. 204/2013. Oficie-se ao autor. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>582791</id>
+    <nome>PRC 203/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>203</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/7/2013 20:43:04</datApresentacao>
+    <txtEmenta>Cria o Grupo Parlamentar Brasil - Malásia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Claudio Cajado</txtNomeAutor>
+      <idecadastro>74537</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/7/2013 16:47:00</datDespacho>
+      <txtDespacho>Designação do Relator.Ao Senhor Deputado André Vargas,Primeiro-Vice-Presidente</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>582301</id>
+    <nome>PRC 202/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>202</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/6/2013 15:03:00</datApresentacao>
+    <txtEmenta>Altera o Capítulo II-A do Título II do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para dispor sobre a Secretaria da Mulher, a Procuradoria da Mulher e a Coordenadoria dos Direitos da Mulher e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/6/2013 11:19:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-69/2011. Esclareço, por oportuno, que em razão de a proposição ser de autoria da Mesa Diretora, tramitará apenas pela CCJC.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>581122</id>
+    <nome>PRC 201/2013</nome>
+    <tipoProposicao>
+      <id>400</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Criação de CPI</nome>
+    </tipoProposicao>
+    <numero>201</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/6/2013 18:25:00</datApresentacao>
+    <txtEmenta>Requer a Criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar a cobrança abusiva de juros, taxas, tarifas, encargos, e outras despesas por instituições de crédito, de tal forma a gerar grande índice de inadimplência, a qual, a final, é levada à conta de "crédito em liquidação" dessas instituições e lhes permite o benefício consubstanciado na dedução desses valores dos impostos devidos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Arruda</txtNomeAutor>
+      <idecadastro>172945</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/7/2013 09:37:00</datDespacho>
+      <txtDespacho>Às Comissões de Finanças e Tributação (Mérito e Art. 54, RICD) e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2010</codOrgaoEstado>
+        <siglaOrgaoEstado>CFT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>580861</id>
+    <nome>PRC 200/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>200</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/6/2013 17:29:00</datApresentacao>
+    <txtEmenta>Acrescenta parágrafos ao art. 155 do Regimento Interno da Câmara dos Deputados para conceder urgência a projetos de iniciativa parlamentar em tramitação, no caso de edição de medida provisória de semelhante teor.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nilson Leitão</txtNomeAutor>
+      <idecadastro>166401</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>MT</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/6/2013 11:05:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Prioridade.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>577828</id>
+    <nome>PRC 199/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>199</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/5/2013 18:27:00</datApresentacao>
+    <txtEmenta>Acrescenta parágrafos aos artigos 24 e 137 do Regimento Interno da Câmara dos Deputados para disciplinar sobre a tramitação de projeto de lei de iniciativa privativa do Presidente da República com Indicação Parlamentar sobre o tema.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Erivelton Santana</txtNomeAutor>
+      <idecadastro>99654</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/6/2013 12:40:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 1º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576379</id>
+    <nome>PRC 198/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>198</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/5/2013 14:01:55</datApresentacao>
+    <txtEmenta>Acrescenta parágrafo ao art. 202 do Regimento Interno da Câmara dos Deputados para determinar o sobrestamento da pauta caso, decorrido o interstício, a proposta de emenda à Constituição não ser votada em segundo turno. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Souza</txtNomeAutor>
+      <idecadastro>73934</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>AM</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/6/2013 09:54:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-18/1995.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>21648</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 18/1995</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576356</id>
+    <nome>PRC 197/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>197</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/5/2013 11:51:36</datApresentacao>
+    <txtEmenta>Altera o art. 202 do Regimento Interno, estabelecendo quórum mínimo para aprovação de proposta de emenda constitucional nas comissões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mendonça Filho</txtNomeAutor>
+      <idecadastro>74428</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/5/2013 16:13:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-225/2010.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>468470</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 225/2010</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>576265</id>
+    <nome>PRC 196/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>196</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/5/2013 18:22:00</datApresentacao>
+    <txtEmenta>Acrescenta o art. 8 - A e Capítulo III - A ao Título VIII do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para instituir a Tribuna Popular em sessões ordinárias da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jhonatan de Jesus</txtNomeAutor>
+      <idecadastro>160531</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/5/2013 14:26:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC 26/1999.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>21663</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 26/1999</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>575831</id>
+    <nome>PRC 195/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>195</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/5/2013 15:59:58</datApresentacao>
+    <txtEmenta>Altera as matérias e atividades de competência da Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia. </txtEmenta>
+    <txtExplicacaoEmenta>Altera a Resolução nº 17, de 1989.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/5/2013 14:26:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-108/2012.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>534637</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 108/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>574237</id>
+    <nome>PRC 194/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>194</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/4/2013 17:41:00</datApresentacao>
+    <txtEmenta>Altera o parágrafo único do art. 1º e o art. 8º da Resolução da Câmara dos Deputados nº 15, de 2009.</txtEmenta>
+    <txtExplicacaoEmenta>Amplia de 3 (três) para 5 (cinco) prêmios por ano.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>574124</id>
+    <nome>PRC 193/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>193</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/4/2013 11:54:00</datApresentacao>
+    <txtEmenta>Institui o Prêmio Heleieth Saffioti de Literatura Científica de Gênero.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Iara Bernardi</txtNomeAutor>
+      <idecadastro>74780</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/5/2013 11:17:00</datDespacho>
+      <txtDespacho>Às Comissões de Mesa Diretora da Câmara dos Deputados e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>573567</id>
+    <nome>PRC 192/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>192</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>23/4/2013 15:42:59</datApresentacao>
+    <txtEmenta>Institui o Prêmio Castro Alves de Poesia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alice Portugal</txtNomeAutor>
+      <idecadastro>74057</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/5/2013 15:12:00</datDespacho>
+      <txtDespacho>Às Comissões de Mesa Diretora da Câmara dos Deputados e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>572962</id>
+    <nome>PRC 191/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>191</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/4/2013 09:41:32</datApresentacao>
+    <txtEmenta>Possibilita a inclusão do registro de nome de deputado autor de proposição reapresentada por outro parlamentar em início de legislatura.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rubens Bueno</txtNomeAutor>
+      <idecadastro>73466</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/5/2013 11:17:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC 234/2010.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>484437</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 234/2010</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>572656</id>
+    <nome>PRC 190/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>190</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/4/2013 13:26:11</datApresentacao>
+    <txtEmenta>Altera os arts. 66 e 89 do Regimento Interno da Câmara dos Deputados, estabelecendo horário para as Comunicações de Liderança.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Inocêncio Oliveira</txtNomeAutor>
+      <idecadastro>74421</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2013 10:07:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-25/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>107939</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 25/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>572599</id>
+    <nome>PRC 189/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>189</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/4/2013 11:16:57</datApresentacao>
+    <txtEmenta>Institui na Câmara dos Deputados a Comenda do Humor Brasileiro Chico Anysio e dá  outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Raimundo Gomes de Matos</txtNomeAutor>
+      <idecadastro>74216</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/5/2013 15:31:00</datDespacho>
+      <txtDespacho>Designação do Relator.Ao Senhor Deputado André Vargas,Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571745</id>
+    <nome>PRC 188/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>188</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 14:53:00</datApresentacao>
+    <txtEmenta>Altera o art. 24, inciso II, alínea d, do Regimento Interno para permitir que as proposições de iniciativa da Comissão de Legislação Participativa sejam objeto de deliberação conclusiva das comissões, dispensando a competência do Plenário. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Legislação Participativa</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/4/2014 17:42:00</datDespacho>
+      <txtDespacho>Designação de Relator. Ao Senhor Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571707</id>
+    <nome>PRC 186/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>186</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 12:23:00</datApresentacao>
+    <txtEmenta>Acrescenta inciso XXII ao art. 57 do Regimento Interno da Câmara dos Deputados, para limitar o número de requerimentos de retirada de proposições da pauta da Ordem do Dia das Comissões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Félix Mendonça Júnior</txtNomeAutor>
+      <idecadastro>160666</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2013 10:12:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no art. 216, § 2º, do RICD, encaminhe-se àComissão de Constituição e Justiça e de Cidadania e àMesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571709</id>
+    <nome>PRC 187/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>187</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 12:23:00</datApresentacao>
+    <txtEmenta>Altera a redação do art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer peso às Comissões na distribuição da Presidência delas pelos Partidos e Blocos Parlamentares.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Félix Mendonça Júnior</txtNomeAutor>
+      <idecadastro>160666</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>7/5/2013 15:00:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571695</id>
+    <nome>PRC 185/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>185</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/4/2013 11:50:47</datApresentacao>
+    <txtEmenta>Altera a redação do art. 50 do Regimento Interno da Câmara dos Deputados (Resolução nº 17, de 1989), para fixar novos critérios de quorum para abertura  e realização de reuniões das comissões.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>José Carlos Araújo</txtNomeAutor>
+      <idecadastro>74140</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2013 10:07:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-311/2006.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>180</codOrgaoEstado>
+        <siglaOrgaoEstado>PLEN      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>327122</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 311/2006</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571451</id>
+    <nome>PRC 184/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>184</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2013 16:42:18</datApresentacao>
+    <txtEmenta>Cria o Grupo Parlamentar Brasil - República do Azerbaijão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Claudio Cajado</txtNomeAutor>
+      <idecadastro>74537</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>18/4/2013 18:11:00</datDespacho>
+      <txtDespacho>À Comissão de Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>571367</id>
+    <nome>PRC 183/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>183</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/4/2013 15:48:00</datApresentacao>
+    <txtEmenta>Acrescenta § 8º ao art. 82, do Regimento Interno da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece que o deputado ausente à votação que desejar apresentar justificativa deverá comunicar pessoalmente à mesa por escrito.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ricardo Berzoini</txtNomeAutor>
+      <idecadastro>74793</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/4/2013 10:12:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570967</id>
+    <nome>PRC 182/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>182</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2013 16:11:00</datApresentacao>
+    <txtEmenta>Denomina "Plenário Deputado Edivaldo Motta" a sala de reuniões da Comissão de Integração Nacional, Desenvolvimento Regional e Amazônia da Câmara dos Deputados.  
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Wilson Filho</txtNomeAutor>
+      <idecadastro>160636</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>PB</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/7/2015 19:06:00</datDespacho>
+      <txtDespacho>Encaminhe-se à Primeira Secretaria, por devolução, com manifestação, relativa ao pedido de vista do Senhor Deputado Alex Canziani, Quarto-Secretário.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>5470</codOrgaoEstado>
+        <siglaOrgaoEstado>1SECM     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570476</id>
+    <nome>PRC 181/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>181</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>4/4/2013 11:27:00</datApresentacao>
+    <txtEmenta>Veda a candidatura, eleição e exercício da Presidência de Comissões por Deputados que respondam a Inquérito ou Ação Penal perante o Supremo Tribunal Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Chico Alencar</txtNomeAutor>
+      <idecadastro>74171</idecadastro>
+      <codPartido>197</codPartido>
+      <txtSiglaPartido>PSOL      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/4/2013 15:26:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados. Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568728</id>
+    <nome>PRC 180/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>180</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2013 20:56:00</datApresentacao>
+    <txtEmenta>Altera o Regimento Interno, aprovado pela Resolução nº 17, de 1989, para permitir que os presidentes de comissão possam dispor do tempo de três minutos, uma vez por semana, para realizar comunicações no Plenário da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Lincoln Portela</txtNomeAutor>
+      <idecadastro>74585</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/4/2013 12:09:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o artigo 216, § 1º dp RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania  e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568435</id>
+    <nome>PRC 179/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>179</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2013 14:11:20</datApresentacao>
+    <txtEmenta>Cria o Grupo Parlamentar Brasil - Mongólia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Ananias</txtNomeAutor>
+      <idecadastro>160574</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/4/2013</datDespacho>
+      <txtDespacho>Designação do Relator.
+Ao Senhor Deputado André Vargas, Primeiro-Vice-Presidente.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568421</id>
+    <nome>PRC 178/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>178</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2013 13:18:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, e dá outras providências.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568420</id>
+    <nome>PRC 177/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>177</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2013 13:16:00</datApresentacao>
+    <txtEmenta>Cria o Centro de Estudos e Debates Estratégicos da Câmara dos Deputados.
+
+NOVA EMENTA: Cria o Centro de Estudos e Debates Estratégicos da Câmara dos Deputados e 
+altera o Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17 de 1989.</txtEmenta>
+    <txtExplicacaoEmenta>Revoga a Resolução nº 17, de 1997.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2013 16:47:00</datDespacho>
+      <txtDespacho>Decorrido o prazo de que trata o art. 216 § 1º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>568419</id>
+    <nome>PRC 176/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>176</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2013 13:16:00</datApresentacao>
+    <txtEmenta>Altera o Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 21 de setembro de 1989, para dispor sobre a institucionalização da Corregedoria Parlamentar e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Revoga o parágrafo único de art. 267 do Regimento Interno da Câmara dos Deputados.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>20/3/2013 16:47:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, §1º, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567440</id>
+    <nome>PRC 175/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>175</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/3/2013 16:16:00</datApresentacao>
+    <txtEmenta>Altera a redação dos arts. 14 e 21-A do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989.</txtEmenta>
+    <txtExplicacaoEmenta>Inclui a Ouvidoria Parlamentar na composição da Mesa Diretora que será denominada Ouvidoria-Geral da Câmara dos Deputados.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Miguel Corrêa</txtNomeAutor>
+      <idecadastro>141509</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/4/2013 15:12:00</datDespacho>
+      <txtDespacho>Devolva-se a Proposição, nos termos do art. 137, § 1º, inciso II, alínea "c", c/c art. 15, inciso XVII, do RICD. Oficie-se ao autor e, após, publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>567286</id>
+    <nome>PRC 174/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>174</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/3/2013 13:23:00</datApresentacao>
+    <txtEmenta>Altera o art. 252 do Regimento Interno da Câmara dos Deputados, dispondo sobre a subscrição de projetos de iniciativa popular via Internet.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosane Ferreira</txtNomeAutor>
+      <idecadastro>160614</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/4/2013 11:58:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-24/2003.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>107855</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 24/2003</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>566666</id>
+    <nome>PRC 173/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>173</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/3/2013 17:01:00</datApresentacao>
+    <txtEmenta>Altera a denominação da Comissão da Amazônia, Integração Nacional e de Desenvolvimento Regional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>6/3/2013</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, §2º, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565994</id>
+    <nome>PRC 172/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>172</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/2/2013 16:08:00</datApresentacao>
+    <txtEmenta>Altera o art. 151 do Regimento Interno da Câmara dos Deputados para instituir o regime de urgência na tramitação de projetos de lei de iniciativa popular. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosane Ferreira</txtNomeAutor>
+      <idecadastro>160614</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/3/2013 14:40:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental previsto no artigo 216, § 2º do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania e à Mesa Diretora da Câmara dos Deputados.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565959</id>
+    <nome>PRC 171/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>171</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/2/2013 13:58:51</datApresentacao>
+    <txtEmenta>Institui o Grupo Parlamentar Brasil-Nepal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Weliton Prado</txtNomeAutor>
+      <idecadastro>160518</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/3/2013 15:52:00</datDespacho>
+      <txtDespacho>À Comissão de Mesa Diretora da Câmara dos DeputadosProposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565887</id>
+    <nome>PRC 170/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>170</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/2/2013 19:11:00</datApresentacao>
+    <txtEmenta>Altera o Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 21 de setembro de 1989, para dispor sobre a institucionalização da Corregedoria Parlamentar e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Revoga o parágrafo único de art. 267 do Regimento Interno da Câmara dos Deputados.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/3/2013 15:16:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, §2º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565868</id>
+    <nome>PRC 169/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>169</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/2/2013 18:11:00</datApresentacao>
+    <txtEmenta>Cria o Centro de Estudos e Debates estratégicos da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>Revoga a Resolução nº 17, de 1997.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/4/2013</datDespacho>
+      <txtDespacho>Tendo em vista a vigência da Resolução 26, de 26 de março de 2013, que “Cria o Centro de Estudos e Debates Estratégicos da Câmara dos Deputados”, declaro, nos termos do art. 164, inciso I, do RICD, a prejudicialidade do Projeto de Resolução nº 169/2013. Por oportuno, determino sejam arquivados o projeto e todas as proposições acessórias, devendo ser juntados aos respectivos autos. Publique-se.
+DCD de 10/04/13 PÁG 09242 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565827</id>
+    <nome>PRC 168/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>168</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/2/2013 16:30:00</datApresentacao>
+    <txtEmenta>Acrescenta dispositivo na Resolução da Câmara dos Deputados nº 21, de 2013, para aplicar aos Deputados integrantes como titulares da Comissão de Cultura a ressalva constante da parte final do § 2º do art. 26 do Regimento Interno da Câmara dos Deputadds.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>27/2/2013 18:32:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, §2º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565669</id>
+    <nome>PRC 167/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>167</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/2/2013 17:10:09</datApresentacao>
+    <txtEmenta>Altera o art. 5º do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 21 de setembro de 1989, para estabelecer nova data para a eleição da Mesa e dá outras providências</txtEmenta>
+    <txtExplicacaoEmenta>Fixa o dia 10 de fevereiro para realizar-se a eleição do Presidente, dos demais membros da Mesa e dos Suplentes dos Secretários, para mandato de dois anos.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Fonseca</txtNomeAutor>
+      <idecadastro>160637</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/4/2013 10:38:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-30/1995.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>21670</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 30/1995</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>565586</id>
+    <nome>PRC 166/2013</nome>
+    <tipoProposicao>
+      <id>444</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução de Alteração do Regimento e outros</nome>
+    </tipoProposicao>
+    <numero>166</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/2/2013 13:09:00</datApresentacao>
+    <txtEmenta>Altera o inciso IX e acrescenta inciso XXI ao art. 32 do Regimento Interno da Câmara dos Deputados, para desmembrar as competências da atual Comissão de Educação e Cultura.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>21</codRegime>
+      <txtRegime>Urgência art. 155 RICD</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Mesa Diretora da Câmara dos Deputados</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>8</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>26/2/2013 13:30:00</datDespacho>
+      <txtDespacho>Decorrido o prazo regimental de que trata o art. 216, § 1º, do RICD, encaminhe-se à Comissão de Constituição e Justiça e de Cidadania.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564996</id>
+    <nome>PRC 165/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>165</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/2/2013 15:55:16</datApresentacao>
+    <txtEmenta>Denomina "Sala Deputado Fernando Lyra" a Sala da Procuradoria Parlamentar da Câmara dos Deputados.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Marquezelli</txtNomeAutor>
+      <idecadastro>73553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/5/2013</datDespacho>
+      <txtDespacho>Ao Senhor Procurador Parlamentar, Deputado Cláudio Cajado, para estudo preliminar, tendo em vista decisão da Mesa Diretora de 17/4/2013.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564943</id>
+    <nome>PRC 164/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>164</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/2/2013 12:06:48</datApresentacao>
+    <txtEmenta>Nomeia o prédio do Anexo IV da Câmara dos Deputados como Edifício Oscar Niemeyer.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Giovani Cherini</txtNomeAutor>
+      <idecadastro>160673</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/3/2013 09:57:00</datDespacho>
+      <txtDespacho>Apense-se ao PRC-161/2012.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinária</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>564355</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 161/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564850</id>
+    <nome>PRC 163/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>163</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/2/2013 15:25:20</datApresentacao>
+    <txtEmenta>Denomina "Deputado Luiz Carlos Santos" o Plenário  (...........) da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Tadeu Mudalen</txtNomeAutor>
+      <idecadastro>73535</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/4/2013 15:41:00</datDespacho>
+      <txtDespacho>Devolva-se a proposição, com base no art. 137, §1º, inciso I, do Regimento Interno da Câmara dos Deputados. Oficie-se ao Autor e, após, publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>564759</id>
+    <nome>PRC 162/2013</nome>
+    <tipoProposicao>
+      <id>141</id>
+      <sigla>PRC</sigla>
+      <nome>Projeto de Resolução</nome>
+    </tipoProposicao>
+    <numero>162</numero>
+    <ano>2013</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/2/2013 11:48:02</datApresentacao>
+    <txtEmenta>Altera o art. 16 do Regimento Interno da Câmara dos Deputados para que, anualmente, no dia 21 de setembro, um Deputado Federal pessoa com deficiência presida a sessão da Câmara dos Deputados.</txtEmenta>
+    <txtExplicacaoEmenta>Dia Nacional de Luta da Pessoa com Deficiência.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rosinha da Adefal</txtNomeAutor>
+      <idecadastro>146949</idecadastro>
+      <codPartido>200</codPartido>
+      <txtSiglaPartido>PTdoB     </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/2/2013 10:06:00</datDespacho>
+      <txtDespacho>Apense-se à(ao) PRC-150/2012.Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>925</id>
+      <descricao>Tramitando em Conjunto</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>558440</codProposicaoPrincipal>
+        <proposicaoPrincipal>PRC 150/2012</proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

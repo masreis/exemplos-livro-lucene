@@ -1,0 +1,574 @@
+<proposicoes>
+  <proposicao>
+    <id>563717</id>
+    <nome>RCP 18/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/12/2012 17:35:00</datApresentacao>
+    <txtEmenta>Requeremos a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar a divulgação de Pesquisas Eleitorais e seu reflexo no resultados das eleições, a partir do processo eleitoral de 2000. 
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cida Borghetti</txtNomeAutor>
+      <idecadastro>160580</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>562444</id>
+    <nome>RCP 17/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/12/2012 19:19:00</datApresentacao>
+    <txtEmenta>Requer a instituição de Comissão Parlamentar de Inquérito para investigar indícios de irregularidades na Confederação Brasileira de Futebol - CBF.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Romário</txtNomeAutor>
+      <idecadastro>160597</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>558224</id>
+    <nome>RCP 16/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/10/2012 15:47:36</datApresentacao>
+    <txtEmenta>Requer, na forma regimental, a criação de Comissão Parlamentar de Inquérito com a finalidade de investigar possíveis manipulações de prognósticos publicados pelos institutos de pesquisa  para as eleições de 2012 em face das divergências desses números com  os resultados obtidos nas urnas, pelo prazo certo de 120 dias.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>André Figueiredo</txtNomeAutor>
+      <idecadastro>133439</idecadastro>
+      <codPartido>104</codPartido>
+      <txtSiglaPartido>PDT       </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>556218</id>
+    <nome>RCP 15/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/9/2012 16:02:37</datApresentacao>
+    <txtEmenta>Requeremos nos termos do § 3º do art. 58 da Constituição da República, combinado com os arts. 35 a 37, do Regimento Interno da Câmara dos Deputados, a criação de Comissão Parlamentar de Inquérito composta por 25 (vinte e cinco) membros e igual número de suplentes, com a finalidade de, no prazo de 180 (cento e oitenta) dias, investigar práticas abusivas das empresas de aviação civil no Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Perpétua Almeida</txtNomeAutor>
+      <idecadastro>73943</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>AC</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>553013</id>
+    <nome>RCP 14/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/8/2012 11:34:00</datApresentacao>
+    <txtEmenta>Requer a instituição de Comissão Parlamentar de Inquérito com a finalidade de investigar as constantes panes no sistema das operadoras de telefonia móvel, fixa e de banda larga de Internet no Brasil.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>João Carlos Bacelar</txtNomeAutor>
+      <idecadastro>141458</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552756</id>
+    <nome>RCP 13/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/8/2012 11:50:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar as Prestadoras de Telefonia Móvel com relação aos preços cobrados a título de remuneração de redes (interconexão) que vem sendo utilizado para eliminação da competição no setor de telecomunicações, tendo como principais efeitos: as altas tarifas praticadas para o consumidor, bem como os graves problemas de má qualidade na prestação do serviço.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Ronaldo Nogueira</txtNomeAutor>
+      <idecadastro>163321</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>RS</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>552308</id>
+    <nome>RCP 12/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/8/2012 17:09:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de apurar denúncias de fraude no pagamento de precatório expedido pelo Tribunal Regional do Trabalho da 14ª Região na década de 1990 e que foi suspenso pelo Conselho Nacional de Justiça em decisão liminar no Pedido de Providências nº 000325-88.2012.2.00.0000, que tramita em segredo de justiça, e a investigação da Polícia Federal de ameaça sofrida por Juízes do Trabalho relacionado ao caso, conforme diversas matérias publicadas pela imprensa.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/11/2013</datDespacho>
+      <txtDespacho>Despacho do Presidente</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>911</id>
+      <descricao>Aguardando Instalação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>100068</codOrgaoEstado>
+        <siglaOrgaoEstado>SERCO(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>544520</id>
+    <nome>RCP 11/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/5/2012 14:57:44</datApresentacao>
+    <txtEmenta>Requer a instauração de Comissão Parlamentar de Inquérito, visando apurar a exploração do trabalho infantil no Brasil e da outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Sandra Rosado</txtNomeAutor>
+      <idecadastro>74039</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>RN</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/8/2013</datDespacho>
+      <txtDespacho>Distribuição RCP 11/12 (despacho)</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>542779</id>
+    <nome>RCP 10/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/4/2012 17:53:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito destinada a investigar e apurar o atual sistema de arrecadação e distribuição de direitos autorais- ECAD.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pastor Marco Feliciano </txtNomeAutor>
+      <idecadastro>160601</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/8/2013</datDespacho>
+      <txtDespacho>Distribuição do RCP 10/12  (Despacho)</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>.</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>537933</id>
+    <nome>RCP 9/2012</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/3/2012 17:09:00</datApresentacao>
+    <txtEmenta>Requeremos, nos termos do § 3º do art. 58 da Constituição da República, combinado com os arts. 35 a 37, do Regimento da Câmara dos Deputados, a criação de Comissão Parlamentar de Inquérito composta por 25 (vinte e cinco) membros e igual número de suplentes, com a finalidade de, no prazo de 180 (cento e oitenta) dias, investigar as práticas criminosas desvendadas pela Operação Monte Carlo da Polícia Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Delegado Protógenes</txtNomeAutor>
+      <idecadastro>160606</idecadastro>
+      <codPartido>99</codPartido>
+      <txtSiglaPartido>PCdoB     </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>.</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

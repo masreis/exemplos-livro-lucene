@@ -1,0 +1,63 @@
+<proposicoes>
+  <proposicao>
+    <id>522729</id>
+    <nome>OF 67/2011 CCJC =&gt; REQ 28/2011 CCJC =&gt; PL 6073/2005</nome>
+    <tipoProposicao>
+      <id>181</id>
+      <sigla>OF</sigla>
+      <nome>Ofício</nome>
+    </tipoProposicao>
+    <numero>67</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/10/2011 10:07:00</datApresentacao>
+    <txtEmenta>Devolve ao autor o requerimento 28/2011, em virtude da vedação contida no parágrafo único do art. 142 do Regimento Interno.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão de Constituição e Justiça e de Cidadania</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

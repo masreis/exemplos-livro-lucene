@@ -1,0 +1,125 @@
+<proposicoes>
+  <proposicao>
+    <id>2084115</id>
+    <nome>REP 7/2016</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2016 14:24:00</datApresentacao>
+    <txtEmenta>Representação do Partido Verde-PV, subscrita por seu Presidente Nacional, José Luiz de França Penna, em desfavor do Deputado Jair Bolsonaro, por imputação da prática de atos incompatíveis com o decoro parlamentar.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Partido Verde</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/5/2016</datDespacho>
+      <txtDespacho>Numere-se, publique-se e encaminhe-se ao Conselho de Ética e Decoro Parlamentar.
+DCD de 12/05/16 PÁG 105 COL 01.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2078385</id>
+    <nome>REP 6/2016</nome>
+    <tipoProposicao>
+      <id>146</id>
+      <sigla>REP</sigla>
+      <nome>Representação</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/3/2016 12:37:00</datApresentacao>
+    <txtEmenta>Denúncias formuladas pelo Senhor Abdalla Achcar acerca de supostos crimes cometidos pela Comissão de Anistia do Ministério da Justiça.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Abdalla Achcar</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/3/2016 16:16:00</datDespacho>
+      <txtDespacho>Recebo a matéria como Representação, nos termos do artigo 253 do Regimento Interno. Numere-se. Publique-se. Encaminhe-se a Representação à CFFC.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

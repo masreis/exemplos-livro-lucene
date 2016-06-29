@@ -1,0 +1,2566 @@
+<proposicoes>
+  <proposicao>
+    <id>490374</id>
+    <nome>MPV 516/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>516</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 11:05:00</datApresentacao>
+    <txtEmenta>Dispõe sobre o salário mínimo a partir de 1º de janeiro de 2011.</txtEmenta>
+    <txtExplicacaoEmenta>Fixa o valor de 540,00 (quinhentos e quarenta reais), para o salário mínimo.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490375</id>
+    <nome>MPV 517/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>517</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 11:05:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a incidência do imposto sobre a renda nas operações que especifica, altera as Leis nºs 6.404, de 15 de dezembro de 1976, 9.430, de 27 de dezembro de 1996, 11.478, de 29 de maio de 2007, e 12.350, de 20 de dezembro de 2010, institui o Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares - RENUCLEAR, dispõe sobre medidas tributárias relacionadas ao Plano Nacional de Banda Larga, altera a legislação relativa à isenção do Adicional ao Frete para Renovação da Marinha Mercante - AFRMM, dispõe sobre a extinção do Fundo Nacional de Desenvolvimento, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera as Leis nºs 8.248, de 1991; 9.648, de 1998; 11.943, de 2009; 9.808, de 1999; 10.260, de 2001.  
+_ Reduz o percentual do imposto devido sobre os bens desenvolvidos no País na categoria de bens de informática e automação; extingue em 2035 a cota anual da Reserva Global de Reversão; prorroga até 2015 o benefício de isenção do AFRMM para os investimentos no Nordeste e Amazônia; extingue o Fundo Nacional de Desenvolvimento; aplica aos financiamentos do FIES juros capitalizados mensalmente.   
+_O PLV 13 de 2011 inclui alterações às Leis nºs 10.150, de 2000; 10.312, de 2001; 11.096, de 2005; 11.128, de 2005; 11.180, de 2005; 11.371, de 2006; 11.909, de 2009; 11.941, de 2009 e 12.249, de 2010; revoga dispositivos das Leis nºs 10.260, de 2001 e 11.096, de 2005.;  define regras para compensação de débitos e pagamento de precatórios da Fazenda Pública;  torna parcialmente desafetada a reserva particular Seringal do Triunfo no Estado do Amapá.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490376</id>
+    <nome>MPV 518/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>518</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 11:05:00</datApresentacao>
+    <txtEmenta>Disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490377</id>
+    <nome>MPV 519/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>519</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 11:05:00</datApresentacao>
+    <txtEmenta>Autoriza o Poder Executivo a doar estoques públicos de alimentos para assistência humanitária internacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490386</id>
+    <nome>MPV 520/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>520</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 10:47:00</datApresentacao>
+    <txtEmenta>Autoriza o Poder Executivo a criar a empresa pública denominada Empresa Brasileira de Serviços Hospitalares S.A. - EBSERH e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490387</id>
+    <nome>MPV 521/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>521</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/12/2010 10:47:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 6.932, de 7 de julho de 1981, que dispõe sobre as atividades do médico-residente e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União.</txtEmenta>
+    <txtExplicacaoEmenta>Fixa o valor de R$ 2.338,06 (dois mil, trezentos e trinta e oito reais e seis centavos) para bolsa de médico residente e garante a licença paternidade e a licença maternidade. Prorroga até 31 de dezembro de 2011 a Gratificação de Gabinete ou  a  Gratificação Temporária dos servidores ou requisitados pela Advocacia-Geral da União.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>490361</id>
+    <nome>MPV 515/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>515</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/12/2010 11:43:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário em favor da Justiça do Trabalho e de diversos órgãos do Poder Executivo, no valor global de R$ 26.673.264.196,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>488607</id>
+    <nome>MPV 514/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>514</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/12/2010 12:30:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas, as Leis nºs 10.188, de 12 de fevereiro de 2001, 6.015, de 31 de dezembro de 1973, 6.766, de 19 de dezembro de 1979, e 4.591, de 16 de dezembro de 1964, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Revoga  dispositivos das  Lei nºs 11.977, de 7 de julho de 2009; 6.015, de 31 de dezembro de 1973; o art. 2º da Medida Provisória nº 2.197-43, de 24 de agosto de 2001
+ e a partir de 31 de dezembro de 2011, os arts. 5º e 12, o caput e o § 2º do art. 18 e o caput do art. 19 da Lei nº 11.977, de 7 de julho de 2009. 
+</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487966</id>
+    <nome>MPV 513/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>513</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2010 11:58:00</datApresentacao>
+    <txtEmenta>Autoriza o Fundo de Compensação de Variações Salariais - FCVS a assumir, na forma disciplinada em ato do Conselho Curador do Fundo de Compensação de Variações Salariais - CCFCVS, direitos e obrigações do Seguro Habitacional do Sistema Financeiro da Habitação - SH/SFH, oferecer cobertura direta a contratos de financiamento habitacional averbados na Apólice do SH/SFH, autoriza o Departamento Nacional de Infraestrutura de Transporte - DNIT a utilizar recursos federais em apoio à transferência definitiva do domínio da malha rodoviária federal para os Estados, acresce o Porto do Pólo Industrial de Manaus no item 4.2 da Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres, integrante do Anexo do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera as Leis nºs 12.249, de 11 de junho de 2010; 11.887, de 24 de dezembro de 2008;  11.079, de 30 de dezembro de 2004; 11.314, de 03 de julho de 2006; revoga o inciso IV do art. 3º da Lei nº 11.887, de 2008.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487868</id>
+    <nome>MPV 512/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>512</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/11/2010 09:51:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 9.440, de 14 de março de 1997, que estabelece incentivos fiscais para o desenvolvimento regional e da indústria automotiva.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485758</id>
+    <nome>MPV 511/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>511</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/11/2010 08:53:00</datApresentacao>
+    <txtEmenta>Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485563</id>
+    <nome>MPV 510/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>510</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/10/2010 11:28:00</datApresentacao>
+    <txtEmenta>Regula o cumprimento de obrigações tributárias por consórcios que realizem negócios jurídicos em nome próprio; dá nova redação ao art. 31 da Medida Provisória no 497, de 27 de julho de 2010, que promove desoneração tributária de subvenções governamentais destinadas ao fomento das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas e institui o Regime Especial de Tributação para construção, ampliação, reforma ou modernização de estádios de futebol - RECOM; acresce dispositivos à Lei no 10.168, de 29 de dezembro de 2000, que institui contribuição de intervenção de domínio econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à Inovação; e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485446</id>
+    <nome>MPV 509/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>509</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2010 09:30:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao parágrafo único do art. 7º da Lei nº 11.668, de 2 de maio de 2008, que dispõe sobre o exercício da atividade de franquia postal.</txtEmenta>
+    <txtExplicacaoEmenta>Prorroga o prazo para contratação de franquia postal até 11 de junho de 2011.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485440</id>
+    <nome>MPV 508/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>508</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/10/2010 12:30:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 968.185.382,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485355</id>
+    <nome>MPV 507/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>507</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/10/2010 09:20:00</datApresentacao>
+    <txtEmenta>Institui hipóteses específicas de sanção disciplinar para a violação de sigilo fiscal e disciplina o instrumento de mandato que confere poderes a terceiros para praticar atos perante órgão da administração pública que impliquem fornecimento de dado protegido pelo sigilo fiscal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485279</id>
+    <nome>MPV 506/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>506</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/9/2010 10:53:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor do Ministério do Desenvolvimento Agrário, no valor de R$ 210.000.000,00, para o fim que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485278</id>
+    <nome>MPV 505/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>505</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/9/2010 09:12:00</datApresentacao>
+    <txtEmenta>Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485276</id>
+    <nome>MPV 504/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>504</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/9/2010 09:45:00</datApresentacao>
+    <txtEmenta>Dá nova redação ao art. 1º da Lei nº 5.851, de 7 de dezembro de 1972, que autoriza o Poder Executivo a instituir empresa pública, sob a denominação de Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA).
+</txtEmenta>
+    <txtExplicacaoEmenta>A EMBRAPA poderá exercer qualquer das atividades integrantes de seu objeto social fora do território nacional, em conformidade com o que dispuser seu estatuto social.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485275</id>
+    <nome>MPV 503/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>503</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/9/2010 09:40:00</datApresentacao>
+    <txtEmenta>Ratifica o Protocolo de Intenções firmado entre a União, o Estado do Rio de Janeiro e o Município do Rio de Janeiro, com a finalidade de constituir consórcio público, denominado Autoridade Pública Olímpica - APO.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485274</id>
+    <nome>MPV 502/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>502</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/9/2010 10:07:00</datApresentacao>
+    <txtEmenta>Dá nova redação às Leis nºs 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, e 10.891, de 9 de julho de 2004, que institui a Bolsa-Atleta; cria os Programas Atleta Pódio e Cidade Esportiva, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>A lei nº 10.891, de 9 de julho de 2004 cria as seguintes categorias de Bolsa-Atleta: Categoria Atleta de Base, Categoria Estudantil, Categoria Atleta Nacional, Categoria Atleta Internacional, Categoria Atleta Olímpico ou Paraolímpico e Categoria Atleta Pódio.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/2/2011</datDespacho>
+      <txtDespacho>(Emenda do Senado Federal ao PLV 1/2011)
+Publique-se. Submeta-se ao Plenário.
+Proposição Sujeita à Apreciação do Plenário
+Regime de Tramitação: Urgência
+ 
+DCD de 17/02/11 PÁG 7043 COL 01</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485262</id>
+    <nome>MPV 501/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>501</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/9/2010 09:14:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, no exercício de 2010, com o objetivo de fomentar as exportações do País; altera as Leis nº 12.087, de 11 de novembro de 2009, e nº 10.260, de 12 de julho de 2001; modifica condições para a concessão da subvenção em operações de financiamento de que trata o art. 1º da Lei nº 12.096, de 24 de novembro de 2009, que autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica; e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>9/2/2011 18:41:00</datDespacho>
+      <txtDespacho>(EMENDAS DO SENADO)
+Publique-se. Submeta-se ao Plenário.
+Proposição Sujeita à Apreciação do Plenário
+Regime de Tramitação: Urgência
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485228</id>
+    <nome>MPV 500/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>500</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/8/2010 09:42:00</datApresentacao>
+    <txtEmenta>Autoriza a União e as entidades da administração pública federal indireta a contratar, reciprocamente, ou com fundo privado do qual seja o Tesouro Nacional cotista único a aquisição, alienação, cessão e permuta de ações, a cessão de créditos decorrentes de adiantamentos efetuados para futuro aumento de capital, a cessão de alocação prioritária de ações em ofertas públicas ou a cessão do direito de preferência para a subscrição de ações em aumentos de capital; autoriza a União a se abster de adquirir ações em aumentos de capital de empresas em que possua participação acionária, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485201</id>
+    <nome>MPV 499/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>499</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/8/2010 10:34:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 10.683, de 28 de maio de 2003, transforma Funções Comissionadas Técnicas em cargos em comissão, altera as Leis nºs 8460, de 17 de setembro de 1992, e 11.526, de 4 de outubro de 2007.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>13/12/2010 17:07:00</datDespacho>
+      <txtDespacho>(PROJETO DE LEI DE CONVERSÃO 16, de 2010)
+Publique-se. Submeta-se ao Plenário.
+Proposição Sujeita à Apreciação do Plenário
+Regime de Tramitação: Urgência
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>484038</id>
+    <nome>MPV 498/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>498</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>2/8/2010 10:35:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.978.448.870,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>484013</id>
+    <nome>MPV 497/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>497</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/7/2010 09:29:00</datApresentacao>
+    <txtEmenta>Promove desoneração tributária de subvenções governamentais destinadas ao fomento das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas, institui o Regime Especial de Tributação para construção, ampliação, reforma ou modernização de estádios de futebol - RECOM, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera as Leis nºs 7.713, de 1988; 9.430, de 1996; 9.959, de 2000; 10.182, de 2001; 10.865, de 2004; 10.887, de 2004; 10.931, de 2004; 11.774, de 2008; 12.024, de 2009 e 12.058, de 2009 e os Decretos-lei nºs 37, de 1966 e 1.455, de 1976.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483948</id>
+    <nome>MPV 495/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>495</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/7/2010 10:36:00</datApresentacao>
+    <txtEmenta>Altera as Leis nºs 8.666, de 21 de junho de 1993, 8.958, de 20 de dezembro de 1994, e 10.973, de 2 de dezembro de 2004, e revoga o § 1º do art. 2º da Lei nº 11.273, de 6 de fevereiro de 2006</txtEmenta>
+    <txtExplicacaoEmenta>Estabelece margem de preferência para produtos manufaturados e serviços nacionais, priorizando bens e serviços produzidos no País; critérios de apoio a projetos de ensino, pesquisa e extensão, e de desenvolvimento institucional, científico e tecnológico às Instituições Federais de Ensino Superior - IFES e às Instituições Científicas  Tecnológicas - ICTs. </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>483951</id>
+    <nome>MPV 496/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>496</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>20/7/2010 10:36:00</datApresentacao>
+    <txtEmenta>Dispõe sobre o limite de endividamento de Municípios em operações de crédito destinadas ao financiamento de infraestrutura para a realização da Copa do Mundo FIFA 2014 e dos Jogos Olímpicos e Paraolímpicos de 2016, sobre imóveis oriundos da extinta Rede Ferroviária Federal S.A. - RFFSA, sobre dívidas referentes ao patrimônio imobiliário da União, sobre acordos envolvendo patrimônio imobiliário da União, transfere o domínio útil de imóveis para a Companhia Docas do Rio de Janeiro - CDRJ, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a Medida Provisória nº 2.185-35, de 24 de agosto de 2001;  as Leis nºs 9.711, de 20 de novembro de 1998; 11.483, de 31 de maio de 2007; 9.702, de 17 de novembro de 1998; 10.666, de 08 de maio de 2003; e revoga o § 2º do art. 1º da Lei nº 9.469, de 10 de julho de 1997.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>482427</id>
+    <nome>MPV 494/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>494</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/7/2010 18:07:00</datApresentacao>
+    <txtEmenta>Dispõe sobre o Sistema Nacional de Defesa Civil - SINDEC, sobre as transferências de recursos para ações de socorro, assistência às vítimas, restabelecimento de serviços essenciais e reconstrução nas áreas atingidas por desastre, sobre o Fundo Especial para Calamidades Públicas, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera as Leis nº 9.077, de 1995; nº 11.775, de 2008 e revoga o Decreto-Lei nº 950, de 1969.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>482426</id>
+    <nome>MPV 493/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>493</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/7/2010 17:59:00</datApresentacao>
+    <txtEmenta>Altera o Anexo I da Lei nº 11.440, de 29 de dezembro de 2006, para modificar a divisão por níveis da Carreira de Diplomata, extingue cargos de Assistente de Chancelaria e autoriza a prorrogação de contratos por tempo determinado.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>482140</id>
+    <nome>MPV 492/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>492</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>29/6/2010 09:59:00</datApresentacao>
+    <txtEmenta>Acresce dispositivo ao art. 1º da Lei nº 12.096, de 24 de novembro de 2009, abre prazo para os Municípios regularizarem os parcelamentos relativos a contribuições sociais previdenciárias, e institui, no âmbito do Ministério da Educação, o plano especial de recuperação da rede física escolar pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e municipais afetadas por desastres.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481919</id>
+    <nome>MPV 491/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>491</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/6/2010 10:26:00</datApresentacao>
+    <txtEmenta>Institui o Programa Cinema Perto de Você e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Cria o RECINE - Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição; altera a Lei nº 10.865, de 2004 e a Medida Provisória nº 2.228-1, de 2001.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479973</id>
+    <nome>MPV 490/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>490</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/6/2010 08:58:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor da Presidência da República e dos Ministérios da Educação e da Integração Nacional, no valor global de R$ 1.287.072.416,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>477274</id>
+    <nome>MPV 489/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>489</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2010 09:55:00</datApresentacao>
+    <txtEmenta>Autoriza a União a integrar, na forma de consórcio público de regime especial, a Autoridade Pública Olímpica - APO, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>477273</id>
+    <nome>MPV 488/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>488</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2010 09:33:00</datApresentacao>
+    <txtEmenta>Autoriza a criação da Empresa Brasileira de Legado Esportivo S.A. - BRASIL 2016 e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>474361</id>
+    <nome>MPV 487/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>487</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/4/2010 09:13:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 12.096, de 24 de novembro de 2009, que autoriza a concessão de subvenção econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES, em operações de financiamento destinadas à aquisição e produção de bens de capital e à inovação tecnológica; afasta a incidência de restrição à contração de novas dívidas pelos Estados na hipótese de revisão do programa de ajuste fiscal em virtude de crescimento econômico baixo ou negativo; autoriza a União a permutar ações de sua propriedade por participações societárias detidas por entidades da administração pública federal indireta, a deixar de exercer e a ceder o seu direito de preferência para a subscrição de ações em aumentos de capital de sociedades de economia mista federais, a emitir títulos da dívida pública mobiliária federal em substituição de ações de sociedades de economia mista federais detidas pelo Fundo de Garantia à Exportação - FGE, e a realizar aumento de capital em empresas estatais, mediante a transferência de direitos decorrentes de adiantamentos efetuados para futuro aumento de capital; altera a Lei nº 10.260, de 12 de julho de 2001; e dá outras providências.  
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>471761</id>
+    <nome>MPV 486/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>486</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2010 11:56:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor de diversos órgãos do Poder Executivo, no valor global de R$ 1.429.428.268,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>471760</id>
+    <nome>MPV 485/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>485</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2010 11:45:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor do Ministério da Educação e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 1.600.000.000,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>471728</id>
+    <nome>MPV 484/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>484</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>30/3/2010 10:38:00</datApresentacao>
+    <txtEmenta>Dispõe sobre a prestação de apoio financeiro pela União aos Estados e ao Distrito Federal, institui o Programa Especial de Fortalecimento do Ensino Médio, para o exercício de 2010, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>471270</id>
+    <nome>MPV 483/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>483</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/3/2010 10:44:00</datApresentacao>
+    <txtEmenta>Altera as Leis nºs 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>Altera a estrutura administrativa da Presidência da República e os critérios para a contratação de pessoal em processo seletivo simplificado que prescinda de concurso público.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Urgência</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>Diversos  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>2</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>466304</id>
+    <nome>MPV 481/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>481</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/2/2010 09:30:00</datApresentacao>
+    <txtEmenta>Autoriza o Poder Executivo a doar estoques públicos de alimentos para assistência humanitária internacional.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1292</id>
+      <descricao>Perdeu a Eficácia</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>466305</id>
+    <nome>MPV 482/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>482</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/2/2010 09:30:00</datApresentacao>
+    <txtEmenta>Dispõe sobre medidas de suspensão de concessões ou outras obrigações do País relativas aos direitos de propriedade intelectual e outros, em casos de descumprimento de obrigações do Acordo Constitutivo da Organização Mundial do Comércio - OMC.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>465466</id>
+    <nome>MPV 480/2010</nome>
+    <tipoProposicao>
+      <id>291</id>
+      <sigla>MPV</sigla>
+      <nome>Medida Provisória</nome>
+    </tipoProposicao>
+    <numero>480</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/1/2010 09:34:00</datApresentacao>
+    <txtEmenta>Abre crédito extraordinário, em favor da Presidência da República, dos Ministérios da Agricultura, Pecuária e Abastecimento, das Relações Exteriores, da Saúde, da Defesa, da Integração Nacional e das Cidades, e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 1.374.057.000,00, para os fins que especifica.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>15</codRegime>
+      <txtRegime>Urgência</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1140</id>
+      <descricao>Transformado em Norma Jurídica</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

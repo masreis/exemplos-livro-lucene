@@ -1,0 +1,1555 @@
+<proposicoes>
+  <proposicao>
+    <id>489561</id>
+    <nome>PFC 132/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>132</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/12/2010 17:29:20</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural adote as medidas necessárias para que seja realizado ato de fiscalização e controle dos procedimentos de aporte de recursos públicos por parte do BNDES (Banco Nacional do Desenvolvimento) na possível fusão entre o grupo GP Investimentos / LAEP / LeitBom e o laticínio Bom Gosto.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antônio Andrade</txtNomeAutor>
+      <idecadastro>141387</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>487865</id>
+    <nome>PFC 131/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>131</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/11/2010 17:20:00</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle realize ato de fiscalização e controle para verificar irregularidades acerca de todos os Contratos, das Empresas Repsol YPF Brasil S.A. e Repsol YPF Importadora de Produtos Ltda com a Petrobrás e diversas Empresas do Setor, tendo ou não anuência da ANP - Agência Nacional de Petróleo, além das vendas de ativos que por sua vez sonegam impostos e burlam o Fisco, bem como levantamento de débitos trabalhistas, de FGTS, INSS e Receita Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>25/4/2011 16:02:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486713</id>
+    <nome>PFC 130/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>130</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/11/2010 20:11:50</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Ciência e Tecnologia, Comunicação e Informática, em concurso com o Tribunal de Contas da União, realize auditoria operacional sobre os procedimentos adotados pelo Poder Executivo para fiscalizar a participação estrangeira nas empresas jornalísticas.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo Gomes</txtNomeAutor>
+      <idecadastro>73945</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/11/2010 17:01:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Ciência e Tecnologia, Comunicação e Informática
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>950</id>
+      <descricao>Retirado pelo Autor</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>486229</id>
+    <nome>PFC 129/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>129</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/11/2010 15:21:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e sobre as causas e consequências do erro da impressão dos cartão-resposta da prova do Exame Nacional do Ensino Médio (ENEM) do segundo semestre de 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Vanderlei Macris</txtNomeAutor>
+      <idecadastro>141553</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>16/11/2010 11:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>485566</id>
+    <nome>PFC 128/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>128</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/11/2010 12:39:05</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União e a Controladoria Geral da União, realize ato de fiscalização e controle sobre a aplicação de todos os recursos repassados pelo Governo Federal, para o Município de Itaguai, no Estado do Rio de Janeiro, no âmbito de todos os Ministérios, no período compreendido entre 01 de janeiro de 2007 até a presente data.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Felipe Bornier</txtNomeAutor>
+      <idecadastro>141430</idecadastro>
+      <codPartido>109</codPartido>
+      <txtSiglaPartido>PHS       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>3/11/2010 16:48:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481690</id>
+    <nome>PFC 127/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>127</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/6/2010 17:18:47</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural realize fiscalização, com o auxilio do Tribunal de Contas da União, dos recursos públicos transferidos para a aquisição de matrizes de gado leiteiro e tratores aos assentados pelo INCRA no Estado do Tocantins.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Osvaldo Reis</txtNomeAutor>
+      <idecadastro>74191</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>TO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>29/6/2010 16:43:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>481278</id>
+    <nome>PFC 126/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>126</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/6/2010 18:39:32</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural adote as medidas necessárias para que seja realizado ato de fiscalização e controle dos procedimentos de liberação de importação de Leite e derivados por parte dos Ministérios do Desenvolvimento, Indústria e Comércio Exterior e da Agricultura, Pecuária e Abastecimento.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Abelardo Lupion</txtNomeAutor>
+      <idecadastro>73764</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>23/6/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>480712</id>
+    <nome>PFC 125/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>125</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/6/2010 09:54:49</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle promova, com auxílio do Tribunal de Contas da União, a fiscalização e controle dos recursos públicos repassados às empresas Dialog Comunicação e a Gráfica Brasil por intermédio de contratos firmados com o Governo Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jorge Tadeu Mudalen</txtNomeAutor>
+      <idecadastro>73535</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>21/6/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479127</id>
+    <nome>PFC 124/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>124</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2010 15:23:41</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados, através da Comissão de Fiscalização e Controle, realize ato de fiscalização e controle acerca do desvio de dinheiro público em Hospitais Militares no Estado do Rio de Janeiro, respectivamente o Hospital Central do Exército (HCE) e Hospital de Força Aérea do Galeão (HFAG).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/6/2010 17:14:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479126</id>
+    <nome>PFC 123/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>123</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>27/5/2010 15:22:36</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados, através da Comissão de Fiscalização Financeira e Controle, realize ato de fiscalização e controle acerca das fraudes em licitações no Instituto Militar de Engenharia (IME).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>2/6/2010 11:17:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>478595</id>
+    <nome>PFC 122/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>122</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/5/2010 10:52:44</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Defesa do Consumidor realize, com auxílio do Tribunal de Contas da União, ato de fiscalização e controle com vistas a apurar denúncias feitas em relação à metodologia de cálculo de faturamento e cobrança das contas de luz da Companhia Energética de Pernambuco (CELPE), no período de 2002 a 2009.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>1/6/2010 17:14:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>476106</id>
+    <nome>PFC 121/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>121</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/5/2010 14:27:38</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Viação e Transportes realize ato de fiscalização sobre a gestão dos contratos de concessões de áreas públicas em aeroportos brasileiros pela Infraero, durante o período de 2006 a 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jovair Arantes</txtNomeAutor>
+      <idecadastro>73666</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/5/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Viação e Transportes
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2016</codOrgaoEstado>
+        <siglaOrgaoEstado>CVT       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>475749</id>
+    <nome>PFC 120/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>120</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2010 17:27:45</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle, realize ato de fiscalização e controle para verificar possíveis irregularidades na prorrogação dos contratos de arrendamento dos terminais portuários que operam dentro da área portuária, nos diversos Estados.  
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/5/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>475586</id>
+    <nome>PFC 119/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>119</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/5/2010 14:55:54</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Trabalho, Administração e Serviço Público realize ato de fiscalização sobre a gestão dos contratos de concessões de áreas públicas em aeroportos brasileiros pela Infraero, durante o período de 2006 a 2010.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jovair Arantes</txtNomeAutor>
+      <idecadastro>73666</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>GO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/5/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Trabalho, de Administração e Serviço Público
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>474585</id>
+    <nome>PFC 118/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>118</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/4/2010 11:07:00</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle, exerça fiscalização nas rodovias, no tocante a realização de obras, manutenção, estudo aprofundado das situações estruturais, bem como quaisquer outros instrumentos legais, contratuais ou contábeis, referentes às rodovias BR 040, 116, 101, 393, e Ponte Rio-Niteroi, no Estado do Rio de Janeiro. Federal.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>5/5/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>473744</id>
+    <nome>PFC 117/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>117</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>15/4/2010 14:22:09</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Turismo e Desporto adote medidas necessárias para que seja realizado ato de Fiscalização e Controle dos sobre os cortes e aplicação dos recursos das rubricas de Promoção de Eventos para Divulgação do Turismo Interno e Apoio a Projetos de Infraestrutura Turística, tendo em vista a adequações propostas no PLN 001/2010.  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Paulo Henrique Lustosa</txtNomeAutor>
+      <idecadastro>141517</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>CE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>15/4/2010</datDespacho>
+      <txtDespacho>À Comissão de Turismo e Desporto
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>472899</id>
+    <nome>PFC 116/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>116</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/4/2010 14:21:00</datApresentacao>
+    <txtEmenta>Requer que a Comissão de Defesa do Consumidor, com auxílio do Tribunal de Contas da União, ato de fiscalização e controle com vistas a apurar possível apropriação indevida e/ou ganhos abusivos pela Companhia Energética de Pernambuco (CELPE) no repasse das perdas comerciais, no período de 2002 a 2009.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Eduardo da Fonte</txtNomeAutor>
+      <idecadastro>141421</idecadastro>
+      <codPartido>115</codPartido>
+      <txtSiglaPartido>PP        </txtSiglaPartido>
+      <txtSiglaUF>PE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/4/2010 11:21:00</datDespacho>
+      <txtDespacho>À Comissão de 
+Defesa do Consumidor
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>2004</codOrgaoEstado>
+        <siglaOrgaoEstado>CDC       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>472728</id>
+    <nome>PFC 115/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>115</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/4/2010 15:34:49</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, promova fiscalização e auditoria com a finalidade de apurar a retificação publicada no Diário Oficial de 16/06/1978, que alterou o Decreto nº 81.240/78. Referido Decreto regulamenta as disposições da Lei nº 6.435, de 15 de julho de 1977.
+
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cleber Verde</txtNomeAutor>
+      <idecadastro>141408</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/4/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>472726</id>
+    <nome>PFC 114/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>114</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>8/4/2010 15:34:00</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, promova fiscalização e auditoria junto à Caixa Econômica Federal, para apurar todos os fatos relacionados ao recebimento das sobras de ouro, prata e paládio extraídos do garimpo de Serra Pelada, no Pará.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Cleber Verde</txtNomeAutor>
+      <idecadastro>141408</idecadastro>
+      <codPartido>199</codPartido>
+      <txtSiglaPartido>PRB       </txtSiglaPartido>
+      <txtSiglaUF>MA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/4/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>472179</id>
+    <nome>PFC 113/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>113</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/4/2010 10:16:14</datApresentacao>
+    <txtEmenta>Propõe que à Comissão de Fiscalização Financeira e Controle realize ato de fiscalização sobre os atrasos e extravios de correspondência pelos Correios. </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Marcio Junqueira</txtNomeAutor>
+      <idecadastro>141496</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>RR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>14/4/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>471758</id>
+    <nome>PFC 112/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>112</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/3/2010 11:42:45</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados realize Proposta de Fiscalização e Controle - PFC para fiscalizar os investimentos das concessionárias de energia elétrica Light e Ampla, no Estado do Rio de Janeiro, em razão dos freqüentes apagões, conforme amplamente noticiado pela imprensa, bem como a eficácia das medidas fiscalizadoras adotadas pela Agência Nacional de Energia Elétrica (ANEEL).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Bernardo Ariston</txtNomeAutor>
+      <idecadastro>74169</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>8/4/2010</datDespacho>
+      <txtDespacho>À Comissão de 
+Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>469872</id>
+    <nome>PFC 111/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>111</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2010 16:08:58</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Finanças e Tributação da Câmara dos Deputados realize ato de fiscalização e controle com vistas a apurar possível vazamento de informações e utilização de informação privilegiada envolvendo as ações da empresa Telecomunicações Brasileiras S.A. - Telebras.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Guilherme Campos</txtNomeAutor>
+      <idecadastro>141447</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>31/3/2010 10:40:00</datDespacho>
+      <txtDespacho>Revejo o despacho aposto à PFC 111/2010, para que seja encaminhada à Comissão de Finanças e Tributação.
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>469678</id>
+    <nome>PFC 110/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>110</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2010 09:35:40</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle, com auxílio do Tribunal de Contas da União, promova fiscalização e auditoria  nos contratos e convênio entre a Prefeitura de Petrópolis e a organização que administra o Hospital Municipal Alcides Carneiro (SEHAC) no Município de Petrópolis - RJ.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/3/2010 10:12:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>469677</id>
+    <nome>PFC 109/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>109</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>17/3/2010 09:35:18</datApresentacao>
+    <txtEmenta>Propõe que a Comissão de Fiscalização Financeira e Controle realize ato de fiscalização nas obras, bem como nos respectivos contratos, projetos de engenharia, repasses de recursos e quaisquer outros instrumentos legais, contratuais ou contábeis, referentes às rodovias BR 364 e BR 429, no Estado de Rondônia.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Moreira Mendes</txtNomeAutor>
+      <idecadastro>141537</idecadastro>
+      <codPartido>118</codPartido>
+      <txtSiglaPartido>PPS       </txtSiglaPartido>
+      <txtSiglaUF>RO</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>24/3/2010 10:12:00</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>468820</id>
+    <nome>PFC 108/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>108</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/3/2010 14:37:12</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle, realize ato de fiscalização e controle sobre o que concerne à reajustes nas tarifas dos ônibus de linhas interestaduais nos últimos cincos anos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/3/2010</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>468817</id>
+    <nome>PFC 107/2010</nome>
+    <tipoProposicao>
+      <id>138</id>
+      <sigla>PFC</sigla>
+      <nome>Proposta de Fiscalização e Controle</nome>
+    </tipoProposicao>
+    <numero>107</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>10/3/2010 14:35:06</datApresentacao>
+    <txtEmenta>Propõe que a Câmara dos Deputados através da Comissão de Fiscalização Financeira e Controle, realize ato de fiscalização e controle sobre o que concerne à concessão de linhas de ônibus interestaduais.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>12/3/2010</datDespacho>
+      <txtDespacho>À Comissão de Fiscalização Financeira e Controle
+Proposição Sujeita à Apreciação Interna nas Comissões
+Regime de Tramitação: Ordinária
+</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

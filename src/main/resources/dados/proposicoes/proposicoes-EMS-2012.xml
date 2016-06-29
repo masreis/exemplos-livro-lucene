@@ -1,0 +1,328 @@
+<proposicoes>
+  <proposicao>
+    <id>817961</id>
+    <nome>EMS 3192/2012 =&gt; PL 3192/2012</nome>
+    <tipoProposicao>
+      <id>132</id>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+    </tipoProposicao>
+    <numero>3192</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/12/2014 18:43:00</datApresentacao>
+    <txtEmenta>Substitutivo do Senado Federal ao Projeto de Lei da Câmara nº 48, de 2013 (PL nº 3.192, de 2012, na Casa de origem), que "Institui o ano de 2013 como o Ano Nacional do Esporte Feminino".
+Dê-se ao Projeto a seguinte redação:
+Institui o ano de 2014 como o Ano Nacional do Esporte Feminino.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>618495</id>
+    <nome>EMS 4246/2012 =&gt; PL 4246/2012</nome>
+    <tipoProposicao>
+      <id>132</id>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+    </tipoProposicao>
+    <numero>4246</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>5/6/2014 12:03:00</datApresentacao>
+    <txtEmenta>Emendas do Senado ao Projeto de Lei da Câmara nº 41, de 2014 (PL nº 4.246, de 2012, na Casa de origem), que "Dispõe sobre o exercício da profissão de motorista; altera a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, e 11.442, de 5 de janeiro de 2007 (empresas e transportadores autônomos de carga), para disciplinar a jornada de trabalho e o tempo de direção do motorista profissional; altera a Lei nº 7.408, de 25 de novembro de 1985; revoga dispositivos da Lei nº 12.619, de 30 de abril de 2012; e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>570082</id>
+    <nome>EMS 4904/2012 =&gt; PL 4904/2012</nome>
+    <tipoProposicao>
+      <id>132</id>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+    </tipoProposicao>
+    <numero>4904</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>3/4/2013 11:10:00</datApresentacao>
+    <txtEmenta>Emendas do Senado ao Projeto de Lei da Câmara nº 6, de 2013 (PL nº 4.904, de 2012, na Casa de origem), que "Dispõe sobre a remuneração das Carreiras de Auditoria da Receita Federal do Brasil e Auditoria-Fiscal do Trabalho, de que trata a Lei nº 10.910, de 15 de julho de 2004; das Carreiras do Banco Central do Brasil, de que trata a Lei nº 9.650, de 27 de maio de 1998; do Plano de Carreiras e Cargos da Susep e do Plano de Carreiras e Cargos da CVM, de que trata a Lei nº 11.890, de 24 de dezembro de 2008; da Carreira de Analista de Infraestrutura e do cargo isolado de Especialista em Infraestrutura Sênior, de que trata a Lei nº 11.539, de 8 de novembro de 2007; do Plano de Carreira dos Cargos de Reforma e Desenvolvimento Agrário do Instituto Nacional da Colonização e Reforma Agrária - INCRA, de que trata a Lei nº 11.090, de 7 de janeiro de 2005; dos Bombeiros e Policiais Militares dos Ex-Territórios Federais, dos militares inativos e respectivos pensionistas integrantes da Polícia Militar e do Corpo de Bombeiros Militar do antigo Distrito Federal, de que tratam as Leis nºs 10.486, de 4 de julho de 2002, 11.356, de 19 de outubro de 2006, e 11.907, de 2 de fevereiro de 2009; da Carreira Policial Civil dos Extintos Territórios Federais do Acre, Amapá, Rondônia e Roraima, de que trata a Lei nº 11.358, de 19 de outubro de 2006; dos cargos de Médico do Plano de Carreira dos Cargos de Reforma e Desenvolvimento Agrário, de que trata a Lei nº 12.702, de 7 de agosto de 2012; altera as Leis referidas; e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>563996</id>
+    <nome>EMS 4369/2012 =&gt; PL 4369/2012</nome>
+    <tipoProposicao>
+      <id>132</id>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+    </tipoProposicao>
+    <numero>4369</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>19/12/2012 10:25:00</datApresentacao>
+    <txtEmenta>Dispõe sobre remuneração e reajuste de Planos de Cargos, Carreiras e Planos Especiais de Cargos do Poder Executivo federal; sobre as remunerações do Grupo Defesa Aérea e Controle de Tráfego Aéreo - Grupo DACTA, dos cargos da área de Ciência e Tecnologia, dos cargos de atividades técnicas da fiscalização federal agropecuária, da Carreira do Seguro Social, das Carreiras de Perito Médico Previdenciário e Supervisor Médico-Pericial, e dos empregados beneficiados pela Lei nº 8.878, de 11 de maio de 1994; e sobre a criação de cargos integrantes da Carreira do Magistério Superior, de que trata a Lei nº 7.596, de 10 de abril de 1987, e do Plano de Carreiras para a área de Ciência e Tecnologia, estruturado pela Lei nº 8.691, de 28 de julho de 1993; altera os valores dos soldos militares das Forças Armadas constantes da Lei nº 11.784, de 22 de setembro de 2008; altera as Leis nºs 11.907, de 2 de fevereiro de 2009, quanto às Carreiras de Especialista em Assistência Penitenciária, de Agente Penitenciário Federal e de Técnico de Apoio à Assistência Penitenciária do Quadro de Pessoal do Ministério da Justiça, 10.410, de 11 de janeiro de 2002, e 11.357, de 19 de outubro de 2006, para dispor sobre a remuneração da Carreira de Especialista em Meio Ambiente e do Plano Especial de Cargos do Ministério do Meio Ambiente e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA - PECMA, 11.355, de 19 de outubro de 2006, 10.971, de 25 de novembro de 2004, 10.483, de 3 de julho de 2002, 10.355, de 26 de dezembro de 2001, 11.233, de 22 de dezembro de 2005, 10.682, de 28 de maio de 2003, 11.344, de 8 de setembro de 2006, 11.095, de 13 de janeiro de 2005, 11.090, de 7 de janeiro de 2005, 11.356, de 19 de outubro de 2006, 10.480, de 2 de julho de 2002, 12.277, de 30 de junho de 2010, 11.784, de 22 de setembro de 2008, 12.702, de 7 de agosto de 2012, 10.551, de 13 de novembro de 2002, 10.484, de 3 de julho de 2002, 10.855, de 1º de abril de 2004, 9.657, de 3 de junho de 1998, 11.156, de 29 de julho de 2005, 12.094, de 19 de novembro de 2009, 11.319, de 6 de julho de 2006, 11.350, de 5 de outubro de 2006, 10.225, de 15 de maio de 2001, 11.776, de 17 de setembro de 2008, 11.890, de 24 de dezembro de 2008, 12.154, de 23 de dezembro de 2009, e 11.526, de 4 de outubro de 2007; revoga dispositivo da Lei nº 8.691, de 28 de julho de 1993; e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>20</codRegime>
+      <txtRegime>Prioridade</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>561603</id>
+    <nome>EMS 25/2012 =&gt; PLV 25/2012 MPV57512 =&gt; MPV 575/2012</nome>
+    <tipoProposicao>
+      <id>132</id>
+      <sigla>EMS</sigla>
+      <nome>Emenda/Substitutivo do Senado</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2012</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/11/2012 19:58:00</datApresentacao>
+    <txtEmenta>Emenda do Senado ao Projeto de Lei de Conversão nº 25, de 2012 (Medida Provisória nº 575, de 2012), que "Altera as Leis nºs 11.079, de 30 de dezembro de 2004, que institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública, para dispor sobre o aporte de recursos em favor do parceiro privado, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 12.058, de 13 de outubro de 2009, 9.430, de 27 de dezembro de 1996, 10.420, de 10 de abril de 2002, 4.117, de 27 de agosto de 1962, 10.925, de 23 de julho de 2004, 10.602, de 12 de dezembro de 2002, e 9.718, de 27 de novembro de 1998, e a Medida Provisória nº 2.158-35, de 24 de agosto de 2001, e dá outras providências".</txtEmenta>
+    <txtExplicacaoEmenta>Suprime o art. 8º do PLV nº 25, de 2012.</txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Senado Federal</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

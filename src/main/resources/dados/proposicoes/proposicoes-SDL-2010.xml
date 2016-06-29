@@ -1,0 +1,1405 @@
+<proposicoes>
+  <proposicao>
+    <id>479376</id>
+    <nome>SDL 11/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>11</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 0509 - Apoio ao desenvolvimento da educação básica do Programa 1448 - Qualidade na Escola no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479377</id>
+    <nome>SDL 12/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>12</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 09CW - Apoio a reestruturação da rede física pública de educação básica do Programa 1448 - Qualidade na Escola no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479380</id>
+    <nome>SDL 13/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>13</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 2B64 - Atenção à Saúde da População Negra do programa 1312 - Atenção à Saúde de Populações Estratégicas e em Situação de Agravo no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479383</id>
+    <nome>SDL 14/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>14</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 2C52 - Ampliação e Consolidação da Rede de Serviços Especializados de Atendimento às Mulheres em Situação de Violência do Programa 0156 - Prevenção e Enfrentamento da Violência contra as Mulheres no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479384</id>
+    <nome>SDL 15/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>15</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 4733 - Qualificação Social e Profissional de Trabalhadoras Domésticas e Outras Populações em Situação de Vulnerabilidade do Programa 0101 - Qualificação Social e Profissional no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479386</id>
+    <nome>SDL 16/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>16</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 6175 - Atenção à Saúde da Mulher do programa 1312 - Atenção À Saúde de Populações Estratégicas e em Situação de Agravo no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479387</id>
+    <nome>SDL 17/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>17</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 6812 - Capacitação de Profissionais para Atendimento a Mulheres em Situação de Violência do Programa 0156 - Prevenção e Enfrentamento da Violência contra as Mulheres  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479388</id>
+    <nome>SDL 18/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>18</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 7i26 - Implantação de Serviços de Atenção à Saúde da Mulher Vítima de Violência do programa 1312 - Atenção À Saúde de Populações Estratégicas e em Situação de Agravo  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479389</id>
+    <nome>SDL 19/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>19</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 7J23 - Instalação de Delegacias de Atendimento às Mulheres do Programa 1453 - Segurança Pública com Cidadania (PRONASCI)  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479390</id>
+    <nome>SDL 20/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>20</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a AÇÃO 7K02 - Apoio a Implantação de Centros Especializados de Perícia Médico-Legal em Atendimento à Mulher Vítima de Violência - LEI MARIA DA PENHA do Programa 1453 - Segurança Pública com Cidadania (PRONASCI)  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479391</id>
+    <nome>SDL 21/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 8746 - Apoio a aquisição de equipamentos para a rede publica da educação infantil do Programa 1448 - Qualidade na Escola  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479392</id>
+    <nome>SDL 22/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 8857 - Apoio à Implantação de Políticas de Segurança Cidadã do Programa 1453 - Segurança Pública com Cidadania (PRONASCI)  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479393</id>
+    <nome>SDL 23/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:05:00</datApresentacao>
+    <txtEmenta>Inclui a Ação 8932 - Apoio a Iniciativas de Prevenção à Violência contra as Mulheres do Programa 0156 - Prevenção e Enfrentamento da Violência contra as Mulheres  no Anexo de metas e prioridades do PLN 4/2010</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479375</id>
+    <nome>SDL 10/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>10</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:02:00</datApresentacao>
+    <txtEmenta>Inclui o § 3º ao Art. 2º do PLN 4/2010, para Proteger o Programa de Enfrentamento à Violência (0156) do contingenciamento de recursos.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479374</id>
+    <nome>SDL 9/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>9</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 18:00:00</datApresentacao>
+    <txtEmenta>Inclui um Artigo no Capítulo I do PLN 4/2010, para estabelecer metas sociais</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479373</id>
+    <nome>SDL 8/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>8</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 17:57:00</datApresentacao>
+    <txtEmenta>Altera a redação do 4º do PLN 4/2010, para estabelecer como prioridades a redução do desemprego e da mortalidade materna, o II Plano Nacional de Políticas para as Mulheres e a igualdade étnico-racial.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479372</id>
+    <nome>SDL 7/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 17:46:00</datApresentacao>
+    <txtEmenta>Altera a redação do parágrafo 6º do Artigo 17 do PLN 4/2010, para dispor sobre Audiências públicas obrigatórias para debate do Orçamento</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Centro Feminista de Estudos e Assessoria</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479353</id>
+    <nome>SDL 1/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Acrescenta alíneas ao § 1º do Artigo 17 do PLN nº 4/2010, para dispor sobre transparência orçamentária.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479354</id>
+    <nome>SDL 2/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Acrescenta incisos ao Artigo 9º do PLN nº 4/2010, para criar anexo sobre a proteção e a defesa dos direitos das crianças e dos adolescentes.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479355</id>
+    <nome>SDL 3/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Acrescenta parágrafos ao Artigo 4º do PLN nº 4/2010, para preservar as prioridades e metas previstos no § 2º do Art. 165 da CF e no Art. 4º da LC 101/2000 do contingenciamento ou limitação de empenho, bem como estabelecer percentual mínimo para sua execução.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479356</id>
+    <nome>SDL 4/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Altera a redação do inciso III do § 5º do Artigo 89 do PLN nº 4/2010, para dispor sobre o combate ao racismo e às desigualdades de gênero na LDO 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479357</id>
+    <nome>SDL 5/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Altera a redação do inciso IV do § 5º do Artigo 89 do PLN nº 4/2010, para dispor sobre o combate ao racismo e às desigualdades de gênero na LDO 2011.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>479358</id>
+    <nome>SDL 6/2010 CLP</nome>
+    <tipoProposicao>
+      <id>276</id>
+      <sigla>SDL</sigla>
+      <nome>Sugestão de Emenda à LDO - CLP</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2010</ano>
+    <orgaoNumerador>
+      <id>5438</id>
+      <sigla>CLP       </sigla>
+      <nome>Comissão de Legislação Participativa</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2010 13:34:00</datApresentacao>
+    <txtEmenta>Altera a redação do parágrafo 6º do Artigo 17 do PLN 4/2010, para tornar obrigatória a realização de audiências públicas com a finalidade de estimular a participação popular no debate e aprimoramento do PLOA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>6</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação Interna nas Comissões</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Instituto de Estudos Socioeconômicos</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>5438</codOrgaoEstado>
+        <siglaOrgaoEstado>CLP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

@@ -1,0 +1,68 @@
+<proposicoes>
+  <proposicao>
+    <id>2056355</id>
+    <nome>EMR 1/2015 CCJC =&gt; PLP 380/2008</nome>
+    <tipoProposicao>
+      <id>257</id>
+      <sigla>EMR</sigla>
+      <nome>Emenda de Relator</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>2003</id>
+      <sigla>CCJC      </sigla>
+      <nome>Comissão de Constituição e Justiça e de Cidadania</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/11/2015 18:00:00</datApresentacao>
+    <txtEmenta>EMENDA Nº 1
+AO PROJETO DE LEI COMPLEMENTAR Nº 380, DE 2008.
+
+
+Inclua-se linha pontilhada, seguida da rubrica "NR", após a alteração proposta pelo art. 2º do projeto em epígrafe ao art. 2º da Lei Complementar nº 125, de 2007.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Evandro Gussi</txtNomeAutor>
+      <idecadastro>178828</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

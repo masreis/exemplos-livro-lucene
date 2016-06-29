@@ -1,0 +1,284 @@
+<proposicoes>
+  <proposicao>
+    <id>2088920</id>
+    <nome>RCP 25/2016</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>21/6/2016 14:28:00</datApresentacao>
+    <txtEmenta>Requer a instituição de Comissão Parlamentar de Inquérito destinada a investigar o banco de investimentos BTG-Pactual, sua ascensão e a relação com negócios do Governo, a prisão do seu principal sócio e Presidente, senhor André Esteves, e a possibilidade de influência em decisões de Estado e investigações criminais sigilosas</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jhc</txtNomeAutor>
+      <idecadastro>178842</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100001</codOrgaoEstado>
+        <siglaOrgaoEstado>SECAP(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085910</id>
+    <nome>RCP 24/2016</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>31/5/2016 14:18:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de apurar a atuação de quadrilhas que roubam, adulteram e clonam veículos Automotores.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Giacobo</txtNomeAutor>
+      <idecadastro>74383</idecadastro>
+      <codPartido>168</codPartido>
+      <txtSiglaPartido>PR        </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100061</codOrgaoEstado>
+        <siglaOrgaoEstado>NAJUR(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2085656</id>
+    <nome>RCP 23/2016</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>23</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/5/2016 17:51:56</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito para apurar as irregularidades nas concessões de benefícios fiscais concedidos por aplicação da Lei nº 8.313, de 23 de dezembro de 1991, que instituiu o Programa Nacional de Apoio à Cultura (Pronac) e deu outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alberto Fraga</txtNomeAutor>
+      <idecadastro>73579</idecadastro>
+      <codPartido>202</codPartido>
+      <txtSiglaPartido>DEM       </txtSiglaPartido>
+      <txtSiglaUF>DF</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>905</id>
+      <descricao>Aguardando Despacho do Presidente da Câmara dos Deputados</descricao>
+      <orgao>
+        <codOrgaoEstado>100061</codOrgaoEstado>
+        <siglaOrgaoEstado>NAJUR(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2082737</id>
+    <nome>RCP 22/2016</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>22</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/4/2016 12:57:00</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito destinada a investigar o uso irregular de dinheiro público por parte da União Nacional dos Estudantes - UNE.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Pr. Marco Feliciano</txtNomeAutor>
+      <idecadastro>160601</idecadastro>
+      <codPartido>126</codPartido>
+      <txtSiglaPartido>PSC       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2016 19:15:00</datDespacho>
+      <txtDespacho>Há número suficiente de assinaturas e fato determinado devidamente caracterizado no Requerimento, atendidas, assim, as disposições do art. 58, § 3º, da Constituição Federal e do art. 35, § 1º, do Regimento Interno da Câmara dos Deputados, razão pela qual determino a publicação do requerimento e a constituição da Comissão para, nos termos do art. 35, § 3º, primeira parte, funcionar no prazo de 120 (cento e vinte) dias. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>911</id>
+      <descricao>Aguardando Instalação de Comissão Temporária</descricao>
+      <orgao>
+        <codOrgaoEstado>100648</codOrgaoEstado>
+        <siglaOrgaoEstado>COMPI(SGM)</siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2079750</id>
+    <nome>RCP 21/2016</nome>
+    <tipoProposicao>
+      <id>143</id>
+      <sigla>RCP</sigla>
+      <nome>Requerimento de Instituição de CPI</nome>
+    </tipoProposicao>
+    <numero>21</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>16/3/2016 17:11:31</datApresentacao>
+    <txtEmenta>Requer a criação de Comissão Parlamentar de Inquérito com a finalidade de investigar as irregularidades, a falta de estrutura e a aplicação de verbas nas entidades de internação de adolescentes infratores.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Aureo</txtNomeAutor>
+      <idecadastro>160512</idecadastro>
+      <codPartido>224</codPartido>
+      <txtSiglaPartido>SD        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>4/5/2016</datDespacho>
+      <txtDespacho>Despacho proferido na RCP 21/2016: "...Sendo assim, entendo não haver fato determinado devidamente caracterizado no Requerimento n. 21/2016, razão pela qual determino a sua devolução ao primeiro Requerente, o que faço atento às disposições do art. 35, §§ 1º e 2º, do RICD. Publique-se. Oficie-se ao primeiro Requerente."</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>904</id>
+      <descricao>Aguardando Deliberação de Recurso</descricao>
+      <orgao>
+        <codOrgaoEstado>4</codOrgaoEstado>
+        <siglaOrgaoEstado>MESA      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

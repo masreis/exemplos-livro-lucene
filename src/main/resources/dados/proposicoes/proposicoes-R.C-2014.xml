@@ -1,0 +1,57 @@
+<proposicoes>
+  <proposicao>
+    <id>606015</id>
+    <nome>R.C 2/2014</nome>
+    <tipoProposicao>
+      <id>540</id>
+      <sigla>R.C</sigla>
+      <nome>Recurso do Congresso Nacional</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2014</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>11/2/2014 17:44:00</datApresentacao>
+    <txtEmenta>Recurso interposto pelo Deputado Jutahy Junior da decisão desta Presidência sobre questão de ordem formulada por  S. Exª na sessão conjunta realizada no dia dez dezembro de 2013.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>5</id>
+      <txtApreciacao>Proposição Sujeita à Apreciação do Plenário</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Jutahy Junior</txtNomeAutor>
+      <idecadastro>74570</idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>11/2/2014 18:28:00</datDespacho>
+      <txtDespacho>Numere-se como recurso e encaminhe-se à Comissão de Constituição e Justiça e de Cidadania, na forma do art. 132, § 1º, do Regimento Comum. Publique-se.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>907</id>
+      <descricao>Aguardando Designação de Relator</descricao>
+      <orgao>
+        <codOrgaoEstado>2003</codOrgaoEstado>
+        <siglaOrgaoEstado>CCJC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

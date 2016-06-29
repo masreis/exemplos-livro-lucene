@@ -1,0 +1,1412 @@
+<proposicoes>
+  <proposicao>
+    <id>531351</id>
+    <nome>REL 7/2011 CFFC =&gt; REQ 3/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>7</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 20:39:00</datApresentacao>
+    <txtEmenta>Relatório das atividades da Subcomissão da Copa de 2014  e Olimpíadas de 2016 , referente ao exercício de 2011</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alexandre Santos</txtNomeAutor>
+      <idecadastro>74830</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531346</id>
+    <nome>REL 1/2011 CREDN</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2018</id>
+      <sigla>CREDN     </sigla>
+      <nome>Comissão de Relações Exteriores e de Defesa Nacional</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 20:21:00</datApresentacao>
+    <txtEmenta>Relatório de Atividades da Subcomissão Especial de Fronteiras.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto de Lucena</txtNomeAutor>
+      <idecadastro>160653</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2018</codOrgaoEstado>
+        <siglaOrgaoEstado>CREDN     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531329</id>
+    <nome>REL 6/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 19:35:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DAS ATIVIDADES DO ANO DE 2011</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Bornier</txtNomeAutor>
+      <idecadastro>73416</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531105</id>
+    <nome>REL 1/2011 CCTCI</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2002</id>
+      <sigla>CCTCI     </sigla>
+      <nome>Comissão de Ciência e Tecnologia, Comunicação e Informática</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 15:04:00</datApresentacao>
+    <txtEmenta>Relatório Preliminar da Subcomissão Especial  destinada a acompanhar as ações do Programa Nacional de Banda Larga.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Newton Lima</txtNomeAutor>
+      <idecadastro>160657</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2002</codOrgaoEstado>
+        <siglaOrgaoEstado>CCTCI     </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531033</id>
+    <nome>REL 6/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>6</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/12/2011 11:53:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DA SUBCOMISSÃO ESPECIAL PARA AVALIAR AS CONDIÇÕES DE SAÚDE DO TRABALHADOR</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Dr. Aluizio</txtNomeAutor>
+      <idecadastro>160529</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>531350</id>
+    <nome>REL 3/2011 CEDROGA</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>6914</id>
+      <sigla>CEDROGA   </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nome>
+    </orgaoNumerador>
+    <datApresentacao>12/12/2011 16:37:00</datApresentacao>
+    <txtEmenta>Relatório da Comissão.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>6914</codOrgaoEstado>
+        <siglaOrgaoEstado>CEDROGA   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>530576</id>
+    <nome>REL 2/2011 CEDROGA</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>6914</id>
+      <sigla>CEDROGA   </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nome>
+    </orgaoNumerador>
+    <datApresentacao>7/12/2011 19:38:00</datApresentacao>
+    <txtEmenta>PROPOSTAS PARA POLÍTICAS PÚBLICAS SOBRE DROGAS NO BRASIL - SEGUNDA VERSÃO</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Givaldo Carimbão</txtNomeAutor>
+      <idecadastro>74558</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>903</id>
+      <descricao>Aguardando Deliberação</descricao>
+      <orgao>
+        <codOrgaoEstado>6914</codOrgaoEstado>
+        <siglaOrgaoEstado>CEDROGA   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>530100</id>
+    <nome>REL 5/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/12/2011 17:46:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DA SUBCOMISSÃO ESPECIAL DE DESENVOLVIMENTO DO COMPLEXO INDUSTRIAL EM SAÚDE, PRODUÇÃO DE FÁRMACOS, EQUIPAMENTOS E OUTROS INSUMOS.
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Dr. Paulo César</txtNomeAutor>
+      <idecadastro>147975</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>530099</id>
+    <nome>REL 4/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/12/2011 17:41:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DA SUBCOMISSÃO ESPECIAL DESTINADA A ACOMPANHAR E DISCUTIR O SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL (SUAS) </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Antonio Brito</txtNomeAutor>
+      <idecadastro>160553</idecadastro>
+      <codPartido>136</codPartido>
+      <txtSiglaPartido>PTB       </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>529803</id>
+    <nome>REL 3/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/12/2011 16:11:00</datApresentacao>
+    <txtEmenta>Relatorio da Subcomissão sobre o Uso dos Agrotóxicos e suas consequencias a Saúde, no âmbito da Comissão de Seguridade Social e Familia -  CSSF  </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Padre João</txtNomeAutor>
+      <idecadastro>160556</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>MG</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528756</id>
+    <nome>REL 1/2011 CEDROGA</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>6914</id>
+      <sigla>CEDROGA   </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições de políticas públicas e de Projetos de Lei destinados a combater e prevenir os efeitos do Crack e de outras drogas ilícitas.</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/11/2011 14:07:00</datApresentacao>
+    <txtEmenta>PROPOSTAS PARA POLÍTICAS PÚBLICAS SOBRE DROGAS NO BRASIL</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Givaldo Carimbão</txtNomeAutor>
+      <idecadastro>74558</idecadastro>
+      <codPartido>125</codPartido>
+      <txtSiglaPartido>PSB       </txtSiglaPartido>
+      <txtSiglaUF>AL</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>6914</codOrgaoEstado>
+        <siglaOrgaoEstado>CEDROGA   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>528156</id>
+    <nome>REL 2/2011 CETERCE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>6943</id>
+      <sigla>CETERCE   </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/11/2011 20:54:00</datApresentacao>
+    <txtEmenta>Conclui pela apresentação de sugestão de Substitutivo ao Projeto de Lei nº 4.330, de 2004.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Santiago</txtNomeAutor>
+      <idecadastro>141473</idecadastro>
+      <codPartido>127</codPartido>
+      <txtSiglaPartido>PSD       </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>6943</codOrgaoEstado>
+        <siglaOrgaoEstado>CETERCE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>543960</id>
+    <nome>REL 2/2011 CAPADR =&gt; REL 3/2012 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>22/11/2011 15:21:00</datApresentacao>
+    <txtEmenta>COMPLEMENTAÇÃO DE VOTO AO RELATÓRIO Nº 001/2011  SUBESTRA</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Faro</txtNomeAutor>
+      <idecadastro>141335</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526957</id>
+    <nome>REL 5/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>5</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>9/11/2011 18:15:00</datApresentacao>
+    <txtEmenta>Visita Técnica de parlamentares da Subcomissão do PAC às obras de contrução da Ferrovia de Integração Oeste-Leste, trecho Ilhéus-Caetité / BA.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Bornier</txtNomeAutor>
+      <idecadastro>73416</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>526027</id>
+    <nome>REL 2/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>1/11/2011 17:44:00</datApresentacao>
+    <txtEmenta>RELATÓRIO FINAL DA SUBCOMISSÃO ESPECIAL DESTINADA A TRATAR DO FINANCIAMENTO, REESTRUTURAÇÃO DA ORGANIZAÇÃO E FUNCIONAMENTO
+DO SISTEMA ÚNICO DE SAÚDE (SUS) 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525369</id>
+    <nome>REL 1/2011 CEXLXHOS</nome>
+    <tipoProposicao>
+      <id>631</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Comissão Externa</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>9115</id>
+      <sigla>CEXLXHOS  </sigla>
+      <nome>Comissão Externa para acompanhar e fiscalizar as investigações e ações que estão sendo desenvolvidas no Estado de Pernambuco acerca das apreensões de Lixo Hospitalar, no Porto de SUAPE/PE, importado dos Estados Unidos da América por uma empresa pernambucana</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 18:49:00</datApresentacao>
+    <txtEmenta>
+    </txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Comissão Externa para acompanhar e fiscalizar as investigações e ações que estão sendo desenvolvidas no Estado de Pernambuco acerca das apreensões de Lixo Hospitalar, no Porto de SUAPE/PE, importado dos Estados Unidos da América por uma empresa pernambucana</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>1170</id>
+      <descricao>Aguardando Parecer - Ag. devolução Relator não-membro</descricao>
+      <orgao>
+        <codOrgaoEstado>9115</codOrgaoEstado>
+        <siglaOrgaoEstado>CEXLXHOS  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>525189</id>
+    <nome>REL 1/2011 CAPADR =&gt; REL 3/2012 CAPADR</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2001</id>
+      <sigla>CAPADR    </sigla>
+      <nome>Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural</nome>
+    </orgaoNumerador>
+    <datApresentacao>26/10/2011 15:57:00</datApresentacao>
+    <txtEmenta>Relatório de SUBCOMISSÃO ESPECIAL - SUBESTRA com apresentação de Projeto de Lei.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Beto Faro</txtNomeAutor>
+      <idecadastro>141335</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>PA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524988</id>
+    <nome>REL 3/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>3</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2011 20:01:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DE VISITA TÉCNICA ÀS OBRAS DA BR-487, TRECHO CAMPO MOURÃO - CRUZEIRO DO OESTE, E ÀS OBRAS DO CONTORNO NORTE DE MARINGÁ, 
+NA BR-376, AMBAS NO ESTADO DO PARANÁ
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Bornier</txtNomeAutor>
+      <idecadastro>73416</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524989</id>
+    <nome>REL 4/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>4</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2011 20:01:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DE VISITA TÉCNICA ÀS OBRAS DA FERROVIA NORTE-SUL LOTES 3, 4, e S/Nº 
+ (ANÁPOLIS E URUAÇU - GO)
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Nelson Bornier</txtNomeAutor>
+      <idecadastro>73416</idecadastro>
+      <codPartido>111</codPartido>
+      <txtSiglaPartido>PMDB      </txtSiglaPartido>
+      <txtSiglaUF>RJ</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>524948</id>
+    <nome>REL 1/2011 CSSF</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2014</id>
+      <sigla>CSSF      </sigla>
+      <nome>Comissão de Seguridade Social e Família</nome>
+    </orgaoNumerador>
+    <datApresentacao>25/10/2011 19:06:00</datApresentacao>
+    <txtEmenta>RELATÓRIO FINAL DA SUBCOMISSÃO ESPECIAL DESTINADA A TRATAR DO FINANCIAMENTO, REESTRUTURAÇÃO DA ORGANIZAÇÃO E FUNCIONAMENTO
+DO SISTEMA ÚNICO DE SAÚDE (SUS) 
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Rogério Carvalho</txtNomeAutor>
+      <idecadastro>160568</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SE</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2014</codOrgaoEstado>
+        <siglaOrgaoEstado>CSSF      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>523899</id>
+    <nome>REL 1/2011 CETERCE</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>6943</id>
+      <sigla>CETERCE   </sigla>
+      <nome>Comissão Especial destinada a promover estudos e proposições voltadas à regulamentação do trabalho terceirizado no Brasil.</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/10/2011 18:18:00</datApresentacao>
+    <txtEmenta>Relatório conclui por sugestão de substitutivo ao PL 4330, de 2004.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Roberto Santiago</txtNomeAutor>
+      <idecadastro>141473</idecadastro>
+      <codPartido>140</codPartido>
+      <txtSiglaPartido>PV        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>924</id>
+      <descricao>Pronta para Pauta</descricao>
+      <orgao>
+        <codOrgaoEstado>6943</codOrgaoEstado>
+        <siglaOrgaoEstado>CETERCE   </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>523839</id>
+    <nome>REL 2/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>2</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>18/10/2011 17:14:00</datApresentacao>
+    <txtEmenta>RELATÓRIO DE VISITA TÉCNICA ÀS OBRAS DA FERROVIA NORTE-SUL LOTES 12, 13 E 14 
+ (PALMAS E GURUPI/TO)
+</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>519275</id>
+    <nome>REL 1/2011 CFFC =&gt; REQ 1/2011 CFFC</nome>
+    <tipoProposicao>
+      <id>262</id>
+      <sigla>REL</sigla>
+      <nome>Relatório de Subcomissão</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>2011</id>
+      <sigla>CFFC      </sigla>
+      <nome>Comissão de Fiscalização Financeira e Controle</nome>
+    </orgaoNumerador>
+    <datApresentacao>24/8/2011 16:57:00</datApresentacao>
+    <txtEmenta>Relatório de Viagem e Audiência Pública da Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida (PMCMV).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>3</id>
+      <txtApreciacao>Requerimento</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Subcomissão Permanente de Acompanhamento, Fiscalização e Controle da Execução Orçamentária e Financeira e das Obras do Programa de Aceleração do Crescimento (PAC) e do Programa Minha Casa Minha Vida.</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>923</id>
+      <descricao>Arquivada</descricao>
+      <orgao>
+        <codOrgaoEstado>2011</codOrgaoEstado>
+        <siglaOrgaoEstado>CFFC      </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>497209</id>
+    <nome>REL 1/2011</nome>
+    <tipoProposicao>
+      <id>292</id>
+      <sigla>REL</sigla>
+      <nome>Relatório</nome>
+    </tipoProposicao>
+    <numero>1</numero>
+    <ano>2011</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/4/2011 10:24:00</datApresentacao>
+    <txtEmenta>Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Carlos Zarattini</txtNomeAutor>
+      <idecadastro>141398</idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>SP</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>a</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

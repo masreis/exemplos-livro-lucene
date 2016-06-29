@@ -1,0 +1,122 @@
+<proposicoes>
+  <proposicao>
+    <id>2017898</id>
+    <nome>PLS 680/2015 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>680</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>14/10/2015 15:30:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins, e dá outras providências, a fim de substituir a expressão "agrotóxicos" e termos correlatos por "produtos fitossanitários" e termos correlatos, de modo a adequar o texto dessa lei ao das normas vigentes no Mercado Comum do Sul (Mercosul).</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Alvaro Dias</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>128</codPartido>
+      <txtSiglaPartido>PSDB      </txtSiglaPartido>
+      <txtSiglaUF>PR</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>1671672</id>
+    <nome>PLS 516/2015 MERCOSUL</nome>
+    <tipoProposicao>
+      <id>464</id>
+      <sigla>PLS</sigla>
+      <nome>Projeto de Lei do Senado Federal</nome>
+    </tipoProposicao>
+    <numero>516</numero>
+    <ano>2015</ano>
+    <orgaoNumerador>
+      <id>5973</id>
+      <sigla>MERCOSUL  </sigla>
+      <nome>Representação Brasileira no Parlamento do Mercosul.</nome>
+    </orgaoNumerador>
+    <datApresentacao>6/8/2015 10:20:00</datApresentacao>
+    <txtEmenta>Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para permitir que empresas de transporte aéreo regular de países do Mercado Comum do Sul (Mercosul) operem no País.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>14</codRegime>
+      <txtRegime>Ordinária</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Walter Pinheiro</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>134</codPartido>
+      <txtSiglaPartido>PT        </txtSiglaPartido>
+      <txtSiglaUF>BA</txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>
+      </datDespacho>
+      <txtDespacho>
+      </txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>915</id>
+      <descricao>Aguardando Parecer</descricao>
+      <orgao>
+        <codOrgaoEstado>5973</codOrgaoEstado>
+        <siglaOrgaoEstado>MERCOSUL  </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>

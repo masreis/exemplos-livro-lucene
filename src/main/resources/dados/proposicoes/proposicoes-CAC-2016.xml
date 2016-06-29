@@ -1,0 +1,126 @@
+<proposicoes>
+  <proposicao>
+    <id>2089400</id>
+    <nome>CAC 25/2016</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>25</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>28/6/2016 14:39:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme Decreto de 24 de junho de 2016, publicado no Diário Oficial da União do dia 27 de junho de 2016, a transferência indireta da concessão de serviço de radiodifusão de sons e imagens outorgada à Globo Comunicações e Participações S.A., nos Municipios e cidade que menciona.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>28/6/2016 16:53:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática e após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>
+        </codOrgaoEstado>
+        <siglaOrgaoEstado>
+        </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>0</qtdOrgaosComEstado>
+  </proposicao>
+  <proposicao>
+    <id>2084943</id>
+    <nome>CAC 24/2016</nome>
+    <tipoProposicao>
+      <id>666</id>
+      <sigla>CAC</sigla>
+      <nome>Comunicado de alteração do controle societário</nome>
+    </tipoProposicao>
+    <numero>24</numero>
+    <ano>2016</ano>
+    <orgaoNumerador>
+      <id>180</id>
+      <sigla>PLEN      </sigla>
+      <nome>PLENÁRIO</nome>
+    </orgaoNumerador>
+    <datApresentacao>13/5/2016 15:31:00</datApresentacao>
+    <txtEmenta>Comunica que foi autorizada, conforme Decreto de 9 de maio de 2016, publicado no Diário Oficial da União do dia 10 de maio de 2016, a transferência indireta da concessão de serviço de radiodifusão de sons e imagens outorgada à TV Ponta Negra Ltda., no Município de Natal, Estado do Rio Grande do Norte.</txtEmenta>
+    <txtExplicacaoEmenta>
+    </txtExplicacaoEmenta>
+    <regime>
+      <codRegime>99</codRegime>
+      <txtRegime>.</txtRegime>
+    </regime>
+    <apreciacao>
+      <id>99</id>
+      <txtApreciacao>.</txtApreciacao>
+    </apreciacao>
+    <autor1>
+      <txtNomeAutor>Poder Executivo</txtNomeAutor>
+      <idecadastro>
+      </idecadastro>
+      <codPartido>
+      </codPartido>
+      <txtSiglaPartido>
+      </txtSiglaPartido>
+      <txtSiglaUF>
+      </txtSiglaUF>
+    </autor1>
+    <qtdAutores>1</qtdAutores>
+    <ultimoDespacho>
+      <datDespacho>19/5/2016 09:41:00</datDespacho>
+      <txtDespacho>À Comissão de Ciência e Tecnologia, Comunicação e Informática, para conhecimento e após, encaminhe-se ao Senado Federal.</txtDespacho>
+    </ultimoDespacho>
+    <situacao>
+      <id>
+      </id>
+      <descricao>
+      </descricao>
+      <orgao>
+        <codOrgaoEstado>186</codOrgaoEstado>
+        <siglaOrgaoEstado>CCP       </siglaOrgaoEstado>
+      </orgao>
+      <principal>
+        <codProposicaoPrincipal>0</codProposicaoPrincipal>
+        <proposicaoPrincipal>
+        </proposicaoPrincipal>
+      </principal>
+    </situacao>
+    <indGenero>o</indGenero>
+    <qtdOrgaosComEstado>1</qtdOrgaosComEstado>
+  </proposicao>
+</proposicoes>
