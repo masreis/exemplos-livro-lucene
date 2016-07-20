@@ -29,14 +29,15 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class IndexadorArquivosLocais {
-	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/master";
+//	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
+	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/treinamento/aulas-para-concursos";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/aulas-para-concursos";
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
 	private static final Logger logger = Logger.getLogger(IndexadorArquivosLocais.class);
 	private IndexWriter writer;
 	private Tika extrator = new Tika();
-	private boolean recursivo = false;
+	private boolean recursivo = true;
 
 	@Before
 	public void inicializar() throws IOException {

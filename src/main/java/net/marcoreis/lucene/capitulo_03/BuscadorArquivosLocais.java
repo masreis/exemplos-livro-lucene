@@ -19,7 +19,7 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/master";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/aulas-para-concursos";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -36,13 +36,14 @@ public class BuscadorArquivosLocais {
 		// consulta = "conteudo:itext";
 		// consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
 		// consulta = "conteudo:(ssh AND integrator)";
-		consulta = "conteudo:(ciência informação)";
+		consulta = "conteudo:jmeter";
+		consulta = "conteudo:\"Application Lifecycle Management\" AND extensao:pdf";
 		// consulta = "conteudo:MunicipiosBeneficiados";
 		// consulta = "conteudo:(didáticas)";
 		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
-		 consulta = "tamanho:[0 TO 400]";
-		 LongPoint.newRangeQuery("tamanhoLong", 50000, 100000);
+//		consulta = "tamanhoLong:[0 TO 400]";
+		Query r = LongPoint.newRangeQuery("tamanhoLong", 50000, 100000);
 		buscador.buscar(consulta);
 	}
 

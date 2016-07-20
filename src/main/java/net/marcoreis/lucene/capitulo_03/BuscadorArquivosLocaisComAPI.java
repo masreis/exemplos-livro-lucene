@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.fragmentos;
+package net.marcoreis.lucene.capitulo_03;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -32,18 +32,18 @@ public class BuscadorArquivosLocaisComAPI {
 	// + "/livro-lucene/indice-capitulo-02-exemplo-01";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/master";
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocaisComAPI.class);
-	private static final Long UM_MEGA = 1000 * 1000L;
-	private static final Long DOIS_MEGAS = 1000 * 1000 * 2L;
 
 	//
 	private Directory diretorio;
 	private IndexReader reader;
 	private IndexSearcher buscador;
 
+	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
+
 	//
 	public static void main(String[] args) throws IOException {
 		BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
-		buscador.buscarRangeQuery();
+		buscador.buscarPhraseQuery();
 	}
 
 	private void buscarRegexQuery() {
@@ -60,12 +60,6 @@ public class BuscadorArquivosLocaisComAPI {
 			// rq.setRegexImplementation(new JakartaRegexpCapabilities());
 			TopDocs docs = buscador.search(rq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
-			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
-				logger.info("Arquivo: " + doc.get("nome"));
-				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Atualização: " + doc.get("dataAtualizacao"));
-			}
 			//
 			reader.close();
 		} catch (Exception e) {
@@ -120,8 +114,9 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarTermQuery() {
 		try {
-			Term termo = new Term("conteudo", "java");
+			Term termo = new Term("conteudo", "ciência da informação");
 			TermQuery tq = new TermQuery(termo);
+
 			TopDocs docs = buscador.search(tq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
@@ -139,22 +134,15 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarPhraseQuery() {
 		try {
-			Term termoAplicacao = new Term("conteudoComVetores", "aplicação");
-			Term termoExemplo = new Term("conteudo", "exemplo");
 			Builder builder = new PhraseQuery.Builder();
-			PhraseQuery pq = builder.build();
-			// builder.add(new Term( termoAplicacao));
-			// builder.add(new TermQuery(termoExemplo);
-			// pq.setSlop(1);
-			TopDocs docs = buscador.search(pq, 100);
+			builder.add(new Term("conteudo", "ciência"));
+			builder.add(new Term("conteudo", "da"));
+			builder.add(new Term("conteudo", "informação"));
+			builder.setSlop(1);
+			PhraseQuery query = builder.build();
+			TopDocs docs = buscador.search(query, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
-			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
-				logger.info("Arquivo: " + doc.get("nome"));
-				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Atualização: " + doc.get("dataAtualizacao"));
-			}
-			//
+			imprimirDocumentos(docs);
 			reader.close();
 		} catch (Exception e) {
 			logger.error(e);
@@ -317,25 +305,15 @@ public class BuscadorArquivosLocaisComAPI {
 		}
 	}
 
-	public long count(final Query qry) {
-		long outCount = 0;
-		// try {
-		// _searchManager.waitForGeneration(_reopenToken); // wait untill the
-		// // index is
-		// // re-opened
-		// IndexSearcher searcher = _searchManager.acquire();
-		// try {
-		// TopDocs docs = searcher.search(qry, 0);
-		// if (docs != null)
-		// outCount = docs.totalHits;
-		// log.debug("count-search executed against lucene index returning {}",
-		// outCount);
-		// } finally {
-		// _searchManager.release(searcher);
-		// }
-		// } catch (IOException ioEx) {
-		// log.error("Error re-opening the index {}", ioEx.getMessage(), ioEx);
-		// }
-		return outCount;
+	private void imprimirDocumentos(TopDocs docs) throws IOException {
+		for (ScoreDoc sd : docs.scoreDocs) {
+			Document doc = buscador.doc(sd.doc);
+			logger.info("Caminho: " + doc.get("caminho"));
+			logger.info("Tamanho: " + doc.get("tamanho"));
+			logger.info("Data:" + doc.get("data"));
+			logger.info("Extensão: " + doc.get("extensao"));
+		}
+
 	}
+
 }
