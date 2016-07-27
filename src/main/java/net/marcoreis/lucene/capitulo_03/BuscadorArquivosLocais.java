@@ -43,7 +43,7 @@ public class BuscadorArquivosLocais {
 		// consulta = "conteudo:(didáticas)";
 		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
-//		consulta = "tamanhoLong:[0 TO 400]";
+		// consulta = "tamanhoLong:[0 TO 400]";
 		Query r = LongPoint.newRangeQuery("tamanhoLong", 50000, 100000);
 		buscador.buscar(consulta);
 	}
