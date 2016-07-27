@@ -19,7 +19,7 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/aulas-para-concursos";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/dropbox";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -38,6 +38,7 @@ public class BuscadorArquivosLocais {
 		// consulta = "conteudo:(ssh AND integrator)";
 		consulta = "conteudo:jmeter";
 		consulta = "conteudo:\"Application Lifecycle Management\" AND extensao:pdf";
+		consulta = "conteudo:(recall AND precision)";
 		// consulta = "conteudo:MunicipiosBeneficiados";
 		// consulta = "conteudo:(didáticas)";
 		// consulta = "extensao:doc";
