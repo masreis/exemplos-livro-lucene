@@ -28,7 +28,7 @@ public class BuscadorArquivosLocais {
 	public static void main(String[] args) {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		String consulta = "";
-		consulta = "data:[2010 TO 201202]";
+		consulta = "data:[2010 TO 201202]"; 
 		// consulta = "conteudo:rafael~2";
 		// consulta = "dataAtualizacao:[2014-05-01 TO 2014-05-30]";
 		// consulta = "conteudo:(rede social)";

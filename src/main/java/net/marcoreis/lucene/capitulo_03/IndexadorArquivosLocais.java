@@ -28,7 +28,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class IndexadorArquivosLocais {
+public class IndexadorArquivosLocais { 
 	// private static String DIRETORIO_DOCUMENTOS =
 	// System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
 	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/";
