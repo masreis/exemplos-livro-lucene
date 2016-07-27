@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_03;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.BufferedReader;
 import java.io.File;

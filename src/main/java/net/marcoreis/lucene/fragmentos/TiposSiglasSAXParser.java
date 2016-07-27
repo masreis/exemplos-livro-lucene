@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_03;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,8 +12,6 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
-
-import net.marcoreis.lucene.fragmentos.IndexadorDadosDeputadosSAXParser;
 
 public class TiposSiglasSAXParser extends DefaultHandler {
     private static InputStream ARQUIVO_DADOS = IndexadorDadosDeputadosSAXParser.class

@@ -32,13 +32,13 @@ public class IndexadorArquivosLocais {
 	// private static String DIRETORIO_DOCUMENTOS =
 	// System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
 	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/dropbox";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/somente-dropbox";
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
 	private static final Logger logger = Logger.getLogger(IndexadorArquivosLocais.class);
 	private IndexWriter writer;
 	private Tika extrator = new Tika();
-	private boolean recursivo = true;
+	private boolean recursivo = false;
 
 	@Before
 	public void inicializar() throws IOException {
@@ -108,7 +108,7 @@ public class IndexadorArquivosLocais {
 			doc.add(new TextField("tamanho", String.valueOf(arquivo.length()), Store.YES));
 			doc.add(new LongPoint("tamanhoLong", arquivo.length()));
 			doc.add(new StringField("data", dataParaIndexacao, Store.YES));
-			doc.add(new TextField("caminho", arquivo.getAbsolutePath(), Store.YES));
+			doc.add(new StringField("caminho", arquivo.getAbsolutePath(), Store.YES));
 			doc.add(new StringField("extensao", extensao, Store.YES));
 			writer.addDocument(doc);
 			logger.info("Arquivo indexado (" + (arquivo.length() / 1024) + " kb): " + arquivo.getAbsolutePath());
