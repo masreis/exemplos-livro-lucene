@@ -34,7 +34,7 @@ public class BuscadorArquivosLocais {
 	consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
 	consulta = "conteudo:(ssh AND integrator)";
 	consulta = "conteudo:(orientação a objetos)";
-	consulta = "conteudo:\"soapui\"";
+	consulta = "conteudo:maven";
 	// consulta = "conteudo:(\"instituto quadrix\")";
 	// consulta = "conteudo:zope";
 	// consulta = "nome:plano";
