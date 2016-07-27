@@ -90,10 +90,10 @@ public class FastHighlighterTeste {
 			Term[] termosBancoDados = new Term[] { new Term("conteudoComVetores", "banco"),
 					new Term("conteudoComVetores", "dados") };
 			//
-			MultiPhraseQuery mpq = new MultiPhraseQuery();
-			mpq.add(termosAplicacaoExemplo);
-			mpq.add(termosBancoDados);
-			mpq.setSlop(2);
+			MultiPhraseQuery mpq = null;// new MultiPhraseQuery();
+			// mpq.add(termosAplicacaoExemplo);
+			// mpq.add(termosBancoDados);
+			// mpq.setSlop(2);
 			//
 			highlight(mpq);
 			//

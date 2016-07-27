@@ -43,6 +43,12 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.apache.lucene</groupId>
+			<artifactId>lucene-benchmark</artifactId>
+			<version>${lucene.version}</version>
+		</dependency>
+
+		<dependency>
 			<groupId>org.apache.solr</groupId>
 			<artifactId>solr-solrj</artifactId>
 			<version>${lucene.version}</version>
@@ -78,17 +84,17 @@
 			<version>4.11</version>
 		</dependency>
 
-<!-- 		<dependency> -->
-<!-- 			<groupId>com.thoughtworks.xstream</groupId> -->
-<!-- 			<artifactId>xstream</artifactId> -->
-<!-- 			<version>1.4.7</version> -->
-<!-- 		</dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>com.thoughtworks.xstream</groupId> -->
+		<!-- <artifactId>xstream</artifactId> -->
+		<!-- <version>1.4.7</version> -->
+		<!-- </dependency> -->
 
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.apache.httpcomponents</groupId> -->
-<!-- 			<artifactId>httpclient</artifactId> -->
-<!-- 			<version>4.3.4</version> -->
-<!-- 		</dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>org.apache.httpcomponents</groupId> -->
+		<!-- <artifactId>httpclient</artifactId> -->
+		<!-- <version>4.3.4</version> -->
+		<!-- </dependency> -->
 
 	</dependencies>
 
@@ -96,6 +102,6 @@
 		<version.compiler.plugin>2.3.1</version.compiler.plugin>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<lucene.version>5.4.0</lucene.version>
+		<lucene.version>6.1.0</lucene.version>
 	</properties>
 </project>
