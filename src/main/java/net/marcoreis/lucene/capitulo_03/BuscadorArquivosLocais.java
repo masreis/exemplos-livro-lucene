@@ -5,7 +5,6 @@ import java.nio.file.Paths;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.br.BrazilianAnalyzer;
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.QueryParser;
@@ -44,8 +43,7 @@ public class BuscadorArquivosLocais {
 		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
 		// consulta = "tamanhoLong:[0 TO 400]";
-		consulta = "caminho:fatura";
-		Query r = LongPoint.newRangeQuery("tamanhoLong", 50000, 100000);
+		consulta = "conteudo:extrair";
 		buscador.buscar(consulta);
 	}
 
@@ -55,17 +53,17 @@ public class BuscadorArquivosLocais {
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
-			IndexSearcher buscador = new IndexSearcher(reader);
+			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Criar e analisar a consulta
 			QueryParser parser = new QueryParser("", new BrazilianAnalyzer());
 			Query query = parser.parse(consulta);
 			//
 			// Processar o resultado
-			TopDocs docs = buscador.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
+			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Caminho: " + doc.get("caminho"));
 				logger.info("Data: " + doc.get("data"));

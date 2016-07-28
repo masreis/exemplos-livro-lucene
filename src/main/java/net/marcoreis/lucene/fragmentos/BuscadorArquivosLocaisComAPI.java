@@ -4,10 +4,14 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.br.BrazilianAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.FuzzyQuery;
@@ -30,20 +34,22 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocaisComAPI {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/indice-capitulo-02-exemplo-01";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/master";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/dropbox";
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocaisComAPI.class);
-	private static final Long UM_MEGA = 1000 * 1000L;
-	private static final Long DOIS_MEGAS = 1000 * 1000 * 2L;
 
 	//
 	private Directory diretorio;
 	private IndexReader reader;
-	private IndexSearcher buscador;
+	private IndexSearcher searcher;
+	Analyzer analyzer = new BrazilianAnalyzer();
+	IndexWriterConfig conf = new IndexWriterConfig(analyzer);
+	private IndexWriter writer;
 
 	//
 	public static void main(String[] args) throws IOException {
 		BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
-		buscador.buscarRangeQuery();
+		buscador.abrirIndice();
+		buscador.buscarTermQuery();
 	}
 
 	private void buscarRegexQuery() {
@@ -58,10 +64,10 @@ public class BuscadorArquivosLocaisComAPI {
 			// RegexQuery rq = new RegexQuery(termo);
 			RegexpQuery rq = new RegexpQuery(termo);
 			// rq.setRegexImplementation(new JakartaRegexpCapabilities());
-			TopDocs docs = buscador.search(rq, 100);
+			TopDocs docs = searcher.search(rq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -77,10 +83,10 @@ public class BuscadorArquivosLocaisComAPI {
 	private void buscarMatchAllDocs() {
 		try {
 			MatchAllDocsQuery all = new MatchAllDocsQuery();
-			TopDocs docs = buscador.search(all, 100);
+			TopDocs docs = searcher.search(all, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -92,10 +98,18 @@ public class BuscadorArquivosLocaisComAPI {
 		}
 	}
 
-	public BuscadorArquivosLocaisComAPI() throws IOException {
-		diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
-		reader = DirectoryReader.open(diretorio);
-		buscador = new IndexSearcher(reader);
+	public void abrirIndice() {
+		try {
+			diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
+			writer = new IndexWriter(diretorio, conf);
+			analyzer = new BrazilianAnalyzer();
+			conf = new IndexWriterConfig(analyzer);
+			//
+			reader = DirectoryReader.open(writer);
+			searcher = new IndexSearcher(reader);
+		} catch (IOException e) {
+			logger.error(e);
+		}
 	}
 
 	public void buscarCampoNumerico() {
@@ -103,10 +117,10 @@ public class BuscadorArquivosLocaisComAPI {
 			// NumericRangeQuery<Long> nrq =
 			// NumericRangeQuery.newLongRange("tamanho", UM_MEGA, DOIS_MEGAS,
 			// true, true);
-			TopDocs docs = buscador.search(null, 100);
+			TopDocs docs = searcher.search(null, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -120,15 +134,18 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarTermQuery() {
 		try {
-			Term termo = new Term("conteudo", "java");
-			TermQuery tq = new TermQuery(termo);
-			TopDocs docs = buscador.search(tq, 100);
+
+			Term term = new Term("conteudo", "extra");
+			Query query = new TermQuery(term);
+			query = new PhraseQuery("conteudo", "extrair");
+			TopDocs docs = searcher.search(query, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
-				logger.info("Arquivo: " + doc.get("nome"));
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Atualização: " + doc.get("dataAtualizacao"));
+				logger.info("Caminho: " + doc.get("caminho"));
+				logger.info("Data: " + doc.get("data"));
+				logger.info("Extensão: " + doc.get("extensao"));
 			}
 			//
 			reader.close();
@@ -146,10 +163,10 @@ public class BuscadorArquivosLocaisComAPI {
 			// builder.add(new Term( termoAplicacao));
 			// builder.add(new TermQuery(termoExemplo);
 			// pq.setSlop(1);
-			TopDocs docs = buscador.search(pq, 100);
+			TopDocs docs = searcher.search(pq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -172,10 +189,10 @@ public class BuscadorArquivosLocaisComAPI {
 			// mpq.add(termosBancoDados);
 			// mpq.setSlop(2);
 			//
-			TopDocs docs = buscador.search(null, 100);
+			TopDocs docs = searcher.search(null, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -191,10 +208,10 @@ public class BuscadorArquivosLocaisComAPI {
 		try {
 			Term termo = new Term("conteudo", "consider");
 			PrefixQuery pq = new PrefixQuery(termo);
-			TopDocs docs = buscador.search(pq, 100);
+			TopDocs docs = searcher.search(pq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -212,10 +229,10 @@ public class BuscadorArquivosLocaisComAPI {
 			SpanQuery query1;
 			SpanQuery[] clausulas = null;
 			SpanNearQuery sq = new SpanNearQuery(clausulas, 2, true);
-			TopDocs docs = buscador.search(sq, 100);
+			TopDocs docs = searcher.search(sq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -243,10 +260,10 @@ public class BuscadorArquivosLocaisComAPI {
 			// Occur.MUST);
 			// bq.add(pq, Occur.MUST_NOT);
 			//
-			TopDocs docs = buscador.search(bq, 100);
+			TopDocs docs = searcher.search(bq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -263,10 +280,10 @@ public class BuscadorArquivosLocaisComAPI {
 			Term termo = new Term("conteudo", "calor");
 			WildcardQuery wq = new WildcardQuery(termo);
 			//
-			TopDocs docs = buscador.search(wq, 100);
+			TopDocs docs = searcher.search(wq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -284,10 +301,10 @@ public class BuscadorArquivosLocaisComAPI {
 			FuzzyQuery fq = new FuzzyQuery(termo, 2);
 			logger.info("Query: " + fq);
 			//
-			TopDocs docs = buscador.search(fq, 100);
+			TopDocs docs = searcher.search(fq, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("dataAtualizacao"));
@@ -302,10 +319,10 @@ public class BuscadorArquivosLocaisComAPI {
 	public void buscarRangeQuery() {
 		try {
 			Query q = LongPoint.newRangeQuery("tamanhoLong", 8000, 40000);
-			TopDocs docs = buscador.search(q, 100);
+			TopDocs docs = searcher.search(q, 100);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
+				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("caminho"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
 				logger.info("Atualização: " + doc.get("data"));
