@@ -9,7 +9,7 @@ import java.util.Date;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.br.BrazilianAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
@@ -43,7 +43,7 @@ public class IndexadorArquivosLocais {
 	@Before
 	public void inicializar() throws IOException {
 		FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
-		Analyzer analyzer = new BrazilianAnalyzer();
+		Analyzer analyzer = new StandardAnalyzer();
 		Directory diretorio = FSDirectory.open(Paths.get((DIRETORIO_INDICE)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		logger.info(conf.toString());

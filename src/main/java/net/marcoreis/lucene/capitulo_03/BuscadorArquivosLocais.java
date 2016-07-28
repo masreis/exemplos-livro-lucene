@@ -3,7 +3,7 @@ package net.marcoreis.lucene.capitulo_03;
 import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
-import org.apache.lucene.analysis.br.BrazilianAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -18,7 +18,7 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/dropbox";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/somente-dropbox";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -56,7 +56,7 @@ public class BuscadorArquivosLocais {
 			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Criar e analisar a consulta
-			QueryParser parser = new QueryParser("", new BrazilianAnalyzer());
+			QueryParser parser = new QueryParser("", new StandardAnalyzer());
 			Query query = parser.parse(consulta);
 			//
 			// Processar o resultado
