@@ -43,7 +43,7 @@ public class BuscadorArquivosLocais {
 		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
 		// consulta = "tamanhoLong:[0 TO 400]";
-		consulta = "conteudo:extrair";
+		consulta = "conteudo:(extrair parcela)";
 		buscador.buscar(consulta);
 	}
 

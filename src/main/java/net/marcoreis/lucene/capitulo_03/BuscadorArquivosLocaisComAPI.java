@@ -40,7 +40,7 @@ public class BuscadorArquivosLocaisComAPI {
 	private Directory diretorio;
 	private IndexReader reader;
 	private IndexSearcher searcher;
-
+	private int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
 	//
 	public static void main(String[] args) throws IOException {
 		BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
@@ -60,7 +60,7 @@ public class BuscadorArquivosLocaisComAPI {
 			// RegexQuery rq = new RegexQuery(termo);
 			RegexpQuery rq = new RegexpQuery(termo);
 			// rq.setRegexImplementation(new JakartaRegexpCapabilities());
-			TopDocs docs = searcher.search(rq, 100);
+			TopDocs docs = searcher.search(rq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -79,7 +79,7 @@ public class BuscadorArquivosLocaisComAPI {
 	private void buscarMatchAllDocs() {
 		try {
 			MatchAllDocsQuery all = new MatchAllDocsQuery();
-			TopDocs docs = searcher.search(all, 100);
+			TopDocs docs = searcher.search(all, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -109,7 +109,7 @@ public class BuscadorArquivosLocaisComAPI {
 			// NumericRangeQuery<Long> nrq =
 			// NumericRangeQuery.newLongRange("tamanho", UM_MEGA, DOIS_MEGAS,
 			// true, true);
-			TopDocs docs = searcher.search(null, 100);
+			TopDocs docs = searcher.search(null, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -126,10 +126,9 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarTermQuery() {
 		try {
-			Term term = new Term("conteudo", "extrair");
+			Term term = new Term("conteudo", "\"ciência da informação\"");
 			Query query = new TermQuery(term);
-			query = new PhraseQuery("conteudo", "extrair");
-			TopDocs docs = searcher.search(query, 100);
+			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -154,7 +153,7 @@ public class BuscadorArquivosLocaisComAPI {
 			// builder.add(new Term( termoAplicacao));
 			// builder.add(new TermQuery(termoExemplo);
 			// pq.setSlop(1);
-			TopDocs docs = searcher.search(pq, 100);
+			TopDocs docs = searcher.search(pq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -180,7 +179,7 @@ public class BuscadorArquivosLocaisComAPI {
 			// mpq.add(termosBancoDados);
 			// mpq.setSlop(2);
 			//
-			TopDocs docs = searcher.search(null, 100);
+			TopDocs docs = searcher.search(null, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -199,7 +198,7 @@ public class BuscadorArquivosLocaisComAPI {
 		try {
 			Term termo = new Term("conteudo", "consider");
 			PrefixQuery pq = new PrefixQuery(termo);
-			TopDocs docs = searcher.search(pq, 100);
+			TopDocs docs = searcher.search(pq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -220,7 +219,7 @@ public class BuscadorArquivosLocaisComAPI {
 			SpanQuery query1;
 			SpanQuery[] clausulas = null;
 			SpanNearQuery sq = new SpanNearQuery(clausulas, 2, true);
-			TopDocs docs = searcher.search(sq, 100);
+			TopDocs docs = searcher.search(sq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -251,7 +250,7 @@ public class BuscadorArquivosLocaisComAPI {
 			// Occur.MUST);
 			// bq.add(pq, Occur.MUST_NOT);
 			//
-			TopDocs docs = searcher.search(bq, 100);
+			TopDocs docs = searcher.search(bq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -271,7 +270,7 @@ public class BuscadorArquivosLocaisComAPI {
 			Term termo = new Term("conteudo", "calor");
 			WildcardQuery wq = new WildcardQuery(termo);
 			//
-			TopDocs docs = searcher.search(wq, 100);
+			TopDocs docs = searcher.search(wq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -292,7 +291,7 @@ public class BuscadorArquivosLocaisComAPI {
 			FuzzyQuery fq = new FuzzyQuery(termo, 2);
 			logger.info("Query: " + fq);
 			//
-			TopDocs docs = searcher.search(fq, 100);
+			TopDocs docs = searcher.search(fq, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
@@ -310,7 +309,7 @@ public class BuscadorArquivosLocaisComAPI {
 	public void buscarRangeQuery() {
 		try {
 			Query q = LongPoint.newRangeQuery("tamanhoLong", 8000, 40000);
-			TopDocs docs = searcher.search(q, 100);
+			TopDocs docs = searcher.search(q, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
