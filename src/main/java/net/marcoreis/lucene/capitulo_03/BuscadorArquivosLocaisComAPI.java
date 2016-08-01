@@ -142,7 +142,7 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarRangeQuery() {
 		try {
-			boolean incluirLimiteInferior = false;
+			boolean incluirLimiteInferior = true;
 			boolean incluirLimiteSuperior = true;
 			BytesRef limiteInferior = new BytesRef("20160120");
 			BytesRef limiteSuperior = new BytesRef("20161231");
