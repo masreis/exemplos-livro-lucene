@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_03;
+package net.marcoreis.lucene.capitulo_03.teste;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -23,43 +23,44 @@ import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class ExcluirDocumentoIndice {
+public class TesteExcluirDocumentoIndice {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(ExcluirDocumentoIndice.class);
-	private String nomeArquivo = "/home/marco/Dropbox/material-de-estudo/mestrado/thesis.pdf";
+	private static final Logger logger = Logger.getLogger(TesteExcluirDocumentoIndice.class);
 	private Analyzer analyzer;
 	private Directory diretorio;
 	private IndexWriterConfig conf;
 	private IndexWriter writer;
-	private IndexReader reader;
-	private IndexSearcher searcher;
-	private Query queryParaExclusao;
 
 	@Before
-	public void inicializar() throws IOException {
+	public void inicializarWriter() throws IOException {
 		analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get((DIRETORIO_INDICE)));
 		conf = new IndexWriterConfig(analyzer);
 		writer = new IndexWriter(diretorio, conf);
-		reader = DirectoryReader.open(diretorio);
-		queryParaExclusao = new PhraseQuery("caminho", nomeArquivo);
 	}
 
 	@Test
-	public void testeA_Exclusao() throws IOException {
+	public void testeExclusao() throws IOException {
+		// Verificando o estado atual do índice
+		String nomeArquivo = "/home/marco/Dropbox/material-de-estudo/mestrado/thesis.pdf";
+		Query queryParaExclusao = new PhraseQuery("caminho", nomeArquivo);
 		verificarQuantidadeDocumentos(queryParaExclusao);
+		// Excluindo o documento
 		writer.deleteDocuments(queryParaExclusao);
+		writer.commit();
+		// Verificando novante o índice
+		verificarQuantidadeDocumentos(queryParaExclusao);
 	}
 
 	@After
 	public void finalizar() throws IOException {
-		reader.close();
 		writer.close();
 		diretorio.close();
 	}
 
 	private void verificarQuantidadeDocumentos(Query queryParaExclusao) throws IOException {
-		searcher = new IndexSearcher(reader);
+		IndexReader reader = DirectoryReader.open(diretorio);
+		IndexSearcher searcher = new IndexSearcher(reader);
 		TopDocs docs = searcher.search(queryParaExclusao, 1);
 		logger.info("Quantidade de documentos encontrados: " + docs.totalHits);
 		// Verifica se a consulta retorna apenas um documento
@@ -68,10 +69,7 @@ public class ExcluirDocumentoIndice {
 		logger.info("MaxDoc: " + reader.maxDoc());
 		logger.info("NumDocs: " + reader.numDocs());
 		logger.info("HasDeletions: " + reader.hasDeletions());
+		reader.close();
 	}
 
-	@Test
-	public void testeB_DepoisDaExclusao() throws IOException {
-		verificarQuantidadeDocumentos(queryParaExclusao);
-	}
 }

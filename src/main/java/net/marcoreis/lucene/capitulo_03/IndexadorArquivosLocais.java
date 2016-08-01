@@ -23,31 +23,39 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
-import org.junit.Assert;
 
 public class IndexadorArquivosLocais {
-	// private static String DIRETORIO_DOCUMENTOS =
-	// System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
-	// private static String DIRETORIO_DOCUMENTOS =
-	// System.getProperty("user.home")
-	// + "/Dropbox/material-de-estudo/mestrado";
-	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
-	// + "/livro-lucene/cursos";
 	private static final Logger logger = Logger.getLogger(IndexadorArquivosLocais.class);
 	private IndexWriter writer;
 	private Directory diretorio;
 	private Tika extrator = new Tika();
-	private boolean recursivo = false;
+	private boolean recursivo = true;
 	private String diretorioIndice;
 	private String diretorioDocumentos;
+	private long totalArquivosIndexados;
+	private long totalBytesIndexados;
+	private boolean apagarIndice = true;
 
 	public IndexadorArquivosLocais(String diretorioIndice, String diretorioDocumentos) {
 		this.diretorioIndice = diretorioIndice;
 		this.diretorioDocumentos = diretorioDocumentos;
 	}
 
+	public IndexadorArquivosLocais(String diretorioIndice, String diretorioDocumentos, boolean recursivo) {
+		this.diretorioIndice = diretorioIndice;
+		this.diretorioDocumentos = diretorioDocumentos;
+		this.recursivo = recursivo;
+	}
+
+	public IndexadorArquivosLocais(String diretorioIndice, boolean apagarIndice) {
+		this.diretorioIndice = diretorioIndice;
+		this.apagarIndice = apagarIndice;
+	}
+
 	public void inicializar() throws IOException {
-		FileUtils.deleteDirectory(new File(diretorioIndice));
+		if (apagarIndice) {
+			FileUtils.deleteDirectory(new File(diretorioIndice));
+		}
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
@@ -59,6 +67,9 @@ public class IndexadorArquivosLocais {
 		try {
 			writer.close();
 			diretorio.close();
+			//
+			logger.info("Total de arquivos indexados: " + totalArquivosIndexados);
+			logger.info("Total de bytes indexados (MB): " + totalBytesIndexados / (1024 * 1024));
 		} catch (IOException e) {
 			logger.error(e);
 		}
@@ -66,7 +77,6 @@ public class IndexadorArquivosLocais {
 
 	public void indexar() throws IOException, TikaException {
 		indexarDiretorio(new File(diretorioDocumentos));
-		Assert.assertTrue(writer.numDocs() > 0);
 	}
 
 	/**
@@ -120,6 +130,8 @@ public class IndexadorArquivosLocais {
 			doc.add(new StringField("extensao", extensao, Store.YES));
 			writer.addDocument(doc);
 			logger.info("Arquivo indexado (" + (arquivo.length() / 1024) + " kb): " + arquivo.getAbsolutePath());
+			totalArquivosIndexados++;
+			totalBytesIndexados += arquivo.length();
 		} catch (Exception e) {
 			logger.error("Não foi possível processar o arquivo " + arquivo.getAbsolutePath());
 			logger.error(e);
