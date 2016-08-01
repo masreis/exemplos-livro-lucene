@@ -31,7 +31,7 @@ import org.junit.Test;
 public class IndexadorArquivosLocais {
 	// private static String DIRETORIO_DOCUMENTOS =
 	// System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
-	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/";
+	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/somente-dropbox";
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";

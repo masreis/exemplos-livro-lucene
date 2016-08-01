@@ -41,11 +41,21 @@ public class BuscadorArquivosLocaisComAPI {
 	private IndexReader reader;
 	private IndexSearcher searcher;
 	private int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
+
 	//
 	public static void main(String[] args) throws IOException {
 		BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
 		buscador.abrirIndice();
 		buscador.buscarTermQuery();
+		buscador.fechar();
+	}
+
+	private void fechar() {
+		try {
+			reader.close();
+		} catch (IOException e) {
+			logger.error(e);
+		}
 	}
 
 	private void buscarRegexQuery() {
@@ -126,7 +136,7 @@ public class BuscadorArquivosLocaisComAPI {
 
 	public void buscarTermQuery() {
 		try {
-			Term term = new Term("conteudo", "\"ciência da informação\"");
+			Term term = new Term("conteudo", "ciência");
 			Query query = new TermQuery(term);
 			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
@@ -137,8 +147,6 @@ public class BuscadorArquivosLocaisComAPI {
 				logger.info("Data: " + doc.get("data"));
 				logger.info("Extensão: " + doc.get("extensao"));
 			}
-			//
-			reader.close();
 		} catch (Exception e) {
 			logger.error(e);
 		}
