@@ -18,7 +18,7 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/somente-dropbox";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -43,7 +43,8 @@ public class BuscadorArquivosLocais {
 		// consulta = "extensao:doc";
 		// consulta = "conteudo:(\"instituto quadrix\")";
 		// consulta = "tamanhoLong:[0 TO 400]";
-		consulta = "conteudo:(extrair parcela)";
+		consulta = "conteudo:(\"ciência da informação\")";
+		consulta = "data:{20160120 TO 20161231}";
 		buscador.buscar(consulta);
 	}
 
@@ -58,6 +59,7 @@ public class BuscadorArquivosLocais {
 			// Criar e analisar a consulta
 			QueryParser parser = new QueryParser("", new StandardAnalyzer());
 			Query query = parser.parse(consulta);
+			logger.info("Consulta analisada-> " + query);
 			//
 			// Processar o resultado
 			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
