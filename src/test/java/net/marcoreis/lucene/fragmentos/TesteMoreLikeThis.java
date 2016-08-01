@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.teste;
+package net.marcoreis.lucene.fragmentos;
 
 import org.junit.After;
 import org.junit.Before;

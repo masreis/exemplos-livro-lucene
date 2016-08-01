@@ -23,38 +23,36 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 
-public class IndexadorArquivosLocais {
+public class AtualizarDocumentoIndice {
 	// private static String DIRETORIO_DOCUMENTOS =
 	// System.getProperty("user.home") + "/Dropbox/material-de-estudo/master";
-	// private static String DIRETORIO_DOCUMENTOS =
-	// System.getProperty("user.home")
-	// + "/Dropbox/material-de-estudo/mestrado";
+	private static String DIRETORIO_DOCUMENTOS = System.getProperty("user.home")
+			+ "/Dropbox/material-de-estudo/mestrado";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/cursos";
-	private static final Logger logger = Logger.getLogger(IndexadorArquivosLocais.class);
+	private static final Logger logger = Logger.getLogger(AtualizarDocumentoIndice.class);
 	private IndexWriter writer;
 	private Directory diretorio;
 	private Tika extrator = new Tika();
 	private boolean recursivo = false;
-	private String diretorioIndice;
-	private String diretorioDocumentos;
 
-	public IndexadorArquivosLocais(String diretorioIndice, String diretorioDocumentos) {
-		this.diretorioIndice = diretorioIndice;
-		this.diretorioDocumentos = diretorioDocumentos;
-	}
-
+	@Before
 	public void inicializar() throws IOException {
-		FileUtils.deleteDirectory(new File(diretorioIndice));
+		FileUtils.deleteDirectory(new File(DIRETORIO_INDICE));
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory.open(Paths.get((diretorioIndice)));
+		diretorio = FSDirectory.open(Paths.get((DIRETORIO_INDICE)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		logger.info(conf.toString());
 		writer = new IndexWriter(diretorio, conf);
 	}
 
+	@After
 	public void finalizar() {
 		try {
 			writer.close();
@@ -64,8 +62,9 @@ public class IndexadorArquivosLocais {
 		}
 	}
 
+	@Test
 	public void indexar() throws IOException, TikaException {
-		indexarDiretorio(new File(diretorioDocumentos));
+		indexarDiretorio(new File(DIRETORIO_DOCUMENTOS));
 		Assert.assertTrue(writer.numDocs() > 0);
 	}
 
@@ -78,7 +77,7 @@ public class IndexadorArquivosLocais {
 	 * @throws IOException
 	 * 
 	 */
-	public void indexarDiretorio(File diretorio) throws IOException, TikaException {
+	private void indexarDiretorio(File diretorio) throws IOException, TikaException {
 		File[] arquivosParaIndexar = diretorio.listFiles();
 		for (File arquivo : arquivosParaIndexar) {
 			if (arquivo.isDirectory()) {
@@ -104,7 +103,7 @@ public class IndexadorArquivosLocais {
 	 * @throws TikaException
 	 * @throws IOException
 	 */
-	public void indexarArquivo(File arquivo) {
+	private void indexarArquivo(File arquivo) {
 		try {
 			Document doc = new Document();
 			Date dataModificacao = new Date(arquivo.lastModified());

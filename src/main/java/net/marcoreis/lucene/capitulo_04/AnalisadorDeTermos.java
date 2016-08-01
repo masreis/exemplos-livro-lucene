@@ -64,6 +64,7 @@ public class AnalisadorDeTermos {
     public void analisar() throws IOException {
         String frase = "De origem humilde até a riqueza: veja 11 bilionários que eram pobres na infância.\n"
                 + "Trabalho duro e resiliência é a característica comum a todos.";
+        frase  = "vitaminas A e E";
         Analyzer standardAnalyzer = new StandardAnalyzer();
         analisarFrase(standardAnalyzer, frase);
         Analyzer simpleAnalyzer = new SimpleAnalyzer();
