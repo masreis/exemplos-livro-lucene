@@ -10,9 +10,12 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.queryparser.xml.builders.TermQueryBuilder;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
+import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -43,7 +46,8 @@ public class TesteExcluirDocumentoIndice {
 	public void testeExclusao() throws IOException {
 		// Verificando o estado atual do índice
 		String nomeArquivo = "/home/marco/Dropbox/material-de-estudo/mestrado/thesis.pdf";
-		Query queryParaExclusao = new PhraseQuery("caminho", nomeArquivo);
+		Term t = new Term("caminho", nomeArquivo);
+		Query queryParaExclusao = new TermQuery(t);
 		verificarQuantidadeDocumentos(queryParaExclusao);
 		// Excluindo o documento
 		writer.deleteDocuments(queryParaExclusao);
@@ -64,7 +68,9 @@ public class TesteExcluirDocumentoIndice {
 		TopDocs docs = searcher.search(queryParaExclusao, 1);
 		logger.info("Quantidade de documentos encontrados: " + docs.totalHits);
 		// Verifica se a consulta retorna apenas um documento
-		// assertTrue(docs.totalHits < 2);
+		if (docs.totalHits != 1) {
+			// Aconteceu algum problema
+		}
 		//
 		logger.info("MaxDoc: " + reader.maxDoc());
 		logger.info("NumDocs: " + reader.numDocs());
