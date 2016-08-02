@@ -39,10 +39,11 @@ public class IndexadorWikipedia {
 			IndexWriterConfig config = new IndexWriterConfig(analyzer);
 			//
 			// config.setUseCompoundFile(false);
-			config.setRAMBufferSizeMB(1024);
+			// config.setRAMBufferSizeMB(1024);
 			// TieredMergePolicy mergePolicy = new TieredMergePolicy();
 			// LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
-			LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
+			// LogByteSizeMergePolicy mergePolicy = new
+			// LogByteSizeMergePolicy();
 			// config.setMergePolicy(mergePolicy);
 			// config.setMaxThreadStates(80);
 			//

@@ -5,6 +5,7 @@ import java.nio.file.Paths;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.benchmark.byTask.feeds.DocMaker;
 import org.apache.lucene.benchmark.byTask.feeds.EnwikiContentSource;
@@ -12,11 +13,13 @@ import org.apache.lucene.benchmark.byTask.utils.Config;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.LogByteSizeMergePolicy;
 import org.apache.lucene.store.FSDirectory;
 
 public class IndexadorWikipedia {
 	private File arquivoWikipedia;
 	private String diretorioSaida;
+	private static Logger logger = Logger.getLogger(IndexadorWikipedia.class);
 
 	public static void main(String[] args) throws Exception {
 		String caminhoWikipedia = "/home/marco/Downloads/ptwiki-20160720-pages-articles-multistream.xml";
@@ -36,12 +39,17 @@ public class IndexadorWikipedia {
 		FSDirectory dir = FSDirectory.open(Paths.get(diretorioSaida));
 		StandardAnalyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig config = new IndexWriterConfig(analyzer);
+		config.setRAMBufferSizeMB(1024);
+		LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
+		config.setMergePolicy(mergePolicy);
+
 		// config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
 		IndexWriter indexWriter = new IndexWriter(dir, config);
 		//
 		DocMaker docMaker = new DocMaker();
 		Properties properties = new Properties();
 		properties.setProperty("docs.file", arquivoWikipedia.getAbsolutePath());
+		properties.setProperty("keep.image.only.docs", "false");
 		Config configMaker = new Config(properties);
 		EnwikiContentSource source = new EnwikiContentSource();
 		source.setConfig(configMaker);
@@ -52,13 +60,17 @@ public class IndexadorWikipedia {
 		while ((doc = docMaker.makeDocument()) != null) {
 			indexWriter.addDocument(doc);
 			++countador;
-			if (countador % 50000 == 0) {
+			if (countador % 100000 == 0) {
 				String msg = "Documentos indexados: " + countador;
-				System.out.println(msg);
+				logger.info(msg);
+			}
+			String title = doc.get("doctitle");
+			if (title.contains(":")) {
+				logger.info(title);
 			}
 		}
 		long total = System.currentTimeMillis() - inicio;
-		System.out.println("Tempo total (minutos): " + (total * 1000) / 60);
+		logger.info("Tempo total (minutos): " + (total * 1000) / 60);
 		docMaker.close();
 		indexWriter.close();
 		source.close();
