@@ -16,9 +16,9 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class BuscadorArquivosLocais {
-	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
-	// + "/livro-lucene/aulas-para-concursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
+	 private static String DIRETORIO_INDICE = System.getProperty("user.home")
+	 + "/livro-lucene/aulas-para-concursos";
+//	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -45,7 +45,7 @@ public class BuscadorArquivosLocais {
 		consulta = "data:{20160120 TO 20161231}";
 		consulta = "conteudo:(shell AND script)";
 		// consulta = "tamanhoLong:[0 TO 400]";
-		consulta = "conteudo:(ciência da informação)";
+		consulta = "conteudo:mercurial";
 		buscador.buscar(consulta);
 	}
 

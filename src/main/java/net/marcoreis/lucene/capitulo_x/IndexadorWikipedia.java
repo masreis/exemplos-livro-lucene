@@ -22,7 +22,7 @@ public class IndexadorWikipedia {
 	private static Logger logger = Logger.getLogger(IndexadorWikipedia.class);
 
 	public static void main(String[] args) throws Exception {
-		String caminhoWikipedia = "/home/marco/Downloads/ptwiki-20160720-pages-articles-multistream.xml";
+		String caminhoWikipedia = "/home/marco/dados/wikipedia/ptwiki-20160801-pages-articles.xml";
 		String diretorioSaida = "/home/marco/livro-lucene/indice-wikipedia";
 		IndexadorWikipedia indexador = new IndexadorWikipedia(caminhoWikipedia, diretorioSaida);
 		indexador.indexar();
@@ -64,10 +64,10 @@ public class IndexadorWikipedia {
 				String msg = "Documentos indexados: " + countador;
 				logger.info(msg);
 			}
-			String title = doc.get("doctitle");
-			if (title.contains(":")) {
-				logger.info(title);
-			}
+//			String title = doc.get("doctitle");
+//			if (title.contains(":")) {
+//				logger.info(title);
+//			}
 		}
 		long total = System.currentTimeMillis() - inicio;
 		logger.info("Tempo total (minutos): " + (total * 1000) / 60);
