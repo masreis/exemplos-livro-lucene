@@ -33,7 +33,9 @@ public class TesteIndexarDocumentoIndice {
 			Query queryParaExclusao = new TermQuery(t);
 			verificarQuantidadeDocumentos(queryParaExclusao);
 			//
-			IndexadorArquivosLocais indexador = new IndexadorArquivosLocais(DIRETORIO_INDICE, false);
+			IndexadorArquivosLocais indexador = new IndexadorArquivosLocais();
+			indexador.setDiretorioIndice(DIRETORIO_INDICE);
+			indexador.setRecursivo(true);
 			indexador.inicializar();
 			indexador.indexarArquivo(new File(CAMINHO_ARQUIVO));
 			indexador.finalizar();

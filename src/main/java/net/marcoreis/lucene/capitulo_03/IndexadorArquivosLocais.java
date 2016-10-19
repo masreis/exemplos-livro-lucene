@@ -36,21 +36,24 @@ public class IndexadorArquivosLocais {
 	private long totalBytesIndexados;
 	private boolean apagarIndice = true;
 
-	public IndexadorArquivosLocais(String diretorioIndice, String diretorioDocumentos) {
-		this.diretorioIndice = diretorioIndice;
-		this.diretorioDocumentos = diretorioDocumentos;
-	}
+	// public IndexadorArquivosLocais(String diretorioIndice, String
+	// diretorioDocumentos) {
+	// this.diretorioIndice = diretorioIndice;
+	// this.diretorioDocumentos = diretorioDocumentos;
+	// }
 
-	public IndexadorArquivosLocais(String diretorioIndice, String diretorioDocumentos, boolean recursivo) {
-		this.diretorioIndice = diretorioIndice;
-		this.diretorioDocumentos = diretorioDocumentos;
-		this.recursivo = recursivo;
-	}
+	// public IndexadorArquivosLocais(String diretorioIndice, String
+	// diretorioDocumentos, boolean recursivo) {
+	// this.diretorioIndice = diretorioIndice;
+	// this.diretorioDocumentos = diretorioDocumentos;
+	// this.recursivo = recursivo;
+	// }
 
-	public IndexadorArquivosLocais(String diretorioIndice, boolean apagarIndice) {
-		this.diretorioIndice = diretorioIndice;
-		this.apagarIndice = apagarIndice;
-	}
+	// public IndexadorArquivosLocais(String diretorioIndice, boolean
+	// apagarIndice) {
+	// this.diretorioIndice = diretorioIndice;
+	// this.apagarIndice = apagarIndice;
+	// }
 
 	public void inicializar() throws IOException {
 		if (apagarIndice) {
@@ -146,4 +149,19 @@ public class IndexadorArquivosLocais {
 		return "";
 	}
 
+	public void setApagarIndice(boolean apagarIndice) {
+		this.apagarIndice = apagarIndice;
+	}
+
+	public void setDiretorioIndice(String diretorioIndice) {
+		this.diretorioIndice = diretorioIndice;
+	}
+
+	public void setRecursivo(boolean recursivo) {
+		this.recursivo = recursivo;
+	}
+
+	public void setDiretorioDocumentos(String diretorioDocumentos) {
+		this.diretorioDocumentos = diretorioDocumentos;
+	}
 }

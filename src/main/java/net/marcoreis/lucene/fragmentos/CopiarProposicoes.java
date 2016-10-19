@@ -15,11 +15,11 @@ import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.log4j.Logger;
 import org.xml.sax.SAXException;
 
 public class CopiarProposicoes {
-	private static URL DIRETORIO_DESTINO = IndexadorProposicoesCamaraSAXParser.class.getClassLoader()
-			.getResource("dados/proposicoes/");
+	private Logger logger = Logger.getLogger(CopiarProposicoes.class);
 
 	public void gerarXMLProposicoes() throws ClientProtocolException, IOException, ParserConfigurationException,
 			SAXException, InterruptedException {
@@ -29,16 +29,18 @@ public class CopiarProposicoes {
 		ano = 2014;
 		while (ano <= 2016) {
 			for (String sigla : siglas) {
-				Thread.sleep(1000);
+				Thread.sleep(500);
 				System.out.println(sigla + "-" + ano);
 				String numeroProposicao = null;
-				HttpGet requisicao = new HttpGet(getUrlServicoLista(sigla, ano));
+				String urlServicoLista = getUrlServicoLista(sigla, ano);
+				HttpGet requisicao = new HttpGet(urlServicoLista);
 				HttpResponse resposta = cliente.execute(requisicao);
 				BufferedReader br = new BufferedReader(new InputStreamReader(resposta.getEntity().getContent()));
-				File arquivoDestino = new File(
-						DIRETORIO_DESTINO.getFile().replaceAll("target/classes", "src/main/resources") + "proposicoes-"
-								+ sigla.replaceAll("/", "-") + "-" + ano + ".xml");
+				String pathname = System.getProperty("user.home") + "/proposicoes/" + sigla.replaceAll("/", "-") + "-"
+						+ ano + ".xml";
+				File arquivoDestino = new File(pathname);
 				//
+				arquivoDestino.mkdirs();
 				arquivoDestino.delete();
 				arquivoDestino.createNewFile();
 				FileWriter fw = new FileWriter(arquivoDestino);
@@ -49,12 +51,13 @@ public class CopiarProposicoes {
 					if (linha.startsWith("<erro>")) {
 						// Não tem proposicao para os parametros informados
 						arquivoDestino.delete();
+						logger.warn("Sigla inválida: " + urlServicoLista);
 						break;
 					}
-					if (linha.trim().startsWith("<numero>")) {
-						numeroProposicao = linha.substring(linha.indexOf(">") + 1, linha.indexOf("</numero>"));
-						break;
-					}
+//					if (linha.trim().startsWith("<id>")) {
+//						numeroProposicao = linha.substring(linha.indexOf(">") + 1, linha.indexOf("</id>"));
+						//break;
+//					}
 					fw.write(linha);
 					fw.write("\n");
 				}

@@ -16,9 +16,9 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class BuscadorArquivosLocais {
-	 private static String DIRETORIO_INDICE = System.getProperty("user.home")
-	 + "/livro-lucene/aulas-para-concursos";
-//	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
+	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
+	// + "/livro-lucene/aulas-para-concursos";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
 
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
 
@@ -26,26 +26,7 @@ public class BuscadorArquivosLocais {
 
 	public static void main(String[] args) {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		String consulta = "";
-		consulta = "data:[2010 TO 201202]";
-		// consulta = "conteudo:rafael~2";
-		// consulta = "dataAtualizacao:[2014-05-01 TO 2014-05-30]";
-		// consulta = "conteudo:(rede social)";
-		// consulta = "conteudo:a*";
-		// consulta = "conteudo:itext";
-		// consulta = "conteudoComVetores:u7ddle2941splce2rnrna";
-		// consulta = "conteudo:(ssh AND integrator)";
-		consulta = "conteudo:jmeter";
-		consulta = "conteudo:\"Application Lifecycle Management\" AND extensao:pdf";
-		consulta = "conteudo:(recall AND precision)";
-		// consulta = "conteudo:MunicipiosBeneficiados";
-		// consulta = "conteudo:(didáticas)";
-		// consulta = "extensao:doc";
-		// consulta = "conteudo:(\"instituto quadrix\")";
-		consulta = "data:{20160120 TO 20161231}";
-		consulta = "conteudo:(shell AND script)";
-		// consulta = "tamanhoLong:[0 TO 400]";
-		consulta = "conteudo:mercurial";
+		String consulta = "conteudo:(baeza)";
 		buscador.buscar(consulta);
 	}
 
@@ -59,6 +40,7 @@ public class BuscadorArquivosLocais {
 			//
 			// Criar e analisar a consulta
 			QueryParser parser = new QueryParser("", new StandardAnalyzer());
+			// parser.setAllowLeadingWildcard(true);
 			Query query = parser.parse(consulta);
 			logger.info("Consulta analisada-> " + query);
 			//
