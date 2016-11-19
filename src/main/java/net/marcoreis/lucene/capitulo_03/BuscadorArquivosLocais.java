@@ -26,7 +26,7 @@ public class BuscadorArquivosLocais {
 
 	public static void main(String[] args) {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		String consulta = "conteudo:(baeza)";
+		String consulta = "extensao:pdf";
 		buscador.buscar(consulta);
 	}
 

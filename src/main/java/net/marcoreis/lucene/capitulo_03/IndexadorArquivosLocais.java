@@ -29,31 +29,12 @@ public class IndexadorArquivosLocais {
 	private IndexWriter writer;
 	private Directory diretorio;
 	private Tika extrator = new Tika();
-	private boolean recursivo = true;
+	private boolean recursivo;
 	private String diretorioIndice;
 	private String diretorioDocumentos;
 	private long totalArquivosIndexados;
 	private long totalBytesIndexados;
-	private boolean apagarIndice = true;
-
-	// public IndexadorArquivosLocais(String diretorioIndice, String
-	// diretorioDocumentos) {
-	// this.diretorioIndice = diretorioIndice;
-	// this.diretorioDocumentos = diretorioDocumentos;
-	// }
-
-	// public IndexadorArquivosLocais(String diretorioIndice, String
-	// diretorioDocumentos, boolean recursivo) {
-	// this.diretorioIndice = diretorioIndice;
-	// this.diretorioDocumentos = diretorioDocumentos;
-	// this.recursivo = recursivo;
-	// }
-
-	// public IndexadorArquivosLocais(String diretorioIndice, boolean
-	// apagarIndice) {
-	// this.diretorioIndice = diretorioIndice;
-	// this.apagarIndice = apagarIndice;
-	// }
+	private boolean apagarIndice;
 
 	public void inicializar() throws IOException {
 		if (apagarIndice) {
@@ -62,7 +43,7 @@ public class IndexadorArquivosLocais {
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		logger.info(conf.toString());
+		// logger.info(conf.toString());
 		writer = new IndexWriter(diretorio, conf);
 	}
 
@@ -132,7 +113,7 @@ public class IndexadorArquivosLocais {
 			doc.add(new StringField("caminho", arquivo.getAbsolutePath(), Store.YES));
 			doc.add(new StringField("extensao", extensao, Store.YES));
 			writer.addDocument(doc);
-			logger.info("Arquivo indexado (" + (arquivo.length() / 1024) + " kb): " + arquivo.getAbsolutePath());
+			logger.info("Arquivo indexado (" + (arquivo.length() / 1024) + " kb): " + arquivo);
 			totalArquivosIndexados++;
 			totalBytesIndexados += arquivo.length();
 		} catch (Exception e) {
@@ -140,6 +121,12 @@ public class IndexadorArquivosLocais {
 			logger.error(e);
 		}
 	}
+
+	// private String converterCaminhoArquivo(File arquivo) {
+	// return arquivo.getAbsolutePath().replaceAll("/", "_").replaceAll(":",
+	// "_").replaceAll(" ", "_").replaceAll("-",
+	// "_");
+	// }
 
 	private String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');

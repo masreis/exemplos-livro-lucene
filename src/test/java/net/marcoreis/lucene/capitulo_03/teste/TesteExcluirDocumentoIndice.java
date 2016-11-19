@@ -11,10 +11,7 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.queryparser.xml.builders.TermQueryBuilder;
 import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.PhraseQuery;
-import org.apache.lucene.search.Query;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
@@ -43,17 +40,16 @@ public class TesteExcluirDocumentoIndice {
 	}
 
 	@Test
-	public void testeExclusao() throws IOException {
-		// Verificando o estado atual do índice
-		String nomeArquivo = "/home/marco/Dropbox/material-de-estudo/mestrado/thesis.pdf";
-		Term t = new Term("caminho", nomeArquivo);
-		Query queryParaExclusao = new TermQuery(t);
-		verificarQuantidadeDocumentos(queryParaExclusao);
-		// Excluindo o documento
-		writer.deleteDocuments(queryParaExclusao);
+	public void teste01ExclusaoArquivo() throws IOException {
+		// Termo que define o documento que será excluído
+		Term termoParaExclusao = new Term("caminho",
+				"/home/marco/Dropbox/mestrado/uso-de-mineracao-distribuicao-mpdft.pdf");
+		verificarQuantidadeDocumentos(termoParaExclusao);
+		// Verifica a quantidade de documentos antes da exclusão
+		writer.deleteDocuments(termoParaExclusao);
 		writer.commit();
-		// Verificando novante o índice
-		verificarQuantidadeDocumentos(queryParaExclusao);
+		// Verifica a quantidade de documentos depois da exclusão
+		verificarQuantidadeDocumentos(termoParaExclusao);
 	}
 
 	@After
@@ -62,18 +58,19 @@ public class TesteExcluirDocumentoIndice {
 		diretorio.close();
 	}
 
-	private void verificarQuantidadeDocumentos(Query queryParaExclusao) throws IOException {
+	private void verificarQuantidadeDocumentos(Term termoParaExclusao) throws IOException {
 		IndexReader reader = DirectoryReader.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(reader);
-		TopDocs docs = searcher.search(queryParaExclusao, 1);
+		TopDocs docs = searcher.search(new TermQuery(termoParaExclusao), 1);
 		logger.info("Quantidade de documentos encontrados: " + docs.totalHits);
 		// Verifica se a consulta retorna apenas um documento
-		if (docs.totalHits != 1) {
+		if (docs.totalHits > 1) {
 			// Aconteceu algum problema
+			logger.warn("Essa exclusão é potencialmente perigosa");
 		}
 		//
-		logger.info("MaxDoc: " + reader.maxDoc());
 		logger.info("NumDocs: " + reader.numDocs());
+		logger.info("MaxDoc: " + reader.maxDoc());
 		logger.info("HasDeletions: " + reader.hasDeletions());
 		reader.close();
 	}
