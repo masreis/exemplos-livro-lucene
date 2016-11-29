@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_03.teste;
+package net.marcoreis.lucene.capitulo_03;
 
 import org.apache.log4j.Logger;
 import org.junit.Test;

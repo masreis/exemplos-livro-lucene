@@ -19,16 +19,8 @@ public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/aulas-para-concursos";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-
 	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
-
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
-
-	public static void main(String[] args) {
-		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		String consulta = "extensao:pdf";
-		buscador.buscar(consulta);
-	}
 
 	public void buscar(String consulta) {
 		try {

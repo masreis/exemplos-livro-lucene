@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_03.teste;
+package net.marcoreis.lucene.capitulo_03;
 
 import java.io.IOException;
 import java.nio.file.Paths;
