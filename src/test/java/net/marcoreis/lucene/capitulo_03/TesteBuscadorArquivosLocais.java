@@ -8,13 +8,14 @@ public class TesteBuscadorArquivosLocais {
 	public void testeConsultaPorExtensao() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		String consulta = "extensao:pdf";
-		buscador.buscar(consulta);
+//		buscador.buscar(consulta);
 	}
 
 	@Test
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		String consulta = "conteudo:computação";
+		String consulta = "conteudo:/\"mauro@inf.ufsc.br\"";
+//		consulta = "conteudo:\"NBR\"";
 		buscador.buscar(consulta);
 	}
 }
