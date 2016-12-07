@@ -27,7 +27,7 @@ public class TesteIndexarDocumentoIndice {
 	@Test
 	public void testeIndexarArquivo() {
 		try {
-			String nomeArquivo = "/home/marco/Dropbox/mestrado/papers/documento-com-telefone.odt";
+			String nomeArquivo = "/home/marco/Dropbox/mestrado/papers/proposta-reforma.pdf";
 			Term termoParaExclusao = new Term("caminho", nomeArquivo);
 			//
 			verificarQuantidadeDocumentos(termoParaExclusao);

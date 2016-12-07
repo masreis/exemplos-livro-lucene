@@ -65,6 +65,7 @@ public class BuscadorArquivosLocais {
 	public void buscar(Query query) {
 		try {
 			//
+			logger.info("Consulta analisada-> " + query);
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory
 					.open(Paths.get(DIRETORIO_INDICE));

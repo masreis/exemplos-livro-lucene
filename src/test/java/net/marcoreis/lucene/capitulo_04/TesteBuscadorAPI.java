@@ -7,6 +7,8 @@ import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.FuzzyQuery;
 import org.apache.lucene.search.MatchAllDocsQuery;
+import org.apache.lucene.search.MultiPhraseQuery;
+import org.apache.lucene.search.MultiPhraseQuery.Builder;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.PrefixQuery;
 import org.apache.lucene.search.Query;
@@ -70,12 +72,20 @@ public class TesteBuscadorAPI {
 	public void testePhraseQuery() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		PhraseQuery query = new PhraseQuery("conteudo", "rede",
-				"social");
+		Query query = new PhraseQuery("conteudo", "rede", "social");
 		buscador.buscar(query);
 	}
 
-	@Test
+	// @Test
+	public void testePhraseQuerySlop() {
+		logger.info("Consulta PhraseQuery");
+		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		Query query = new PhraseQuery(5, "conteudo", "proposta",
+				"reforma");
+		buscador.buscar(query);
+	}
+
+	// @Test
 	public void testeTermRangeQueryDataInclusive() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		boolean incluirLimiteInferior = true;
@@ -88,6 +98,60 @@ public class TesteBuscadorAPI {
 		buscador.buscar(query);
 	}
 
+	// @Test
+	public void testeTermRangeQueryDataExclusive() {
+		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		boolean incluirLimiteInferior = false;
+		boolean incluirLimiteSuperior = false;
+		BytesRef limiteInferior = new BytesRef("20160101");
+		BytesRef limiteSuperior = new BytesRef("20161231");
+		Query query = new TermRangeQuery("data", limiteInferior,
+				limiteSuperior, incluirLimiteInferior,
+				incluirLimiteSuperior);
+		buscador.buscar(query);
+	}
+
+	// @Test
+	public void testePrefirQuery() {
+		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		Term termo = new Term("conteudo", "monitor");
+		Query query = new PrefixQuery(termo);
+		buscador.buscar(query);
+	}
+
+	@Test
+	public void testeMultiPhraseQuery() {
+		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		Term[] termoJavaPlatform = new Term[] {
+				new Term("conteudo", "java"),
+				new Term("conteudo", "platform") };
+		Term[] termoCdiWeld = new Term[] {
+				new Term("conteudo", "cdi"),
+				new Term("conteudo", "weld") };
+		Query query = new MultiPhraseQuery.Builder()
+				.add(termoJavaPlatform).add(termoCdiWeld).setSlop(5)
+				.build();
+		buscador.buscar(query);
+	}
+
+	@Test
+	public void testeMultiPhraseQuery2() {
+		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		Term[] termoJavaPlatform = new Term[] {
+				new Term("conteudo", "java"),
+				new Term("conteudo", "platform") };
+		Term[] termoCdiWeld = new Term[] {
+				new Term("conteudo", "cdi"),
+				new Term("conteudo", "weld") };
+		Builder builder = new MultiPhraseQuery.Builder();
+		builder.add(termoJavaPlatform);
+		builder.add(termoCdiWeld);
+		builder.setSlop(5);
+		Query query = builder.build();
+
+		buscador.buscar(query);
+	}
+
 	public void teste() {
 		logger.info("Consulta TermQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
@@ -96,8 +160,6 @@ public class TesteBuscadorAPI {
 		// NumericRangeQuery<Long> nrq =
 		// NumericRangeQuery.newLongRange("tamanho", UM_MEGA, DOIS_MEGAS,
 		// true, true);
-		Term term = new Term("conteudo", "extrair");
-		Query query = new TermQuery(term);
 		// PhraseQuery query = new PhraseQuery("conteudo", "ciência", "da",
 		// "informação");
 		Term[] termosAplicacaoExemplo = new Term[] {
@@ -130,6 +192,6 @@ public class TesteBuscadorAPI {
 
 		//
 		// Query query = null;
-		buscador.buscar(query);
+		// buscador.buscar(query);
 	}
 }

@@ -42,7 +42,7 @@ public class TesteExcluirDocumentoIndice {
 	@Test
 	public void teste01ExclusaoArquivo() throws IOException {
 		// Termo que define o documento que será excluído
-		Term termoParaExclusao = new Term("caminho", "/home/marco/Dropbox/mestrado/papers/documento-com-telefone.odt");
+		Term termoParaExclusao = new Term("caminho", "/home/marco/Dropbox/mestrado/papers/proposta-reforma.pdf");
 		verificarQuantidadeDocumentos(termoParaExclusao);
 		// Verifica a quantidade de documentos antes da exclusão
 		writer.deleteDocuments(termoParaExclusao);

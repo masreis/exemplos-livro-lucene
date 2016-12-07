@@ -17,14 +17,14 @@ public class TesteBuscadorSintaxeClassica {
 		consulta = "conteudo:(java OR cdi)";
 		consulta = "conteudo:(java AND cdi)";
 		consulta = "conteudo:(java -cdi)";
-		 consulta = "conteudo:\"rede social\"";
-		// consulta = "conteudo:monitor*";
+		consulta = "conteudo:\"rede social\"";
+		consulta = "conteudo:monitor*";
 		// consulta = "conteudo:*omitor_ ou _conteudo:?onitor.";
 		// consulta = "conteudo:monitor?";
 		// consulta = "nome:artur~";
 		// consulta = "data:[20140501 TO 20140630]";
 		// consulta = "data:{20140501 TO 20140630}";
-		// consulta = "conteudo:\"proposta reforma\"~5";
+		consulta = "conteudo:\"proposta reforma\"~5";
 		// consulta = "conteudo:java AND conteudo:cdi AND data:[20160101 TO
 		// 20161231]";
 		// consulta = "+conteudo:java +conteudo:cdi +data:[20160101 TO
