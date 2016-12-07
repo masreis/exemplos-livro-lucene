@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_04;
+package net.marcoreis.lucene.capitulo_05;
 
 import java.io.IOException;
 import java.io.StringReader;

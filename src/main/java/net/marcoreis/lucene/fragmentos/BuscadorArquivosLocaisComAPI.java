@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_04;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -32,12 +32,6 @@ public class BuscadorArquivosLocaisComAPI {
 	private int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
 
 	//
-	public static void main(String[] args) throws IOException {
-		BuscadorArquivosLocaisComAPI buscador = new BuscadorArquivosLocaisComAPI();
-		buscador.abrirIndice();
-		buscador.buscarRangeQuery();
-		buscador.fechar();
-	}
 
 	private void fechar() {
 		try {

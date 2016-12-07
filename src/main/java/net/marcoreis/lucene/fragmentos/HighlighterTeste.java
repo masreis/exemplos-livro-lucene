@@ -5,56 +5,60 @@ import java.nio.file.Paths;
 import org.apache.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.StringField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.FuzzyQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.MultiPhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.highlight.Highlighter;
-import org.apache.lucene.search.highlight.QueryScorer;
-import org.apache.lucene.search.highlight.Scorer;
+import org.apache.lucene.search.vectorhighlight.FastVectorHighlighter;
+import org.apache.lucene.search.vectorhighlight.FieldQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class HighlighterTeste {
-	private static String DIRETORIO_INDICE = System.getProperty("user.home")
-			+ "/livro-lucene/indice-capitulo-02-exemplo-01";
+	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
 	private static final Logger logger = Logger.getLogger(HighlighterTeste.class);
 
 	public static void main(String[] args) {
-		HighlighterTeste buscador = new HighlighterTeste();
-		buscador.highlightFuzzyQuery();
+		HighlighterTeste realcador = new HighlighterTeste();
+		String consulta = "conteudo:/@[2-9][0-9]{3}\\-[0-9]{4}@/";
+		consulta = "conteudoComPosicoes:java";
+		realcador.realcar(consulta, "conteudoComPosicoes");
 	}
 
-	public void highlight(Query query, String campo) {
+	public void realcar(Query query, String campo) {
 		try {
 			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
-			IndexSearcher buscador = new IndexSearcher(reader);
+			IndexSearcher searcher = new IndexSearcher(reader);
 			//
-			TopDocs docs = buscador.search(query, 100);
+			TopDocs docs = searcher.search(query, 100);
 			logger.info("Query: " + query);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
-			Scorer scorer = new QueryScorer(query);
-			Highlighter hl = new Highlighter(scorer);
+			// Scorer scorer = new QueryScorer(query);
+			// Highlighter hl = new Highlighter(scorer);
+			//
+			FastVectorHighlighter fhl = new FastVectorHighlighter();
+			FieldQuery fq = fhl.getFieldQuery(query);
 			//
 			for (ScoreDoc sd : docs.scoreDocs) {
-				Document doc = buscador.doc(sd.doc);
-				String fragmentos = hl.getBestFragment(new StandardAnalyzer(), campo, doc.get("conteudo"));
+				Document doc = searcher.doc(sd.doc);
+				String fragmentos = fhl.getBestFragment(fq, reader, sd.doc, campo,
+						doc.get(campo).length());
+				if (fragmentos == null) {
+					fragmentos = "";
+					logger.error(doc.get("caminho"));
+				}
+				doc.add(new StringField(campo + ".hl", fragmentos, Store.NO));
 				logger.info(fragmentos);
 				// Explanation explicacao = buscador.explain(query, sd.doc);
 				// logger.info(explicacao.toString());
-				logger.info(doc.get("nome"));
-				logger.info(doc.get("dataAtualizacao"));
-				// String[] comissoes = doc.getValues("comissao");
-				// for (String comissao : comissoes) {
-				// logger.info(comissao);
-				// }
 			}
 			//
 			reader.close();
@@ -77,7 +81,7 @@ public class HighlighterTeste {
 			consulta = "conteudo:aplicação";
 			QueryParser qp = new QueryParser("", new StandardAnalyzer());
 			Query query = qp.parse(consulta);
-			highlight(query, "conteudo");
+			realcar(query, "conteudo");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -95,42 +99,17 @@ public class HighlighterTeste {
 			// mpq.add(termosBancoDados);
 			// mpq.setSlop(2);
 			//
-			highlight(mpq, "conteudo");
+			realcar(mpq, "conteudo");
 			//
 		} catch (Exception e) {
 			logger.error(e);
 		}
 	}
 
-	private void highlightRegexQuery() {
+	private void realcar(String consulta, String campo) {
 		try {
-			//
-			String regex = ".*ler\\scódigo.*";
-			regex = ".*http[s].*";
-			regex = ".*[0-9]{4}[^0-9][0-9]{4}.*";
-			regex = ".*[0-9]{2}:[0-9]{2},847.*";
-			regex = "bug(\\s){0,1}[0-9]{4}";
-			regex = "[a-z]{3}\\|[0-9]{4}";
-			// Term termo = new Term("conteudo", regex);
-			String sQuery = "conteudo:/[0-9]{4}/";
-			sQuery = "conteudo:/8.../";
-			Query rq = null;
-			rq = new QueryParser("", new StandardAnalyzer()).parse(sQuery);
-			// rq = new RegexpQuery(termo);
-			// RegexQuery rq = new RegexQuery(termo);
-			highlight(rq, "conteudo");
-		} catch (Exception e) {
-			logger.error(e);
-		}
-	}
-
-	public void highlightFuzzyQuery() {
-		try {
-			//
-			Term termo = new Term("conteudo", "seção");
-			FuzzyQuery fq = new FuzzyQuery(termo, 2, 2);
-			//
-			highlight(fq, "conteudo");
+			Query rq = new QueryParser("", new StandardAnalyzer()).parse(consulta);
+			realcar(rq, campo);
 		} catch (Exception e) {
 			logger.error(e);
 		}

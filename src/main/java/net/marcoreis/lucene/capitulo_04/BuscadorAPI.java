@@ -26,25 +26,19 @@ import org.apache.lucene.search.spans.SpanQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class BuscadorAvancadoComAPI {
+public class BuscadorAPI {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/indice-capitulo-02-exemplo-01";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(BuscadorAvancadoComAPI.class);
+	private static final Logger logger = Logger.getLogger(BuscadorAPI.class);
 	private Directory diretorio;
 	private IndexReader reader;
 	private IndexSearcher searcher;
 	private int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
 
 	//
-	public static void main(String[] args) throws IOException {
-		BuscadorAvancadoComAPI buscador = new BuscadorAvancadoComAPI();
-		buscador.abrirIndice();
-		buscador.buscarPhraseQuery();
-		buscador.fechar();
-	}
 
-	private void fechar() {
+	public void fechar() {
 		try {
 			diretorio.close();
 			reader.close();
@@ -53,25 +47,15 @@ public class BuscadorAvancadoComAPI {
 		}
 	}
 
-	private void buscarRegexQuery() {
+	private void buscar(Query query) {
 		try {
-			String regex = ".*ler\\scódigo.*";
-			regex = ".*http[s].*";
-			regex = ".*\\d{5},.\\d{4}.*";
-			regex = "\\d{4}.\\d{2}.\\d{2}";
-			regex = ".*\\d{4}.\\d{2}.\\d{2}.*";
-			regex = ".*[0-9]{4}.*";
-			Term termo = new Term("conteudo", regex);
-			// RegexQuery rq = new RegexQuery(termo);
-			RegexpQuery rq = new RegexpQuery(termo);
-			// rq.setRegexImplementation(new JakartaRegexpCapabilities());
-			TopDocs docs = searcher.search(rq, QUANTIDADE_DE_ITENS_RETORNADOS);
+			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
 			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
 				logger.info("Arquivo: " + doc.get("nome"));
 				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Atualização: " + doc.get("dataAtualizacao"));
+				logger.info("Atualização: " + doc.get("data"));
 			}
 			//
 			reader.close();
@@ -159,6 +143,7 @@ public class BuscadorAvancadoComAPI {
 				logger.info("Data: " + doc.get("data"));
 				logger.info("Extensão: " + doc.get("extensao"));
 			}
+			fechar();
 		} catch (Exception e) {
 			logger.error(e);
 		}
@@ -332,4 +317,5 @@ public class BuscadorAvancadoComAPI {
 		// }
 		return outCount;
 	}
+
 }

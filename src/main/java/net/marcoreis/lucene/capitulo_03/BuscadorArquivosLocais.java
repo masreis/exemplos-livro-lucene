@@ -54,4 +54,31 @@ public class BuscadorArquivosLocais {
 			logger.error(e);
 		}
 	}
+
+	public void buscar(Query query) {
+		try {
+			//
+			// Abrir o índice e preparar o buscador
+			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
+			IndexReader reader = DirectoryReader.open(diretorio);
+			IndexSearcher searcher = new IndexSearcher(reader);
+			//
+			// Processar o resultado
+			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
+			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+			for (ScoreDoc sd : docs.scoreDocs) {
+				Document doc = searcher.doc(sd.doc);
+				logger.info("Tamanho: " + doc.get("tamanho"));
+				logger.info("Caminho: " + doc.get("caminho"));
+				logger.info("Data: " + doc.get("data"));
+				logger.info("Extensão: " + doc.get("extensao"));
+			}
+			//
+			// Liberar os recursos
+			reader.close();
+			diretorio.close();
+		} catch (Exception e) {
+			logger.error(e);
+		}
+	}
 }

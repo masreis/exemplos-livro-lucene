@@ -13,12 +13,16 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.IndexableField;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.tika.Tika;
@@ -106,6 +110,18 @@ public class IndexadorArquivosLocais {
 			String extensao = consultarExtensaoArquivo(arquivo.getName());
 			String textoArquivo = extrator.parseToString(new FileInputStream(arquivo));
 			//
+			if (arquivo.getPath().contains("ConceptBasedRankingCaseJuridicalDomain")) {
+				System.out.println();
+			}
+			int tamanhoMaximo = 30000;
+			if (textoArquivo.length() >= tamanhoMaximo) {
+				doc.add(new StringField("conteudoNaoAnalisado", textoArquivo.substring(0, tamanhoMaximo), Store.YES));
+			} else {
+				doc.add(new StringField("conteudoNaoAnalisado", textoArquivo, Store.YES));
+			}
+			// doc.add(criarCampoComPosicoes("conteudoComPosicoes",
+			// textoArquivo));
+			//
 			doc.add(new TextField("conteudo", textoArquivo, Store.YES));
 			doc.add(new TextField("tamanho", String.valueOf(arquivo.length()), Store.YES));
 			doc.add(new LongPoint("tamanhoLong", arquivo.length()));
@@ -120,6 +136,15 @@ public class IndexadorArquivosLocais {
 			logger.error("Não foi possível processar o arquivo " + arquivo.getAbsolutePath());
 			logger.error(e);
 		}
+	}
+
+	private IndexableField criarCampoComPosicoes(String campo, String textoArquivo) {
+		IndexOptions opts = IndexOptions.DOCS_AND_FREQS_AND_POSITIONS;
+		FieldType campoComPosicoes = new FieldType();
+		campoComPosicoes.setIndexOptions(opts);
+		campoComPosicoes.setStored(true);
+		campoComPosicoes.setTokenized(true);
+		return new Field(campo, textoArquivo, campoComPosicoes);
 	}
 
 	// private String converterCaminhoArquivo(File arquivo) {

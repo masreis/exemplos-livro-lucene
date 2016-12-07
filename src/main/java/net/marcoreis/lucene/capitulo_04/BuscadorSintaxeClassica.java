@@ -15,9 +15,9 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class BuscadorAvancadoClassico {
+public class BuscadorSintaxeClassica {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(BuscadorAvancadoClassico.class);
+	private static final Logger logger = Logger.getLogger(BuscadorSintaxeClassica.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
 
 	public void buscar(String consulta) {

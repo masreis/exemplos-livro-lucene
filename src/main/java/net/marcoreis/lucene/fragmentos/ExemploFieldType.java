@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_04;
+package net.marcoreis.lucene.fragmentos;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.DoublePoint;
