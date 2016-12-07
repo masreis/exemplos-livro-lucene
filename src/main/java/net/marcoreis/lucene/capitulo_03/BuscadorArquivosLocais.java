@@ -18,27 +18,34 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/aulas-para-concursos";
-	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocais.class);
+	private static String DIRETORIO_INDICE = System
+			.getProperty("user.home") + "/livro-lucene/indice";
+	private static final Logger logger = Logger
+			.getLogger(BuscadorArquivosLocais.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
 
 	public void buscar(String consulta) {
 		try {
 			//
 			// Abrir o índice e preparar o buscador
-			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
+			Directory diretorio = FSDirectory
+					.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
 			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Criar e analisar a consulta
-			QueryParser parser = new QueryParser("", new StandardAnalyzer());
+			QueryParser parser = new QueryParser("",
+					new StandardAnalyzer());
 			// parser.setAllowLeadingWildcard(true);
+			// parser.getEnablePositionIncrements();
 			Query query = parser.parse(consulta);
 			logger.info("Consulta analisada-> " + query);
 			//
 			// Processar o resultado
-			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
-			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+			TopDocs docs = searcher.search(query,
+					QUANTIDADE_DE_ITENS_RETORNADOS);
+			logger.info("Quantidade de itens encontrados: "
+					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
 				logger.info("Tamanho: " + doc.get("tamanho"));
@@ -59,13 +66,16 @@ public class BuscadorArquivosLocais {
 		try {
 			//
 			// Abrir o índice e preparar o buscador
-			Directory diretorio = FSDirectory.open(Paths.get(DIRETORIO_INDICE));
+			Directory diretorio = FSDirectory
+					.open(Paths.get(DIRETORIO_INDICE));
 			IndexReader reader = DirectoryReader.open(diretorio);
 			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Processar o resultado
-			TopDocs docs = searcher.search(query, QUANTIDADE_DE_ITENS_RETORNADOS);
-			logger.info("Quantidade de itens encontrados: " + docs.totalHits);
+			TopDocs docs = searcher.search(query,
+					QUANTIDADE_DE_ITENS_RETORNADOS);
+			logger.info("Quantidade de itens encontrados: "
+					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
 				logger.info("Tamanho: " + doc.get("tamanho"));
