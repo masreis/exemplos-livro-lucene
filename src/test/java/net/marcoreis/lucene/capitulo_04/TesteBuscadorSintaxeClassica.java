@@ -13,27 +13,20 @@ public class TesteBuscadorSintaxeClassica {
 	public void testeConsultaSintaxeClassica() {
 		logger.info("Sintaxe clássica");
 		String consulta = "conteudo:java";
-		// consulta = "conteudo:java AND data:\"20160606\"";
+		consulta = "conteudo:java AND data:\"20160606\"";
 		consulta = "conteudo:(java OR cdi)";
 		consulta = "conteudo:(java AND cdi)";
 		consulta = "conteudo:(java -cdi)";
-		consulta = "conteudo:\"rede social\"";
+		consulta = "conteudo:monitor?";
 		consulta = "conteudo:monitor*";
-		// consulta = "conteudo:*omitor_ ou _conteudo:?onitor.";
-		// consulta = "conteudo:monitor?";
-		// consulta = "nome:artur~";
-		// consulta = "data:[20140501 TO 20140630]";
-		// consulta = "data:{20140501 TO 20140630}";
+		consulta = "conteudo:java AND data:[20160101 TO 20161231]";
+		consulta = "conteudo:manuel~";
+		consulta = "*:*";
+		consulta = "conteudo:/@<1000-1200>@/";
+		consulta = "tamanho:/<0-500000>/";
+		consulta = "conteudo:\"rede social\"";
 		consulta = "conteudo:\"proposta reforma\"~5";
-		// consulta = "conteudo:java AND conteudo:cdi AND data:[20160101 TO
-		// 20161231]";
-		// consulta = "+conteudo:java +conteudo:cdi +data:[20160101 TO
-		// 20161231]";
-		// consulta = "+conteudo:(+java +cdi) +data:[20160101 TO 20161231]";
-		// consulta = "conteudo:(java NOT cdi) AND data:[20160101 TO 20161231]";
-		// consulta = "+conteudo:(java -cdi) +data:[20160101 TO 20161231]";
-		// consulta = "+(conteudo:java -conteudo:cdi) +data:[20160101 TO
-		// 20161231]";
+		consulta = "conteudo:(nuvem rede^2)";
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		buscador.buscar(consulta);
 	}
@@ -47,9 +40,9 @@ public class TesteBuscadorSintaxeClassica {
 		regex = "/@[0-9]{4}\\-[0-9]{4}@/"; // telefone
 		regex = "/@[2-9][0-9]{3}\\-[0-9]{4}@/"; // telefone BSB
 		regex = "/@[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}@/"; // IP
-		regex = "/@(0[1-9]|[1-2][0-9]|3[01])[\\- \\/\\.](0[1-9]|1[012])[\\- \\/\\.](19|20)[0-9][0-9]@/"; // Data
+		regex = "/.*bug.{1,5}[0-9]{4}@/"; // Bug
 		regex = "/@[a-z0-9\\.\\_\\%\\+\\-]+\\@[a-z0-9\\.\\-]+\\.[a-z]{2,}@/"; // email
-		regex = "/.*bug.{1,5}[0-9]{4}@/"; // ”ug
+		regex = "/@(0[1-9]|[1-2][0-9]|3[01])[\\- \\/\\.](0[1-9]|1[012])[\\- \\/\\.](19|20)[0-9][0-9]@/"; // Data
 		String consulta = "conteudoNaoAnalisado:" + regex;
 		buscador.buscar(consulta);
 	}
