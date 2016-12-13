@@ -19,7 +19,8 @@ public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/aulas-para-concursos";
 	private static String DIRETORIO_INDICE = System
-			.getProperty("user.home") + "/livro-lucene/indice";
+			.getProperty("user.home")
+			+ "/livro-lucene/indice";
 	private static final Logger logger = Logger
 			.getLogger(BuscadorArquivosLocais.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
@@ -30,8 +31,10 @@ public class BuscadorArquivosLocais {
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory
 					.open(Paths.get(DIRETORIO_INDICE));
-			IndexReader reader = DirectoryReader.open(diretorio);
-			IndexSearcher searcher = new IndexSearcher(reader);
+			IndexReader reader = DirectoryReader
+					.open(diretorio);
+			IndexSearcher searcher = new IndexSearcher(
+					reader);
 			//
 			// Criar e analisar a consulta
 			QueryParser parser = new QueryParser("",
@@ -48,10 +51,13 @@ public class BuscadorArquivosLocais {
 					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
-				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Caminho: " + doc.get("caminho"));
+				logger.info(
+						"Tamanho: " + doc.get("tamanho"));
+				logger.info(
+						"Caminho: " + doc.get("caminho"));
 				logger.info("Data: " + doc.get("data"));
-				logger.info("Extensão: " + doc.get("extensao"));
+				logger.info(
+						"Extensão: " + doc.get("extensao"));
 			}
 			//
 			// Liberar os recursos
@@ -69,8 +75,10 @@ public class BuscadorArquivosLocais {
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory
 					.open(Paths.get(DIRETORIO_INDICE));
-			IndexReader reader = DirectoryReader.open(diretorio);
-			IndexSearcher searcher = new IndexSearcher(reader);
+			IndexReader reader = DirectoryReader
+					.open(diretorio);
+			IndexSearcher searcher = new IndexSearcher(
+					reader);
 			//
 			// Processar o resultado
 			TopDocs docs = searcher.search(query,
@@ -79,10 +87,13 @@ public class BuscadorArquivosLocais {
 					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
-				logger.info("Tamanho: " + doc.get("tamanho"));
-				logger.info("Caminho: " + doc.get("caminho"));
+				logger.info(
+						"Tamanho: " + doc.get("tamanho"));
+				logger.info(
+						"Caminho: " + doc.get("caminho"));
 				logger.info("Data: " + doc.get("data"));
-				logger.info("Extensão: " + doc.get("extensao"));
+				logger.info(
+						"Extensão: " + doc.get("extensao"));
 			}
 			//
 			// Liberar os recursos

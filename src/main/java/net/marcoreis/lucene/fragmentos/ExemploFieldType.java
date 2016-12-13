@@ -11,9 +11,11 @@ public class ExemploFieldType {
 
 	public void criarDocumentoTextField() {
 		Document doc = new Document();
-		TextField campoNome = new TextField("nome", "marco antonio", Store.YES);
+		TextField campoNome = new TextField("nome",
+				"marco antonio", Store.YES);
 		doc.add(campoNome);
-		TextField campoEndereco = new TextField("endereco", "rua 37 sul", Store.YES);
+		TextField campoEndereco = new TextField("endereco",
+				"rua 37 sul", Store.YES);
 		doc.add(campoEndereco);
 	}
 
@@ -24,17 +26,21 @@ public class ExemploFieldType {
 		ft.setTokenized(true);
 		//
 		Document doc = new Document();
-		Field campoNome = new Field("nome", "marco antonio", ft);
+		Field campoNome = new Field("nome", "marco antonio",
+				ft);
 		doc.add(campoNome);
-		Field campoEndereco = new Field("endereco", "rua 37 sul", ft);
+		Field campoEndereco = new Field("endereco",
+				"rua 37 sul", ft);
 		doc.add(campoEndereco);
 	}
 
 	public void criarDocumentoDoubleField() {
 		Document doc = new Document();
-		TextField campoNome = new TextField("nome", "marco antonio", Store.YES);
+		TextField campoNome = new TextField("nome",
+				"marco antonio", Store.YES);
 		doc.add(campoNome);
-		DoublePoint campoSalario = new DoublePoint("salario", 8000.01);
+		DoublePoint campoSalario = new DoublePoint(
+				"salario", 8000.01);
 		doc.add(campoSalario);
 	}
 

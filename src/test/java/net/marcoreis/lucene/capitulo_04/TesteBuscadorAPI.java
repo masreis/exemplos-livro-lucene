@@ -3,7 +3,6 @@ package net.marcoreis.lucene.capitulo_04;
 import org.apache.log4j.Logger;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.queryparser.xml.builders.MatchAllDocsQueryBuilder;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.BoostQuery;
@@ -22,7 +21,6 @@ import org.apache.lucene.search.spans.SpanNearQuery;
 import org.apache.lucene.search.spans.SpanQuery;
 import org.apache.lucene.search.spans.SpanTermQuery;
 import org.apache.lucene.util.BytesRef;
-import org.apache.lucene.util.automaton.RegExp;
 import org.junit.Test;
 
 import net.marcoreis.lucene.capitulo_03.BuscadorArquivosLocais;
@@ -44,10 +42,13 @@ public class TesteBuscadorAPI {
 	public void testeBooleanQueryShould() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query q1 = new TermQuery(new Term("conteudo", "java"));
-		Query q2 = new TermQuery(new Term("conteudo", "cdi"));
+		Query q1 = new TermQuery(
+				new Term("conteudo", "java"));
+		Query q2 = new TermQuery(
+				new Term("conteudo", "cdi"));
 		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.SHOULD).add(q2, Occur.SHOULD).build();
+				.add(q1, Occur.SHOULD).add(q2, Occur.SHOULD)
+				.build();
 		buscador.buscar(query);
 	}
 
@@ -55,10 +56,13 @@ public class TesteBuscadorAPI {
 	public void testeBooleanQueryMust() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query q1 = new TermQuery(new Term("conteudo", "java"));
-		Query q2 = new TermQuery(new Term("conteudo", "cdi"));
+		Query q1 = new TermQuery(
+				new Term("conteudo", "java"));
+		Query q2 = new TermQuery(
+				new Term("conteudo", "cdi"));
 		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.MUST).add(q2, Occur.MUST).build();
+				.add(q1, Occur.MUST).add(q2, Occur.MUST)
+				.build();
 		buscador.buscar(query);
 	}
 
@@ -66,10 +70,13 @@ public class TesteBuscadorAPI {
 	public void testeBooleanQueryMustNot() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query q1 = new TermQuery(new Term("conteudo", "java"));
-		Query q2 = new TermQuery(new Term("conteudo", "cdi"));
+		Query q1 = new TermQuery(
+				new Term("conteudo", "java"));
+		Query q2 = new TermQuery(
+				new Term("conteudo", "cdi"));
 		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.MUST).add(q2, Occur.MUST_NOT).build();
+				.add(q1, Occur.MUST).add(q2, Occur.MUST_NOT)
+				.build();
 		buscador.buscar(query);
 	}
 
@@ -77,18 +84,21 @@ public class TesteBuscadorAPI {
 	public void testeBooleanQueryMultiple() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query q1 = new TermQuery(new Term("conteudo", "java"));
+		Query q1 = new TermQuery(
+				new Term("conteudo", "java"));
 		//
 		boolean incluirLimiteInferior = true;
 		boolean incluirLimiteSuperior = true;
 		BytesRef limiteInferior = new BytesRef("20160101");
 		BytesRef limiteSuperior = new BytesRef("20161231");
-		Query q2 = new TermRangeQuery("data", limiteInferior,
-				limiteSuperior, incluirLimiteInferior,
+		Query q2 = new TermRangeQuery("data",
+				limiteInferior, limiteSuperior,
+				incluirLimiteInferior,
 				incluirLimiteSuperior);
 		//
 		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.MUST).add(q2, Occur.MUST).build();
+				.add(q1, Occur.MUST).add(q2, Occur.MUST)
+				.build();
 		buscador.buscar(query);
 	}
 
@@ -96,7 +106,8 @@ public class TesteBuscadorAPI {
 	public void testePhraseQuery() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query query = new PhraseQuery("conteudo", "rede", "social");
+		Query query = new PhraseQuery("conteudo", "rede",
+				"social");
 		buscador.buscar(query);
 	}
 
@@ -104,8 +115,8 @@ public class TesteBuscadorAPI {
 	public void testePhraseQuerySlop() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query query = new PhraseQuery(5, "conteudo", "proposta",
-				"reforma");
+		Query query = new PhraseQuery(5, "conteudo",
+				"proposta", "reforma");
 		buscador.buscar(query);
 	}
 
@@ -116,8 +127,9 @@ public class TesteBuscadorAPI {
 		boolean incluirLimiteSuperior = true;
 		BytesRef limiteInferior = new BytesRef("20160101");
 		BytesRef limiteSuperior = new BytesRef("20161231");
-		Query query = new TermRangeQuery("data", limiteInferior,
-				limiteSuperior, incluirLimiteInferior,
+		Query query = new TermRangeQuery("data",
+				limiteInferior, limiteSuperior,
+				incluirLimiteInferior,
 				incluirLimiteSuperior);
 		buscador.buscar(query);
 	}
@@ -129,8 +141,9 @@ public class TesteBuscadorAPI {
 		boolean incluirLimiteSuperior = false;
 		BytesRef limiteInferior = new BytesRef("20160101");
 		BytesRef limiteSuperior = new BytesRef("20161231");
-		Query query = new TermRangeQuery("data", limiteInferior,
-				limiteSuperior, incluirLimiteInferior,
+		Query query = new TermRangeQuery("data",
+				limiteInferior, limiteSuperior,
+				incluirLimiteInferior,
 				incluirLimiteSuperior);
 		buscador.buscar(query);
 	}
@@ -153,8 +166,8 @@ public class TesteBuscadorAPI {
 				new Term("conteudo", "cdi"),
 				new Term("conteudo", "weld") };
 		Query query = new MultiPhraseQuery.Builder()
-				.add(termoJavaPlatform).add(termoCdiWeld).setSlop(5)
-				.build();
+				.add(termoJavaPlatform).add(termoCdiWeld)
+				.setSlop(5).build();
 		buscador.buscar(query);
 	}
 
@@ -226,8 +239,8 @@ public class TesteBuscadorAPI {
 	// @Test
 	public void testeRangeQuery() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
-		Query query = LongPoint.newRangeQuery("tamanhoLong", 0,
-				500000);
+		Query query = LongPoint.newRangeQuery("tamanhoLong",
+				0, 500000);
 		buscador.buscar(query);
 	}
 
@@ -235,13 +248,18 @@ public class TesteBuscadorAPI {
 	public void testeSpanTermQueryOrdenada() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		//
-		Term termoReforma = new Term("conteudo", "proposta");
-		Term termoProposta = new Term("conteudo", "reforma");
-		SpanQuery queryReforma = new SpanTermQuery(termoReforma);
-		SpanQuery queryProposta = new SpanTermQuery(termoProposta);
-		SpanQuery[] clausulas = new SpanQuery[] { queryProposta,
-				queryReforma };
-		SpanNearQuery query = new SpanNearQuery(clausulas, 5, true);
+		Term termoReforma = new Term("conteudo",
+				"proposta");
+		Term termoProposta = new Term("conteudo",
+				"reforma");
+		SpanQuery queryReforma = new SpanTermQuery(
+				termoReforma);
+		SpanQuery queryProposta = new SpanTermQuery(
+				termoProposta);
+		SpanQuery[] clausulas = new SpanQuery[] {
+				queryProposta, queryReforma };
+		SpanNearQuery query = new SpanNearQuery(clausulas,
+				5, true);
 		buscador.buscar(query);
 	}
 
@@ -255,7 +273,8 @@ public class TesteBuscadorAPI {
 		regex = ".*bug.{1,5}[0-9]{4}@"; // Bug
 		regex = "@[a-z0-9\\.\\_\\%\\+\\-]+\\@[a-z0-9\\.\\-]+\\.[a-z]{2,}@"; // email
 		regex = "@(0[1-9]|[1-2][0-9]|3[01])[\\- \\/\\.](0[1-9]|1[012])[\\- \\/\\.](19|20)[0-9][0-9]@"; // Data
-		Term termo = new Term("conteudoNaoAnalisado", regex);
+		Term termo = new Term("conteudoNaoAnalisado",
+				regex);
 		RegexpQuery query = new RegexpQuery(termo);
 		buscador.buscar(query);
 	}
@@ -265,8 +284,10 @@ public class TesteBuscadorAPI {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		Query queryNuvem = new TermQuery(
 				new Term("conteudo", "nuvem"));
-		Query queryRede = new TermQuery(new Term("conteudo", "rede"));
-		BoostQuery boostQuery = new BoostQuery(queryRede, 2);
+		Query queryRede = new TermQuery(
+				new Term("conteudo", "rede"));
+		BoostQuery boostQuery = new BoostQuery(queryRede,
+				2);
 		Query query = new BooleanQuery.Builder()
 				.add(queryNuvem, Occur.SHOULD)
 				.add(boostQuery, Occur.SHOULD).build();
