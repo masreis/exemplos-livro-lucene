@@ -43,14 +43,11 @@ public class IndexadorArquivosLocais {
 
 	public void inicializar() throws IOException {
 		if (apagarIndice) {
-			FileUtils.deleteDirectory(
-					new File(diretorioIndice));
+			FileUtils.deleteDirectory(new File(diretorioIndice));
 		}
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory
-				.open(Paths.get((diretorioIndice)));
-		IndexWriterConfig conf = new IndexWriterConfig(
-				analyzer);
+		diretorio = FSDirectory.open(Paths.get((diretorioIndice)));
+		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		// logger.info(conf.toString());
 		writer = new IndexWriter(diretorio, conf);
 	}
@@ -69,8 +66,7 @@ public class IndexadorArquivosLocais {
 		}
 	}
 
-	public void indexar()
-			throws IOException, TikaException {
+	public void indexar() throws IOException, TikaException {
 		indexarDiretorio(new File(diretorioDocumentos));
 	}
 
@@ -113,26 +109,21 @@ public class IndexadorArquivosLocais {
 	public void indexarArquivo(File arquivo) {
 		try {
 			Document doc = new Document();
-			Date dataModificacao = new Date(
-					arquivo.lastModified());
+			Date dataModificacao = new Date(arquivo.lastModified());
 			String dataParaIndexacao = DateTools
-					.dateToString(dataModificacao,
-							Resolution.DAY);
+					.dateToString(dataModificacao, Resolution.DAY);
 			String extensao = consultarExtensaoArquivo(
 					arquivo.getName());
-			String textoArquivo = extrator.parseToString(
-					new FileInputStream(arquivo));
+			String textoArquivo = extrator
+					.parseToString(new FileInputStream(arquivo));
 			// BEGIN Implementado no capítulo 4
 			int tamanhoMaximo = 30000;
 			if (textoArquivo.length() >= tamanhoMaximo) {
-				doc.add(new StringField(
-						"conteudoNaoAnalisado",
-						textoArquivo.substring(0,
-								tamanhoMaximo),
+				doc.add(new StringField("conteudoNaoAnalisado",
+						textoArquivo.substring(0, tamanhoMaximo),
 						Store.YES));
 			} else {
-				doc.add(new StringField(
-						"conteudoNaoAnalisado",
+				doc.add(new StringField("conteudoNaoAnalisado",
 						textoArquivo, Store.YES));
 			}
 			// doc.add(criarCampoComPosicoes("conteudoComPosicoes",
@@ -142,39 +133,33 @@ public class IndexadorArquivosLocais {
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));
 			doc.add(new TextField("tamanho",
-					String.valueOf(arquivo.length()),
+					String.valueOf(arquivo.length()), Store.YES));
+			doc.add(new LongPoint("tamanhoLong", arquivo.length()));
+			doc.add(new StringField("data", dataParaIndexacao,
 					Store.YES));
-			doc.add(new LongPoint("tamanhoLong",
-					arquivo.length()));
-			doc.add(new StringField("data",
-					dataParaIndexacao, Store.YES));
 			doc.add(new StringField("caminho",
 					arquivo.getAbsolutePath(), Store.YES));
-			doc.add(new StringField("extensao", extensao,
-					Store.YES));
+			doc.add(new StringField("extensao", extensao, Store.YES));
 			writer.addDocument(doc);
 			logger.info("Arquivo indexado ("
-					+ (arquivo.length() / 1024) + " kb): "
-					+ arquivo);
+					+ (arquivo.length() / 1024) + " kb): " + arquivo);
 			totalArquivosIndexados++;
 			totalBytesIndexados += arquivo.length();
 		} catch (Exception e) {
-			logger.error(
-					"Não foi possível processar o arquivo "
-							+ arquivo.getAbsolutePath());
+			logger.error("Não foi possível processar o arquivo "
+					+ arquivo.getAbsolutePath());
 			logger.error(e);
 		}
 	}
 
-	private IndexableField criarCampoComPosicoes(
-			String campo, String textoArquivo) {
+	private IndexableField criarCampoComPosicoes(String campo,
+			String textoArquivo) {
 		IndexOptions opts = IndexOptions.DOCS_AND_FREQS_AND_POSITIONS;
 		FieldType campoComPosicoes = new FieldType();
 		campoComPosicoes.setIndexOptions(opts);
 		campoComPosicoes.setStored(true);
 		campoComPosicoes.setTokenized(true);
-		return new Field(campo, textoArquivo,
-				campoComPosicoes);
+		return new Field(campo, textoArquivo, campoComPosicoes);
 	}
 
 	// private String converterCaminhoArquivo(File arquivo) {
@@ -186,8 +171,8 @@ public class IndexadorArquivosLocais {
 	private String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
-			return nome.substring(posicaoDoPonto + 1,
-					nome.length()).toLowerCase();
+			return nome.substring(posicaoDoPonto + 1, nome.length())
+					.toLowerCase();
 		}
 		return "";
 	}
@@ -204,8 +189,7 @@ public class IndexadorArquivosLocais {
 		this.recursivo = recursivo;
 	}
 
-	public void setDiretorioDocumentos(
-			String diretorioDocumentos) {
+	public void setDiretorioDocumentos(String diretorioDocumentos) {
 		this.diretorioDocumentos = diretorioDocumentos;
 	}
 }

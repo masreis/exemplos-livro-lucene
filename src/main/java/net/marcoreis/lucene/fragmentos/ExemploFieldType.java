@@ -26,11 +26,10 @@ public class ExemploFieldType {
 		ft.setTokenized(true);
 		//
 		Document doc = new Document();
-		Field campoNome = new Field("nome", "marco antonio",
-				ft);
+		Field campoNome = new Field("nome", "marco antonio", ft);
 		doc.add(campoNome);
-		Field campoEndereco = new Field("endereco",
-				"rua 37 sul", ft);
+		Field campoEndereco = new Field("endereco", "rua 37 sul",
+				ft);
 		doc.add(campoEndereco);
 	}
 
@@ -39,8 +38,8 @@ public class ExemploFieldType {
 		TextField campoNome = new TextField("nome",
 				"marco antonio", Store.YES);
 		doc.add(campoNome);
-		DoublePoint campoSalario = new DoublePoint(
-				"salario", 8000.01);
+		DoublePoint campoSalario = new DoublePoint("salario",
+				8000.01);
 		doc.add(campoSalario);
 	}
 
