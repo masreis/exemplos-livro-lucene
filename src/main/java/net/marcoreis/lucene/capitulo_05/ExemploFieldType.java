@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.fragmentos;
+package net.marcoreis.lucene.capitulo_05;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.DoublePoint;
@@ -41,6 +41,20 @@ public class ExemploFieldType {
 		DoublePoint campoSalario = new DoublePoint("salario",
 				8000.01);
 		doc.add(campoSalario);
+	}
+
+	public void criarDocumentoBoost() {
+		Document doc = new Document();
+		String descricao = "Dispositivo portátil de armazenamento"
+				+ " com memória flash e capacidade de 32GB. "
+				+ "Acessório super prático que abe no bolso."
+				+ "Produzido pela Sandisk. ";
+		TextField campoConteudo = new TextField("descricao",
+				descricao, Store.YES);
+		TextField campoTitulo = new TextField("titulo",
+				"pen drive 32GB sandisk", Store.YES);
+		doc.add(campoConteudo);
+		doc.add(campoTitulo);
 	}
 
 }
