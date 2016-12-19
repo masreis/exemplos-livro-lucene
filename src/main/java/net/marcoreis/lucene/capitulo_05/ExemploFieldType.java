@@ -45,15 +45,20 @@ public class ExemploFieldType {
 
 	public void criarDocumentoBoost() {
 		Document doc = new Document();
-		String descricao = "Dispositivo portátil de armazenamento"
+		String textoDeUmaNoticia = "Dispositivo portátil de armazenamento"
 				+ " com memória flash e capacidade de 32GB. "
 				+ "Acessório super prático que abe no bolso."
 				+ "Produzido pela Sandisk. ";
-		TextField campoConteudo = new TextField("descricao",
-				descricao, Store.YES);
 		TextField campoTitulo = new TextField("titulo",
 				"pen drive 32GB sandisk", Store.YES);
-		doc.add(campoConteudo);
+		TextField campoTextoNoticia = new TextField(
+				"textoNoticia", textoDeUmaNoticia, Store.YES);
+		if (textoDeUmaNoticia.contains("linux")) {
+			campoTextoNoticia.setBoost(3.0f);
+		} else if (textoDeUmaNoticia.contains("android")) {
+			campoTextoNoticia.setBoost(2.0f);
+		}
+		doc.add(campoTextoNoticia);
 		doc.add(campoTitulo);
 	}
 
