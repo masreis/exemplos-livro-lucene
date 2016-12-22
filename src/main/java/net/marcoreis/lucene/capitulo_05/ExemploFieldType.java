@@ -5,31 +5,50 @@ import org.apache.lucene.document.DoublePoint;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.FieldType;
+import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
+import org.junit.Test;
 
 public class ExemploFieldType {
 
+	@Test
 	public void criarDocumentoTextField() {
 		Document doc = new Document();
-		TextField campoNome = new TextField("nome",
-				"marco antonio", Store.YES);
-		doc.add(campoNome);
+		StringField campoTelefone = new StringField("telefone",
+				"81194620", Store.YES);
+		doc.add(campoTelefone);
+		System.out.println("Tipo: " + campoTelefone.fieldType());
+		//
 		TextField campoEndereco = new TextField("endereco",
 				"rua 37 sul", Store.YES);
 		doc.add(campoEndereco);
+		System.out.println("Tipo: " + campoEndereco.fieldType());
 	}
 
+	@Test
 	public void criarDocumentoField() {
-		FieldType ft = new FieldType();
-		// ft.setIndexed(true);
-		ft.setStored(true);
-		ft.setTokenized(true);
+		FieldType ftString = new FieldType();
+		ftString.setIndexOptions(IndexOptions.DOCS);
+		ftString.setStored(true);
+		ftString.setTokenized(false);
+		ftString.setOmitNorms(true);
+		ftString.freeze();
+		System.out.println("Tipo ->" + ftString);
+		//
+		FieldType ftText = new FieldType();
+		ftText.setIndexOptions(
+				IndexOptions.DOCS_AND_FREQS_AND_POSITIONS);
+		ftText.setStored(true);
+		ftText.freeze();
+		System.out.println("Tipo ->" + ftText);
 		//
 		Document doc = new Document();
-		Field campoNome = new Field("nome", "marco antonio", ft);
-		doc.add(campoNome);
+		Field campoTelefone = new Field("telefone", "81194620",
+				ftString);
+		doc.add(campoTelefone);
 		Field campoEndereco = new Field("endereco", "rua 37 sul",
-				ft);
+				ftText);
 		doc.add(campoEndereco);
 	}
 

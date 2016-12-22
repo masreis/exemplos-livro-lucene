@@ -46,10 +46,14 @@ public class IndexadorArquivosLocais {
 			FileUtils.deleteDirectory(new File(diretorioIndice));
 		}
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory.open(Paths.get((diretorioIndice)));
+		diretorio = FSDirectory
+				.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		// logger.info(conf.toString());
+		//
+		// conf.setUseCompoundFile(false);
+		//
 		writer = new IndexWriter(diretorio, conf);
+		logger.info(conf.toString());
 	}
 
 	public void finalizar() {
@@ -109,9 +113,10 @@ public class IndexadorArquivosLocais {
 	public void indexarArquivo(File arquivo) {
 		try {
 			Document doc = new Document();
-			Date dataModificacao = new Date(arquivo.lastModified());
-			String dataParaIndexacao = DateTools
-					.dateToString(dataModificacao, Resolution.DAY);
+			Date dataModificacao = new Date(
+					arquivo.lastModified());
+			String dataParaIndexacao = DateTools.dateToString(
+					dataModificacao, Resolution.DAY);
 			String extensao = consultarExtensaoArquivo(
 					arquivo.getName());
 			String textoArquivo = extrator
@@ -133,16 +138,20 @@ public class IndexadorArquivosLocais {
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));
 			doc.add(new TextField("tamanho",
-					String.valueOf(arquivo.length()), Store.YES));
-			doc.add(new LongPoint("tamanhoLong", arquivo.length()));
+					String.valueOf(arquivo.length()),
+					Store.YES));
+			doc.add(new LongPoint("tamanhoLong",
+					arquivo.length()));
 			doc.add(new StringField("data", dataParaIndexacao,
 					Store.YES));
 			doc.add(new StringField("caminho",
 					arquivo.getAbsolutePath(), Store.YES));
-			doc.add(new StringField("extensao", extensao, Store.YES));
+			doc.add(new StringField("extensao", extensao,
+					Store.YES));
 			writer.addDocument(doc);
 			logger.info("Arquivo indexado ("
-					+ (arquivo.length() / 1024) + " kb): " + arquivo);
+					+ (arquivo.length() / 1024) + " kb): "
+					+ arquivo);
 			totalArquivosIndexados++;
 			totalBytesIndexados += arquivo.length();
 		} catch (Exception e) {
@@ -171,7 +180,8 @@ public class IndexadorArquivosLocais {
 	private String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
-			return nome.substring(posicaoDoPonto + 1, nome.length())
+			return nome
+					.substring(posicaoDoPonto + 1, nome.length())
 					.toLowerCase();
 		}
 		return "";
@@ -189,7 +199,8 @@ public class IndexadorArquivosLocais {
 		this.recursivo = recursivo;
 	}
 
-	public void setDiretorioDocumentos(String diretorioDocumentos) {
+	public void setDiretorioDocumentos(
+			String diretorioDocumentos) {
 		this.diretorioDocumentos = diretorioDocumentos;
 	}
 }
