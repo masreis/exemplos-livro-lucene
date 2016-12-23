@@ -50,7 +50,8 @@ public class IndexadorArquivosLocais {
 				.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		//
-		 conf.setUseCompoundFile(false);
+		conf.setRAMBufferSizeMB(48);
+		conf.setUseCompoundFile(false);
 		//
 		writer = new IndexWriter(diretorio, conf);
 		logger.info(conf.toString());
@@ -120,6 +121,7 @@ public class IndexadorArquivosLocais {
 			String extensao = consultarExtensaoArquivo(
 					arquivo.getName());
 			String textoArquivo = "";
+			//
 			try {
 				textoArquivo = extrator.parseToString(
 						new FileInputStream(arquivo));
