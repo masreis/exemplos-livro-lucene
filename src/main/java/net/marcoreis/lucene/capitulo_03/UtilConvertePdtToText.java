@@ -11,6 +11,11 @@ import org.apache.tika.exception.TikaException;
 
 public class UtilConvertePdtToText {
 	private Tika extrator = new Tika();
+	String diretorio = "/home/marco/temp/docs/";
+
+	public UtilConvertePdtToText() {
+		new File(diretorio).mkdirs();
+	}
 
 	public void analisaDiretorio(File diretorio)
 			throws IOException, TikaException {
@@ -34,11 +39,10 @@ public class UtilConvertePdtToText {
 		} catch (Throwable e) {
 			return;
 		}
-		if (textoArquivo.length() == 0) {
+		if (textoArquivo.trim().length() == 0) {
 			return;
 		}
-		String fileName = "/home/marco/temp/docs/"
-				+ arquivo.getName() + ".txt";
+		String fileName = diretorio + arquivo.getName() + ".txt";
 		FileWriter writer = new FileWriter(fileName);
 		writer.write(textoArquivo);
 		writer.close();
