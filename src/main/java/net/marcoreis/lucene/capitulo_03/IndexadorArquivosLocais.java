@@ -14,8 +14,8 @@ import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
@@ -31,14 +31,14 @@ import org.apache.tika.exception.TikaException;
 public class IndexadorArquivosLocais {
 	private static final Logger logger = Logger
 			.getLogger(IndexadorArquivosLocais.class);
-	private IndexWriter writer;
+	protected IndexWriter writer;
 	private Directory diretorio;
-	private Tika extrator = new Tika();
+	protected Tika extrator = new Tika();
 	private boolean recursivo;
 	private String diretorioIndice;
 	private String diretorioDocumentos;
-	private long totalArquivosIndexados;
-	private long totalBytesIndexados;
+	protected long totalArquivosIndexados;
+	protected long totalBytesIndexados;
 	private boolean apagarIndice;
 
 	public void inicializar() throws IOException {
@@ -184,7 +184,7 @@ public class IndexadorArquivosLocais {
 	// "_");
 	// }
 
-	private String consultarExtensaoArquivo(String nome) {
+	protected String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
 			return nome
