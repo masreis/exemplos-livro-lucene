@@ -50,8 +50,10 @@ public class IndexadorArquivosLocais {
 				.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		//
-		conf.setRAMBufferSizeMB(48);
-		conf.setUseCompoundFile(false);
+		// conf.setRAMBufferSizeMB(48);
+		// conf.setUseCompoundFile(false);
+		// conf.setRAMBufferSizeMB(160);
+		// conf.setUseCompoundFile(false);
 		//
 		writer = new IndexWriter(diretorio, conf);
 		logger.info(conf.toString());
