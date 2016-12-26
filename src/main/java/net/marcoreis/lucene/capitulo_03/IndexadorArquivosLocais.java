@@ -31,14 +31,14 @@ import org.apache.tika.exception.TikaException;
 public class IndexadorArquivosLocais {
 	private static final Logger logger = Logger
 			.getLogger(IndexadorArquivosLocais.class);
-	private IndexWriter writer;
+	protected IndexWriter writer;
 	private Directory diretorio;
-	private Tika extrator = new Tika();
+	protected Tika extrator = new Tika();
 	private boolean recursivo;
 	private String diretorioIndice;
 	private String diretorioDocumentos;
-	private long totalArquivosIndexados;
-	private long totalBytesIndexados;
+	protected long totalArquivosIndexados;
+	protected long totalBytesIndexados;
 	private boolean apagarIndice;
 
 	public void inicializar() throws IOException {
@@ -50,9 +50,15 @@ public class IndexadorArquivosLocais {
 				.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		//
+<<<<<<< HEAD
 		// conf.setMaxBufferedDocs(10000);
 		// conf.setRAMBufferSizeMB(-1);
 		conf.setRAMBufferSizeMB(160);
+=======
+		// conf.setRAMBufferSizeMB(48);
+		// conf.setUseCompoundFile(false);
+		// conf.setRAMBufferSizeMB(160);
+>>>>>>> 83fdcfdf1ad408575feca4d88e358e778e1d83f3
 		// conf.setUseCompoundFile(false);
 		//
 		writer = new IndexWriter(diretorio, conf);
@@ -186,7 +192,7 @@ public class IndexadorArquivosLocais {
 	// "_");
 	// }
 
-	private String consultarExtensaoArquivo(String nome) {
+	protected String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
 			return nome
