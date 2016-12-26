@@ -25,13 +25,13 @@ public class TesteBuscadorSintaxeClassica {
 		consulta = "conteudo:/@<1000-1200>@/";
 		consulta = "tamanho:/<0-500000>/";
 		consulta = "conteudo:\"rede social\"";
-		consulta = "conteudo:\"proposta reforma\"~5";
 		consulta = "conteudo:(nuvem rede^2)";
+		consulta = "conteudo:\"proposta reforma\"~5";
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		buscador.buscar(consulta);
 	}
 
-	// @Test
+//	 @Test
 	public void testeConsultaRegex() {
 		logger.info("Regex");
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();

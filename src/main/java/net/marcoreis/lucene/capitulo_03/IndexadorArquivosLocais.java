@@ -14,8 +14,8 @@ import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
@@ -50,8 +50,10 @@ public class IndexadorArquivosLocais {
 				.open(Paths.get((diretorioIndice)));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		//
-		 conf.setRAMBufferSizeMB(160);
-		 conf.setUseCompoundFile(false);
+		// conf.setMaxBufferedDocs(10000);
+		// conf.setRAMBufferSizeMB(-1);
+		conf.setRAMBufferSizeMB(160);
+		// conf.setUseCompoundFile(false);
 		//
 		writer = new IndexWriter(diretorio, conf);
 		logger.info(conf.toString());

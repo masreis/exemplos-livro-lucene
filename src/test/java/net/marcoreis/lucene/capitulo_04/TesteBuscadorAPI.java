@@ -244,7 +244,7 @@ public class TesteBuscadorAPI {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	 @Test
 	public void testeSpanTermQueryOrdenada() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		//
@@ -279,7 +279,7 @@ public class TesteBuscadorAPI {
 		buscador.buscar(query);
 	}
 
-	@Test
+//	@Test
 	public void testeBoostQuery() {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		Query queryNuvem = new TermQuery(

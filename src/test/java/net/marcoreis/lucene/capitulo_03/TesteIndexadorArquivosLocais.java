@@ -9,8 +9,8 @@ public class TesteIndexadorArquivosLocais {
 	private static final Logger logger = Logger
 			.getLogger(TesteIndexadorArquivosLocais.class);
 	private static String DIRETORIO_DOCUMENTOS = "/home/marco/temp/wiki/100000";
-	private static String DIRETORIO_INDICE = System
-			.getProperty("user.home") + "/livro-lucene/indice";
+	private static String DIRETORIO_INDICE = System.getProperty(
+			"user.home") + "/livro-lucene/indice-cfs-buffer-160";
 
 	@Test
 	public void testeIndexacao() {
