@@ -1,5 +1,6 @@
 package net.marcoreis.lucene.capitulo_05;
 
+import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 import java.io.IOException;
@@ -12,6 +13,8 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.LockObtainFailedException;
+import org.apache.lucene.store.NIOFSDirectory;
+import org.apache.lucene.store.SimpleFSDirectory;
 import org.junit.Test;
 
 public class TesteWriteLock {
@@ -28,7 +31,7 @@ public class TesteWriteLock {
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		IndexWriterConfig segundaConf = new IndexWriterConfig(
 				analyzer);
-		//
+		// Tenta abrir o diretório para gravação
 		try {
 			writer = new IndexWriter(diretorio, conf);
 			segundoWriter = new IndexWriter(diretorio,
@@ -36,8 +39,10 @@ public class TesteWriteLock {
 		} catch (LockObtainFailedException e) {
 			e.printStackTrace();
 		}
-		//
-		writer.close();
+		// Verifica o estado dos writers
+		assertNotNull(writer);
 		assertNull(segundoWriter);
+		// Fecha apenas o que está aberto
+		writer.close();
 	}
 }
