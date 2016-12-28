@@ -23,6 +23,10 @@ import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
+import org.apache.lucene.index.LogByteSizeMergePolicy;
+import org.apache.lucene.index.LogDocMergePolicy;
+import org.apache.lucene.index.MergePolicy;
+import org.apache.lucene.index.TieredMergePolicy;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.tika.Tika;
@@ -46,21 +50,9 @@ public class IndexadorArquivosLocais {
 			FileUtils.deleteDirectory(new File(diretorioIndice));
 		}
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory
-				.open(Paths.get((diretorioIndice)));
+		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		//
-<<<<<<< HEAD
-		// conf.setMaxBufferedDocs(10000);
-		// conf.setRAMBufferSizeMB(-1);
-		conf.setRAMBufferSizeMB(160);
-=======
-		// conf.setRAMBufferSizeMB(48);
-		// conf.setUseCompoundFile(false);
-		// conf.setRAMBufferSizeMB(160);
->>>>>>> 83fdcfdf1ad408575feca4d88e358e778e1d83f3
-		// conf.setUseCompoundFile(false);
-		//
+		conf.setInfoStream(System.out);
 		writer = new IndexWriter(diretorio, conf);
 		logger.info(conf.toString());
 	}

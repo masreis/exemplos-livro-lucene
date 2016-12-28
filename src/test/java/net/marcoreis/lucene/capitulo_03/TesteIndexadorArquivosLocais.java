@@ -8,9 +8,10 @@ import net.marcoreis.lucene.capitulo_03.IndexadorArquivosLocais;
 public class TesteIndexadorArquivosLocais {
 	private static final Logger logger = Logger
 			.getLogger(TesteIndexadorArquivosLocais.class);
-	private static String DIRETORIO_DOCUMENTOS = "/home/marco/temp/wiki/100000";
-	private static String DIRETORIO_INDICE = System.getProperty(
-			"user.home") + "/livro-lucene/indice-cfs-buffer-160";
+	private static String DIRETORIO_DOCUMENTOS = "/home/marco/Dropbox/mestrado/ppca";
+	private static String DIRETORIO_INDICE = System
+			.getProperty("user.home")
+			+ "/livro-lucene/indice-temp";
 
 	@Test
 	public void testeIndexacao() {
