@@ -19,26 +19,25 @@ public class TesteWriteLock {
 	@Test
 	public void testeWriterDuplo() throws IOException {
 		IndexWriter writer = null;
-		IndexWriter writerMuitoErrado = null;
+		IndexWriter segundoWriter = null;
 		String caminho = System.getProperty("java.io.tmpdir")
 				+ "/temp";
 		Directory diretorio = FSDirectory
 				.open(Paths.get(caminho));
 		Analyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		IndexWriterConfig confDoWriterErrado = new IndexWriterConfig(
+		IndexWriterConfig segundaConf = new IndexWriterConfig(
 				analyzer);
-		writer = new IndexWriter(diretorio, conf);
 		//
 		try {
-			writerMuitoErrado = new IndexWriter(diretorio,
-					confDoWriterErrado);
+			writer = new IndexWriter(diretorio, conf);
+			segundoWriter = new IndexWriter(diretorio,
+					segundaConf);
 		} catch (LockObtainFailedException e) {
 			e.printStackTrace();
 		}
-
+		//
 		writer.close();
-		assertNull(writerMuitoErrado);
-
+		assertNull(segundoWriter);
 	}
 }

@@ -54,7 +54,7 @@ public class IndexadorArquivosLocais {
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		conf.setInfoStream(System.out);
 		writer = new IndexWriter(diretorio, conf);
-		logger.info(conf.toString());
+//		logger.info(conf.toString());
 	}
 
 	public void finalizar() {
