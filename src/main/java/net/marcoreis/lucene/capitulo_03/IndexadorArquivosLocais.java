@@ -26,6 +26,10 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
 import org.apache.lucene.index.LogByteSizeMergePolicy;
 import org.apache.lucene.index.LogDocMergePolicy;
+<<<<<<< HEAD
+=======
+import org.apache.lucene.index.MergePolicy;
+>>>>>>> af77dc805805ca8608deb6e3a1dc1c90ed59a538
 import org.apache.lucene.index.TieredMergePolicy;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
@@ -53,6 +57,7 @@ public class IndexadorArquivosLocais {
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
+<<<<<<< HEAD
 		conf.setRAMBufferSizeMB(1024);
 		// TieredMergePolicy mergePolicy = new TieredMergePolicy();
 		// mergePolicy.setSegmentsPerTier(100);
@@ -61,8 +66,11 @@ public class IndexadorArquivosLocais {
 		// LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
 		conf.setMergePolicy(mergePolicy);
 		// conf.setInfoStream(System.out);
+=======
+		conf.setInfoStream(System.out);
+>>>>>>> af77dc805805ca8608deb6e3a1dc1c90ed59a538
 		writer = new IndexWriter(diretorio, conf);
-		logger.info(conf.toString());
+//		logger.info(conf.toString());
 	}
 
 	public void finalizar() {
