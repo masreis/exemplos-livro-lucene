@@ -24,7 +24,7 @@ public class TesteIndiceEmMemoria {
 		IndexSearcher searcher = new IndexSearcher(reader);
 		QueryParser parser = new QueryParser("",
 				new StandardAnalyzer());
-		String consulta = "conteudo:problemas";
+		String consulta = "conteudo:alsa";
 		Query query = parser.parse(consulta);
 		TopDocs docs = searcher.search(query, 1);
 		//

@@ -24,6 +24,7 @@ public class IndiceEmMemoria {
 		return ramDirectory;
 	}
 
+	// Cria documentos fictícios
 	private void criarDocumentos(IndexWriter writer)
 			throws IOException {
 		Document doc = new Document();
