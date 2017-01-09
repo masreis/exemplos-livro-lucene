@@ -2,6 +2,8 @@ package net.marcoreis.lucene.capitulo_05;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.InputStream;
 import java.util.Date;
 
 import org.apache.log4j.Logger;
@@ -45,27 +47,30 @@ public class IndexadorArquivosLocaisOtimizado
 					arquivo.getName());
 			String textoArquivo = "";
 			//
+			InputStream is = null;
 			try {
-				textoArquivo = extrator.parseToString(
-						new FileInputStream(arquivo));
+				is = new FileInputStream(arquivo);
+				textoArquivo = extrator.parseToString(is);
 			} catch (Throwable e) {
 				logger.error(e);
+			} finally {
+				is.close();
 			}
 			int tamanhoMaximo = 30000;
 			if (textoArquivo.length() >= tamanhoMaximo) {
-				tfConteudoNaoAnalisado.setBytesValue(textoArquivo
-						.substring(0, tamanhoMaximo).getBytes());
+				tfConteudoNaoAnalisado
+						.setStringValue(textoArquivo.substring(0,
+								tamanhoMaximo));
 			} else {
 				tfConteudoNaoAnalisado
-						.setBytesValue(textoArquivo.getBytes());
+						.setStringValue(textoArquivo);
 			}
-			tfConteudo.setBytesValue(
-					new BytesRef(textoArquivo.getBytes()));
-			tfTamanho.setLongValue(arquivo.length());
-			tfCaminho.setBytesValue(
-					arquivo.getAbsolutePath().getBytes());
-			tfData.setBytesValue(dataParaIndexacao.getBytes());
-			tfExtensao.setBytesValue(extensao.getBytes());
+			tfConteudo.setStringValue(textoArquivo);
+			tfTamanho.setStringValue(
+					String.valueOf(arquivo.length()));
+			tfCaminho.setStringValue(arquivo.getAbsolutePath());
+			tfData.setStringValue(dataParaIndexacao);
+			tfExtensao.setStringValue(extensao);
 			tfTamanhoLong.setLongValue(arquivo.length());
 			//
 			doc.add(tfCaminho);
@@ -77,9 +82,9 @@ public class IndexadorArquivosLocaisOtimizado
 			doc.add(tfTamanhoLong);
 			//
 			writer.addDocument(doc);
-			logger.info("Arquivo indexado ("
-					+ (arquivo.length() / 1024) + " kb): "
-					+ arquivo);
+			// logger.info("Arquivo indexado ("
+			// + (arquivo.length() / 1024) + " kb): "
+			// + arquivo);
 			totalArquivosIndexados++;
 			totalBytesIndexados += arquivo.length();
 		} catch (Exception e) {
