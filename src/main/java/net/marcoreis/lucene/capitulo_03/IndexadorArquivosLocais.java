@@ -24,16 +24,8 @@ import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
-import org.apache.lucene.index.LogByteSizeMergePolicy;
-import org.apache.lucene.index.LogDocMergePolicy;
-<<<<<<< HEAD
-=======
-import org.apache.lucene.index.MergePolicy;
->>>>>>> af77dc805805ca8608deb6e3a1dc1c90ed59a538
-import org.apache.lucene.index.TieredMergePolicy;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.store.NIOFSDirectory;
 import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
 
@@ -57,20 +49,21 @@ public class IndexadorArquivosLocais {
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-<<<<<<< HEAD
-		conf.setRAMBufferSizeMB(1024);
+		// conf.setUseCompoundFile(false);
+		// conf.setRAMBufferSizeMB(1024);
+		conf.setMaxBufferedDocs(30000);
+		conf.setRAMBufferSizeMB(
+				IndexWriterConfig.DISABLE_AUTO_FLUSH);
 		// TieredMergePolicy mergePolicy = new TieredMergePolicy();
 		// mergePolicy.setSegmentsPerTier(100);
-		LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
-		mergePolicy.setMergeFactor(40);
+		// LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
+		// mergePolicy.setMergeFactor(40);
 		// LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
-		conf.setMergePolicy(mergePolicy);
+		// conf.setMergePolicy(mergePolicy);
 		// conf.setInfoStream(System.out);
-=======
-		conf.setInfoStream(System.out);
->>>>>>> af77dc805805ca8608deb6e3a1dc1c90ed59a538
+		// conf.setInfoStream(System.out);
 		writer = new IndexWriter(diretorio, conf);
-//		logger.info(conf.toString());
+		// logger.info(conf.toString());
 	}
 
 	public void finalizar() {

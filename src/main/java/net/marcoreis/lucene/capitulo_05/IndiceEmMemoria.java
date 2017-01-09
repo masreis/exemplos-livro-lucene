@@ -12,40 +12,47 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
 public class IndiceEmMemoria {
+	private RAMDirectory ramDirectory;
+	private IndexWriter writer;
 
-	public Directory recuperarDiretorioEmMemoria()
-			throws IOException {
-		RAMDirectory ramDirectory = new RAMDirectory();
+	public IndiceEmMemoria() throws IOException {
+		ramDirectory = new RAMDirectory();
 		IndexWriterConfig conf = new IndexWriterConfig(
 				new StandardAnalyzer());
-		IndexWriter writer = new IndexWriter(ramDirectory, conf);
-		criarDocumentos(writer);
-		writer.close();
-		return ramDirectory;
+		writer = new IndexWriter(ramDirectory, conf);
+		criarDocumentos();
+		writer.commit();
 	}
 
 	// Cria documentos fictícios
-	private void criarDocumentos(IndexWriter writer)
-			throws IOException {
+	private void criarDocumentos() throws IOException {
 		Document doc = new Document();
 		String conteudo = "geralmente você pode usar as "
 				+ "opções 'mute' ou 'unmute' para "
 				+ "gerenciar os drivers ALSA no Linux";
 		doc.add(new TextField("conteudo", conteudo, Store.YES));
-		writer.addDocument(doc);
+		getWriter().addDocument(doc);
 		//
 		doc.clear();
 		conteudo = "as versões 0.3 e 0.4 têm vários problemas "
 				+ "devido à reestruturação da interface do mixer";
 		doc.add(new TextField("conteudo", conteudo, Store.YES));
-		writer.addDocument(doc);
+		getWriter().addDocument(doc);
 		//
 		doc.clear();
 		conteudo = "você precisa carregar o módulo "
 				+ "para o seu cartão de som ou usar "
 				+ "o utilitário 'kmod'";
 		doc.add(new TextField("conteudo", conteudo, Store.YES));
-		writer.addDocument(doc);
+		getWriter().addDocument(doc);
+	}
+
+	public IndexWriter getWriter() {
+		return writer;
+	}
+
+	public RAMDirectory getRamDirectory() {
+		return ramDirectory;
 	}
 
 }

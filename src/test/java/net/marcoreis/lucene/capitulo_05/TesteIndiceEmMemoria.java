@@ -19,7 +19,7 @@ public class TesteIndiceEmMemoria {
 	public void testeEmMemoria()
 			throws IOException, ParseException {
 		Directory diretorio = new IndiceEmMemoria()
-				.recuperarDiretorioEmMemoria();
+				.getRamDirectory();
 		IndexReader reader = DirectoryReader.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(reader);
 		QueryParser parser = new QueryParser("",
@@ -29,5 +29,7 @@ public class TesteIndiceEmMemoria {
 		TopDocs docs = searcher.search(query, 1);
 		//
 		assertTrue(docs.totalHits > 0);
+		//
+		diretorio.close();
 	}
 }
