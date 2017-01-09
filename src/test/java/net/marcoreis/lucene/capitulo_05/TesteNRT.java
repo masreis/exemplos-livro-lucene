@@ -10,6 +10,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
@@ -31,7 +32,7 @@ public class TesteNRT {
 				.open(Paths.get(DIRETORIO_INDICE));
 		IndexWriter writer = new IndexWriter(diretorio,
 				new IndexWriterConfig(new StandardAnalyzer()));
-		DirectoryReader readerAnterior = DirectoryReader
+		IndexReader readerAnterior = DirectoryReader
 				.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(
 				readerAnterior);
@@ -43,13 +44,18 @@ public class TesteNRT {
 		writer.addDocument(criaDocumento());
 		writer.addDocument(criaDocumento());
 		// Abre um reader NRT através do writer
-		DirectoryReader novoReader = DirectoryReader
+		IndexReader novoReader = DirectoryReader
 				.open(writer);
 		searcher = new IndexSearcher(novoReader);
 		hits = searcher.search(new MatchAllDocsQuery(), 1);
 		int numDocsAtual = hits.totalHits;
 		// Verifica se tem um item a mais
 		assertTrue(numDocsAtual == numDocsAnterior + 2);
+		//
+		novoReader.close();
+		readerAnterior.close();
+		writer.close();
+		diretorio.close();
 	}
 
 	private Iterable<? extends IndexableField> criaDocumento() {

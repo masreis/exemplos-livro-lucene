@@ -10,6 +10,7 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
@@ -26,23 +27,29 @@ public class TesteIndiceAlterado {
 		// Cria um reader normalmente
 		Directory diretorio = FSDirectory
 				.open(Paths.get(DIRETORIO_INDICE));
+		IndexWriter writer = new IndexWriter(diretorio,
+				new IndexWriterConfig(new StandardAnalyzer()));
 		DirectoryReader readerAnterior = DirectoryReader
-				.open(diretorio);
+				.open(writer);
 		// Guarda a quantidade de itens
 		int numDocsAnterior = readerAnterior.numDocs();
 		// Abre um reader a partir do anterior
-		DirectoryReader novoReader = DirectoryReader
-				.openIfChanged(readerAnterior);
+		IndexReader novoReader = DirectoryReader
+				.openIfChanged(readerAnterior, writer);
 		// O índice não foi alterado, retorna nulo
 		assertTrue(novoReader == null);
 		// Adiciona documento e não faz commit
-		IndexWriter writer = new IndexWriter(diretorio,
-				new IndexWriterConfig(new StandardAnalyzer()));
 		writer.addDocument(criaDocumento());
 		// Índice alterado
 		novoReader = DirectoryReader
 				.openIfChanged(readerAnterior, writer);
+		// A quantidade de documentos é maior
 		assertTrue(novoReader.numDocs() > numDocsAnterior);
+		//
+		novoReader.close();
+		readerAnterior.close();
+		writer.close();
+		diretorio.close();
 	}
 
 	private Iterable<? extends IndexableField> criaDocumento() {
