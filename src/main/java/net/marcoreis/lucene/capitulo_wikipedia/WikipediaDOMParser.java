@@ -10,6 +10,11 @@ import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
 @Deprecated
+/**
+ * 
+ * @author marco
+ *
+ */
 public class WikipediaDOMParser {
     private static String nomeArquivo = System.getProperty("user.home")
             + "/dados/ptwiki-20130417-stub-articles.xml";
