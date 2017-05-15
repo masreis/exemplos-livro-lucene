@@ -8,13 +8,13 @@ public class TesteIndexadorArquivosLocais {
 			.getLogger(TesteIndexadorArquivosLocais.class);
 	// private static String DIRETORIO_DOCUMENTOS =
 	// "/home/marco/temp/wiki/1000000/1/1000/";
-	private static String DIRETORIO_DOCUMENTOS = "/home/marco/temp/wiki/10000";
+	private static String DIRETORIO_DOCUMENTOS = "/home/marco/Dropbox/Public";
 	// private static String DIRETORIO_INDICE = System.getProperty(
 	// "user.home") + "/livro-lucene/indice-wiki-100000";
 	// private static String DIRETORIO_DOCUMENTOS =
-	// "/home/marco/Dropbox/mestrado/ppca";
+	// "/home/marco/Dropbox/Public";
 	private static String DIRETORIO_INDICE = System.getProperty(
-			"user.home") + "/livro-lucene/indice-buffer-docs";
+			"user.home") + "/livro-lucene/dropbox";
 
 	@Test
 	public void testeIndexacao() {
