@@ -17,6 +17,7 @@ public class TesteBuscadorArquivosLocais {
 		String consulta = "conteudo:(java AND jsf)";
 		consulta = "conteudo:(ciência da informação)";
 		consulta = "conteudo:(\"ciência da informação\")";
+		consulta = "conteudo:(+\"private cloud\" +characteristic)";
 		buscador.buscar(consulta);
 	}
 }
