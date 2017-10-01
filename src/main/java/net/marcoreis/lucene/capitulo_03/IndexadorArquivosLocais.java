@@ -14,16 +14,12 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
-import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
-import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.IndexableField;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.tika.Tika;
@@ -51,9 +47,8 @@ public class IndexadorArquivosLocais {
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		// conf.setUseCompoundFile(false);
 		// conf.setRAMBufferSizeMB(1024);
-		conf.setMaxBufferedDocs(30000);
-		conf.setRAMBufferSizeMB(
-				IndexWriterConfig.DISABLE_AUTO_FLUSH);
+		// conf.setMaxBufferedDocs(30000);
+		// conf.setRAMBufferSizeMB(IndexWriterConfig.DISABLE_AUTO_FLUSH);
 		// TieredMergePolicy mergePolicy = new TieredMergePolicy();
 		// mergePolicy.setSegmentsPerTier(100);
 		// LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
@@ -149,9 +144,6 @@ public class IndexadorArquivosLocais {
 				doc.add(new StringField("conteudoNaoAnalisado",
 						textoArquivo, Store.YES));
 			}
-			// doc.add(criarCampoComPosicoes("conteudoComPosicoes",
-			// textoArquivo));
-			//
 			// END
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));
@@ -179,22 +171,6 @@ public class IndexadorArquivosLocais {
 		}
 	}
 
-	private IndexableField criarCampoComPosicoes(String campo,
-			String textoArquivo) {
-		IndexOptions opts = IndexOptions.DOCS_AND_FREQS_AND_POSITIONS;
-		FieldType campoComPosicoes = new FieldType();
-		campoComPosicoes.setIndexOptions(opts);
-		campoComPosicoes.setStored(true);
-		campoComPosicoes.setTokenized(true);
-		return new Field(campo, textoArquivo, campoComPosicoes);
-	}
-
-	// private String converterCaminhoArquivo(File arquivo) {
-	// return arquivo.getAbsolutePath().replaceAll("/", "_").replaceAll(":",
-	// "_").replaceAll(" ", "_").replaceAll("-",
-	// "_");
-	// }
-
 	protected String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
@@ -220,5 +196,24 @@ public class IndexadorArquivosLocais {
 	public void setDiretorioDocumentos(
 			String diretorioDocumentos) {
 		this.diretorioDocumentos = diretorioDocumentos;
+	}
+
+	public static void main(String[] args) {
+		try {
+			IndexadorArquivosLocais indexador = new IndexadorArquivosLocais();
+			String docDir = System.getProperty("user.home")
+					+ "/Documents";
+			String luceneDir = System.getProperty("user.home")
+					+ "/lucene-index";
+			indexador.setDiretorioDocumentos(docDir);
+			indexador.setDiretorioIndice(luceneDir);
+			indexador.setRecursivo(true);
+			indexador.inicializar();
+			indexador.indexar();
+			indexador.finalizar();
+		} catch (Exception e) {
+			logger.error(e);
+		}
+
 	}
 }

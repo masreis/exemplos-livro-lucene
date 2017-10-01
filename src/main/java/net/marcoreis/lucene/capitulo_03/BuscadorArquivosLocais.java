@@ -18,12 +18,13 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/aulas-para-concursos";
-	private static String DIRETORIO_INDICE = System
-			.getProperty("user.home")
-			+ "/livro-lucene/indice-comum";
-	private static final Logger logger = Logger
-			.getLogger(BuscadorArquivosLocais.class);
-	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
+	private static String DIRETORIO_INDICE =
+			System.getProperty("user.home")
+					+ "/livro-lucene/dropbox";
+	private static final Logger logger =
+			Logger.getLogger(BuscadorArquivosLocais.class);
+	private static final int QUANTIDADE_DE_ITENS_RETORNADOS =
+			100;
 
 	public void buscar(String consulta) {
 		try {
@@ -31,14 +32,12 @@ public class BuscadorArquivosLocais {
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory
 					.open(Paths.get(DIRETORIO_INDICE));
-			IndexReader reader = DirectoryReader
-					.open(diretorio);
-			IndexSearcher searcher = new IndexSearcher(
-					reader);
+			IndexReader reader = DirectoryReader.open(diretorio);
+			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Criar e analisar a consulta
-			QueryParser parser = new QueryParser("",
-					new StandardAnalyzer());
+			QueryParser parser =
+					new QueryParser("", new StandardAnalyzer());
 			// parser.setAllowLeadingWildcard(true);
 			// parser.getEnablePositionIncrements();
 			Query query = parser.parse(consulta);
@@ -51,13 +50,10 @@ public class BuscadorArquivosLocais {
 					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
-				logger.info(
-						"Tamanho: " + doc.get("tamanho"));
-				logger.info(
-						"Caminho: " + doc.get("caminho"));
+				logger.info("Tamanho: " + doc.get("tamanho"));
+				logger.info("Caminho: " + doc.get("caminho"));
 				logger.info("Data: " + doc.get("data"));
-				logger.info(
-						"Extensão: " + doc.get("extensao"));
+				logger.info("Extensão: " + doc.get("extensao"));
 			}
 			//
 			// Liberar os recursos
@@ -75,10 +71,8 @@ public class BuscadorArquivosLocais {
 			// Abrir o índice e preparar o buscador
 			Directory diretorio = FSDirectory
 					.open(Paths.get(DIRETORIO_INDICE));
-			IndexReader reader = DirectoryReader
-					.open(diretorio);
-			IndexSearcher searcher = new IndexSearcher(
-					reader);
+			IndexReader reader = DirectoryReader.open(diretorio);
+			IndexSearcher searcher = new IndexSearcher(reader);
 			//
 			// Processar o resultado
 			TopDocs docs = searcher.search(query,
@@ -87,13 +81,10 @@ public class BuscadorArquivosLocais {
 					+ docs.totalHits);
 			for (ScoreDoc sd : docs.scoreDocs) {
 				Document doc = searcher.doc(sd.doc);
-				logger.info(
-						"Tamanho: " + doc.get("tamanho"));
-				logger.info(
-						"Caminho: " + doc.get("caminho"));
+				logger.info("Tamanho: " + doc.get("tamanho"));
+				logger.info("Caminho: " + doc.get("caminho"));
 				logger.info("Data: " + doc.get("data"));
-				logger.info(
-						"Extensão: " + doc.get("extensao"));
+				logger.info("Extensão: " + doc.get("extensao"));
 			}
 			//
 			// Liberar os recursos

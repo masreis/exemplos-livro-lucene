@@ -5,6 +5,13 @@
 	<artifactId>exemplos-livro-lucene</artifactId>
 	<version>0.1.beta</version>
 
+	<properties>
+		<version.compiler.plugin>2.3.1</version.compiler.plugin>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<lucene.version>6.1.0</lucene.version>
+	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.lucene</groupId>
@@ -56,8 +63,20 @@
 
 		<dependency>
 			<groupId>org.apache.tika</groupId>
-			<artifactId>tika-app</artifactId>
+			<artifactId>tika-parsers</artifactId>
+			<version>1.15</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-compress</artifactId>
 			<version>1.14</version>
+		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
 		</dependency>
 
 		<dependency>
@@ -98,10 +117,4 @@
 
 	</dependencies>
 
-	<properties>
-		<version.compiler.plugin>2.3.1</version.compiler.plugin>
-		<maven.compiler.target>1.8</maven.compiler.target>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<lucene.version>6.1.0</lucene.version>
-	</properties>
 </project>
