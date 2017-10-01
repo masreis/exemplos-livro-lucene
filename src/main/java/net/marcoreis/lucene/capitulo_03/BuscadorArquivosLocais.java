@@ -18,6 +18,7 @@ import org.apache.lucene.store.FSDirectory;
 public class BuscadorArquivosLocais {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/aulas-para-concursos";
+<<<<<<< HEAD
 	private static String DIRETORIO_INDICE =
 			System.getProperty("user.home")
 					+ "/livro-lucene/dropbox";
@@ -25,6 +26,14 @@ public class BuscadorArquivosLocais {
 			Logger.getLogger(BuscadorArquivosLocais.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS =
 			100;
+=======
+	private static String DIRETORIO_INDICE = System
+			.getProperty("user.home")
+			+ "/livro-lucene/dropbox/mestrado";
+	private static final Logger logger = Logger
+			.getLogger(BuscadorArquivosLocais.class);
+	private static final int QUANTIDADE_DE_ITENS_RETORNADOS = 100;
+>>>>>>> 5cc87f83c6ca3566f40930396814fe2210426eb2
 
 	public void buscar(String consulta) {
 		try {

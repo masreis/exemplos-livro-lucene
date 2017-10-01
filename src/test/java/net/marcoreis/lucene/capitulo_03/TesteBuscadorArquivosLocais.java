@@ -16,6 +16,7 @@ public class TesteBuscadorArquivosLocais {
 		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
 		String consulta = "conteudo:(java AND jsf)";
 		consulta = "conteudo:(ciência da informação)";
+<<<<<<< HEAD
 		consulta = "conteudo:(flink AND single AND engine)";
 		consulta = "conteudo:kafka";
 		consulta = "conteudo:openstack";
@@ -25,6 +26,10 @@ public class TesteBuscadorArquivosLocais {
 		consulta = "conteudo:(Data-intensive applications, challenges, techniques and technologies: A survey on Big Data)";
 		consulta = "conteudo:iot";
 		consulta = "conteudo:(spark)";
+=======
+		consulta = "conteudo:(\"ciência da informação\")";
+		consulta = "conteudo:(+\"private cloud\" +characteristic)";
+>>>>>>> 5cc87f83c6ca3566f40930396814fe2210426eb2
 		buscador.buscar(consulta);
 	}
 }
