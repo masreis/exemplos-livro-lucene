@@ -16,7 +16,7 @@ public class TesteBuscadorArquivosLocais {
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(the daemon)";
+		String consulta = "conteudo:(cloud)";
 		buscador.buscar(consulta);
 	}
 }
