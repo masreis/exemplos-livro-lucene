@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_x;
+package net.marcoreis.lucene.capitulo_07;
 
 import java.io.File;
 import java.nio.file.Paths;

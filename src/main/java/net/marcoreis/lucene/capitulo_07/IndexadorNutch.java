@@ -78,13 +78,10 @@ public class IndexadorNutch {
 	 */
 	public void indexarArquivo(File arquivo) {
 		try {
-			Document doc = new Document();
 			Date dataModificacao =
 					new Date(arquivo.lastModified());
 			String dataParaIndexacao = DateTools.dateToString(
 					dataModificacao, Resolution.DAY);
-			String extensao =
-					consultarExtensaoArquivo(arquivo.getName());
 			String textoArquivo = "";
 			//
 			InputStream is = new FileInputStream(arquivo);
@@ -95,38 +92,27 @@ public class IndexadorNutch {
 			} finally {
 				is.close();
 			}
-			String[] urls = textoArquivo.split("Recno::");
-			for (String conteudo : urls) {
-				if (conteudo.contains("Content::")) {
-					System.out.println(conteudo);
-				}
-				if (conteudo.contains("ParseText::")) {
-					System.out.println(conteudo);
+			String[] paginas = textoArquivo.split("Recno::");
+			for (String conteudoPagina : paginas) {
+				if (conteudoPagina.contains("Content::")) {
+					System.out.println(conteudoPagina);
+					criaDocumento(conteudoPagina);
 				}
 			}
-			doc.add(new TextField("conteudo", textoArquivo,
-					Store.YES));
-			doc.add(new TextField("tamanho",
-					String.valueOf(arquivo.length()),
-					Store.YES));
-			doc.add(new LongPoint("tamanhoLong",
-					arquivo.length()));
-			doc.add(new StringField("data", dataParaIndexacao,
-					Store.YES));
-			doc.add(new StringField("caminho",
-					arquivo.getAbsolutePath(), Store.YES));
-			doc.add(new StringField("extensao", extensao,
-					Store.YES));
-			writer.addDocument(doc);
-			logger.info("Arquivo indexado ("
-					+ (arquivo.length() / 1024) + " kb): "
-					+ arquivo);
-			totalUrlsIndexadas++;
 		} catch (Exception e) {
 			logger.error("Não foi possível processar o arquivo "
 					+ arquivo.getAbsolutePath());
 			logger.error(e);
 		}
+	}
+
+	private void criaDocumento(String conteudoPagina)
+			throws IOException {
+		Document doc = new Document();
+
+		writer.addDocument(doc);
+		logger.info("Conteúdo indexado");
+		totalUrlsIndexadas++;
 	}
 
 	protected String consultarExtensaoArquivo(String nome) {

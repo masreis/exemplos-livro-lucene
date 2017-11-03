@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_07;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;

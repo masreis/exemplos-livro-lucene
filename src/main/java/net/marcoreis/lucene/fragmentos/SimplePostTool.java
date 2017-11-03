@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_07;
+package net.marcoreis.lucene.fragmentos;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more
