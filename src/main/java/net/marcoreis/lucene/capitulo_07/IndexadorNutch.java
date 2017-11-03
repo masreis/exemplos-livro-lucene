@@ -32,7 +32,6 @@ public class IndexadorNutch {
 			Logger.getLogger(IndexadorArquivosLocais.class);
 	protected IndexWriter writer;
 	private Directory diretorio;
-	protected Tika extrator = new Tika();
 	private String diretorioIndice;
 	private String diretorioSegmento;
 	protected long totalUrlsIndexadas;
@@ -84,21 +83,7 @@ public class IndexadorNutch {
 					dataModificacao, Resolution.DAY);
 			String textoArquivo = "";
 			//
-			InputStream is = new FileInputStream(arquivo);
-			try {
-				textoArquivo = extrator.parseToString(is);
-			} catch (Throwable e) {
-				logger.error(e);
-			} finally {
-				is.close();
-			}
-			String[] paginas = textoArquivo.split("Recno::");
-			for (String conteudoPagina : paginas) {
-				if (conteudoPagina.contains("Content::")) {
-					System.out.println(conteudoPagina);
-					criaDocumento(conteudoPagina);
-				}
-			}
+			
 		} catch (Exception e) {
 			logger.error("Não foi possível processar o arquivo "
 					+ arquivo.getAbsolutePath());
