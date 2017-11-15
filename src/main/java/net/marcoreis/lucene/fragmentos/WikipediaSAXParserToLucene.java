@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_wikipedia;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.File;
 import java.util.HashMap;
@@ -13,17 +13,23 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 public class WikipediaSAXParserToLucene extends DefaultHandler {
-	public static final String DIRETORIO_INDICE_WIKIPEDIA = System.getProperty("user.home")
-			+ "/livro-lucene/indice-wikipedia";
+	public static final String DIRETORIO_INDICE_WIKIPEDIA =
+			System.getProperty("user.home")
+					+ "/livro-lucene/indice-wikipedia";
 	private static final int BUFFER_DOCUMENTOS = 100000;
-	private static String NOME_ARQUIVO_DUMP_WIKIPEDIA = "/home/marco/Downloads/ptwiki-20160720-pages-articles-multistream.xml";
-	private static Logger logger = Logger.getLogger(WikipediaSAXParserToLucene.class);
+	private static String NOME_ARQUIVO_DUMP_WIKIPEDIA =
+			"/home/marco/Downloads/ptwiki-20160720-pages-articles-multistream.xml";
+	private static Logger logger =
+			Logger.getLogger(WikipediaSAXParserToLucene.class);
 	private Map<String, String> pagina;
 	private StringBuilder content = new StringBuilder();
-	private IndexadorWikipedia indexador = new IndexadorWikipedia(DIRETORIO_INDICE_WIKIPEDIA);
+	private IndexadorWikipedia indexador = null;
+	// new IndexadorWikipedia(DIRETORIO_INDICE_WIKIPEDIA);
 	private int paginasIndexadas;
 
-	public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException {
+	public void startElement(String uri, String localName,
+			String qName, Attributes attributes)
+			throws SAXException {
 		if (qName.equals("page")) {
 			pagina = new HashMap<String, String>();
 			content.setLength(0);
@@ -48,18 +54,22 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
 		}
 	}
 
-	public void characters(char[] ch, int start, int length) throws SAXException {
+	public void characters(char[] ch, int start, int length)
+			throws SAXException {
 		if (pagina != null) {
-			content.append(String.copyValueOf(ch, start, length).trim());
+			content.append(String.copyValueOf(ch, start, length)
+					.trim());
 		}
 	}
 
-	public void endElement(String uri, String localName, String qName) throws SAXException {
+	public void endElement(String uri, String localName,
+			String qName) throws SAXException {
 		if (qName.equals("page")) {
-			indexador.indexar(pagina);
+			// indexador.indexar(pagina);
 			paginasIndexadas++;
 			pagina = null;
-			if (paginasIndexadas > 0 && paginasIndexadas % BUFFER_DOCUMENTOS == 0) {
+			if (paginasIndexadas > 0 && paginasIndexadas
+					% BUFFER_DOCUMENTOS == 0) {
 				logger.info("Parcial: " + paginasIndexadas);
 			}
 		} else if (qName.equals("title")) {
@@ -89,12 +99,14 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
 
 	public void parse() {
 		try {
-			SAXParserFactory factory = SAXParserFactory.newInstance();
+			SAXParserFactory factory =
+					SAXParserFactory.newInstance();
 			factory.setNamespaceAware(true);
 			SAXParser parser = factory.newSAXParser();
-			parser.parse(new File(NOME_ARQUIVO_DUMP_WIKIPEDIA), this);
+			parser.parse(new File(NOME_ARQUIVO_DUMP_WIKIPEDIA),
+					this);
 			logger.info("Total de paginas: " + paginasIndexadas);
-			indexador.fechar();
+			// indexador.fechar();
 		} catch (Exception e) {
 			logger.error(e);
 		}

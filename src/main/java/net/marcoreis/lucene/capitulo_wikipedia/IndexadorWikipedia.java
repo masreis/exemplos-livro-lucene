@@ -21,8 +21,11 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
+import net.marcoreis.lucene.fragmentos.UtilBusca;
+
 public class IndexadorWikipedia {
-	private static Logger logger = Logger.getLogger(IndexadorWikipedia.class);
+	private static Logger logger =
+			Logger.getLogger(IndexadorWikipedia.class);
 	private IndexWriter writer;
 	private String diretorioIndice;
 	private int quantidadePaginasIndexadas = 0;
@@ -32,10 +35,13 @@ public class IndexadorWikipedia {
 		try {
 			this.diretorioIndice = diretorioIndice;
 			FileUtils.deleteDirectory(new File(diretorioIndice));
-			logger.info("Diretorio do indice: " + diretorioIndice);
-			Directory d = FSDirectory.open(Paths.get(diretorioIndice));
+			logger.info(
+					"Diretorio do indice: " + diretorioIndice);
+			Directory d =
+					FSDirectory.open(Paths.get(diretorioIndice));
 			Analyzer analyzer = new StandardAnalyzer();
-			IndexWriterConfig config = new IndexWriterConfig(analyzer);
+			IndexWriterConfig config =
+					new IndexWriterConfig(analyzer);
 			//
 			// config.setUseCompoundFile(false);
 			// config.setRAMBufferSizeMB(1024);
@@ -110,10 +116,12 @@ public class IndexadorWikipedia {
 	public static void main(String[] args) throws IOException {
 		String arquivo = "/Users/marcoreis/Docuwments/teste.txt";
 		FileReader fileReader = new FileReader(arquivo);
-		BufferedReader bufferedReader = new BufferedReader(fileReader);
+		BufferedReader bufferedReader =
+				new BufferedReader(fileReader);
 		String linha;
 		while ((linha = bufferedReader.readLine()) != null) {
-			String texto = Normalizer.normalize(linha, Normalizer.Form.NFD);
+			String texto = Normalizer.normalize(linha,
+					Normalizer.Form.NFD);
 			System.out.println(texto);
 		}
 		bufferedReader.close();

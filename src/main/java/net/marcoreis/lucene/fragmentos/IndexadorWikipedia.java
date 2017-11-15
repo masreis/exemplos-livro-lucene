@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_07;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.File;
 import java.nio.file.Paths;
@@ -19,16 +19,21 @@ import org.apache.lucene.store.FSDirectory;
 public class IndexadorWikipedia {
 	private File arquivoWikipedia;
 	private String diretorioSaida;
-	private static Logger logger = Logger.getLogger(IndexadorWikipedia.class);
+	private static Logger logger =
+			Logger.getLogger(IndexadorWikipedia.class);
 
 	public static void main(String[] args) throws Exception {
-		String caminhoWikipedia = "/home/marco/dados/wikipedia/ptwiki-20160801-pages-articles.xml";
-		String diretorioSaida = "/home/marco/livro-lucene/indice-wikipedia";
-		IndexadorWikipedia indexador = new IndexadorWikipedia(caminhoWikipedia, diretorioSaida);
+		String caminhoWikipedia =
+				"/home/marco/dados/wikipedia/ptwiki-20160801-pages-articles.xml";
+		String diretorioSaida =
+				"/home/marco/livro-lucene/indice-wikipedia";
+		IndexadorWikipedia indexador = new IndexadorWikipedia(
+				caminhoWikipedia, diretorioSaida);
 		indexador.indexar();
 	}
 
-	public IndexadorWikipedia(String caminhoWikipedia, String diretorioSaida) {
+	public IndexadorWikipedia(String caminhoWikipedia,
+			String diretorioSaida) {
 		this.arquivoWikipedia = new File(caminhoWikipedia);
 		this.diretorioSaida = diretorioSaida;
 	}
@@ -36,11 +41,14 @@ public class IndexadorWikipedia {
 	public void indexar() throws Exception {
 		long inicio = System.currentTimeMillis();
 		FileUtils.deleteDirectory(new File(diretorioSaida));
-		FSDirectory dir = FSDirectory.open(Paths.get(diretorioSaida));
+		FSDirectory dir =
+				FSDirectory.open(Paths.get(diretorioSaida));
 		StandardAnalyzer analyzer = new StandardAnalyzer();
-		IndexWriterConfig config = new IndexWriterConfig(analyzer);
+		IndexWriterConfig config =
+				new IndexWriterConfig(analyzer);
 		config.setRAMBufferSizeMB(1024);
-		LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
+		LogByteSizeMergePolicy mergePolicy =
+				new LogByteSizeMergePolicy();
 		config.setMergePolicy(mergePolicy);
 
 		// config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
@@ -48,7 +56,8 @@ public class IndexadorWikipedia {
 		//
 		DocMaker docMaker = new DocMaker();
 		Properties properties = new Properties();
-		properties.setProperty("docs.file", arquivoWikipedia.getAbsolutePath());
+		properties.setProperty("docs.file",
+				arquivoWikipedia.getAbsolutePath());
 		properties.setProperty("keep.image.only.docs", "false");
 		Config configMaker = new Config(properties);
 		EnwikiContentSource source = new EnwikiContentSource();
@@ -61,16 +70,18 @@ public class IndexadorWikipedia {
 			indexWriter.addDocument(doc);
 			++countador;
 			if (countador % 100000 == 0) {
-				String msg = "Documentos indexados: " + countador;
+				String msg =
+						"Documentos indexados: " + countador;
 				logger.info(msg);
 			}
-//			String title = doc.get("doctitle");
-//			if (title.contains(":")) {
-//				logger.info(title);
-//			}
+			// String title = doc.get("doctitle");
+			// if (title.contains(":")) {
+			// logger.info(title);
+			// }
 		}
 		long total = System.currentTimeMillis() - inicio;
-		logger.info("Tempo total (minutos): " + (total * 1000) / 60);
+		logger.info(
+				"Tempo total (minutos): " + (total * 1000) / 60);
 		docMaker.close();
 		indexWriter.close();
 		source.close();

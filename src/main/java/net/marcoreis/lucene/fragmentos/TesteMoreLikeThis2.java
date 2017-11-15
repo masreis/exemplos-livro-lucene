@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_07;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.Reader;
 import java.io.StringReader;
@@ -18,11 +18,11 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-public class TesteMoreLikeThis {
+public class TesteMoreLikeThis2 {
 
 	private static String DIRETORIO_INDICE = System.getProperty("user.home")
 			+ "/livro-lucene/indice-capitulo-02-exemplo-01";
-	private static final Logger logger = Logger.getLogger(TesteMoreLikeThis.class);
+	private static final Logger logger = Logger.getLogger(TesteMoreLikeThis2.class);
 
 	public static void main(String[] args) {
 		try {

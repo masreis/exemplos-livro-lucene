@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_wikipedia;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.IOException;
 import java.nio.file.Paths;

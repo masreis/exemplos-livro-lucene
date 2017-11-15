@@ -9,14 +9,14 @@ public class TesteIndexadorArquivosLocais {
 	// private static String DIRETORIO_DOCUMENTOS =
 	// "/home/marco/temp/wiki/1000000/1/1000/";
 	private static String DIRETORIO_DOCUMENTOS =
-			"/home/marco/Dropbox/";
+			"/home/marco/Dropbox/cv";
 	// private static String DIRETORIO_INDICE = System.getProperty(
 	// "user.home") + "/livro-lucene/indice-wiki-100000";
 	// private static String DIRETORIO_DOCUMENTOS =
 	// "/home/marco/Dropbox/Public";
 	private static String DIRETORIO_INDICE =
 			System.getProperty("user.home")
-					+ "/livro-lucene/dropbox";
+					+ "/livro-lucene/cv";
 
 	@Test
 	public void testeIndexacao() {

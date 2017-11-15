@@ -14,10 +14,13 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -26,8 +29,8 @@ import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
 
 public class IndexadorArquivosLocais {
-	private static final Logger logger = Logger
-			.getLogger(IndexadorArquivosLocais.class);
+	private static final Logger logger =
+			Logger.getLogger(IndexadorArquivosLocais.class);
 	protected IndexWriter writer;
 	private Directory diretorio;
 	protected Tika extrator = new Tika();
@@ -45,20 +48,7 @@ public class IndexadorArquivosLocais {
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		// conf.setUseCompoundFile(false);
-		// conf.setRAMBufferSizeMB(1024);
-		// conf.setMaxBufferedDocs(30000);
-		// conf.setRAMBufferSizeMB(IndexWriterConfig.DISABLE_AUTO_FLUSH);
-		// TieredMergePolicy mergePolicy = new TieredMergePolicy();
-		// mergePolicy.setSegmentsPerTier(100);
-		// LogByteSizeMergePolicy mergePolicy = new LogByteSizeMergePolicy();
-		// mergePolicy.setMergeFactor(40);
-		// LogDocMergePolicy mergePolicy = new LogDocMergePolicy();
-		// conf.setMergePolicy(mergePolicy);
-		// conf.setInfoStream(System.out);
-		// conf.setInfoStream(System.out);
 		writer = new IndexWriter(diretorio, conf);
-		// logger.info(conf.toString());
 	}
 
 	public void finalizar() {
@@ -118,12 +108,12 @@ public class IndexadorArquivosLocais {
 	public void indexarArquivo(File arquivo) {
 		try {
 			Document doc = new Document();
-			Date dataModificacao = new Date(
-					arquivo.lastModified());
+			Date dataModificacao =
+					new Date(arquivo.lastModified());
 			String dataParaIndexacao = DateTools.dateToString(
 					dataModificacao, Resolution.DAY);
-			String extensao = consultarExtensaoArquivo(
-					arquivo.getName());
+			String extensao =
+					consultarExtensaoArquivo(arquivo.getName());
 			String textoArquivo = "";
 			//
 			InputStream is = new FileInputStream(arquivo);
@@ -144,6 +134,19 @@ public class IndexadorArquivosLocais {
 				doc.add(new StringField("conteudoNaoAnalisado",
 						textoArquivo, Store.YES));
 			}
+			// END
+			//
+			// BEGIN Implementado no capítulo 7
+			FieldType tipoComPosicoes = new FieldType();
+			tipoComPosicoes.setIndexOptions(
+					IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+			tipoComPosicoes.setStored(true);
+			tipoComPosicoes.setStoreTermVectorOffsets(true);
+			tipoComPosicoes.setStoreTermVectorPayloads(true);
+			tipoComPosicoes.setStoreTermVectorPositions(true);
+			tipoComPosicoes.setStoreTermVectors(true);
+			doc.add(new Field("conteudoComPosicoes",
+					textoArquivo, tipoComPosicoes));
 			// END
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));
@@ -200,7 +203,8 @@ public class IndexadorArquivosLocais {
 
 	public static void main(String[] args) {
 		try {
-			IndexadorArquivosLocais indexador = new IndexadorArquivosLocais();
+			IndexadorArquivosLocais indexador =
+					new IndexadorArquivosLocais();
 			String docDir = System.getProperty("user.home")
 					+ "/Documents";
 			String luceneDir = System.getProperty("user.home")
