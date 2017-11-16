@@ -7,9 +7,10 @@ public class TesteIndexadorArquivosLocais {
 	private static final Logger logger =
 			Logger.getLogger(TesteIndexadorArquivosLocais.class);
 	private static String DIRETORIO_DOCUMENTOS =
-			"/home/marco/Dropbox/cv";
+			"/home/marco/dados/saida-wikipedia/";
 	private static String DIRETORIO_INDICE =
-			System.getProperty("user.home") + "/livro-lucene/cv";
+			System.getProperty("user.home")
+					+ "/livro-lucene/wikipedia";
 
 	@Test
 	public void testeIndexacao() {

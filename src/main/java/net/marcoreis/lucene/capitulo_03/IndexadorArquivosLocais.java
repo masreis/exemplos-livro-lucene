@@ -14,10 +14,13 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -134,16 +137,16 @@ public class IndexadorArquivosLocais {
 			// END
 			//
 			// BEGIN Implementado no capítulo 7
-			// FieldType tipoComPosicoes = new FieldType();
-			// tipoComPosicoes.setIndexOptions(
-			// IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
-			// tipoComPosicoes.setStored(true);
-			// tipoComPosicoes.setStoreTermVectorOffsets(true);
-			// tipoComPosicoes.setStoreTermVectorPayloads(true);
-			// tipoComPosicoes.setStoreTermVectorPositions(true);
-			// tipoComPosicoes.setStoreTermVectors(true);
-			// doc.add(new Field("conteudoComPosicoes",
-			// textoArquivo, tipoComPosicoes));
+			FieldType tipoComPosicoes = new FieldType();
+			tipoComPosicoes.setIndexOptions(
+					IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+			tipoComPosicoes.setStored(true);
+			tipoComPosicoes.setStoreTermVectorOffsets(true);
+			tipoComPosicoes.setStoreTermVectorPayloads(true);
+			tipoComPosicoes.setStoreTermVectorPositions(true);
+			tipoComPosicoes.setStoreTermVectors(true);
+			doc.add(new Field("conteudoComPosicoes",
+					textoArquivo, tipoComPosicoes));
 			// END
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));

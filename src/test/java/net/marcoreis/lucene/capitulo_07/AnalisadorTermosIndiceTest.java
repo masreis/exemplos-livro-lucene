@@ -58,9 +58,27 @@ public class AnalisadorTermosIndiceTest {
 		System.out.println(message);
 	}
 
+	// @Test
+	public void testMostraTermosETotais() throws IOException {
+		String campo = "conteudo";
+		Terms termos = MultiFields.getTerms(reader, campo);
+		TermsEnum iteTermos = termos.iterator();
+		BytesRef next;
+		while ((next = iteTermos.next()) != null) {
+			String palavra = next.utf8ToString();
+			Term termo = new Term("conteudo", palavra);
+			String message = String.format(
+					"%s:%s \nTotal de Ocorrências (TF): %3$d\n"
+							+ "Total de Documentos (DF):%4$d",
+					termo.field(), termo.text(),
+					reader.totalTermFreq(termo),
+					reader.docFreq(termo));
+			System.out.println(message);
+		}
+	}
+
 	@Test
-	public void testAnalisaTermosDocumento()
-			throws IOException {
+	public void testAnalisaTermosDocumento() throws IOException {
 		for (int docId = 0; docId < reader.maxDoc(); docId++) {
 			// Imprime nome do arquivo
 			Document documento = reader.document(docId);
