@@ -23,7 +23,8 @@ import org.junit.Test;
 
 public class AnalisadorTermosIndiceTest {
 	private static String DIRETORIO_INDICE =
-			System.getProperty("user.home") + "/livro-lucene/cv";
+			System.getProperty("user.home")
+					+ "/livro-lucene/cv-com-vetores";
 	private static Directory directory;
 	private static IndexReader reader;
 
@@ -58,7 +59,8 @@ public class AnalisadorTermosIndiceTest {
 	}
 
 	@Test
-	public void testAnalisaTermosDocumento() throws IOException {
+	public void testAnalisaTermosDocumento()
+			throws IOException {
 		for (int docId = 0; docId < reader.maxDoc(); docId++) {
 			// Imprime nome do arquivo
 			Document documento = reader.document(docId);
@@ -70,14 +72,17 @@ public class AnalisadorTermosIndiceTest {
 			Terms vetorTermos =
 					reader.getTermVector(docId, campo);
 			if (vetorTermos == null) {
+				System.err
+						.println("Não há termos no documento.");
 				continue;
 			}
 			TermsEnum termos = vetorTermos.iterator();
-			// Monta um mapa com a quantidade de ocorrências de cada termo
-			// dentro do documento
+			// Monta um mapa com a quantidade de
+			// ocorrências de cada termo dentro do documento
 			Map<String, Integer> frequencias =
 					criaMapaDeTermosEFrequencias(termos);
-			// Imprime a frequência com que cada termo aparece no documento
+			// Imprime a frequência com que
+			// cada termo aparece no documento
 			String conteudo = frequencias.entrySet().stream()
 					.map(e -> e.getKey() + "[" + e.getValue()
 							+ "]\n")
@@ -94,8 +99,8 @@ public class AnalisadorTermosIndiceTest {
 			String termo = bytesRef.utf8ToString();
 			PostingsEnum postingEnum =
 					termos.postings(null, PostingsEnum.FREQS);
-			while (postingEnum
-					.nextDoc() != DocIdSetIterator.NO_MORE_DOCS) {
+			int noMoreDocs = DocIdSetIterator.NO_MORE_DOCS;
+			while (postingEnum.nextDoc() != noMoreDocs) {
 				int freqDocumento = postingEnum.freq();
 				Integer freqMapa = frequencias.get(termo);
 				if (freqMapa == null) {
