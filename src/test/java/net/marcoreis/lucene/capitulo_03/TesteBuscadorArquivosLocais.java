@@ -1,5 +1,7 @@
 package net.marcoreis.lucene.capitulo_03;
 
+import org.junit.Test;
+
 public class TesteBuscadorArquivosLocais {
 
 	// @Test
@@ -10,11 +12,11 @@ public class TesteBuscadorArquivosLocais {
 		buscador.buscar(consulta);
 	}
 
-	// @Test
+	@Test
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(cloud)";
+		String consulta = "conteudo:(java)";
 		buscador.buscar(consulta);
 	}
 }

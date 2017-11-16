@@ -43,27 +43,28 @@
 			<version>${lucene.version}</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.lucene</groupId>
-			<artifactId>lucene-suggest</artifactId>
-			<version>${lucene.version}</version>
-		</dependency>
-
+		<!-- Usado nos exemplos da Wikipedia -->
 		<dependency>
 			<groupId>org.apache.lucene</groupId>
 			<artifactId>lucene-benchmark</artifactId>
 			<version>${lucene.version}</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.lucene</groupId>
-			<artifactId>lucene-misc</artifactId>
-			<version>${lucene.version}</version>
-		</dependency>
+		<!-- <dependency> -->
+		<!-- <groupId>org.apache.lucene</groupId> -->
+		<!-- <artifactId>lucene-suggest</artifactId> -->
+		<!-- <version>${lucene.version}</version> -->
+		<!-- </dependency> -->
 
 		<!-- <dependency> -->
-		<!-- <groupId>org.apache.solr</groupId> -->
-		<!-- <artifactId>solr-solrj</artifactId> -->
+		<!-- <groupId>org.apache.lucene</groupId> -->
+		<!-- <artifactId>lucene-misc</artifactId> -->
+		<!-- <version>${lucene.version}</version> -->
+		<!-- </dependency> -->
+
+		<!-- <dependency> -->
+		<!-- <groupId>org.apache.lucene</groupId> -->
+		<!-- <artifactId>lucene-test-framework</artifactId> -->
 		<!-- <version>${lucene.version}</version> -->
 		<!-- </dependency> -->
 
