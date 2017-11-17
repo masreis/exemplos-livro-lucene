@@ -16,7 +16,7 @@ public class TesteBuscadorArquivosLocais {
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(java)";
+		String consulta = "conteudo:(suggester)";
 		buscador.buscar(consulta);
 	}
 }

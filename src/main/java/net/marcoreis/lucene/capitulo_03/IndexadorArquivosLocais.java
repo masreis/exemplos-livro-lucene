@@ -14,10 +14,13 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
 import org.apache.lucene.document.Field.Store;
+import org.apache.lucene.document.FieldType;
 import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
@@ -40,11 +43,14 @@ public class IndexadorArquivosLocais {
 
 	public void inicializar() throws IOException {
 		if (apagarIndice) {
-			FileUtils.deleteDirectory(new File(diretorioIndice));
+			FileUtils
+					.deleteDirectory(new File(diretorioIndice));
 		}
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
-		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
+		diretorio =
+				FSDirectory.open(Paths.get(diretorioIndice));
+		IndexWriterConfig conf =
+				new IndexWriterConfig(analyzer);
 		writer = new IndexWriter(diretorio, conf);
 	}
 
@@ -174,9 +180,8 @@ public class IndexadorArquivosLocais {
 	protected String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
-			return nome
-					.substring(posicaoDoPonto + 1, nome.length())
-					.toLowerCase();
+			return nome.substring(posicaoDoPonto + 1,
+					nome.length()).toLowerCase();
 		}
 		return "";
 	}
