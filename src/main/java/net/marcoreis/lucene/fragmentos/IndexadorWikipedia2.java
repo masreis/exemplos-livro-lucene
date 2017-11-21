@@ -1,4 +1,4 @@
-package net.marcoreis.lucene.capitulo_wikipedia;
+package net.marcoreis.lucene.fragmentos;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -21,17 +21,15 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
-import net.marcoreis.lucene.fragmentos.UtilBusca;
-
-public class IndexadorWikipedia {
+public class IndexadorWikipedia2 {
 	private static Logger logger =
-			Logger.getLogger(IndexadorWikipedia.class);
+			Logger.getLogger(IndexadorWikipedia2.class);
 	private IndexWriter writer;
 	private String diretorioIndice;
 	private int quantidadePaginasIndexadas = 0;
 	private UtilBusca buscador;
 
-	public IndexadorWikipedia(String diretorioIndice) {
+	public IndexadorWikipedia2(String diretorioIndice) {
 		try {
 			this.diretorioIndice = diretorioIndice;
 			FileUtils.deleteDirectory(new File(diretorioIndice));

@@ -140,16 +140,16 @@ public class IndexadorArquivosLocais {
 			// END
 			//
 			// BEGIN Implementado no capítulo 7
-			// FieldType tipoComPosicoes = new FieldType();
-			// tipoComPosicoes.setIndexOptions(
-			// IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
-			// tipoComPosicoes.setStored(true);
-			// tipoComPosicoes.setStoreTermVectorOffsets(true);
-			// tipoComPosicoes.setStoreTermVectorPayloads(true);
-			// tipoComPosicoes.setStoreTermVectorPositions(true);
-			// tipoComPosicoes.setStoreTermVectors(true);
-			// doc.add(new Field("conteudoComPosicoes",
-			// textoArquivo, tipoComPosicoes));
+			FieldType tipoComPosicoes = new FieldType();
+			tipoComPosicoes.setIndexOptions(
+					IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+			tipoComPosicoes.setStored(true);
+			tipoComPosicoes.setStoreTermVectorOffsets(true);
+			tipoComPosicoes.setStoreTermVectorPayloads(true);
+			tipoComPosicoes.setStoreTermVectorPositions(true);
+			tipoComPosicoes.setStoreTermVectors(true);
+			doc.add(new Field("conteudoComPosicoes",
+					textoArquivo, tipoComPosicoes));
 			// END
 			doc.add(new TextField("conteudo", textoArquivo,
 					Store.YES));
