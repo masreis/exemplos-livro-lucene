@@ -16,11 +16,7 @@ public class TesteBuscadorArquivosLocais {
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-<<<<<<< HEAD
 		String consulta = "conteudo:(projeto)";
-=======
-		String consulta = "conteudo:springjunit4classrunner";
->>>>>>> ee084e13b288dce38f1df37eef67cb13611055b2
 		buscador.buscar(consulta);
 	}
 }
