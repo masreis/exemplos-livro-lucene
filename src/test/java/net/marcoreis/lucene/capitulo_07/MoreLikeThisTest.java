@@ -42,38 +42,32 @@ public class MoreLikeThisTest {
 	}
 
 	@Test
-	public void encontraSimilares() {
-		try {
-			//
-			MoreLikeThis mlt = new MoreLikeThis(reader);
-			mlt.setMinDocFreq(1);
-			mlt.setMinTermFreq(1);
-			mlt.setBoost(true);
-			mlt.setAnalyzer(analyzer);
-			mlt.setFieldNames(new String[] { "conteudo" });
-			String textoBase = "star wars";
-			//
-			Reader reader = new StringReader(textoBase);
-			Query query = mlt.like("conteudo", reader);
-			TopDocs topDocs = searcher.search(query, 900);
-			logger.info("Texto base: " + textoBase);
-			logger.info("Documentos similares ("
-					+ topDocs.totalHits + "):");
-			for (ScoreDoc sd : topDocs.scoreDocs) {
-				Document doc = searcher.doc(sd.doc);
-				String conteudo = doc.get("conteudo");
-				if (!conteudo.toLowerCase()
-						.contains(textoBase)) {
-					logger.info(doc.get("caminho"));
-					if (conteudo.length() > 200) {
-						conteudo = conteudo.substring(0, 200);
-					}
-					logger.info(conteudo);
-					// logger.info(conteudo);
+	public void encontraSimilares() throws IOException {
+		MoreLikeThis mlt = new MoreLikeThis(reader);
+		mlt.setMinDocFreq(1);
+		mlt.setMinTermFreq(1);
+		mlt.setBoost(true);
+		mlt.setAnalyzer(analyzer);
+		mlt.setFieldNames(new String[] { "conteudo" });
+		String textoBase = "star wars";
+		//
+		Reader reader = new StringReader(textoBase);
+		Query query = mlt.like("conteudo", reader);
+		TopDocs topDocs = searcher.search(query, 900);
+		logger.info("Texto base: " + textoBase);
+		logger.info("Documentos similares (" + topDocs.totalHits
+				+ "):");
+		for (ScoreDoc sd : topDocs.scoreDocs) {
+			Document doc = searcher.doc(sd.doc);
+			String conteudo = doc.get("conteudo");
+			if (!conteudo.toLowerCase().contains(textoBase)) {
+				logger.info(doc.get("caminho"));
+				if (conteudo.length() > 200) {
+					conteudo = conteudo.substring(0, 200);
 				}
+				logger.info(conteudo);
+				// logger.info(conteudo);
 			}
-		} catch (Exception e) {
-			e.printStackTrace();
 		}
 	}
 
