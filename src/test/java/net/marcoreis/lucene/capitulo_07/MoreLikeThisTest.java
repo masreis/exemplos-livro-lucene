@@ -17,6 +17,7 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
+import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -39,6 +40,13 @@ public class MoreLikeThisTest {
 		reader = DirectoryReader.open(directory);
 		searcher = new IndexSearcher(reader);
 		analyzer = new StandardAnalyzer();
+	}
+
+	@AfterClass
+	public static void finalizar() throws IOException {
+		directory.close();
+		reader.close();
+		analyzer.close();
 	}
 
 	@Test
@@ -80,8 +88,9 @@ public class MoreLikeThisTest {
 	public void encontraSimilaresWrapper() {
 		String textoBase = "";
 		String campo = "";
-		MoreLikeThisQuery mltq = new MoreLikeThisQuery(textoBase,
-				new String[] { "conteudo" }, analyzer, campo);
+		MoreLikeThisQuery mltq = new MoreLikeThisQuery(
+				textoBase, new String[] { "conteudo" },
+				analyzer, campo);
 
 	}
 }
