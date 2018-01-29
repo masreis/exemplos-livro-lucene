@@ -4,19 +4,19 @@ import org.junit.Test;
 
 public class TesteBuscadorArquivosLocais {
 
-	// @Test
+	@Test
 	public void testeConsultaPorExtensao() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "extensao:pdf";
+		String consulta = "extensao:epub";
 		buscador.buscar(consulta);
 	}
 
-	@Test
+	// @Test
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(projeto)";
+		String consulta = "conteudo:(+spark +map)";
 		buscador.buscar(consulta);
 	}
 }
