@@ -159,7 +159,7 @@ public class IndexadorArquivosLocais {
 					Store.YES));
 			doc.add(new StringField("caminho",
 					arquivo.getAbsolutePath(), Store.YES));
-			doc.add(new StringField("caminhoText",
+			doc.add(new TextField("caminhoText",
 					arquivo.getAbsolutePath(), Store.YES));
 			doc.add(new StringField("extensao", extensao,
 					Store.YES));
