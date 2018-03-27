@@ -20,7 +20,7 @@ public class BuscadorArquivosLocais {
 	// + "/livro-lucene/aulas-para-concursos";
 	private static String DIRETORIO_INDICE =
 			System.getProperty("user.home")
-					+ "/livro-lucene/cv-com-vetores";
+					+ "/livro-lucene/dropbox";
 	private static final Logger logger =
 			Logger.getLogger(BuscadorArquivosLocais.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS =

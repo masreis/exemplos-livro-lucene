@@ -16,7 +16,9 @@ public class TesteBuscadorArquivosLocais {
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(projeto)";
+		String consulta = "conteudo:(+big +data +messaging) "
+				+ "AND extensao:pdf "
+				+ "AND caminho:(home marco Dropbox mestrado state-of-the-art)";
 		buscador.buscar(consulta);
 	}
 }
