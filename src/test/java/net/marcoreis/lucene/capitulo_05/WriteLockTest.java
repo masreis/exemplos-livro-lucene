@@ -13,36 +13,32 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.LockObtainFailedException;
-import org.apache.lucene.store.NIOFSDirectory;
-import org.apache.lucene.store.SimpleFSDirectory;
 import org.junit.Test;
 
-public class TesteWriteLock {
+public class WriteLockTest {
 
 	@Test
-	public void testeWriterDuplo() throws IOException {
+	public void testWriterDuplo() throws IOException {
 		IndexWriter writer = null;
 		IndexWriter segundoWriter = null;
-		String caminho = System.getProperty("java.io.tmpdir")
-				+ "/temp";
-		Directory diretorio = FSDirectory
-				.open(Paths.get(caminho));
+		String caminho =
+				System.getProperty("java.io.tmpdir") + "/temp";
+		Directory diretorio =
+				FSDirectory.open(Paths.get(caminho));
 		Analyzer analyzer = new StandardAnalyzer();
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
-		IndexWriterConfig segundaConf = new IndexWriterConfig(
-				analyzer);
+		IndexWriterConfig segundaConf =
+				new IndexWriterConfig(analyzer);
 		// Tenta abrir o diretório para gravação
 		try {
 			writer = new IndexWriter(diretorio, conf);
-			segundoWriter = new IndexWriter(diretorio,
-					segundaConf);
+			segundoWriter =
+					new IndexWriter(diretorio, segundaConf);
 		} catch (LockObtainFailedException e) {
 			e.printStackTrace();
 		}
 		// Verifica o estado dos writers
 		assertNotNull(writer);
 		assertNull(segundoWriter);
-		// Fecha apenas o que está aberto
-		writer.close();
 	}
 }

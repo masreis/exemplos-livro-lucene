@@ -15,19 +15,26 @@ public class ExemploFieldType {
 	@Test
 	public void criarDocumentoTextField() {
 		Document doc = new Document();
+		TextField campoEndereco = new TextField("endereco",
+				"rua das flores número 13 ", Store.YES);
+		doc.add(campoEndereco);
+		System.out.println("Tipo: " + campoEndereco.fieldType());
+		//
 		StringField campoTelefone = new StringField("telefone",
 				"81194620", Store.YES);
 		doc.add(campoTelefone);
 		System.out.println("Tipo: " + campoTelefone.fieldType());
-		//
-		TextField campoEndereco = new TextField("endereco",
-				"rua 37 sul", Store.YES);
-		doc.add(campoEndereco);
-		System.out.println("Tipo: " + campoEndereco.fieldType());
 	}
 
 	@Test
 	public void criarDocumentoField() {
+		FieldType ftText = new FieldType();
+		ftText.setIndexOptions(
+				IndexOptions.DOCS_AND_FREQS_AND_POSITIONS);
+		ftText.setStored(true);
+		ftText.freeze();
+		System.out.println("Tipo ->" + ftText);
+		//
 		FieldType ftString = new FieldType();
 		ftString.setIndexOptions(IndexOptions.DOCS);
 		ftString.setStored(true);
@@ -36,20 +43,13 @@ public class ExemploFieldType {
 		ftString.freeze();
 		System.out.println("Tipo ->" + ftString);
 		//
-		FieldType ftText = new FieldType();
-		ftText.setIndexOptions(
-				IndexOptions.DOCS_AND_FREQS_AND_POSITIONS);
-		ftText.setStored(true);
-		ftText.freeze();
-		System.out.println("Tipo ->" + ftText);
-		//
 		Document doc = new Document();
-		Field campoTelefone = new Field("telefone", "81194620",
-				ftString);
-		doc.add(campoTelefone);
-		Field campoEndereco = new Field("endereco", "rua 37 sul",
-				ftText);
+		Field campoEndereco = new Field("endereco",
+				"rua das flores número 13", ftText);
 		doc.add(campoEndereco);
+		Field campoTelefone =
+				new Field("telefone", "81194620", ftString);
+		doc.add(campoTelefone);
 	}
 
 	public void criarDocumentoDoubleField() {
@@ -57,17 +57,18 @@ public class ExemploFieldType {
 		TextField campoNome = new TextField("nome",
 				"marco antonio", Store.YES);
 		doc.add(campoNome);
-		DoublePoint campoSalario = new DoublePoint("salario",
-				8000.01);
+		DoublePoint campoSalario =
+				new DoublePoint("salario", 8000.01);
 		doc.add(campoSalario);
 	}
 
 	public void criarDocumentoBoost() {
 		Document doc = new Document();
-		String textoDeUmaNoticia = "Dispositivo portátil de armazenamento"
-				+ " com memória flash e capacidade de 32GB. "
-				+ "Acessório super prático que abe no bolso."
-				+ "Produzido pela Sandisk. ";
+		String textoDeUmaNoticia =
+				"Dispositivo portátil de armazenamento"
+						+ " com memória flash e capacidade de 32GB. "
+						+ "Acessório super prático que abe no bolso."
+						+ "Produzido pela Sandisk. ";
 		TextField campoTitulo = new TextField("titulo",
 				"pen drive 32GB sandisk", Store.YES);
 		TextField campoTextoNoticia = new TextField(

@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class TesteBuscadorArquivosLocais {
 
-//	@Test
+	// @Test
 	public void testeConsultaPorExtensao() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -12,13 +12,17 @@ public class TesteBuscadorArquivosLocais {
 		buscador.buscar(consulta);
 	}
 
-	 @Test
+	@Test
 	public void testeConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(+big +data +messaging) "
-				+ "AND extensao:pdf "
-				+ "AND caminhoText:(/home/marco)";
+		String consulta = "";
+		consulta += "";
+		consulta+="conteudo:(Abordagem Qualitativa Objetivos Pesquisa descritiva)";
+		// consulta += "conteudo:(+data +lake +object +storage) ";
+		// consulta = "conteudo:(+big +data +monitoring)";
+		consulta += "AND extensao:pdf ";
+		consulta += "AND caminhoText:(+home +marco state)";
 		buscador.buscar(consulta);
 	}
 }
