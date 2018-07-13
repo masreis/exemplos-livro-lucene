@@ -40,14 +40,11 @@ public class IndexadorArquivosLocais {
 
 	public void inicializar() throws IOException {
 		if (apagarIndice) {
-			FileUtils
-					.deleteDirectory(new File(diretorioIndice));
+			FileUtils.deleteDirectory(new File(diretorioIndice));
 		}
 		Analyzer analyzer = new StandardAnalyzer();
-		diretorio =
-				FSDirectory.open(Paths.get(diretorioIndice));
-		IndexWriterConfig conf =
-				new IndexWriterConfig(analyzer);
+		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
+		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
 		writer = new IndexWriter(diretorio, conf);
 	}
 
@@ -179,8 +176,9 @@ public class IndexadorArquivosLocais {
 	protected String consultarExtensaoArquivo(String nome) {
 		int posicaoDoPonto = nome.lastIndexOf('.');
 		if (posicaoDoPonto > 1) {
-			return nome.substring(posicaoDoPonto + 1,
-					nome.length()).toLowerCase();
+			return nome
+					.substring(posicaoDoPonto + 1, nome.length())
+					.toLowerCase();
 		}
 		return "";
 	}
