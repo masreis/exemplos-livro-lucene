@@ -13,7 +13,7 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.analysis.util.CharArraySet;
 import org.junit.Test;
 
-public class TesteAnalisadorDeTermos {
+public class AnalisadorDeTermosTest {
 	private String frase = "De origem humilde até a riqueza: "
 			+ "veja 11 bilionários que eram pobres na infância.\n"
 			+ "Trabalho duro e resiliência é a característica comum a todos. "

@@ -14,16 +14,16 @@ import org.apache.lucene.store.Directory;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
-public class TesteIndiceEmMemoria {
+public class IndiceEmMemoriaTest {
 	@Test
-	public void testeEmMemoria()
+	public void testEmMemoria()
 			throws IOException, ParseException {
-		Directory diretorio = new IndiceEmMemoria()
-				.getRamDirectory();
+		Directory diretorio =
+				new IndiceEmMemoria().getRamDirectory();
 		IndexReader reader = DirectoryReader.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(reader);
-		QueryParser parser = new QueryParser("",
-				new StandardAnalyzer());
+		QueryParser parser =
+				new QueryParser("", new StandardAnalyzer());
 		String consulta = "conteudo:alsa";
 		Query query = parser.parse(consulta);
 		TopDocs docs = searcher.search(query, 1);

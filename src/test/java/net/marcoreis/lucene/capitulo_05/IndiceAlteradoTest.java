@@ -18,19 +18,20 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.junit.Test;
 
-public class TesteIndiceAlterado {
-	private static String DIRETORIO_INDICE = System
-			.getProperty("user.home") + "/livro-lucene/indice";
+public class IndiceAlteradoTest {
+	private static String DIRETORIO_INDICE =
+			System.getProperty("user.home")
+					+ "/livro-lucene/indice";
 
 	@Test
-	public void testeIndiceAlterado() throws IOException {
+	public void testIndiceAlterado() throws IOException {
 		// Cria um reader normalmente
-		Directory diretorio = FSDirectory
-				.open(Paths.get(DIRETORIO_INDICE));
+		Directory diretorio =
+				FSDirectory.open(Paths.get(DIRETORIO_INDICE));
 		IndexWriter writer = new IndexWriter(diretorio,
 				new IndexWriterConfig(new StandardAnalyzer()));
-		DirectoryReader readerAnterior = DirectoryReader
-				.open(writer);
+		DirectoryReader readerAnterior =
+				DirectoryReader.open(writer);
 		// Guarda a quantidade de itens
 		int numDocsAnterior = readerAnterior.numDocs();
 		// Abre um reader a partir do anterior

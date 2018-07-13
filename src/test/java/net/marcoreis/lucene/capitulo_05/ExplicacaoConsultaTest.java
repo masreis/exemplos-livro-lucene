@@ -15,19 +15,19 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.junit.Test;
 
-public class TesteExplicacaoConsulta {
-	private static final Logger logger = Logger
-			.getLogger(AnalisadorDeTermos.class);
+public class ExplicacaoConsultaTest {
+	private static final Logger logger =
+			Logger.getLogger(AnalisadorDeTermos.class);
 
 	@Test
-	public void testeExplicacao()
+	public void testExplicacao()
 			throws IOException, ParseException {
-		Directory diretorio = new IndiceEmMemoria()
-				.getRamDirectory();
+		Directory diretorio =
+				new IndiceEmMemoria().getRamDirectory();
 		IndexReader reader = DirectoryReader.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(reader);
-		QueryParser parser = new QueryParser("",
-				new StandardAnalyzer());
+		QueryParser parser =
+				new QueryParser("", new StandardAnalyzer());
 		String consulta = "conteudo:linux";
 		Query query = parser.parse(consulta);
 		TopDocs docs = searcher.search(query, 3);

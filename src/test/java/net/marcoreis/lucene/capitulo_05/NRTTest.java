@@ -21,12 +21,12 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.junit.Test;
 
-public class TesteNRT {
+public class NRTTest {
 	private static String DIRETORIO_INDICE = System
 			.getProperty("user.home") + "/livro-lucene/indice";
 
 	@Test
-	public void testeTempoReal() throws IOException {
+	public void testTempoReal() throws IOException {
 		// Cria um reader normalmente
 		Directory diretorio = FSDirectory
 				.open(Paths.get(DIRETORIO_INDICE));

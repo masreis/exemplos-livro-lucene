@@ -23,12 +23,12 @@ import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class TesteExcluirDocumentoIndice {
-	private static String DIRETORIO_INDICE = System
-			.getProperty("user.home")
-			+ "/livro-lucene/indice";
-	private static final Logger logger = Logger
-			.getLogger(TesteExcluirDocumentoIndice.class);
+public class ExcluirDocumentoIndiceTest {
+	private static String DIRETORIO_INDICE =
+			System.getProperty("user.home")
+					+ "/livro-lucene/indice";
+	private static final Logger logger =
+			Logger.getLogger(ExcluirDocumentoIndiceTest.class);
 	private Analyzer analyzer;
 	private Directory diretorio;
 	private IndexWriterConfig conf;
@@ -37,15 +37,14 @@ public class TesteExcluirDocumentoIndice {
 	@Before
 	public void inicializarWriter() throws IOException {
 		analyzer = new StandardAnalyzer();
-		diretorio = FSDirectory
-				.open(Paths.get((DIRETORIO_INDICE)));
+		diretorio =
+				FSDirectory.open(Paths.get((DIRETORIO_INDICE)));
 		conf = new IndexWriterConfig(analyzer);
 		writer = new IndexWriter(diretorio, conf);
 	}
 
 	@Test
-	public void teste01ExclusaoArquivo()
-			throws IOException {
+	public void test01ExclusaoArquivo() throws IOException {
 		// Termo que define o documento que será excluído
 		Term termoParaExclusao = new Term("caminho",
 				"/home/marco/proposta-reforma.pdf");
@@ -65,11 +64,10 @@ public class TesteExcluirDocumentoIndice {
 
 	private void verificarQuantidadeDocumentos(
 			Term termoParaExclusao) throws IOException {
-		IndexReader reader = DirectoryReader
-				.open(diretorio);
+		IndexReader reader = DirectoryReader.open(diretorio);
 		IndexSearcher searcher = new IndexSearcher(reader);
-		TopDocs docs = searcher.search(
-				new TermQuery(termoParaExclusao), 1);
+		TopDocs docs = searcher
+				.search(new TermQuery(termoParaExclusao), 1);
 		logger.info("Quantidade de documentos encontrados: "
 				+ docs.totalHits);
 		// Verifica se a consulta retorna apenas um documento
@@ -81,8 +79,7 @@ public class TesteExcluirDocumentoIndice {
 		//
 		logger.info("NumDocs: " + reader.numDocs());
 		logger.info("MaxDoc: " + reader.maxDoc());
-		logger.info(
-				"HasDeletions: " + reader.hasDeletions());
+		logger.info("HasDeletions: " + reader.hasDeletions());
 		reader.close();
 	}
 }
