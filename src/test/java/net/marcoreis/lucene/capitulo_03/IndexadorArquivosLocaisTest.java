@@ -3,9 +3,9 @@ package net.marcoreis.lucene.capitulo_03;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 
-public class TesteIndexadorArquivosLocais {
+public class IndexadorArquivosLocaisTest {
 	private static final Logger logger =
-			Logger.getLogger(TesteIndexadorArquivosLocais.class);
+			Logger.getLogger(IndexadorArquivosLocaisTest.class);
 	private static String DIRETORIO_DOCUMENTOS =
 			"/home/marco/Dropbox/";
 	private static String DIRETORIO_INDICE =
@@ -13,7 +13,7 @@ public class TesteIndexadorArquivosLocais {
 					+ "/livro-lucene/dropbox";
 
 	@Test
-	public void testeIndexacao() {
+	public void testIndexacao() {
 		try {
 			IndexadorArquivosLocais indexador =
 					new IndexadorArquivosLocais();

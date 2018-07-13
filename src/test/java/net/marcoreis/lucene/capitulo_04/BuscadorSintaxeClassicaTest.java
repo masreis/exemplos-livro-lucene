@@ -5,12 +5,12 @@ import org.junit.Test;
 
 import net.marcoreis.lucene.capitulo_03.BuscadorArquivosLocais;
 
-public class TesteBuscadorSintaxeClassica {
-	private static final Logger logger = Logger
-			.getLogger(TesteBuscadorSintaxeClassica.class);
+public class BuscadorSintaxeClassicaTest {
+	private static final Logger logger =
+			Logger.getLogger(BuscadorSintaxeClassicaTest.class);
 
 	@Test
-	public void testeConsultaSintaxeClassica() {
+	public void testConsultaSintaxeClassica() {
 		logger.info("Sintaxe clássica");
 		String consulta = "conteudo:java";
 		consulta = "conteudo:java AND data:\"20160606\"";
@@ -19,7 +19,8 @@ public class TesteBuscadorSintaxeClassica {
 		consulta = "conteudo:(java -cdi)";
 		consulta = "conteudo:monitor?";
 		consulta = "conteudo:monitor*";
-		consulta = "conteudo:java AND data:[20160101 TO 20161231]";
+		consulta =
+				"conteudo:java AND data:[20160101 TO 20161231]";
 		consulta = "conteudo:manuel~";
 		consulta = "*:*";
 		consulta = "conteudo:/@<1000-1200>@/";
@@ -27,14 +28,16 @@ public class TesteBuscadorSintaxeClassica {
 		consulta = "conteudo:\"rede social\"";
 		consulta = "conteudo:(nuvem rede^2)";
 		consulta = "conteudo:\"proposta reforma\"~5";
-		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		BuscadorArquivosLocais buscador =
+				new BuscadorArquivosLocais();
 		buscador.buscar(consulta);
 	}
 
-//	 @Test
-	public void testeConsultaRegex() {
+	// @Test
+	public void testConsultaRegex() {
 		logger.info("Regex");
-		BuscadorArquivosLocais buscador = new BuscadorArquivosLocais();
+		BuscadorArquivosLocais buscador =
+				new BuscadorArquivosLocais();
 		String regex = "";
 		regex = "/@abc~def@/"; // complemento
 		regex = "/@[0-9]{4}\\-[0-9]{4}@/"; // telefone

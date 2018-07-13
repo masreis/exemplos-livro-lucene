@@ -21,16 +21,15 @@ import org.apache.lucene.search.spans.SpanNearQuery;
 import org.apache.lucene.search.spans.SpanQuery;
 import org.apache.lucene.search.spans.SpanTermQuery;
 import org.apache.lucene.util.BytesRef;
-import org.junit.Test;
 
 import net.marcoreis.lucene.capitulo_03.BuscadorArquivosLocais;
 
-public class TesteBuscadorAPI {
+public class BuscadorAPITest {
 	private static final Logger logger =
-			Logger.getLogger(TesteBuscadorAPI.class);
+			Logger.getLogger(BuscadorAPITest.class);
 
 	// @Test
-	public void testeTermQuery() {
+	public void testTermQuery() {
 		logger.info("Consulta TermQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -40,7 +39,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeBooleanQueryShould() {
+	public void testBooleanQueryShould() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -53,19 +52,20 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeBooleanQueryMust() {
+	public void testBooleanQueryMust() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Query q1 = new TermQuery(new Term("conteudo", "java"));
 		Query q2 = new TermQuery(new Term("conteudo", "cdi"));
-		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.MUST).add(q2, Occur.MUST).build();
+		BooleanQuery query =
+				new BooleanQuery.Builder().add(q1, Occur.MUST)
+						.add(q2, Occur.MUST).build();
 		buscador.buscar(query);
 	}
 
 	// @Test
-	public void testeBooleanQueryMustNot() {
+	public void testBooleanQueryMustNot() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -78,7 +78,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeBooleanQueryMultiple() {
+	public void testBooleanQueryMultiple() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -92,13 +92,14 @@ public class TesteBuscadorAPI {
 				limiteSuperior, incluirLimiteInferior,
 				incluirLimiteSuperior);
 		//
-		BooleanQuery query = new BooleanQuery.Builder()
-				.add(q1, Occur.MUST).add(q2, Occur.MUST).build();
+		BooleanQuery query =
+				new BooleanQuery.Builder().add(q1, Occur.MUST)
+						.add(q2, Occur.MUST).build();
 		buscador.buscar(query);
 	}
 
 	// @Test
-	public void testePhraseQuery() {
+	public void testPhraseQuery() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -108,7 +109,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testePhraseQuerySlop() {
+	public void testPhraseQuerySlop() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -118,7 +119,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeTermRangeQueryDataInclusive() {
+	public void testTermRangeQueryDataInclusive() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		boolean incluirLimiteInferior = true;
@@ -132,7 +133,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeTermRangeQueryDataExclusive() {
+	public void testTermRangeQueryDataExclusive() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		boolean incluirLimiteInferior = false;
@@ -143,14 +144,14 @@ public class TesteBuscadorAPI {
 				limiteSuperior, incluirLimiteInferior,
 				incluirLimiteSuperior);
 		// Pode ser escrito assim:
-		query = TermRangeQuery.newStringRange("data", "20160101",
-				"20161231", incluirLimiteInferior,
+		query = TermRangeQuery.newStringRange("data",
+				"20160101", "20161231", incluirLimiteInferior,
 				incluirLimiteSuperior);
 		buscador.buscar(query);
 	}
 
 	// @Test
-	public void testePrefirQuery() {
+	public void testPrefirQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "monitor");
@@ -159,7 +160,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeMultiPhraseQuery() {
+	public void testMultiPhraseQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term[] termoJavaPlatform =
@@ -175,7 +176,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeMultiPhraseQuery2() {
+	public void testMultiPhraseQuery2() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term[] termoJavaPlatform =
@@ -194,7 +195,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeWildcarcQuerySingle() {
+	public void testWildcarcQuerySingle() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "monitor?");
@@ -203,7 +204,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeWildcarcQueryMultiple() {
+	public void testWildcarcQueryMultiple() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "monitor*");
@@ -212,7 +213,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeFuzzyQuery() {
+	public void testFuzzyQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "manuel");
@@ -221,7 +222,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeFuzzyQueryTransf() {
+	public void testFuzzyQueryTransf() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "manuel");
@@ -230,7 +231,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeFuzzyQueryPrefix() {
+	public void testFuzzyQueryPrefix() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Term termo = new Term("conteudo", "manuel");
@@ -239,7 +240,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeMatchAllDocsQuery() {
+	public void testMatchAllDocsQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		MatchAllDocsQuery query = new MatchAllDocsQuery();
@@ -247,7 +248,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeLongRangeQuery() {
+	public void testLongRangeQuery() {
 		int _1k = 1024;
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -257,13 +258,14 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeSpanTermQueryOrdenada() {
+	public void testSpanTermQueryOrdenada() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		//
 		Term termoReforma = new Term("conteudo", "proposta");
 		Term termoProposta = new Term("conteudo", "reforma");
-		SpanQuery queryReforma = new SpanTermQuery(termoReforma);
+		SpanQuery queryReforma =
+				new SpanTermQuery(termoReforma);
 		SpanQuery queryProposta =
 				new SpanTermQuery(termoProposta);
 		SpanQuery[] clausulas =
@@ -274,7 +276,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeRegexQuery() {
+	public void testRegexQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		String regex = "@abc~def@"; // complemento
@@ -290,7 +292,7 @@ public class TesteBuscadorAPI {
 	}
 
 	// @Test
-	public void testeBoostQuery() {
+	public void testBoostQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		Query queryNuvem =

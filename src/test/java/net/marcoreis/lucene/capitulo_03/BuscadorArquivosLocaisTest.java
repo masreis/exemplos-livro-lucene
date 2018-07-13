@@ -2,23 +2,25 @@ package net.marcoreis.lucene.capitulo_03;
 
 import org.junit.Test;
 
-public class TesteBuscadorArquivosLocais {
+public class BuscadorArquivosLocaisTest {
 
-//	@Test
-	public void testeConsultaPorExtensao() {
+	// @Test
+	public void testConsultaPorExtensao() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		String consulta = "extensao:epub";
 		buscador.buscar(consulta);
 	}
 
-	 @Test
-	public void testeConsultaPorConteudo() {
+	@Test
+	public void testConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(+big +data +messaging) "
-				+ "AND extensao:pdf "
-				+ "AND caminhoText:(/home/marco)";
+		String consulta =
+				"conteudo:(cloud unb energy ) ";
+		consulta += "AND extensao:pdf ";
+		// consulta +=
+		// "AND caminhoText:(+mestrado +state-of-the-art)";
 		buscador.buscar(consulta);
 	}
 }
