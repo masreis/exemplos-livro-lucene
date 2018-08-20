@@ -60,7 +60,7 @@ public class IndexadorWikipedia2 {
 	private boolean jahIndexado(String id) {
 		try {
 			TopDocs hits = getBuscador().busca("id:" + id);
-			int qtd = hits.totalHits;
+			long qtd = hits.totalHits;
 			return qtd > 0;
 		} catch (Exception e) {
 			return false;

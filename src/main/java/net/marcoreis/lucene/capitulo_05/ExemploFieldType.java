@@ -18,12 +18,14 @@ public class ExemploFieldType {
 		TextField campoEndereco = new TextField("endereco",
 				"rua das flores número 13 ", Store.YES);
 		doc.add(campoEndereco);
-		System.out.println("Tipo: " + campoEndereco.fieldType());
+		System.out
+				.println("Tipo: " + campoEndereco.fieldType());
 		//
 		StringField campoTelefone = new StringField("telefone",
 				"81194620", Store.YES);
 		doc.add(campoTelefone);
-		System.out.println("Tipo: " + campoTelefone.fieldType());
+		System.out
+				.println("Tipo: " + campoTelefone.fieldType());
 	}
 
 	@Test
@@ -62,24 +64,25 @@ public class ExemploFieldType {
 		doc.add(campoSalario);
 	}
 
-	public void criarDocumentoBoost() {
-		Document doc = new Document();
-		String textoDeUmaNoticia =
-				"Dispositivo portátil de armazenamento"
-						+ " com memória flash e capacidade de 32GB. "
-						+ "Acessório super prático que abe no bolso."
-						+ "Produzido pela Sandisk. ";
-		TextField campoTitulo = new TextField("titulo",
-				"pen drive 32GB sandisk", Store.YES);
-		TextField campoTextoNoticia = new TextField(
-				"textoNoticia", textoDeUmaNoticia, Store.YES);
-		if (textoDeUmaNoticia.contains("linux")) {
-			campoTextoNoticia.setBoost(3.0f);
-		} else if (textoDeUmaNoticia.contains("android")) {
-			campoTextoNoticia.setBoost(2.0f);
-		}
-		doc.add(campoTextoNoticia);
-		doc.add(campoTitulo);
-	}
+	// Removido na versão 7
+	// public void criarDocumentoBoost() {
+	// Document doc = new Document();
+	// String textoDeUmaNoticia =
+	// "Dispositivo portátil de armazenamento"
+	// + " com memória flash e capacidade de 32GB. "
+	// + "Acessório super prático que abe no bolso."
+	// + "Produzido pela Sandisk. ";
+	// TextField campoTitulo = new TextField("titulo",
+	// "pen drive 32GB sandisk", Store.YES);
+	// TextField campoTextoNoticia = new TextField(
+	// "textoNoticia", textoDeUmaNoticia, Store.YES);
+	// if (textoDeUmaNoticia.contains("linux")) {
+	// campoTextoNoticia.setBoost(3.0f);
+	// } else if (textoDeUmaNoticia.contains("android")) {
+	// campoTextoNoticia.setBoost(2.0f);
+	// }
+	// doc.add(campoTextoNoticia);
+	// doc.add(campoTitulo);
+	// }
 
 }

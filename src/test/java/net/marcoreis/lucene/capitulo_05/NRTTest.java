@@ -39,7 +39,7 @@ public class NRTTest {
 		TopDocs hits = searcher.search(new MatchAllDocsQuery(),
 				1);
 		// Guarda a quantidade de itens
-		int numDocsAnterior = hits.totalHits;
+		long numDocsAnterior = hits.totalHits;
 		// Adiciona documento e não faz commit
 		writer.addDocument(criaDocumento());
 		writer.addDocument(criaDocumento());
@@ -48,7 +48,7 @@ public class NRTTest {
 				.open(writer);
 		searcher = new IndexSearcher(novoReader);
 		hits = searcher.search(new MatchAllDocsQuery(), 1);
-		int numDocsAtual = hits.totalHits;
+		long numDocsAtual = hits.totalHits;
 		// Verifica se tem um item a mais
 		assertTrue(numDocsAtual == numDocsAnterior + 2);
 		//

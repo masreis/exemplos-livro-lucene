@@ -9,7 +9,7 @@
 		<version.compiler.plugin>2.3.1</version.compiler.plugin>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<lucene.version>6.6.2</lucene.version>
+		<lucene.version>7.4.0</lucene.version>
 	</properties>
 
 	<dependencies>

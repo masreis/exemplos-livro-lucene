@@ -17,8 +17,8 @@ public class IndiceEmMemoria {
 	// Inicializa objetos
 	public IndiceEmMemoria() throws IOException {
 		ramDirectory = new RAMDirectory();
-		IndexWriterConfig conf = new IndexWriterConfig(
-				new StandardAnalyzer());
+		IndexWriterConfig conf =
+				new IndexWriterConfig(new StandardAnalyzer());
 		writer = new IndexWriter(ramDirectory, conf);
 		criarDocumentos();
 		writer.close();
@@ -34,9 +34,12 @@ public class IndiceEmMemoria {
 		getWriter().addDocument(doc);
 		//
 		doc.clear();
-		conteudo = "as versões 0.3 e 0.4 têm vários problemas no linux "
-				+ "devido à reestruturação da interface do mixer "
-				+ "que teve de ser reescrito em função de problemas"
+		conteudo = "as versões 0.3 e 0.4 têm vários "
+				+ "problemas no linux "
+				+ "devido à reestruturação "
+				+ "da interface do mixer "
+				+ "que teve de ser reescrito "
+				+ "em função de problemas"
 				+ "identificados anteriormente no linux";
 		doc.add(new TextField("conteudo", conteudo, Store.YES));
 		getWriter().addDocument(doc);
