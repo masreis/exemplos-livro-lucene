@@ -16,12 +16,12 @@ public class BuscadorArquivosLocaisTest {
 	public void testConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(kafka) ";
+		String consulta = "conteudo:(lambda architecture) ";
 		consulta += "AND extensao:pdf ";
 		// consulta +=
 		// "AND caminhoText:(+mestrado +state-of-the-art)";
-		consulta += "AND extensao:pdf ";
-		consulta += "AND caminhoText:(+home +marco literature)";
+//		consulta += "AND extensao:pdf ";
+//		consulta += "AND caminhoText:(+home +marco literature)";
 		buscador.buscar(consulta);
 	}
 }
