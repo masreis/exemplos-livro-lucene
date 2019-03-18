@@ -33,23 +33,25 @@ public class AnalisadorDeTermosTest {
 		AnalisadorDeTermos.analisarFrase(whiteSpaceAnalyzer,
 				frase);
 		Analyzer keyWordAnalyzer = new KeywordAnalyzer();
-		AnalisadorDeTermos.analisarFrase(keyWordAnalyzer, frase);
+		AnalisadorDeTermos.analisarFrase(keyWordAnalyzer,
+				frase);
 	}
 
 	@Test
 	public void analisarComStopWords() throws IOException {
 		// Cria lista de stop words em português
-		Collection<String> listaDeStopWords = new ArrayList<String>();
+		Collection<String> listaDeStopWords =
+				new ArrayList<String>();
 		listaDeStopWords.add("de");
 		listaDeStopWords.add("até");
 		listaDeStopWords.add("que");
 		listaDeStopWords.add("e");
 		listaDeStopWords.add("a");
-		CharArraySet stopWords = new CharArraySet(
-				listaDeStopWords, true);
+		CharArraySet stopWords =
+				new CharArraySet(listaDeStopWords, true);
 		// Aplica a lista ao StandardAnalyzer
-		Analyzer standardAnalyzer = new StandardAnalyzer(
-				stopWords);
+		Analyzer standardAnalyzer =
+				new StandardAnalyzer(stopWords);
 		AnalisadorDeTermos.analisarFrase(standardAnalyzer,
 				frase);
 	}

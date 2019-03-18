@@ -45,6 +45,7 @@ public class IndexadorArquivosLocais {
 		Analyzer analyzer = new StandardAnalyzer();
 		diretorio = FSDirectory.open(Paths.get(diretorioIndice));
 		IndexWriterConfig conf = new IndexWriterConfig(analyzer);
+		conf.setUseCompoundFile(false);
 		writer = new IndexWriter(diretorio, conf);
 	}
 

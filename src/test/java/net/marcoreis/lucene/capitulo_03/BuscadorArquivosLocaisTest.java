@@ -8,7 +8,7 @@ public class BuscadorArquivosLocaisTest {
 	public void testConsultaPorExtensao() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "extensao:epub";
+		String consulta = "extensao:pdf";
 		buscador.buscar(consulta);
 	}
 
@@ -16,12 +16,12 @@ public class BuscadorArquivosLocaisTest {
 	public void testConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta = "conteudo:(kafka) ";
-		consulta += "AND extensao:pdf ";
+		String consulta = "conteudo:(Application-controlled demand paging for out-of-core visualization) ";
+		// consulta += "AND extensao:pdf ";
 		// consulta +=
 		// "AND caminhoText:(+mestrado +state-of-the-art)";
-		consulta += "AND extensao:pdf ";
-		consulta += "AND caminhoText:(+home +marco literature)";
+		// consulta += "AND extensao:pdf ";
+		// consulta += "AND caminhoText:(+home +marco literature)";
 		buscador.buscar(consulta);
 	}
 }
