@@ -33,7 +33,7 @@ public class BuscadorSintaxeClassicaTest {
 		buscador.buscar(consulta);
 	}
 
-	// @Test
+	@Test
 	public void testConsultaRegex() {
 		logger.info("Regex");
 		BuscadorArquivosLocais buscador =

@@ -17,7 +17,7 @@ public class BuscadorArquivosLocaisTest {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
 		String consulta =
-				"conteudo:(Application-controlled demand paging for out-of-core visualization) ";
+				"conteudo:(\"web service\") ";
 		// consulta += "AND extensao:pdf ";
 		// consulta +=
 		// "AND caminhoText:(+mestrado +state-of-the-art)";

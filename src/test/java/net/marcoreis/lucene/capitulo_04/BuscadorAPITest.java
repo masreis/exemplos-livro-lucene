@@ -21,6 +21,7 @@ import org.apache.lucene.search.spans.SpanNearQuery;
 import org.apache.lucene.search.spans.SpanQuery;
 import org.apache.lucene.search.spans.SpanTermQuery;
 import org.apache.lucene.util.BytesRef;
+import org.junit.Test;
 
 import net.marcoreis.lucene.capitulo_03.BuscadorArquivosLocais;
 
@@ -28,7 +29,19 @@ public class BuscadorAPITest {
 	private static final Logger logger =
 			Logger.getLogger(BuscadorAPITest.class);
 
-	// @Test
+	@Test
+	public void testBooleanQueryMustDate() {
+		BuscadorArquivosLocais buscador =
+				new BuscadorArquivosLocais();
+		Query q1 = new TermQuery(new Term("conteudo", "java"));
+		Query q2 = new TermQuery(new Term("data", "20170523"));
+		BooleanQuery query =
+				new BooleanQuery.Builder().add(q1, Occur.MUST)
+						.add(q2, Occur.MUST).build();
+		buscador.buscar(query);
+	}
+
+	@Test
 	public void testTermQuery() {
 		logger.info("Consulta TermQuery");
 		BuscadorArquivosLocais buscador =
@@ -38,7 +51,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testBooleanQueryShould() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
@@ -51,7 +64,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testBooleanQueryMust() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
@@ -64,7 +77,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testBooleanQueryMustNot() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
@@ -77,7 +90,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testBooleanQueryMultiple() {
 		logger.info("Consulta BooleanQuery");
 		BuscadorArquivosLocais buscador =
@@ -98,7 +111,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testPhraseQuery() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador =
@@ -108,7 +121,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testPhraseQuerySlop() {
 		logger.info("Consulta PhraseQuery");
 		BuscadorArquivosLocais buscador =
@@ -118,7 +131,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testTermRangeQueryDataInclusive() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -150,7 +163,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testPrefirQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -159,7 +172,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testMultiPhraseQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -194,7 +207,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testWildcarcQuerySingle() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -203,7 +216,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testWildcarcQueryMultiple() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -212,7 +225,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testFuzzyQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -221,7 +234,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testFuzzyQueryTransf() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -230,7 +243,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testFuzzyQueryPrefix() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -239,7 +252,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testMatchAllDocsQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -257,7 +270,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testSpanTermQueryOrdenada() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -275,7 +288,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testRegexQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
@@ -291,7 +304,7 @@ public class BuscadorAPITest {
 		buscador.buscar(query);
 	}
 
-	// @Test
+	@Test
 	public void testBoostQuery() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
