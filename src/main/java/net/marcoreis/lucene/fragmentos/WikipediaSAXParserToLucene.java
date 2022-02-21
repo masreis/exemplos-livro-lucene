@@ -7,7 +7,8 @@ import java.util.Map;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
@@ -20,7 +21,7 @@ public class WikipediaSAXParserToLucene extends DefaultHandler {
 	private static String NOME_ARQUIVO_DUMP_WIKIPEDIA =
 			"/home/marco/Downloads/ptwiki-20160720-pages-articles-multistream.xml";
 	private static Logger logger =
-			Logger.getLogger(WikipediaSAXParserToLucene.class);
+			LogManager.getLogger(WikipediaSAXParserToLucene.class);
 	private Map<String, String> pagina;
 	private StringBuilder content = new StringBuilder();
 	private IndexadorWikipedia indexador = null;

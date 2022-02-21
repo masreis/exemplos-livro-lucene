@@ -3,7 +3,8 @@ package net.marcoreis.lucene.fragmentos;
 import java.io.IOException;
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -22,7 +23,7 @@ import org.junit.Test;
 public class IndexadorParaAtualizacao {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home")
 			+ "/livro-lucene/indice-capitulo-02-exemplo-02";
-	private static final Logger logger = Logger.getLogger(IndexadorParaAtualizacao.class);
+	private static final Logger logger = LogManager.getLogger(IndexadorParaAtualizacao.class);
 	private IndexWriter writer;
 
 	@Before

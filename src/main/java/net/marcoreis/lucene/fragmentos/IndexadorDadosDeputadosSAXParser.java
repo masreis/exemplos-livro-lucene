@@ -10,7 +10,8 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -36,7 +37,7 @@ public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
 			+ "/livro-lucene/indice-capitulo-02-exemplo-02";
 	private static InputStream ARQUIVO_DADOS = IndexadorDadosDeputadosSAXParser.class.getClassLoader()
 			.getResourceAsStream("dados/ObterDeputados.xml");
-	private static Logger logger = Logger.getLogger(IndexadorDadosDeputadosSAXParser.class);
+	private static Logger logger = LogManager.getLogger(IndexadorDadosDeputadosSAXParser.class);
 	private StringBuilder content = new StringBuilder();
 	private IndexWriter writer;
 	private Document parlamentar;
@@ -146,7 +147,6 @@ public class IndexadorDadosDeputadosSAXParser extends DefaultHandler {
 			parlamentar.add(comissao);
 			// Para habilitar o highlight temos que armazenar o term vector
 			FieldType ft = new FieldType();
-			// FIXME
 			// ft.setIndexed(true);
 			ft.setStored(true);
 			ft.setTokenized(true);

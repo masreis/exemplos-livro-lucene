@@ -4,13 +4,14 @@ import java.io.IOException;
 import java.io.StringReader;
 import java.util.Iterator;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.util.AttributeImpl;
 
 public class AnalisadorDeTermos {
-	private static final Logger logger = Logger
+	private static final Logger logger = LogManager
 			.getLogger(AnalisadorDeTermos.class);
 
 	public static void analisarFrase(Analyzer analyzer,

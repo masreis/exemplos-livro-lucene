@@ -3,7 +3,8 @@ package net.marcoreis.lucene.fragmentos;
 import java.io.IOException;
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -17,7 +18,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 public class UtilBusca {
-	private static Logger logger = Logger.getLogger(UtilBusca.class);
+	private static Logger logger = LogManager.getLogger(UtilBusca.class);
 	private Directory diretorio;
 	private IndexSearcher buscador;
 	private IndexReader reader;

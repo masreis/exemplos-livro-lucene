@@ -2,7 +2,8 @@ package net.marcoreis.lucene.fragmentos;
 
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -18,7 +19,7 @@ import org.apache.lucene.store.FSDirectory;
 
 public class BuscadorNomes {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice-capitulo-01";
-	private static final Logger logger = Logger.getLogger(BuscadorNomes.class);
+	private static final Logger logger = LogManager.getLogger(BuscadorNomes.class);
 
 	public static void main(String[] args) {
 		BuscadorNomes buscador = new BuscadorNomes();

@@ -5,7 +5,8 @@ import java.nio.file.Paths;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.benchmark.byTask.feeds.DocMaker;
 import org.apache.lucene.benchmark.byTask.feeds.EnwikiContentSource;
@@ -20,7 +21,7 @@ public class IndexadorWikipedia {
 	private File arquivoWikipedia;
 	private String diretorioSaida;
 	private static Logger logger =
-			Logger.getLogger(IndexadorWikipedia.class);
+			LogManager.getLogger(IndexadorWikipedia.class);
 
 	public static void main(String[] args) throws Exception {
 		String caminhoWikipedia =

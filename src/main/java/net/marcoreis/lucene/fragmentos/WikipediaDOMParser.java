@@ -5,7 +5,8 @@ import java.io.File;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
@@ -21,7 +22,7 @@ public class WikipediaDOMParser {
     private static final String PAGE = "page";
     private static final String TITLE = "title";
     private static int paginas = 0;
-    private static Logger logger = Logger.getLogger(WikipediaDOMParser.class);
+    private static Logger logger = LogManager.getLogger(WikipediaDOMParser.class);
 
     public void parse() {
         try {

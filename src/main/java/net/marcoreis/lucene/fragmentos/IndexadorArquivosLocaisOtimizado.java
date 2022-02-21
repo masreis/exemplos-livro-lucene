@@ -6,7 +6,8 @@ import java.io.FileReader;
 import java.io.InputStream;
 import java.util.Date;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.DateTools.Resolution;
 import org.apache.lucene.document.Document;
@@ -20,7 +21,7 @@ import net.marcoreis.lucene.capitulo_03.IndexadorArquivosLocais;
 
 public class IndexadorArquivosLocaisOtimizado
 		extends IndexadorArquivosLocais {
-	private static final Logger logger = Logger
+	private static final Logger logger = LogManager
 			.getLogger(IndexadorArquivosLocaisOtimizado.class);
 	Document doc = new Document();
 	TextField tfConteudo = new TextField("conteudo", "",

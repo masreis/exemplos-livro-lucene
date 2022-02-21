@@ -9,7 +9,8 @@ import java.text.Normalizer;
 import java.util.Map;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -23,7 +24,7 @@ import org.apache.lucene.store.FSDirectory;
 
 public class IndexadorWikipedia2 {
 	private static Logger logger =
-			Logger.getLogger(IndexadorWikipedia2.class);
+			LogManager.getLogger(IndexadorWikipedia2.class);
 	private IndexWriter writer;
 	private String diretorioIndice;
 	private int quantidadePaginasIndexadas = 0;

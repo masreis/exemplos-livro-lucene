@@ -8,7 +8,8 @@ import java.nio.file.Paths;
 import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.DateTools;
@@ -27,7 +28,7 @@ import org.apache.tika.exception.TikaException;
 
 public class IndexadorArquivosLocais {
 	private static final Logger logger =
-			Logger.getLogger(IndexadorArquivosLocais.class);
+			LogManager.getLogger(IndexadorArquivosLocais.class);
 	protected IndexWriter writer;
 	private Directory diretorio;
 	protected Tika extrator = new Tika();

@@ -1,16 +1,17 @@
 package net.marcoreis.lucene.capitulo_03;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Test;
 
 public class IndexadorArquivosLocaisTest {
 	private static final Logger logger =
-			Logger.getLogger(IndexadorArquivosLocaisTest.class);
+			LogManager.getLogger(IndexadorArquivosLocaisTest.class);
 	private static String DIRETORIO_DOCUMENTOS =
-			"/home/marco/Dropbox/";
+			"/home/marco/Dropbox/cv/epam";
 	private static String DIRETORIO_INDICE =
 			System.getProperty("user.home")
-					+ "/livro-lucene/indice-dropbox";
+					+ "/livro-lucene/dropbox-epam";
 
 	@Test
 	public void testIndexacao() {

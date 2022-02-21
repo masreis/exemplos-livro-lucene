@@ -2,7 +2,8 @@ package net.marcoreis.lucene.capitulo_03;
 
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -20,9 +21,9 @@ public class BuscadorArquivosLocais {
 	// + "/livro-lucene/aulas-para-concursos";
 	private static String DIRETORIO_INDICE =
 			System.getProperty("user.home")
-					+ "/livro-lucene/indice-dropbox";
+					+ "/livro-lucene/dropbox-epam";
 	private static final Logger logger =
-			Logger.getLogger(BuscadorArquivosLocais.class);
+			LogManager.getLogger(BuscadorArquivosLocais.class);
 	private static final int QUANTIDADE_DE_ITENS_RETORNADOS =
 			100;
 
@@ -37,7 +38,7 @@ public class BuscadorArquivosLocais {
 			//
 			// Criar e analisar a consulta
 			QueryParser parser =
-					new QueryParser("", new StandardAnalyzer());
+					new QueryParser("background check", new StandardAnalyzer());
 			// parser.setAllowLeadingWildcard(true);
 			// parser.getEnablePositionIncrements();
 			Query query = parser.parse(consulta);

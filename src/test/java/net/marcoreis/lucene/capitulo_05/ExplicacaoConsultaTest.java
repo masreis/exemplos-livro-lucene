@@ -2,7 +2,8 @@ package net.marcoreis.lucene.capitulo_05;
 
 import java.io.IOException;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -17,7 +18,7 @@ import org.junit.Test;
 
 public class ExplicacaoConsultaTest {
 	private static final Logger logger =
-			Logger.getLogger(AnalisadorDeTermos.class);
+			LogManager.getLogger(AnalisadorDeTermos.class);
 
 	@Test
 	public void testExplicacao()

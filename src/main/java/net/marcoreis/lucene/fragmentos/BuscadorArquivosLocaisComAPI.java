@@ -3,7 +3,8 @@ package net.marcoreis.lucene.fragmentos;
 import java.io.IOException;
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -25,7 +26,7 @@ public class BuscadorArquivosLocaisComAPI {
 	// private static String DIRETORIO_INDICE = System.getProperty("user.home")
 	// + "/livro-lucene/indice-capitulo-02-exemplo-01";
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(BuscadorArquivosLocaisComAPI.class);
+	private static final Logger logger = LogManager.getLogger(BuscadorArquivosLocaisComAPI.class);
 	private Directory diretorio;
 	private IndexReader reader;
 	private IndexSearcher searcher;

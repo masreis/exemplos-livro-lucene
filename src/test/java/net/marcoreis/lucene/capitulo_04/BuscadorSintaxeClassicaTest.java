@@ -1,13 +1,14 @@
 package net.marcoreis.lucene.capitulo_04;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Test;
 
 import net.marcoreis.lucene.capitulo_03.BuscadorArquivosLocais;
 
 public class BuscadorSintaxeClassicaTest {
 	private static final Logger logger =
-			Logger.getLogger(BuscadorSintaxeClassicaTest.class);
+			LogManager.getLogger(BuscadorSintaxeClassicaTest.class);
 
 	@Test
 	public void testConsultaSintaxeClassica() {

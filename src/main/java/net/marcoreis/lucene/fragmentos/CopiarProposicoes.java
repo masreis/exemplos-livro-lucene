@@ -13,12 +13,13 @@ import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.xml.sax.SAXException;
 
 public class CopiarProposicoes {
 	private Logger logger =
-			Logger.getLogger(CopiarProposicoes.class);
+			LogManager.getLogger(CopiarProposicoes.class);
 
 	public void gerarXMLProposicoes()
 			throws ClientProtocolException, IOException,

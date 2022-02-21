@@ -16,9 +16,8 @@ public class BuscadorArquivosLocaisTest {
 	public void testConsultaPorConteudo() {
 		BuscadorArquivosLocais buscador =
 				new BuscadorArquivosLocais();
-		String consulta =
-				"conteudo:(\"web service\") ";
-		// consulta += "AND extensao:pdf ";
+		String consulta = "conteudo:(\"check\") ";
+		//consulta += "AND extensao:pdf ";
 		// consulta +=
 		// "AND caminhoText:(+mestrado +state-of-the-art)";
 		// consulta += "AND extensao:pdf ";

@@ -5,7 +5,8 @@ import java.io.Reader;
 import java.io.StringReader;
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -27,7 +28,7 @@ public class MoreLikeThisTest {
 			System.getProperty("user.home")
 					+ "/livro-lucene/wikipedia";
 	private static final Logger logger =
-			Logger.getLogger(MoreLikeThisTest.class);
+			LogManager.getLogger(MoreLikeThisTest.class);
 	private static FSDirectory directory;
 	private static IndexReader reader;
 	private static IndexSearcher searcher;

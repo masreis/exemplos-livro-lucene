@@ -2,7 +2,8 @@ package net.marcoreis.lucene.fragmentos;
 
 import java.nio.file.Paths;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
@@ -23,7 +24,7 @@ import org.apache.lucene.store.FSDirectory;
 
 public class HighlighterTeste {
 	private static String DIRETORIO_INDICE = System.getProperty("user.home") + "/livro-lucene/indice";
-	private static final Logger logger = Logger.getLogger(HighlighterTeste.class);
+	private static final Logger logger = LogManager.getLogger(HighlighterTeste.class);
 
 	public static void main(String[] args) {
 		HighlighterTeste realcador = new HighlighterTeste();

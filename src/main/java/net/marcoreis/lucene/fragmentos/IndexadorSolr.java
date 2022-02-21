@@ -14,7 +14,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.tika.Tika;
 
 import com.google.gson.JsonObject;
@@ -24,7 +25,7 @@ public class IndexadorSolr {
     private static final String APPLICATION_XML = "application/XML";
     private static String diretorioDocumentosLocais = System
 	    .getProperty("user.home") + "/Dropbox/";
-    private static final Logger logger = Logger.getLogger(IndexadorSolr.class);
+    private static final Logger logger = LogManager.getLogger(IndexadorSolr.class);
     private Tika extrator = new Tika();
 
     public static void main(String[] args) {

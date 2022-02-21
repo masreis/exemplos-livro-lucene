@@ -10,7 +10,8 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -31,7 +32,7 @@ public class IndexadorProposicoesCamaraSAXParser extends DefaultHandler {
 			+ "/livro-lucene/indice-capitulo-03-exemplo-01";
 	private static URL DIRETORIO_DADOS = IndexadorProposicoesCamaraSAXParser.class.getClassLoader()
 			.getResource("dados/proposicoes");
-	private static Logger logger = Logger.getLogger(IndexadorProposicoesCamaraSAXParser.class);
+	private static Logger logger = LogManager.getLogger(IndexadorProposicoesCamaraSAXParser.class);
 	private StringBuilder content = new StringBuilder();
 	private IndexWriter writer;
 	private Document proposicao;
